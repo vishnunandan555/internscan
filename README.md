@@ -13,12 +13,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-11 05:48:56 IST** · 📌 **15** open internships
+> 🕐 Last updated: **2026-10-12 06:11:21 IST** · 📌 **16** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (15)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (16)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -55,7 +55,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | [Microsoft](#microsoft) | **3** |
 | MongoDB | — |
 | Morgan Stanley | — |
-| [NVIDIA](#nvidia) | **1** |
+| [NVIDIA](#nvidia) | **2** |
 | Netflix | — |
 | Nokia | — |
 | Oracle | — |
@@ -158,6 +158,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1) ✨ | Backend/Infra | Pune | 2026-10-12 | 2026-10-12 |
 | [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-09-01 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
