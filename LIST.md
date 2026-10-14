@@ -1,16 +1,17 @@
 # Companies List
 
-> 🕐 Last updated: **2026-10-14 05:57:37 IST**
+> 🕐 Last updated: **2026-10-14 10:48:30 IST**
 
 A quick reference list of companies tracked by the scraper and their latest status.
 
-## Scraped Companies (56)
+## Scraped Companies (59)
 
 - AMD
 - Accenture
 - Adobe
 - Amazon
 - Apple
+- Autodesk
 - Barclays
 - Bloomberg
 - Broadcom (VMware)
@@ -42,10 +43,12 @@ A quick reference list of companies tracked by the scraper and their latest stat
 - NVIDIA
 - Netflix
 - Nokia
+- Okta
 - Oracle
 - Palo Alto Networks
 - PayPal
 - PhonePe
+- Pure Storage
 - Qualcomm
 - Razorpay
 - Red Hat
@@ -95,7 +98,7 @@ A quick reference list of companies tracked by the scraper and their latest stat
 - **SAP** — *SuccessFactors career site requires authenticated recruiter operators; no public search API*
 - **Siemens** — *careers site runs on Avature global portal without public JSON search API; requires interactive session*
 - **Spotify** — *limited tech/engineering presence in India; student hiring primarily US/EU/UK*
-- **Target** — *US retail company with no India engineering center; scraper returns 0 India listings across 300+ postings*
+- **Target** — *careers site uses Radancy custom portal; student tech hiring for Target India (Manyata Tech Park, Bengaluru) is routed via campus drives & target.com/careers/students*
 - **Tata Consultancy Services** — *student tech hiring conducted exclusively through TCS NextStep / National Qualifier Test (NQT) campus portal*
 - **Tesla** — *careers site sits behind Akamai bot protection returning 403 to non-browser clients*
 - **Uber** — *careers search API sits behind Cloudflare bot protection returning 403 to non-browser clients; needs headless browser*

@@ -7,7 +7,12 @@ from typing import List, Optional
 # Matches internship-style roles while treating underscores, hyphens and boundaries properly,
 # without false-positive matching on "internal"/"international".
 INTERN_RE = re.compile(
-    r"(?<![a-zA-Z])(intern|interns|internship|internships|co[- ]?op)(?![a-zA-Z])",
+    r"(?<![a-zA-Z])("
+    r"intern|interns|internship|internships|co[- ]?op|"
+    r"apprentice|apprentices|apprenticeship|"
+    r"student\s+trainee|working\s+student|project\s+trainee|"
+    r"graduate\s+engineer\s+trainee|\bget\b"
+    r")(?![a-zA-Z])",
     re.IGNORECASE,
 )
 

@@ -51,6 +51,17 @@ class TestModels(unittest.TestCase):
             with self.subTest(val=val):
                 self.assertEqual(as_date(val), expected)
 
+    def test_is_internship(self):
+        from scraper.models import is_internship
+        self.assertTrue(is_internship("Software Engineering Intern"))
+        self.assertTrue(is_internship("Graduate Apprentice 2026"))
+        self.assertTrue(is_internship("Technical Apprentice - Software"))
+        self.assertTrue(is_internship("Student Trainee - AI/ML"))
+        self.assertTrue(is_internship("Project Trainee"))
+        self.assertTrue(is_internship("Graduate Engineer Trainee"))
+        self.assertFalse(is_internship("Internal Software Engineer"))
+        self.assertFalse(is_internship("International Sales Director"))
+
 
 if __name__ == "__main__":
     unittest.main()

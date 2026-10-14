@@ -62,7 +62,7 @@ UNSUPPORTED = {
     # Other Notable
     "ByteDance": "job-search API rejects requests without browser client signature; needs headless browser",
     "LinkedIn": "careers site only links to linkedin.com/jobs, which is authwalled and prohibits automated scraping",
-    "Target": "US retail company with no India engineering center; scraper returns 0 India listings across 300+ postings",
+    "Target": "careers site uses Radancy custom portal; student tech hiring for Target India (Manyata Tech Park, Bengaluru) is routed via campus drives & target.com/careers/students",
     "Tesla": "careers site sits behind Akamai bot protection returning 403 to non-browser clients",
     "Spotify": "limited tech/engineering presence in India; student hiring primarily US/EU/UK",
 }
@@ -179,6 +179,11 @@ COMPANIES: List[CompanyConfig] = [
     {"name": "Elastic", "fetch": greenhouse.fetch, "token": "elastic"},
     {"name": "GitLab", "fetch": greenhouse.fetch, "token": "gitlab"},
     {"name": "Twilio", "fetch": greenhouse.fetch, "token": "twilio"},
+    {"name": "Okta", "fetch": greenhouse.fetch, "token": "okta"},
+    {"name": "Pure Storage", "fetch": greenhouse.fetch, "token": "purestorage"},
+    {"name": "Autodesk", "fetch": workday.fetch,
+     "host": "autodesk.wd1.myworkdayjobs.com", "site": "Ext",
+     "search_text": "intern"},
 ]
 
 # Validation: ensure every registry entry has the minimum required keys
