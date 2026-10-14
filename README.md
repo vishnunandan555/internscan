@@ -13,7 +13,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-13 08:10:47 IST** · 📌 **16** open internships
+> 🕐 Last updated: **2026-10-14 05:57:37 IST** · 📌 **16** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
