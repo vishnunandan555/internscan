@@ -65,6 +65,8 @@ jobs:
           SCRAPER_WORKERS: ${{ github.event.inputs.workers }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SERP_API_KEY: ${{ secrets.SERP_API_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: python -m scraper.main
 
       - name: Commit and push changes

@@ -112,8 +112,8 @@ def _fmt_locations(locations, limit=2):
 
 
 def render(state):
-    from .companies import COMPANIES, UNSUPPORTED
-    tracked = [c["name"] for c in COMPANIES]
+    from .companies import get_companies, UNSUPPORTED
+    tracked = [c["name"] for c in get_companies()]
     jobs = [j for j in state["jobs"].values() if j.get("active", True)]
     updated = state.get("updated_at") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     cutoff = (datetime.now(timezone.utc) - timedelta(days=NEW_BADGE_DAYS)).strftime("%Y-%m-%d")

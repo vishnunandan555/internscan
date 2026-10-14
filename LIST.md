@@ -1,6 +1,6 @@
 # Companies List
 
-> 🕐 Last updated: **2026-10-14 11:35:54 IST**
+> 🕐 Last updated: **2026-10-14 11:39:05 IST**
 
 A quick reference list of companies tracked by the scraper and their latest status.
 
@@ -71,7 +71,17 @@ A quick reference list of companies tracked by the scraper and their latest stat
 
 *None*
 
-## Unsupported Companies (32)
+## Bot-Protected Companies (Google Jobs Fallback) (5)
+
+> Integration Status: **Standby (Requires SERP_API_KEY / RAPIDAPI_KEY in environment)**
+
+- **Atlassian** — *Indexed via Google Jobs / JSearch fallback adapter*
+- **Flipkart** — *Indexed via Google Jobs / JSearch fallback adapter*
+- **HP** — *Indexed via Google Jobs / JSearch fallback adapter*
+- **SAP** — *Indexed via Google Jobs / JSearch fallback adapter*
+- **Uber** — *Indexed via Google Jobs / JSearch fallback adapter*
+
+## Unsupported / Campus-Only Companies (32)
 
 - **ASML** — *has no software engineering/R&D center in India (field service only in Gujarat); portal is custom Next.js without public CXS API*
 - **American Express** — *careers site sits behind Akamai bot defense returning 403 to automated clients*

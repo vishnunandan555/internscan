@@ -2,7 +2,7 @@
 import os
 from datetime import datetime, timedelta, timezone
 from typing import Dict, Iterable, Optional
-from .companies import COMPANIES, UNSUPPORTED
+from .companies import COMPANIES, FALLBACK_COMPANIES, UNSUPPORTED, has_fallback_keys
 
 LIST_PATHS = [
     os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "LIST.md")),
@@ -66,7 +66,14 @@ def render_list(
     lines.append("\n")
 
     unsupported_items = sorted(UNSUPPORTED.items())
-    lines.append(f"## Unsupported Companies ({len(unsupported_items)})\n\n")
+    lines.append(f"## Bot-Protected Companies (Google Jobs Fallback) ({len(FALLBACK_COMPANIES)})\n\n")
+    status_note = "Active" if has_fallback_keys() else "Standby (Requires SERP_API_KEY / RAPIDAPI_KEY in environment)"
+    lines.append(f"> Integration Status: **{status_note}**\n\n")
+    for c in sorted(FALLBACK_COMPANIES, key=lambda x: x["name"]):
+        lines.append(f"- **{c['name']}** — *Indexed via Google Jobs / JSearch fallback adapter*\n")
+    lines.append("\n")
+
+    lines.append(f"## Unsupported / Campus-Only Companies ({len(unsupported_items)})\n\n")
     for name, reason in unsupported_items:
         lines.append(f"- **{name}** — *{reason}*\n")
     lines.append("\n")
