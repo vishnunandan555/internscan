@@ -1,10 +1,10 @@
 # Companies List
 
-> 🕐 Last updated: **2026-10-14 10:48:30 IST**
+> 🕐 Last updated: **2026-10-14 11:35:54 IST**
 
 A quick reference list of companies tracked by the scraper and their latest status.
 
-## Scraped Companies (59)
+## Scraped Companies (60)
 
 - AMD
 - Accenture
@@ -58,6 +58,7 @@ A quick reference list of companies tracked by the scraper and their latest stat
 - Snowflake
 - Stripe
 - Swiggy
+- Target
 - Twilio
 - Visa
 - Walmart Global Tech
@@ -70,12 +71,12 @@ A quick reference list of companies tracked by the scraper and their latest stat
 
 *None*
 
-## Unsupported Companies (33)
+## Unsupported Companies (32)
 
 - **ASML** — *has no software engineering/R&D center in India (field service only in Gujarat); portal is custom Next.js without public CXS API*
 - **American Express** — *careers site sits behind Akamai bot defense returning 403 to automated clients*
 - **Arm** — *early careers portal (earlycareers-arm.icims.com) requires authenticated candidate login*
-- **Atlassian** — *careers site uses iCIMS iframe portal without public search API; student hiring routed via campus and early-career portal*
+- **Atlassian** — *careers site uses iCIMS iframe portal; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured*
 - **BrowserStack** — *uses closed ATS without public search API; routes student hiring via campus & aggregators*
 - **ByteDance** — *job-search API rejects requests without browser client signature; needs headless browser*
 - **Chargebee** — *uses closed ATS without public search API; routes student hiring via campus & aggregators*
@@ -83,9 +84,9 @@ A quick reference list of companies tracked by the scraper and their latest stat
 - **Deloitte** — *South Asia career portal runs on closed SAP SuccessFactors infrastructure; routes graduate hiring via campus*
 - **Dream11** — *uses Dream Sports proprietary careers portal without public search API*
 - **Faveo** — *careers site runs on Zoho Recruit India portal without open unauthenticated REST API*
-- **Flipkart** — *careers site sits behind enterprise bot defense and routes student hiring via campus visits & Flipkart GRiD*
+- **Flipkart** — *careers site sits behind enterprise bot defense; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured*
 - **Goldman Sachs** — *campus & internship portal (tal.net) requires interactive SSO / browser session*
-- **HP** — *careers portal sits behind Cloudflare bot protection returning 403 to non-browser clients*
+- **HP** — *careers portal sits behind Cloudflare bot protection; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured*
 - **HSBC** — *careers site (mycareer.hsbc.com) runs on Avature CRM without open unauthenticated REST search API*
 - **HashiCorp** — *acquired by IBM; public Greenhouse board retired, jobs folded into IBM internal recruitment portal*
 - **Infosys** — *student tech hiring conducted exclusively through InfyTQ / Springboard campus portal*
@@ -95,13 +96,12 @@ A quick reference list of companies tracked by the scraper and their latest stat
 - **Myntra** — *careers portal (jobs.myntra.com) is a compiled Flutter web application without public search API; hires via campus & HackerRamp*
 - **Nykaa** — *careers portal sits behind bot protection returning 403; internal Darwinbox portal lacks public candidate search REST API*
 - **Postman** — *retired public Greenhouse board; careers site runs custom Next.js frontend without public search API*
-- **SAP** — *SuccessFactors career site requires authenticated recruiter operators; no public search API*
+- **SAP** — *SuccessFactors career site requires authenticated recruiter operators; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured*
 - **Siemens** — *careers site runs on Avature global portal without public JSON search API; requires interactive session*
 - **Spotify** — *limited tech/engineering presence in India; student hiring primarily US/EU/UK*
-- **Target** — *careers site uses Radancy custom portal; student tech hiring for Target India (Manyata Tech Park, Bengaluru) is routed via campus drives & target.com/careers/students*
 - **Tata Consultancy Services** — *student tech hiring conducted exclusively through TCS NextStep / National Qualifier Test (NQT) campus portal*
 - **Tesla** — *careers site sits behind Akamai bot protection returning 403 to non-browser clients*
-- **Uber** — *careers search API sits behind Cloudflare bot protection returning 403 to non-browser clients; needs headless browser*
+- **Uber** — *careers search API sits behind Cloudflare bot defense; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured*
 - **Zepto** — *uses TalentRecruit proprietary portal without public search API; hires via campus & portal forms*
 - **Zerodha** — *no external ATS; engineering openings posted ad-hoc via static page (zerodha.com/careers) and email*
 - **Zoho** — *uses Zoho Recruit proprietary portal without public job search API*

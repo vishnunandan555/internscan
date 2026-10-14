@@ -1,5 +1,5 @@
 /**
- * InternTrack India — Application Logic
+ * InternScan India — Application Logic (v2.0.0)
  * Modular, clean, performant client-side state and UI renderer.
  */
 

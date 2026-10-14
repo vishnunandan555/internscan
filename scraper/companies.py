@@ -3,6 +3,7 @@
 Every entry: display name + adapter fetch function + adapter config.
 Focuses on FAANG, top global MNC tech centers in India, and top Indian product startups/unicorns.
 """
+import os
 from typing import Any, Callable, List, Optional, TypedDict
 
 from .adapters import (
@@ -21,19 +22,20 @@ from .adapters import (
     oracle_hcm,
     phenom,
     qualcomm,
+    serp_jobs,
     smartrecruiters,
     workday,
 )
 
-# Companies we can't scrape via public JSON APIs, and why.
+# Companies we can't scrape via public direct JSON APIs, and why.
 UNSUPPORTED = {
     # Tier A
-    "Atlassian": "careers site uses iCIMS iframe portal without public search API; student hiring routed via campus and early-career portal",
+    "Atlassian": "careers site uses iCIMS iframe portal; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured",
     # Tier B
     "BrowserStack": "uses closed ATS without public search API; routes student hiring via campus & aggregators",
     "Chargebee": "uses closed ATS without public search API; routes student hiring via campus & aggregators",
     "Dream11": "uses Dream Sports proprietary careers portal without public search API",
-    "Flipkart": "careers site sits behind enterprise bot defense and routes student hiring via campus visits & Flipkart GRiD",
+    "Flipkart": "careers site sits behind enterprise bot defense; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured",
     "Juspay": "no external ATS; hires student interns exclusively via campus challenges (Unstop/HackerEarth) and direct email",
     "Myntra": "careers portal (jobs.myntra.com) is a compiled Flutter web application without public search API; hires via campus & HackerRamp",
     "Nykaa": "careers portal sits behind bot protection returning 403; internal Darwinbox portal lacks public candidate search REST API",
@@ -45,12 +47,12 @@ UNSUPPORTED = {
     "Arm": "early careers portal (earlycareers-arm.icims.com) requires authenticated candidate login",
     "ASML": "has no software engineering/R&D center in India (field service only in Gujarat); portal is custom Next.js without public CXS API",
     "HashiCorp": "acquired by IBM; public Greenhouse board retired, jobs folded into IBM internal recruitment portal",
-    "HP": "careers portal sits behind Cloudflare bot protection returning 403 to non-browser clients",
+    "HP": "careers portal sits behind Cloudflare bot protection; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured",
     "Intuit": "careers portal sits behind Radancy search without open public REST API",
-    "SAP": "SuccessFactors career site requires authenticated recruiter operators; no public search API",
+    "SAP": "SuccessFactors career site requires authenticated recruiter operators; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured",
     "Siemens": "careers site runs on Avature global portal without public JSON search API; requires interactive session",
     "Faveo": "careers site runs on Zoho Recruit India portal without open unauthenticated REST API",
-    "Uber": "careers search API sits behind Cloudflare bot protection returning 403 to non-browser clients; needs headless browser",
+    "Uber": "careers search API sits behind Cloudflare bot defense; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured",
     # Tier D
     "American Express": "careers site sits behind Akamai bot defense returning 403 to automated clients",
     "D. E. Shaw": "campus-only hiring program for Indian engineering colleges (IIT/BITS/NIT)",
@@ -62,7 +64,6 @@ UNSUPPORTED = {
     # Other Notable
     "ByteDance": "job-search API rejects requests without browser client signature; needs headless browser",
     "LinkedIn": "careers site only links to linkedin.com/jobs, which is authwalled and prohibits automated scraping",
-    "Target": "careers site uses Radancy custom portal; student tech hiring for Target India (Manyata Tech Park, Bengaluru) is routed via campus drives & target.com/careers/students",
     "Tesla": "careers site sits behind Akamai bot protection returning 403 to non-browser clients",
     "Spotify": "limited tech/engineering presence in India; student hiring primarily US/EU/UK",
 }
@@ -116,6 +117,10 @@ COMPANIES: List[CompanyConfig] = [
     {"name": "Zomato", "fetch": smartrecruiters.fetch, "company": "Zomato1"},
 
     # --- Tier C: Global Tech MNCs & India Engineering Centers / GCCs --------
+    {"name": "Target", "fetch": workday.fetch,
+     "host": "target.wd5.myworkdayjobs.com", "site": "targetcareers",
+     "search_text": "",
+     "applied_facets": {"Location_Country": ["c4f78be1a8f14da0ab49ce1162348a5e"]}},
     {"name": "Walmart Global Tech", "fetch": workday.fetch,
      "host": "walmart.wd504.myworkdayjobs.com", "site": "WalmartExternal"},
     {"name": "Dell Technologies", "fetch": oracle_hcm.fetch,
@@ -186,12 +191,42 @@ COMPANIES: List[CompanyConfig] = [
      "search_text": "intern"},
 ]
 
+# --- Category B: Bot-Protected Companies (Google Jobs / JSearch Fallback) ----
+# These companies sit behind Cloudflare Turnstile, Akamai, or closed iframe ATSs
+# that block direct automated HTTP requests. When SERP_API_KEY or RAPIDAPI_KEY is
+# configured in the environment, they are automatically fetched via Google Jobs index.
+FALLBACK_COMPANIES: List[CompanyConfig] = [
+    {"name": "Uber", "fetch": serp_jobs.fetch, "query": "Uber software engineer intern India"},
+    {"name": "Flipkart", "fetch": serp_jobs.fetch, "query": "Flipkart software engineer intern India"},
+    {"name": "SAP", "fetch": serp_jobs.fetch, "query": "SAP software engineer intern India"},
+    {"name": "HP", "fetch": serp_jobs.fetch, "query": "HP software engineer intern India"},
+    {"name": "Atlassian", "fetch": serp_jobs.fetch, "query": "Atlassian software engineer intern India"},
+]
+
 # Validation: ensure every registry entry has the minimum required keys
 _REQUIRED_KEYS = {"name", "fetch"}
-for _entry in COMPANIES:
+for _entry in COMPANIES + FALLBACK_COMPANIES:
     _missing = _REQUIRED_KEYS - set(_entry.keys())
     if _missing:
         raise ValueError(
             f"Invalid company config for '{_entry.get('name', 'UNKNOWN')}': missing required keys {_missing}"
         )
+
+
+def has_fallback_keys() -> bool:
+    """Check if Google Jobs / SERP API fallback keys are configured."""
+    return bool(os.environ.get("SERP_API_KEY") or os.environ.get("RAPIDAPI_KEY"))
+
+
+def get_companies() -> List[CompanyConfig]:
+    """Returns the active list of companies to scrape in a standard run.
+    If SERP_API_KEY or RAPIDAPI_KEY is set, includes bot-protected fallbacks."""
+    if has_fallback_keys():
+        return COMPANIES + FALLBACK_COMPANIES
+    return list(COMPANIES)
+
+
+def get_all_known_companies() -> List[CompanyConfig]:
+    """Returns all configured companies including direct ATS and bot-protected fallbacks."""
+    return COMPANIES + FALLBACK_COMPANIES
 

@@ -1,6 +1,6 @@
-# 🛠️ System Architecture & Developer Guide
+# 🛠️ InternScan India — System Architecture & Developer Guide (v2.0.0)
 
-Welcome to the complete technical guide for the **India Tech Internships Tracker**.
+Welcome to the complete technical guide for **InternScan India**.
 
 This document explains the internal architecture, scraper engine, CLI commands, ATS auto-detection, and how to add new companies or integrate external search APIs.
 
@@ -319,7 +319,7 @@ python3 -m scraper.main -c <company_name> --dry-run
 
 ## 11. Telegram Bot & Public API Integration
 
-InternTrack India provides automated notifications and public developer APIs.
+InternScan India provides automated notifications and public developer APIs.
 
 - **Telegram Bot (`bot/`):** Lightweight (< 35 MB RAM) self-hostable bot with auto-broadcast and `/latest`, `/active`, `/status` commands. See **[bot/README.md](bot/README.md)**.
 - **Developer REST APIs:** `api/latest.json` (daily new jobs) and `api/active.json` (all verified active jobs).

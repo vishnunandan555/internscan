@@ -1,18 +1,17 @@
 <a id="top"></a>
-# 🇮🇳 Software Engineering & Tech Internship Tracker — India
+# 🇮🇳 InternScan India — Software Engineering & Tech Internship Tracker
 
-Auto-updated list of **open tech & software-engineering internships in India** —
+Auto-updated directory of verified **tech & software-engineering internships in India** —
 AI/ML, Data, Full-Stack, Backend, Frontend, Mobile, QA/SDET, and Security roles — at
-56 top tech companies, GCCs, and high-growth Indian unicorns. Scraped directly
+60 top tech companies, GCCs, and high-growth Indian unicorns. Scraped directly
 from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
-[![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-InternTrack_India-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/interntrack-india/)
+[![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-InternScan_India-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/interntrack-india/)
+[![Version](https://img.shields.io/badge/Version-v2.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/vishnunandan555/interntrack-india/releases)
 [![Telegram Bot Guide](https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](bot/README.md)
 [![Public API](https://img.shields.io/badge/Public_API-REST_&_RSS-10b981?style=for-the-badge&logo=fastapi&logoColor=white)](#-public-api--telegram-bot-integration)
-[![Tracked Companies](https://img.shields.io/badge/Tracked_Companies-55_Active-2563eb?style=for-the-badge&logo=airplay&logoColor=white)](LIST.md)
+[![Tracked Companies](https://img.shields.io/badge/Tracked_Companies-59_Active-2563eb?style=for-the-badge&logo=airplay&logoColor=white)](LIST.md)
 [![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
-[![Roadmap](https://img.shields.io/badge/Roadmap-ROADMAP.md-7c3aed?style=for-the-badge&logo=target&logoColor=white)](ROADMAP.md)
-[![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
 > 🕐 Last updated: **2026-10-14 05:57:37 IST** · 📌 **16** open internships
@@ -29,6 +28,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Adobe | — |
 | Amazon | — |
 | Apple | — |
+| Autodesk | — |
 | Barclays | — |
 | Bloomberg | — |
 | Broadcom (VMware) | — |
@@ -60,10 +60,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | [NVIDIA](#nvidia) | **2** |
 | Netflix | — |
 | Nokia | — |
+| Okta | — |
 | Oracle | — |
 | Palo Alto Networks | — |
 | PayPal | — |
 | PhonePe | — |
+| Pure Storage | — |
 | [Qualcomm](#qualcomm) | **2** |
 | Razorpay | — |
 | Red Hat | — |
@@ -73,6 +75,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Snowflake | — |
 | [Stripe](#stripe) | **1** |
 | Swiggy | — |
+| Target | — |
 | Twilio | — |
 | Visa | — |
 | [Walmart Global Tech](#walmart-global-tech) | **1** |
@@ -83,7 +86,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | ASML | *has no software engineering/R&D center in India (field service only in Gujarat); portal is custom Next.js without public CXS API* |
 | American Express | *careers site sits behind Akamai bot defense returning 403 to automated clients* |
 | Arm | *early careers portal (earlycareers-arm.icims.com) requires authenticated candidate login* |
-| Atlassian | *careers site uses iCIMS iframe portal without public search API; student hiring routed via campus and early-career portal* |
+| Atlassian | *careers site uses iCIMS iframe portal; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured* |
 | BrowserStack | *uses closed ATS without public search API; routes student hiring via campus & aggregators* |
 | ByteDance | *job-search API rejects requests without browser client signature; needs headless browser* |
 | Chargebee | *uses closed ATS without public search API; routes student hiring via campus & aggregators* |
@@ -91,9 +94,9 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Deloitte | *South Asia career portal runs on closed SAP SuccessFactors infrastructure; routes graduate hiring via campus* |
 | Dream11 | *uses Dream Sports proprietary careers portal without public search API* |
 | Faveo | *careers site runs on Zoho Recruit India portal without open unauthenticated REST API* |
-| Flipkart | *careers site sits behind enterprise bot defense and routes student hiring via campus visits & Flipkart GRiD* |
+| Flipkart | *careers site sits behind enterprise bot defense; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured* |
 | Goldman Sachs | *campus & internship portal (tal.net) requires interactive SSO / browser session* |
-| HP | *careers portal sits behind Cloudflare bot protection returning 403 to non-browser clients* |
+| HP | *careers portal sits behind Cloudflare bot protection; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured* |
 | HSBC | *careers site (mycareer.hsbc.com) runs on Avature CRM without open unauthenticated REST search API* |
 | HashiCorp | *acquired by IBM; public Greenhouse board retired, jobs folded into IBM internal recruitment portal* |
 | Infosys | *student tech hiring conducted exclusively through InfyTQ / Springboard campus portal* |
@@ -103,13 +106,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Myntra | *careers portal (jobs.myntra.com) is a compiled Flutter web application without public search API; hires via campus & HackerRamp* |
 | Nykaa | *careers portal sits behind bot protection returning 403; internal Darwinbox portal lacks public candidate search REST API* |
 | Postman | *retired public Greenhouse board; careers site runs custom Next.js frontend without public search API* |
-| SAP | *SuccessFactors career site requires authenticated recruiter operators; no public search API* |
+| SAP | *SuccessFactors career site requires authenticated recruiter operators; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured* |
 | Siemens | *careers site runs on Avature global portal without public JSON search API; requires interactive session* |
 | Spotify | *limited tech/engineering presence in India; student hiring primarily US/EU/UK* |
-| Target | *US retail company with no India engineering center; scraper returns 0 India listings across 300+ postings* |
 | Tata Consultancy Services | *student tech hiring conducted exclusively through TCS NextStep / National Qualifier Test (NQT) campus portal* |
 | Tesla | *careers site sits behind Akamai bot protection returning 403 to non-browser clients* |
-| Uber | *careers search API sits behind Cloudflare bot protection returning 403 to non-browser clients; needs headless browser* |
+| Uber | *careers search API sits behind Cloudflare bot defense; indexed via Google Jobs fallback when SERP_API_KEY or RAPIDAPI_KEY is configured* |
 | Zepto | *uses TalentRecruit proprietary portal without public search API; hires via campus & portal forms* |
 | Zerodha | *no external ATS; engineering openings posted ad-hoc via static page (zerodha.com/careers) and email* |
 | Zoho | *uses Zoho Recruit proprietary portal without public job search API* |
@@ -204,7 +206,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 ## 🤖 Public API & Telegram Bot Integration
 
-InternTrack India provides **free, open, high-speed developer APIs** and a **ready-to-deploy Telegram Bot** (< 35 MB RAM) to easily automate internship notifications for campus clubs, placement groups, and personal channels.
+InternScan India provides **free, open, high-speed developer APIs** and a **ready-to-deploy Telegram Bot** (< 35 MB RAM) to easily automate internship notifications for campus clubs, placement groups, and personal channels.
 
 ### 1. Ready-to-Deploy Telegram Bot (`bot/`)
 

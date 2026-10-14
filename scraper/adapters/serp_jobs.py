@@ -113,4 +113,5 @@ def fetch(cfg):
         return fetch_serpapi(company, query)
     if os.environ.get("RAPIDAPI_KEY"):
         return fetch_rapidapi(company, query)
-    raise ValueError("Neither SERP_API_KEY nor RAPIDAPI_KEY was found in environment.")
+    raise ValueError(f"{company} requires SERP_API_KEY or RAPIDAPI_KEY in environment to fetch via Google Jobs fallback.")
+

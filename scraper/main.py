@@ -22,7 +22,14 @@ import time
 
 from . import __version__, api, ci, display, store, telegram
 from .categories import categorize
-from .companies import COMPANIES, UNSUPPORTED
+from .companies import (
+    COMPANIES,
+    FALLBACK_COMPANIES,
+    UNSUPPORTED,
+    get_all_known_companies,
+    get_companies,
+    has_fallback_keys,
+)
 from .http import close_thread_session, get_session, set_thread_timeout
 from .logger import ScrapeLogger
 from .regions import get_city_tag, is_india_job
@@ -73,15 +80,16 @@ def _scrape_single_company(cfg, keyword=None):
 def run(only_companies=None, keyword=None, dry_run=False, workers=8):
     """Run concurrent scraping across target companies."""
     # Filter target companies
+    all_known = get_all_known_companies()
     if only_companies:
         norm_targets = {c.strip().lower() for c in only_companies}
-        targets = [c for c in COMPANIES if c["name"].lower() in norm_targets]
+        targets = [c for c in all_known if c["name"].lower() in norm_targets]
         if not targets:
             print(display.red(f"Error: No configured company matched {only_companies}."))
             print(display.dim("Use --list to see all supported company names."))
             return 1
     else:
-        targets = COMPANIES
+        targets = get_companies()
 
     print(display.bold(f"\n🚀 Launching scraper for {len(targets)} companies ({workers} worker threads)..."))
     if dry_run:
@@ -149,7 +157,7 @@ def run(only_companies=None, keyword=None, dry_run=False, workers=8):
     render(state)
 
     # Maintain cumulative health across full and partial runs
-    all_configured = {c["name"] for c in COMPANIES}
+    all_configured = {c["name"] for c in targets}
     prev_succeeded = all_configured.copy()
     prev_failed = {}
     if os.path.exists(HEALTH_PATH):
@@ -279,12 +287,18 @@ def main():
         return 0
 
     if args.list:
-        print(display.bold(f"\nConfigured Scrapers ({len(COMPANIES)} companies):"))
+        print(display.bold(f"\n⚡ Direct ATS Scrapers ({len(COMPANIES)} companies):"))
         for c in sorted(COMPANIES, key=lambda x: x["name"]):
             padded = f"{c['name']:<24}"
             print(f"  • {display.bold(padded)} (adapter: {c['fetch'].__module__.split('.')[-1]})")
 
-        print(display.bold(f"\nDocumented Unsupported Companies ({len(UNSUPPORTED)} companies):"))
+        fallback_status = "ENABLED (Key Active)" if has_fallback_keys() else "STANDBY (Set SERP_API_KEY/RAPIDAPI_KEY)"
+        print(display.bold(f"\n🛡️ Bot-Protected Scrapers ({len(FALLBACK_COMPANIES)} companies — {fallback_status}):"))
+        for c in sorted(FALLBACK_COMPANIES, key=lambda x: x["name"]):
+            padded = f"{c['name']:<24}"
+            print(f"  • {display.bold(padded)} (adapter: Google Jobs fallback)")
+
+        print(display.bold(f"\n📋 Documented Unsupported / Campus-Only ({len(UNSUPPORTED)} companies):"))
         for name, reason in sorted(UNSUPPORTED.items()):
             print(f"  {display.status_skip(name, reason)}")
         print()
