@@ -68,6 +68,11 @@ The system is designed with strict separation of concerns:
 - **`scraper/regions.py`**: Strict India location classifier with city tagging (Bengaluru, Hyderabad, Pune, Delhi-NCR, Chennai, Mumbai).
 - **`scraper/store.py`**: State management, deduplication, and diff engine (`added`, `closed`, `reopened`).
 - **`scraper/display.py`**: ANSI color terminal dashboard with execution timings and diagnostics.
+- **`docs/`**: Production web application portal (served via GitHub Pages):
+  - **`docs/index.html`**: Clean semantic HTML markup, SEO metadata, controls dock, and accessible layout.
+  - **`docs/css/style.css`**: Modern responsive styling, theme variables, glassmorphic UI, and mobile breakpoints.
+  - **`docs/js/app.js`**: Frontend client logic: real-time search, multi-filter pipeline, saved jobs, and view mode toggling.
+  - **`docs/jobs.json`**: Auto-synced active listings database consumed by the web app.
 
 ---
 

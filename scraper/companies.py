@@ -9,7 +9,6 @@ from .adapters import (
     amazon,
     amd,
     apple,
-    ashby,
     bloomberg,
     eightfold,
     github_careers,
