@@ -28,15 +28,18 @@ try:
 except ImportError:
     pass
 
+BOT_VERSION = "2.0.0"
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 CHANNEL_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
-API_LATEST_URL = os.environ.get(
-    "INTERNTRACK_API_URL",
-    "https://vishnunandan555.github.io/interntrack-india/api/latest.json",
+API_LATEST_URL = (
+    os.environ.get("INTERNSCAN_API_URL")
+    or os.environ.get("INTERNTRACK_API_URL")
+    or "https://vishnunandan555.github.io/interntrack-india/api/latest.json"
 ).strip()
-API_ACTIVE_URL = os.environ.get(
-    "INTERNTRACK_ACTIVE_URL",
-    "https://vishnunandan555.github.io/interntrack-india/api/active.json",
+API_ACTIVE_URL = (
+    os.environ.get("INTERNSCAN_ACTIVE_URL")
+    or os.environ.get("INTERNTRACK_ACTIVE_URL")
+    or "https://vishnunandan555.github.io/interntrack-india/api/active.json"
 ).strip()
 
 POLL_INTERVAL_SECONDS = int(os.environ.get("POLL_INTERVAL_SECONDS", "1800"))  # Default 30 mins
@@ -48,7 +51,7 @@ START_TIME = time.time()
 
 def http_get(url: str, timeout: int = 15) -> Optional[dict]:
     """Fetch JSON from a remote URL using standard urllib (zero dependencies)."""
-    headers = {"User-Agent": "InternTrackIndia-TelegramBot/1.0"}
+    headers = {"User-Agent": f"InternScan-Bot/{BOT_VERSION}"}
     req = urllib.request.Request(url, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -114,7 +117,7 @@ def format_job_card(job: dict, is_reopened: bool = False) -> str:
         lines.append(f"👉 <a href=\"{html.escape(url)}\"><b>Apply on Official Portal &rarr;</b></a>")
 
     lines.append("")
-    lines.append("<i>Verified by InternTrack India · Official ATS Sync</i>")
+    lines.append("<i>Verified by InternScan India · Official ATS Sync</i>")
     return "\n".join(lines)
 
 
@@ -196,9 +199,9 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
 
     if cmd in ("/start", "/help"):
         reply = (
-            "👋 <b>Welcome to InternTrack India Bot!</b>\n\n"
+            f"👋 <b>Welcome to InternScan India Bot! (v{BOT_VERSION})</b>\n\n"
             "I track 100% verified software engineering, AI/ML, systems, and tech "
-            "internships across 55+ tech giants and GCCs in India direct from official career portals.\n\n"
+            "internships across 59+ tech giants and GCCs in India direct from official career portals.\n\n"
             "<b>Available Commands:</b>\n"
             "• /latest - View the newest internships from today's sync\n"
             "• /active - Overview of currently active openings & categories\n"
@@ -211,7 +214,7 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
     elif cmd == "/latest":
         data = http_get(API_LATEST_URL)
         if not data:
-            send_message(chat_id, "⚠️ Unable to reach the InternTrack API right now. Please try again shortly.", reply_to=msg_id)
+            send_message(chat_id, "⚠️ Unable to reach the InternScan API right now. Please try again shortly.", reply_to=msg_id)
             return
 
         new_jobs = data.get("new_jobs", [])
@@ -234,7 +237,7 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
     elif cmd == "/active":
         data = http_get(API_ACTIVE_URL)
         if not data:
-            send_message(chat_id, "⚠️ Unable to reach the InternTrack API right now.", reply_to=msg_id)
+            send_message(chat_id, "⚠️ Unable to reach the InternScan API right now.", reply_to=msg_id)
             return
 
         jobs = data.get("jobs", [])
@@ -248,7 +251,7 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
         cat_lines = "\n".join([f"  • <b>{c}:</b> {n} openings" for c, n in sorted(categories.items(), key=lambda x: -x[1])[:6]])
 
         reply = (
-            f"📊 <b>InternTrack India — Active Openings</b>\n\n"
+            f"📊 <b>InternScan India — Active Openings</b>\n\n"
             f"🎯 <b>Total Verified Positions:</b> {total}\n"
             f"🕒 <b>Last Updated:</b> {data.get('updated_at', 'Today')}\n\n"
             f"<b>Top Categories:</b>\n{cat_lines}\n\n"
@@ -274,12 +277,12 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
             pass
 
         reply = (
-            "🟢 <b>InternTrack Bot Status: ONLINE</b>\n\n"
+            f"🟢 <b>InternScan Bot Status: ONLINE (v{BOT_VERSION})</b>\n\n"
             f"⏱️ <b>Bot Uptime:</b> <code>{uptime_str}</code>\n"
             f"🧠 <b>RAM Usage:</b> <code>{mem_mb}</code> (Runs on &lt;35MB nodes!)\n"
             f"📡 <b>Target Channel:</b> <code>{CHANNEL_ID or 'Not Set'}</code>\n"
             f"🔄 <b>Poll Cadence:</b> Every {POLL_INTERVAL_SECONDS // 60} minutes\n"
-            f"🚀 <b>Tracking 55+ Tech Employers</b>"
+            f"🚀 <b>Tracking 59+ Tech Employers</b>"
         )
         send_message(chat_id, reply, reply_to=msg_id)
 
@@ -287,7 +290,7 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
 def run_bot():
     """Main event loop combining long-polling for commands and timer for broadcasts."""
     print("=" * 60)
-    print("🤖 InternTrack India Telegram Bot Starting...")
+    print(f"🤖 InternScan India Telegram Bot (v{BOT_VERSION}) Starting...")
     print(f"📡 API Endpoint : {API_LATEST_URL}")
     print(f"📢 Broadcast To : {CHANNEL_ID or 'Disabled (Set TELEGRAM_CHAT_ID)'}")
     print(f"⏱️ Poll Cadence : Every {POLL_INTERVAL_SECONDS}s")

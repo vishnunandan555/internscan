@@ -161,17 +161,78 @@ async function loadJobs() {
   }
 }
 
-function updateHubCounts() {
-  const counts = { all: allJobs.length };
-  allJobs.forEach(j => {
-    const hub = j.city_tag || "";
-    counts[hub] = (counts[hub] || 0) + 1;
-  });
+// Hub Keyword Patterns for Intelligent Multi-City Matching
+const HUB_PATTERNS = {
+  "Bengaluru": /\b(bengaluru|bangalore|blr)\b/i,
+  "Hyderabad": /\b(hyderabad|secunderabad|cyberabad|hyd)\b/i,
+  "Pune": /\b(pune|pun)\b/i,
+  "Delhi-NCR": /\b(delhi|gurugram|gurgaon|noida|ncr|ggn)\b/i,
+  "Chennai": /\b(chennai|madras|maa)\b/i,
+  "Mumbai": /\b(mumbai|bombay|bom|navi mumbai|thane)\b/i,
+  "Remote": /\b(remote\s*[-–—]?\s*india|india\s*[-–—]?\s*remote|work\s*from\s*home|wfh|anywhere in india)\b/i,
+  "Other": /\b(multiple|other|pan[- ]?india|all india)\b/i,
+};
 
+function isJobRemote(j) {
+  const locText = [j.city_tag || "", ...(j.locations || []), j.title || ""].join(" ");
+  return (
+    j.city_tag === "Remote (India)" ||
+    HUB_PATTERNS["Remote"].test(locText) ||
+    (/\bremote\b/i.test(locText) && !/\b(hybrid|on-?site|in-?office)\b/i.test(locText))
+  );
+}
+
+function jobMatchesHub(j, hub) {
+  if (!hub || hub === "all") return true;
+
+  if (hub === "Remote" || hub === "Remote (India)") {
+    return isJobRemote(j);
+  }
+
+  const locText = [j.city_tag || "", ...(j.locations || [])].join(" ");
+
+  if (hub === "Other" || hub === "Other / Multi-city" || hub === "India (Multiple/Other)") {
+    return HUB_PATTERNS["Other"].test(locText) || j.city_tag === "India (Multiple/Other)";
+  }
+
+  const pattern = HUB_PATTERNS[hub];
+  if (pattern && pattern.test(locText)) {
+    return true;
+  }
+  return j.city_tag === hub;
+}
+
+function formatLocationDisplay(j) {
+  if (isJobRemote(j)) return "Remote (India)";
+  const locs = j.locations || [];
+  const text = (j.city_tag || "") + " " + locs.join(" ");
+  if (/multiple/i.test(text) || j.city_tag === "India (Multiple/Other)") {
+    return "Multiple Locations";
+  }
+
+  const detected = [];
+  for (const h of ["Bengaluru", "Hyderabad", "Pune", "Delhi-NCR", "Chennai", "Mumbai"]) {
+    if (HUB_PATTERNS[h].test(text)) detected.push(h);
+  }
+
+  if (detected.length > 0) {
+    if (detected.length <= 2) return detected.join(", ");
+    return `${detected[0]}, ${detected[1]} (+${detected.length - 2})`;
+  }
+
+  return j.city_tag || locs[0] || "India";
+}
+
+function updateHubCounts() {
   document.querySelectorAll(".hub-btn").forEach(btn => {
     const hub = btn.dataset.hub;
-    const badge = btn.querySelector(".badge");
-    if (badge) badge.textContent = counts[hub] || 0;
+    const badge = btn.querySelector(".count, .badge");
+    if (!badge) return;
+    if (hub === "all") {
+      badge.textContent = allJobs.length;
+    } else {
+      badge.textContent = allJobs.filter(j => jobMatchesHub(j, hub)).length;
+    }
   });
 }
 
@@ -184,7 +245,7 @@ function updateCategoryCounts() {
 
   document.querySelectorAll("#category-pills .filter-pill").forEach(pill => {
     const cat = pill.dataset.cat;
-    const badge = pill.querySelector(".pill-count");
+    const badge = pill.querySelector(".cat-count, .pill-count");
     if (badge && cat !== "all") {
       const num = counts[cat] || 0;
       badge.textContent = num > 0 ? num : "";
@@ -225,7 +286,7 @@ function filterAndSortJobs() {
       const hay = `${j.title} ${j.company} ${j.category || ""} ${j.city_tag || ""} ${(j.locations || []).join(" ")}`.toLowerCase();
       if (!hay.includes(q)) return false;
     }
-    if (state.hub !== "all" && j.city_tag !== state.hub) return false;
+    if (state.hub && state.hub !== "all" && !jobMatchesHub(j, state.hub)) return false;
     if (state.company !== "all" && j.company !== state.company) return false;
     if (state.category !== "all" && j.category !== state.category) return false;
     if (state.newOnly && !j.isNew) return false;
@@ -272,7 +333,7 @@ function renderJobs() {
 function renderCardsView(filtered, container) {
   container.innerHTML = `<div class="job-grid-cards">${filtered.map(j => {
     const isSaved = savedKeys.includes(j.uid);
-    const loc = j.city_tag || (j.locations && j.locations[0]) || "India";
+    const loc = formatLocationDisplay(j);
     const date = formatRelativeDate(j.posted || j.first_seen);
     const catClass = j.category === "AI/ML" ? "cat-ai" : (j.category === "Hardware/Silicon" ? "cat-hw" : "");
 
@@ -320,7 +381,7 @@ function renderCompactView(filtered, container) {
     </div>
     ${filtered.map(j => {
       const isSaved = savedKeys.includes(j.uid);
-      const loc = j.city_tag || (j.locations && j.locations[0]) || "India";
+      const loc = formatLocationDisplay(j);
       const date = formatRelativeDate(j.posted || j.first_seen);
 
       return `<div class="compact-row">

@@ -12,6 +12,8 @@ import json
 import os
 from typing import Dict, List, Optional
 
+from . import __version__
+
 DOCS_DIR = os.path.join(os.path.dirname(__file__), "..", "docs")
 API_DIR = os.path.join(DOCS_DIR, "api")
 FEED_PATH = os.path.join(DOCS_DIR, "feed.xml")
@@ -60,6 +62,7 @@ def generate_apis(
     with open(ACTIVE_API_PATH, "w", encoding="utf-8") as fh:
         json.dump(
             {
+                "version": __version__,
                 "updated_at": updated_at,
                 "total_active": len(cleaned_active),
                 "jobs": cleaned_active,
@@ -84,6 +87,7 @@ def generate_apis(
     with open(LATEST_API_PATH, "w", encoding="utf-8") as fh:
         json.dump(
             {
+                "version": __version__,
                 "updated_at": updated_at,
                 "new_count": len(cleaned_new),
                 "reopened_count": len(cleaned_reopened),
@@ -147,9 +151,9 @@ def _generate_rss_feed(active_jobs: List[dict], updated_at: str) -> None:
     feed_content = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>InternTrack India — Tech &amp; Software Internships</title>
+    <title>InternScan India — Tech &amp; Software Internships</title>
     <link>{SITE_URL}</link>
-    <description>Live, verified software engineering, AI/ML, data, and systems internships across 55+ tech employers in India.</description>
+    <description>Live, verified software engineering, AI/ML, data, and systems internships across 59+ tech employers in India.</description>
     <language>en-in</language>
     <lastBuildDate>{pub_date_str}</lastBuildDate>
     <atom:link href="{SITE_URL}feed.xml" rel="self" type="application/rss+xml"/>

@@ -47,7 +47,7 @@ def format_job_message(job: dict, is_reopened: bool = False) -> str:
         lines.append(f"👉 <a href=\"{html.escape(url)}\"><b>Apply directly on Career Portal &rarr;</b></a>")
 
     lines.append("")
-    lines.append("<i>Verified by InternTrack India · Official ATS Sync</i>")
+    lines.append("<i>Verified by InternScan India · Official ATS Sync</i>")
     return "\n".join(lines)
 
 

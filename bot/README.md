@@ -1,4 +1,4 @@
-# 🤖 InternTrack India — Telegram Bot & Hosting Guide
+# 🤖 InternScan India — Telegram Bot & Hosting Guide (v2.0.0)
 
 A resilient, ultra-lightweight Telegram Bot engineered to run 24/7 on minimal cloud nodes (**< 35 MB RAM**, requiring less than 15% of a 256 MB ₹10/month server).
 
@@ -6,7 +6,7 @@ A resilient, ultra-lightweight Telegram Bot engineered to run 24/7 on minimal cl
 
 ## Features
 
-- 📢 **Auto-Broadcaster:** Automatically checks the [InternTrack India Public API](https://vishnunandan555.github.io/interntrack-india/api/latest.json) and posts clean, formatted cards into your Telegram Channel or Group the moment a new internship drops.
+- 📢 **Auto-Broadcaster:** Automatically checks the [InternScan India Public API](https://vishnunandan555.github.io/interntrack-india/api/latest.json) and posts clean, formatted cards into your Telegram Channel or Group the moment a new internship drops.
 - 💬 **Interactive Commands:**
   - `/latest` — Immediate real-time list of newly verified internships.
   - `/active` — Overview of currently active openings and top domain categories.
@@ -73,7 +73,7 @@ python3 main.py
 You should see:
 ```text
 ============================================================
-🤖 InternTrack India Telegram Bot Starting...
+🤖 InternScan India Telegram Bot (v2.0.0) Starting...
 📡 API Endpoint : https://vishnunandan555.github.io/interntrack-india/api/latest.json
 📢 Broadcast To : @my_internships_hub
 ⏱️ Poll Cadence : Every 1800s
@@ -135,11 +135,11 @@ python3 main.py
 | `TELEGRAM_BOT_TOKEN` | **Yes** | — | Bot token provided by `@BotFather`. |
 | `TELEGRAM_CHAT_ID` | Optional | — | Channel `@username` or group/chat ID for auto-broadcasts. If omitted, only interactive commands (`/latest`) will respond. |
 | `POLL_INTERVAL_SECONDS` | No | `1800` | How often to poll the public API (in seconds). Default: 30 minutes. |
-| `INTERNTRACK_API_URL` | No | Official API | Remote URL for `api/latest.json`. |
-| `INTERNTRACK_ACTIVE_URL` | No | Official API | Remote URL for `api/active.json`. |
+| `INTERNSCAN_API_URL` | No | Official API | Remote URL for `api/latest.json`. |
+| `INTERNSCAN_ACTIVE_URL` | No | Official API | Remote URL for `api/active.json`. |
 
 ---
 
 ## License
 
-MIT © [Vishnu Nandan](https://github.com/vishnunandan555) · Part of the [InternTrack India](https://github.com/vishnunandan555/interntrack-india) project.
+MIT © [Vishnu Nandan](https://github.com/vishnunandan555) · Part of the [InternScan India](https://github.com/vishnunandan555/interntrack-india) project.

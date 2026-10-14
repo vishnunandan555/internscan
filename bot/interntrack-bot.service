@@ -1,5 +1,5 @@
 [Unit]
-Description=InternTrack India Telegram Bot Service
+Description=InternScan India Telegram Bot Service
 After=network.target
 
 [Service]

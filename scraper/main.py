@@ -1,11 +1,12 @@
-"""High-speed concurrent orchestrator for the India Tech Internships Tracker.
+"""InternScan India — High-speed concurrent orchestrator for verified tech internships.
 
 Usage:
-    python -m scraper.main                     # Scrape all 40 companies concurrently (8 threads)
+    python -m scraper.main                     # Scrape all companies concurrently (8 threads)
     python -m scraper.main -c qualcomm         # Scrape a single company
     python -m scraper.main -c "amd,phonepe"    # Scrape specific companies
     python -m scraper.main --dry-run           # Preview listings without writing to disk
     python -m scraper.main -k "hardware"       # Filter for hardware/specific roles
+    python -m scraper.main --version           # Show current version
     python -m scraper.main --list              # List all configured & unsupported companies
 """
 import argparse
@@ -19,7 +20,7 @@ import shutil
 import sys
 import time
 
-from . import api, ci, display, store, telegram
+from . import __version__, api, ci, display, store, telegram
 from .categories import categorize
 from .companies import COMPANIES, UNSUPPORTED
 from .http import close_thread_session, get_session, set_thread_timeout
@@ -258,6 +259,7 @@ def main():
     parser.add_argument("-s", "--search", help="Universal search for any company/keyword using Google Jobs/SERP API")
     parser.add_argument("-w", "--workers", type=int, default=None, help="Number of concurrent worker threads (default: 8)")
     parser.add_argument("-l", "--list", action="store_true", help="List all configured and unsupported companies")
+    parser.add_argument("-v", "--version", action="version", version=f"InternScan India v{__version__}")
 
     args = parser.parse_args()
 

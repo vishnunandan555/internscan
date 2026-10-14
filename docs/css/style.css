@@ -485,12 +485,16 @@ button, input, select { font-family: inherit; }
   transition: all 0.15s;
   user-select: none;
 }
-.hub-btn span.badge, .filter-pill span.pill-count {
+.hub-btn span.count, .hub-btn span.badge, .filter-pill span.cat-count, .filter-pill span.pill-count {
   background: var(--badge-bg);
   color: var(--faint);
   font-size: 11px;
   padding: 1px 6px;
   border-radius: 9999px;
+  font-weight: 700;
+  display: inline-block;
+  margin-left: 3px;
+  line-height: 1.3;
 }
 .hub-btn:hover, .filter-pill:hover, .toggle-btn:hover {
   background: var(--surface-hover);
@@ -502,7 +506,7 @@ button, input, select { font-family: inherit; }
   color: var(--surface);
   border-color: var(--ink);
 }
-.hub-btn.active span.badge {
+.hub-btn.active span.count, .hub-btn.active span.badge {
   background: rgba(255, 255, 255, 0.2);
   color: var(--surface);
 }
@@ -511,7 +515,7 @@ button, input, select { font-family: inherit; }
   color: #090d16;
   border-color: #ffffff;
 }
-:root[data-theme="dark"] .hub-btn.active span.badge {
+:root[data-theme="dark"] .hub-btn.active span.count, :root[data-theme="dark"] .hub-btn.active span.badge {
   background: rgba(0, 0, 0, 0.2);
   color: #090d16;
 }
@@ -529,7 +533,7 @@ button, input, select { font-family: inherit; }
   border-color: var(--brand);
   color: #ffffff;
 }
-.filter-pill.active span.pill-count {
+.filter-pill.active span.cat-count, .filter-pill.active span.pill-count {
   background: rgba(255, 255, 255, 0.25);
   color: #ffffff;
 }
