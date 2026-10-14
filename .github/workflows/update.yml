@@ -63,6 +63,8 @@ jobs:
           SCRAPER_KEYWORD: ${{ github.event.inputs.keyword }}
           SCRAPER_DRY_RUN: ${{ github.event.inputs.dry_run }}
           SCRAPER_WORKERS: ${{ github.event.inputs.workers }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python -m scraper.main
 
       - name: Commit and push changes

@@ -27,10 +27,10 @@ AI/ML, Data, Full-Stack, Backend, Frontend, Mobile, QA/SDET, and Security roles 
 from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 [![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-InternTrack_India-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/interntrack-india/)
+[![Telegram Bot Guide](https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](bot/README.md)
+[![Public API](https://img.shields.io/badge/Public_API-REST_&_RSS-10b981?style=for-the-badge&logo=fastapi&logoColor=white)](#-public-api--telegram-bot-integration)
 [![Tracked Companies](https://img.shields.io/badge/Tracked_Companies-55_Active-2563eb?style=for-the-badge&logo=airplay&logoColor=white)](LIST.md)
 [![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
-[![Roadmap](https://img.shields.io/badge/Roadmap-ROADMAP.md-7c3aed?style=for-the-badge&logo=target&logoColor=white)](ROADMAP.md)
-[![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
 > 🕐 Last updated: **{updated}** · 📌 **{n_open}** open internships
@@ -41,6 +41,46 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 """
 
 FOOTER = """
+---
+
+## 🤖 Public API & Telegram Bot Integration
+
+InternTrack India provides **free, open, high-speed developer APIs** and a **ready-to-deploy Telegram Bot** (< 35 MB RAM) to easily automate internship notifications for campus clubs, placement groups, and personal channels.
+
+### 1. Ready-to-Deploy Telegram Bot (`bot/`)
+
+Our pre-built bot runs 24/7 on minimal cloud servers (**< 35 MB RAM**, perfect for ₹10/mo Nano nodes or Raspberry Pis):
+- **Auto-Broadcasts:** Pushes newly detected internships directly to your Telegram Channel or Group.
+- **Interactive Commands:** `/latest` (new roles), `/active` (all roles), `/status` (uptime and memory usage).
+- 📖 **Quickstart Guide:** Read **[bot/README.md](bot/README.md)** to launch in 3 minutes.
+
+### 2. Public REST API Endpoints (No Auth, CORS Enabled)
+
+| Endpoint | Method | Format | Description |
+|---|---|---|---|
+| `https://vishnunandan555.github.io/interntrack-india/api/latest.json` | `GET` | JSON | New and reopened internships from today's scrape. |
+| `https://vishnunandan555.github.io/interntrack-india/api/active.json` | `GET` | JSON | Clean array of all currently active verified internships. |
+| `https://vishnunandan555.github.io/interntrack-india/feed.xml` | `GET` | RSS 2.0 | Standard RSS feed for no-code bots (like `@FeedManBot`) or Discord webhooks. |
+
+```python
+# Quick Python Example
+import requests
+
+data = requests.get("https://vishnunandan555.github.io/interntrack-india/api/latest.json").json()
+print(f"Discovered {data['new_count']} new openings today!")
+for job in data.get("new_jobs", []):
+    print(f"• {job['company']}: {job['title']} -> {job['url']}")
+```
+
+### 3. Direct GitHub Actions Push (Zero Server / Fork)
+
+If you don't want to host any server:
+1. Fork this repository.
+2. Add your secrets in **Settings → Secrets and variables → Actions**:
+   - `TELEGRAM_BOT_TOKEN`: Your token from `@BotFather`.
+   - `TELEGRAM_CHAT_ID`: Your channel (e.g. `@my_channel`) or chat ID.
+3. Your GitHub Actions cron runs daily and sends new alerts automatically!
+
 ---
 
 ## 🤝 Request a Company or Report an Issue

@@ -490,4 +490,28 @@ themeBtn.addEventListener("click", () => {
   applyTheme(next);
 });
 
+// Documentation Section Tabs & Copy Handlers
+document.querySelectorAll(".docs-tab-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const tabId = btn.getAttribute("data-tab");
+    document.querySelectorAll(".docs-tab-btn").forEach(b => b.classList.remove("active"));
+    document.querySelectorAll(".docs-tab-panel").forEach(p => p.classList.remove("active"));
+    btn.classList.add("active");
+    const panel = document.getElementById(tabId);
+    if (panel) panel.classList.add("active");
+  });
+});
+
+document.querySelectorAll(".api-copy-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const textToCopy = btn.getAttribute("data-copy");
+    if (!textToCopy) return;
+    navigator.clipboard.writeText(textToCopy).then(() => {
+      showToast("API URL copied to clipboard!");
+    }).catch(() => {
+      showToast("Failed to copy URL");
+    });
+  });
+});
+
 loadJobs();

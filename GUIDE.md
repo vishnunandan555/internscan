@@ -18,7 +18,7 @@ This document explains the internal architecture, scraper engine, CLI commands, 
 8. [Automated CI/CD (GitHub Actions)](#8-automated-cicd-github-actions)
 9. [External API Fallback (Google Jobs / SerpApi)](#9-external-api-fallback-google-jobs--serpapi)
 10. [Troubleshooting & FAQ](#10-troubleshooting--faq)
-11. [Product Roadmap & Upcoming Features (ROADMAP.md)](ROADMAP.md)
+11. [Telegram Bot & Public API Integration](#11-telegram-bot--public-api-integration)
 
 ---
 
@@ -314,3 +314,14 @@ python3 -m scraper.main -c <company_name> --dry-run
 
 ### Q: Does running a single company erase other companies' jobs?
 **A**: **No.** `scraper/store.py` only updates the company you ran. All other companies' active jobs remain untouched in `data/jobs.json`.
+
+---
+
+## 11. Telegram Bot & Public API Integration
+
+InternTrack India provides automated notifications and public developer APIs.
+
+- **Telegram Bot (`bot/`):** Lightweight (< 35 MB RAM) self-hostable bot with auto-broadcast and `/latest`, `/active`, `/status` commands. See **[bot/README.md](bot/README.md)**.
+- **Developer REST APIs:** `api/latest.json` (daily new jobs) and `api/active.json` (all verified active jobs).
+- **RSS 2.0 Feed:** `feed.xml` for zero-code bot integrations.
+- **GitHub Actions Auto-Push:** Fork and set `TELEGRAM_BOT_TOKEN` & `TELEGRAM_CHAT_ID` secrets to broadcast automatically on each scrape.

@@ -19,7 +19,7 @@ import shutil
 import sys
 import time
 
-from . import ci, display, store
+from . import api, ci, display, store, telegram
 from .categories import categorize
 from .companies import COMPANIES, UNSUPPORTED
 from .http import close_thread_session, get_session, set_thread_timeout
@@ -186,8 +186,9 @@ def run(only_companies=None, keyword=None, dry_run=False, workers=8):
                 shutil.copyfileobj(f_in, f_out)
         shutil.copyfile(store.DATA_PATH + ".gz", DOCS_JOBS_PATH + ".gz")
         ci.update_sitemap(DOCS_SITEMAP_PATH)
+        api.generate_apis(state, added=added, reopened=reopened)
     except Exception as err:
-        print(display.yellow(f"warning: could not sync docs/jobs.json: {err}"))
+        print(display.yellow(f"warning: could not sync docs/jobs.json or public APIs: {err}"))
 
     # Record health
     os.makedirs(os.path.dirname(HEALTH_PATH), exist_ok=True)
@@ -222,6 +223,12 @@ def run(only_companies=None, keyword=None, dry_run=False, workers=8):
     # Surface counts and summary to GitHub CI
     ci.write_github_outputs(added, closed, failed)
     ci.write_github_summary(total_duration, succeeded, failed, all_jobs, added, closed)
+
+    # Dispatch Telegram notifications if configured
+    try:
+        telegram.notify_updates(added=added, reopened=reopened)
+    except Exception as err:
+        print(display.yellow(f"warning: could not dispatch Telegram alerts: {err}"))
 
     return 0
 

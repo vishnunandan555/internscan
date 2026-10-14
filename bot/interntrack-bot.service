@@ -1,0 +1,19 @@
+[Unit]
+Description=InternTrack India Telegram Bot Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/interntrack-india/bot
+ExecStart=/usr/bin/python3 /root/interntrack-india/bot/main.py
+Restart=always
+RestartSec=10
+EnvironmentFile=/root/interntrack-india/bot/.env
+
+# Security and resource hardening for low memory nodes (<256MB)
+MemoryMax=120M
+MemoryHigh=90M
+
+[Install]
+WantedBy=multi-user.target
