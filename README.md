@@ -16,11 +16,10 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-India_Portal-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/internscan/in/)
 [![Version](https://img.shields.io/badge/Version-v2.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/vishnunandan555/internscan/releases)
 [![Architecture](https://img.shields.io/badge/Architecture-System_Design-8b5cf6?style=for-the-badge&logo=diagram-next&logoColor=white)](ARCHITECTURE.md)
-[![Telegram Bot Guide](https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](bot/README.md)
+[![Telegram Bot Guide](https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](bot/README_bot.md)
 [![Public API](https://img.shields.io/badge/Public_API-REST_&_RSS-10b981?style=for-the-badge&logo=fastapi&logoColor=white)](#-public-api--telegram-bot-integration)
 [![Tracked Companies](https://img.shields.io/badge/Tracked_Companies-59_Active-2563eb?style=for-the-badge&logo=airplay&logoColor=white)](LIST.md)
 [![Contributing](https://img.shields.io/badge/Contributing-Join_Us-14b8a6?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
-[![Contributors](https://img.shields.io/badge/Contributors-Hall_of_Fame-ec4899?style=for-the-badge&logo=target&logoColor=white)](CONTRIBUTORS.md)
 [![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
 [![Security](https://img.shields.io/badge/Security-Policy-e11d48?style=for-the-badge&logo=securityscorecard&logoColor=white)](SECURITY.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
@@ -223,7 +222,7 @@ InternScan India provides **free, open, high-speed developer APIs** and a **read
 Our pre-built bot runs 24/7 on minimal cloud servers (**< 35 MB RAM**, perfect for ₹10/mo Nano nodes or Raspberry Pis):
 - **Auto-Broadcasts:** Pushes newly detected internships directly to your Telegram Channel or Group.
 - **Interactive Commands:** `/latest` (new roles), `/active` (all roles), `/status` (uptime and memory usage).
-- 📖 **Quickstart Guide:** Read **[bot/README.md](bot/README.md)** to launch in 3 minutes.
+- 📖 **Quickstart Guide:** Read **[bot/README_bot.md](bot/README_bot.md)** to launch in 3 minutes.
 
 ### 2. Public REST API Endpoints (No Auth, CORS Enabled)
 
@@ -263,30 +262,29 @@ For comprehensive blueprints, developer handbooks, and modular subsystem documen
 | **[ARCHITECTURE.md](ARCHITECTURE.md)** | Full end-to-end system design, diff sync engine, multi-region routing & persistence |
 | **[GUIDE.md](GUIDE.md)** | Developer manual, CLI flags, ATS adapter guide, testing, and debugging commands |
 | **[CONTRIBUTING.md](CONTRIBUTING.md)** | Guidelines for adding new ATS adapters, company configs, and pull request rules |
-| **[CONTRIBUTORS.md](CONTRIBUTORS.md)** | Core project maintainers, domain leads, and open-source hall of fame |
 | **[SECURITY.md](SECURITY.md)** | Security vulnerability reporting guidelines and ethical crawling policy |
 | **[AGENTS.md](AGENTS.md)** | Inviolable guidelines and strict memory constraints for AI coding agents |
 | **[LIST.md](LIST.md)** | Master directory of tracked companies, ATS health statuses, and unsupported portals |
 
 ### 📂 Directory-Level Architecture Guides
-- **[`scraper/`](scraper/README.md)**: Synchronization engine, thread pools, atomic store, and API generators.
-  - **[`scraper/adapters/`](scraper/adapters/README.md)**: 18 modular ATS crawler engines.
-  - **[`scraper/countries/`](scraper/countries/README.md)**: Multi-country regional registry & inheritance.
-  - **[`scraper/countries/india/`](scraper/countries/india/README.md)**: India-specific company configurations and overrides.
-  - **[`scraper/countries/usa/`](scraper/countries/usa/README.md)**: USA-specific company configurations and overrides.
-- **[`data/`](data/README.md)**: Master and regional JSON job databases, schemas, and atomic POSIX commit rules.
-- **[`bot/`](bot/README.md)**: 24/7 Telegram notification daemon (< 35 MB RAM footprint).
-- **[`docs/`](docs/README.md)**: Production GitHub Pages web application, vanilla design system, and client state engine.
-  - **[`docs/css/`](docs/css/README.md)**: Design system tokens, variables, and responsive layout styling.
-  - **[`docs/js/`](docs/js/README.md)**: Zero-dependency client state, search, and filtering engine.
-  - **[`docs/api/`](docs/api/README.md)**: Public REST endpoints and specifications.
-  - **[`docs/logos/`](docs/logos/README.md)**: Cached company brand logos and vector assets.
-- **[`lists/`](lists/README.md)**: Regional markdown reports and company health summaries.
-- **[`scripts/`](scripts/README.md)**: Logo asset fetcher and OpenGraph social banner generators.
-- **[`tests/`](tests/README.md)**: Unittest regression suite covering models, adapters, and store invariants.
-- **[`logs/`](logs/README.md)**: Automated run execution traces and historical sync metrics.
-- **[`.github/`](.github/README.md)**: GitHub Actions continuous integration and daily scraping cron workflows.
-  - **[`.github/workflows/`](.github/workflows/README.md)**: Daily sync and diagnostics workflow definitions.
+- **[`scraper/`](scraper/README_scraper.md)**: Synchronization engine, thread pools, atomic store, and API generators.
+  - **[`scraper/adapters/`](scraper/adapters/README_adapters.md)**: 18 modular ATS crawler engines.
+  - **[`scraper/countries/`](scraper/countries/README_countries.md)**: Multi-country regional registry & inheritance.
+  - **[`scraper/countries/india/`](scraper/countries/india/README_india.md)**: India-specific company configurations and overrides.
+  - **[`scraper/countries/usa/`](scraper/countries/usa/README_usa.md)**: USA-specific company configurations and overrides.
+- **[`data/`](data/README_data.md)**: Master and regional JSON job databases, schemas, and atomic POSIX commit rules.
+- **[`bot/`](bot/README_bot.md)**: 24/7 Telegram notification daemon (< 35 MB RAM footprint).
+- **[`docs/`](docs/README_docs.md)**: Production GitHub Pages web application, vanilla design system, and client state engine.
+  - **[`docs/css/`](docs/css/README_css.md)**: Design system tokens, variables, and responsive layout styling.
+  - **[`docs/js/`](docs/js/README_js.md)**: Zero-dependency client state, search, and filtering engine.
+  - **[`docs/api/`](docs/api/README_api.md)**: Public REST endpoints and specifications.
+  - **[`docs/logos/`](docs/logos/README_logos.md)**: Cached company brand logos and vector assets.
+- **[`lists/`](lists/README_lists.md)**: Regional markdown reports and company health summaries.
+- **[`scripts/`](scripts/README_scripts.md)**: Logo asset fetcher and OpenGraph social banner generators.
+- **[`tests/`](tests/README_tests.md)**: Unittest regression suite covering models, adapters, and store invariants.
+- **[`logs/`](logs/README_logs.md)**: Automated run execution traces and historical sync metrics.
+- **[`.github/`](.github/README_github.md)**: GitHub Actions continuous integration and daily scraping cron workflows.
+  - **[`.github/workflows/`](.github/workflows/README_workflows.md)**: Daily sync and diagnostics workflow definitions.
 
 ---
 

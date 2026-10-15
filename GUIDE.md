@@ -321,7 +321,7 @@ python3 -m scraper.main -c <company_name> --dry-run
 
 InternScan provides automated notifications and public developer APIs.
 
-- **Telegram Bot (`bot/`):** Lightweight (< 35 MB RAM) self-hostable bot with auto-broadcast and `/latest`, `/active`, `/status` commands. See **[bot/README.md](bot/README.md)**.
+- **Telegram Bot (`bot/`):** Lightweight (< 35 MB RAM) self-hostable bot with auto-broadcast and `/latest`, `/active`, `/status` commands. See **[bot/README_bot.md](bot/README_bot.md)**.
 - **Developer REST APIs:** `api/latest.json` (daily new jobs) and `api/active.json` (all verified active jobs).
 - **RSS 2.0 Feed:** `feed.xml` for zero-code bot integrations.
 - **GitHub Actions Auto-Push:** Fork and set `TELEGRAM_BOT_TOKEN` & `TELEGRAM_CHAT_ID` secrets to broadcast automatically on each scrape.
@@ -334,17 +334,16 @@ For dedicated component architecture and contribution guides, refer to:
 
 - 🏛️ **[ARCHITECTURE.md](ARCHITECTURE.md)** — Core system architecture, non-destructive synchronization, and atomic POSIX writes.
 - 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** — Guide to adding companies, fixing adapters, and testing pull requests.
-- 👥 **[CONTRIBUTORS.md](CONTRIBUTORS.md)** — Author credits, core maintainers, and community contributors.
 - 🔒 **[SECURITY.md](SECURITY.md)** — Security policies, vulnerability disclosure, and crawler ethics.
-- ⚙️ **[scraper/README.md](scraper/README.md)** — Synchronization engine and pipeline orchestrator.
-- 🔌 **[scraper/adapters/README.md](scraper/adapters/README.md)** — Modular ATS adapters directory.
-- 🌍 **[scraper/countries/README.md](scraper/countries/README.md)** — Multi-country company registries.
-- 💾 **[data/README.md](data/README.md)** — Master and regional database partitions and schema.
-- 🌐 **[docs/README.md](docs/README.md)** — GitHub Pages web application architecture and tokens.
-- 🤖 **[bot/README.md](bot/README.md)** — Dedicated 24/7 Telegram bot deployment guide.
-- 📋 **[lists/README.md](lists/README.md)** — Regional tracked company registries.
-- 🛠️ **[scripts/README.md](scripts/README.md)** — Automation utilities and logo tools.
-- 🧪 **[tests/README.md](tests/README.md)** — Unit test suite execution and test coverage.
-- 📊 **[logs/README.md](logs/README.md)** — Scrape history, summaries, and rotation policy.
-- 🚀 **[.github/README.md](.github/README.md)** — GitHub Actions CI/CD workflows.
+- ⚙️ **[scraper/README_scraper.md](scraper/README_scraper.md)** — Synchronization engine and pipeline orchestrator.
+- 🔌 **[scraper/adapters/README_adapters.md](scraper/adapters/README_adapters.md)** — Modular ATS adapters directory.
+- 🌍 **[scraper/countries/README_countries.md](scraper/countries/README_countries.md)** — Multi-country company registries.
+- 💾 **[data/README_data.md](data/README_data.md)** — Master and regional database partitions and schema.
+- 🌐 **[docs/README_docs.md](docs/README_docs.md)** — GitHub Pages web application architecture and tokens.
+- 🤖 **[bot/README_bot.md](bot/README_bot.md)** — Dedicated 24/7 Telegram bot deployment guide.
+- 📋 **[lists/README_lists.md](lists/README_lists.md)** — Regional tracked company registries.
+- 🛠️ **[scripts/README_scripts.md](scripts/README_scripts.md)** — Automation utilities and logo tools.
+- 🧪 **[tests/README_tests.md](tests/README_tests.md)** — Unit test suite execution and test coverage.
+- 📊 **[logs/README_logs.md](logs/README_logs.md)** — Scrape history, summaries, and rotation policy.
+- 🚀 **[.github/README_github.md](.github/README_github.md)** — GitHub Actions CI/CD workflows.
 

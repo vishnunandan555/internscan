@@ -11,7 +11,7 @@ scraper/countries/india/
 ├── __init__.py         # Package initialization
 ├── companies.py        # India-specific company configurations and overrides
 ├── unsupported.py      # Registry of India companies with un-scrapable portals & reasons
-└── README.md           # Documentation for the India regional scraper
+└── README_india.md     # Documentation for the India regional scraper
 ```
 
 ---

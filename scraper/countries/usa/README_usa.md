@@ -11,7 +11,7 @@ scraper/countries/usa/
 ├── __init__.py         # Package initialization
 ├── companies.py        # USA-specific company configurations and overrides
 ├── unsupported.py      # Registry of US companies with un-scrapable portals & reasons
-└── README.md           # Documentation for the USA regional scraper
+└── README_usa.md       # Documentation for the USA regional scraper
 ```
 
 ---

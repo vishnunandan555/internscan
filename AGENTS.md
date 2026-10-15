@@ -46,7 +46,6 @@ internscan/
 ├── tests/                     # Unit test suite (unittest)
 ├── ARCHITECTURE.md            # Comprehensive end-to-end system architecture
 ├── CONTRIBUTING.md            # Developer contribution guidelines & ATS onboarding
-├── CONTRIBUTORS.md            # Maintainer credits and recognition
 ├── SECURITY.md                # Vulnerability disclosure & ethical crawling policy
 ├── GUIDE.md                   # Complete developer handbook & CLI manual
 └── .github/workflows/

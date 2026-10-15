@@ -9,7 +9,7 @@ This directory houses the vanilla JavaScript client engine for the InternScan we
 ```
 docs/js/
 ├── app.js          # Core client logic, state management, search, and filtering
-└── README.md       # Client script architecture documentation
+└── README_js.md    # Client script architecture documentation
 ```
 
 ---

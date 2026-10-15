@@ -9,7 +9,7 @@ This directory houses the design system tokens and styling rules for the InternS
 ```
 docs/css/
 ├── style.css       # Master stylesheet & CSS variables (design system)
-└── README.md       # Styling and layout architecture
+└── README_css.md   # Styling and layout architecture
 ```
 
 ---
