@@ -982,13 +982,33 @@ button, input, select { font-family: inherit; }
   box-shadow: var(--shadow-sm);
 }
 .info-box h2 {
-  font-size: 20px;
+  font-size: 21px;
   font-weight: 800;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   letter-spacing: -0.02em;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
+  color: var(--ink);
+}
+.info-title-badge {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  background: var(--brand-soft);
+  border: 1px solid var(--brand-glow);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(249, 115, 22, 0.15);
+}
+.info-badge-img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  display: block;
+  filter: drop-shadow(0 1px 3px rgba(249, 115, 22, 0.3));
 }
 .faq-grid {
   display: grid;
