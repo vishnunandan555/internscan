@@ -1,21 +1,33 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-10-14T00:27:37Z",
-  "total_active": 16,
+  "updated_at": "2026-10-15T00:01:20Z",
+  "total_active": 14,
   "jobs": [
     {
-      "company": "NVIDIA",
-      "title": "CPU Compiler Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1",
+      "company": "Meta",
+      "title": "ASIC Engineer Intern, Implementation",
+      "url": "https://www.metacareers.com/jobs/1046140895105013",
       "locations": [
-        "2 Locations",
-        "India Pune"
+        "Bangalore, India"
       ],
-      "city_tag": "Pune",
-      "category": "Backend/Infra",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14"
+      "city_tag": "Bengaluru",
+      "category": "Hardware/Silicon",
+      "posted": null,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
+    },
+    {
+      "company": "Meta",
+      "title": "ASIC Engineer Intern, Design Verification",
+      "url": "https://www.metacareers.com/jobs/1123459746795309",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "city_tag": "Bengaluru",
+      "category": "Hardware/Silicon",
+      "posted": null,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Meta",
@@ -28,7 +40,7 @@
       "category": "Hardware/Silicon",
       "posted": null,
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Meta",
@@ -41,7 +53,7 @@
       "category": "Hardware/Silicon",
       "posted": null,
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Microsoft",
@@ -54,7 +66,7 @@
       "category": "Data",
       "posted": "2026-10-08",
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Walmart Global Tech",
@@ -67,7 +79,7 @@
       "category": "Software",
       "posted": null,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Stripe",
@@ -80,20 +92,7 @@
       "category": "Software",
       "posted": "2026-07-10",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
-    },
-    {
-      "company": "Rubrik",
-      "title": "Software Engineer - Winter Intern",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
-      "locations": [
-        "Bangalore"
-      ],
-      "city_tag": "Bengaluru",
-      "category": "Software",
-      "posted": "2026-09-06",
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Rubrik",
@@ -106,7 +105,7 @@
       "category": "Software",
       "posted": "2026-09-06",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Qualcomm",
@@ -120,20 +119,7 @@
       "category": "Software",
       "posted": "2026-09-09",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "Interim Engineering Intern_2027_SW",
-      "url": "https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com",
-      "locations": [
-        "Hyderabad, Telangāna, India"
-      ],
-      "city_tag": "Hyderabad",
-      "category": "Software",
-      "posted": "2026-09-15",
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "NVIDIA",
@@ -147,7 +133,7 @@
       "category": "AI/ML",
       "posted": "2026-09-01",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Microsoft",
@@ -160,20 +146,7 @@
       "category": "AI/ML",
       "posted": "2026-02-27",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Software Engineering INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
-      "locations": [
-        "India, Multiple Locations, Multiple Locations"
-      ],
-      "city_tag": "India (Multiple/Other)",
-      "category": "Software",
-      "posted": "2026-09-18",
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "HPE",
@@ -187,7 +160,7 @@
       "category": "Software",
       "posted": "2026-09-01",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Google",
@@ -201,7 +174,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-07",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "company": "Google",
@@ -216,7 +189,7 @@
       "category": "Software",
       "posted": "2026-09-07",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     }
   ]
 }

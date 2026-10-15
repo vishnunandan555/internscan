@@ -1,15 +1,27 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-14 00:26:19 UTC
+SCRAPE RUN SUMMARY — 2026-10-14 23:59:53 UTC
 ========================================================================
-Runtime:            77.9 seconds
-Companies Scraped:  56 total
-  - Succeeded:      56
+Runtime:            86.8 seconds
+Companies Scraped:  60 total
+  - Succeeded:      60
   - Failed:         0
-Active India Roles: 16
+Active India Roles: 15
 Changes Detected:
-  - New Additions:  +0
-  - Closed Roles:   -0
+  - New Additions:  +2
+  - Closed Roles:   -4
   - Reopened Roles: ~0
 ------------------------------------------------------------------------
+
+[NEW INTERNSHIPS ADDED]
+  + Meta — ASIC Engineer Intern, Implementation (Bengaluru) [Hardware/Silicon]
+    Apply: https://www.metacareers.com/jobs/1046140895105013
+  + Meta — ASIC Engineer Intern, Design Verification (Bengaluru) [Hardware/Silicon]
+    Apply: https://www.metacareers.com/jobs/1123459746795309
+
+[INTERNSHIPS CLOSED]
+  - Microsoft — Software Engineering INTERN (India (Multiple/Other))
+  - NVIDIA — CPU Compiler Intern - 2027 (Pune)
+  - Qualcomm — Interim Engineering Intern_2027_SW (Hyderabad)
+  - Rubrik — Software Engineer - Winter Intern (Bengaluru)
 
 ========================================================================

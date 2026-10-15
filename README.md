@@ -14,12 +14,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-14 05:57:37 IST** · 📌 **16** open internships
+> 🕐 Last updated: **2026-10-15 05:31:20 IST** · 📌 **14** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (16)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (14)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -52,12 +52,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Jane Street | — |
 | Mastercard | — |
 | Meesho | — |
-| [Meta](#meta) | **2** |
+| [Meta](#meta) | **4** |
 | Micron | — |
-| [Microsoft](#microsoft) | **3** |
+| [Microsoft](#microsoft) | **2** |
 | MongoDB | — |
 | Morgan Stanley | — |
-| [NVIDIA](#nvidia) | **2** |
+| [NVIDIA](#nvidia) | **1** |
 | Netflix | — |
 | Nokia | — |
 | Okta | — |
@@ -66,10 +66,10 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | PayPal | — |
 | PhonePe | — |
 | Pure Storage | — |
-| [Qualcomm](#qualcomm) | **2** |
+| [Qualcomm](#qualcomm) | **1** |
 | Razorpay | — |
 | Red Hat | — |
-| [Rubrik](#rubrik) | **2** |
+| [Rubrik](#rubrik) | **1** |
 | Salesforce | — |
 | ServiceNow | — |
 | Snowflake | — |
@@ -143,8 +143,10 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [ASIC Engineer Intern, Design](https://www.metacareers.com/jobs/1631077978652493) ✨ | Hardware/Silicon | Bengaluru | — | 2026-10-07 |
-| [ASIC Engineer Intern - Infra Silicon Enablement](https://www.metacareers.com/jobs/939474918844068) ✨ | Hardware/Silicon | Bengaluru | — | 2026-10-07 |
+| [ASIC Engineer Intern, Implementation](https://www.metacareers.com/jobs/1046140895105013) ✨ | Hardware/Silicon | Bengaluru | — | 2026-10-15 |
+| [ASIC Engineer Intern, Design Verification](https://www.metacareers.com/jobs/1123459746795309) ✨ | Hardware/Silicon | Bengaluru | — | 2026-10-15 |
+| [ASIC Engineer Intern, Design](https://www.metacareers.com/jobs/1631077978652493) | Hardware/Silicon | Bengaluru | — | 2026-10-07 |
+| [ASIC Engineer Intern - Infra Silicon Enablement](https://www.metacareers.com/jobs/939474918844068) | Hardware/Silicon | Bengaluru | — | 2026-10-07 |
 
 [⬆️ Back to Top](#top)
 
@@ -153,7 +155,6 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) | Data | India (Multiple/Other) | 2026-10-08 | 2026-09-24 |
-| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India (Multiple/Other) | 2026-09-18 | 2026-09-17 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) | AI/ML | India (Multiple/Other) | 2026-02-27 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
@@ -162,7 +163,6 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1) ✨ | Backend/Infra | Pune | 2026-10-13 | 2026-10-12 |
 | [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-09-01 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
@@ -171,7 +171,6 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Interim Engineering Intern_2027_SW](https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com) | Software | Hyderabad | 2026-09-15 | 2026-09-17 |
 | [Interim Engineering Intern_2027_HW](https://careers.qualcomm.com/careers/job/446719784824?domain=qualcomm.com) | Software | Bengaluru | 2026-09-09 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
@@ -180,7 +179,6 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | Software | Bengaluru | 2026-09-06 | 2026-09-17 |
 | [Software Engineer (CPD) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | Software | Bengaluru | 2026-09-06 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
