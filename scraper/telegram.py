@@ -1,4 +1,4 @@
-"""Telegram notification dispatcher for InternTrack India.
+"""Telegram notification dispatcher for InternScan India.
 
 Sends structured notification cards to a Telegram Channel, Group, or personal chat
 when new or reopened internships are detected during scraping.

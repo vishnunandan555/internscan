@@ -5,14 +5,14 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Primary Live Application -->
   <url>
-    <loc>https://vishnunandan555.github.io/interntrack-india/</loc>
+    <loc>https://vishnunandan555.github.io/internscan/</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Direct JSON Feed for Programmatic Scrapers & Indexers -->
   <url>
-    <loc>https://vishnunandan555.github.io/interntrack-india/jobs.json</loc>
+    <loc>https://vishnunandan555.github.io/internscan/jobs.json</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>

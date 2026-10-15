@@ -6,7 +6,7 @@ A resilient, ultra-lightweight Telegram Bot engineered to run 24/7 on minimal cl
 
 ## Features
 
-- 📢 **Auto-Broadcaster:** Automatically checks the [InternScan India Public API](https://vishnunandan555.github.io/interntrack-india/api/latest.json) and posts clean, formatted cards into your Telegram Channel or Group the moment a new internship drops.
+- 📢 **Auto-Broadcaster:** Automatically checks the [InternScan India Public API](https://vishnunandan555.github.io/internscan/api/latest.json) and posts clean, formatted cards into your Telegram Channel or Group the moment a new internship drops.
 - 💬 **Interactive Commands:**
   - `/latest` — Immediate real-time list of newly verified internships.
   - `/active` — Overview of currently active openings and top domain categories.
@@ -46,8 +46,8 @@ A resilient, ultra-lightweight Telegram Bot engineered to run 24/7 on minimal cl
 SSH into your server and run:
 
 ```bash
-git clone https://github.com/vishnunandan555/interntrack-india.git
-cd interntrack-india/bot
+git clone https://github.com/vishnunandan555/internscan.git
+cd internscan/bot
 
 # Install the single tiny helper (python-dotenv)
 pip install -r requirements.txt
@@ -74,7 +74,7 @@ You should see:
 ```text
 ============================================================
 🤖 InternScan India Telegram Bot (v2.0.0) Starting...
-📡 API Endpoint : https://vishnunandan555.github.io/interntrack-india/api/latest.json
+📡 API Endpoint : https://vishnunandan555.github.io/internscan/api/latest.json
 📢 Broadcast To : @my_internships_hub
 ⏱️ Poll Cadence : Every 1800s
 ============================================================
@@ -86,25 +86,25 @@ To ensure the bot never stops running, even if the node reboots:
 
 ```bash
 # 1. Copy the systemd unit file
-sudo cp interntrack-bot.service /etc/systemd/system/
+sudo cp internscan-bot.service /etc/systemd/system/
 
 # (Optional: adjust paths in the service file if your user is not root)
-# sudo nano /etc/systemd/system/interntrack-bot.service
+# sudo nano /etc/systemd/system/internscan-bot.service
 
 # 2. Reload systemd and enable auto-start on boot
 sudo systemctl daemon-reload
-sudo systemctl enable interntrack-bot
+sudo systemctl enable internscan-bot
 
 # 3. Start the bot
-sudo systemctl start interntrack-bot
+sudo systemctl start internscan-bot
 
 # 4. Check live status and logs
-sudo systemctl status interntrack-bot
+sudo systemctl status internscan-bot
 ```
 
 To watch live logs in real-time:
 ```bash
-journalctl -u interntrack-bot -f
+journalctl -u internscan-bot -f
 ```
 
 ---
@@ -142,4 +142,4 @@ python3 main.py
 
 ## License
 
-MIT © [Vishnu Nandan](https://github.com/vishnunandan555) · Part of the [InternScan India](https://github.com/vishnunandan555/interntrack-india) project.
+MIT © [Vishnu Nandan](https://github.com/vishnunandan555) · Part of the [InternScan India](https://github.com/vishnunandan555/internscan) project.

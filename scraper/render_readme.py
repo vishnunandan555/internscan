@@ -26,8 +26,8 @@ AI/ML, Data, Full-Stack, Backend, Frontend, Mobile, QA/SDET, and Security roles 
 {n_companies} top tech companies, GCCs, and high-growth Indian unicorns. Scraped directly
 from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
-[![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-InternScan_India-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/interntrack-india/)
-[![Version](https://img.shields.io/badge/Version-v2.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/vishnunandan555/interntrack-india/releases)
+[![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-InternScan_India-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/internscan/)
+[![Version](https://img.shields.io/badge/Version-v2.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/vishnunandan555/internscan/releases)
 [![Telegram Bot Guide](https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](bot/README.md)
 [![Public API](https://img.shields.io/badge/Public_API-REST_&_RSS-10b981?style=for-the-badge&logo=fastapi&logoColor=white)](#-public-api--telegram-bot-integration)
 [![Tracked Companies](https://img.shields.io/badge/Tracked_Companies-59_Active-2563eb?style=for-the-badge&logo=airplay&logoColor=white)](LIST.md)
@@ -59,15 +59,15 @@ Our pre-built bot runs 24/7 on minimal cloud servers (**< 35 MB RAM**, perfect f
 
 | Endpoint | Method | Format | Description |
 |---|---|---|---|
-| `https://vishnunandan555.github.io/interntrack-india/api/latest.json` | `GET` | JSON | New and reopened internships from today's scrape. |
-| `https://vishnunandan555.github.io/interntrack-india/api/active.json` | `GET` | JSON | Clean array of all currently active verified internships. |
-| `https://vishnunandan555.github.io/interntrack-india/feed.xml` | `GET` | RSS 2.0 | Standard RSS feed for no-code bots (like `@FeedManBot`) or Discord webhooks. |
+| `https://vishnunandan555.github.io/internscan/api/latest.json` | `GET` | JSON | New and reopened internships from today's scrape. |
+| `https://vishnunandan555.github.io/internscan/api/active.json` | `GET` | JSON | Clean array of all currently active verified internships. |
+| `https://vishnunandan555.github.io/internscan/feed.xml` | `GET` | RSS 2.0 | Standard RSS feed for no-code bots (like `@FeedManBot`) or Discord webhooks. |
 
 ```python
 # Quick Python Example
 import requests
 
-data = requests.get("https://vishnunandan555.github.io/interntrack-india/api/latest.json").json()
+data = requests.get("https://vishnunandan555.github.io/internscan/api/latest.json").json()
 print(f"Discovered {data['new_count']} new openings today!")
 for job in data.get("new_jobs", []):
     print(f"• {job['company']}: {job['title']} -> {job['url']}")
@@ -86,8 +86,8 @@ If you don't want to host any server:
 
 ## 🤝 Request a Company or Report an Issue
 
-- **Want a company added?** Check **[LIST.md](LIST.md)** first to see if it is already actively scraped or documented as unsupported. If it's missing, [open a Company Request issue](https://github.com/vishnunandan555/interntrack-india/issues/new?title=%5BCompany+Request%5D+<Company+Name>) with the company's official career portal URL!
-- **Found a broken link or expired posting?** Please [open a Bug Report issue](https://github.com/vishnunandan555/interntrack-india/issues/new?title=%5BBug%5D+<Issue+Description>) so we can investigate.
+- **Want a company added?** Check **[LIST.md](LIST.md)** first to see if it is already actively scraped or documented as unsupported. If it's missing, [open a Company Request issue](https://github.com/vishnunandan555/internscan/issues/new?title=%5BCompany+Request%5D+<Company+Name>) with the company's official career portal URL!
+- **Found a broken link or expired posting?** Please [open a Bug Report issue](https://github.com/vishnunandan555/internscan/issues/new?title=%5BBug%5D+<Issue+Description>) so we can investigate.
 - **Looking for developer guides, CLI usage, or scraper architecture?** Read the complete **[Developer & System Guide (GUIDE.md)](GUIDE.md)**.
 """
 

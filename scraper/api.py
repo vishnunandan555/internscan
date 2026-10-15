@@ -20,7 +20,7 @@ FEED_PATH = os.path.join(DOCS_DIR, "feed.xml")
 LATEST_API_PATH = os.path.join(API_DIR, "latest.json")
 ACTIVE_API_PATH = os.path.join(API_DIR, "active.json")
 
-SITE_URL = "https://vishnunandan555.github.io/interntrack-india/"
+SITE_URL = "https://vishnunandan555.github.io/internscan/"
 
 
 def _clean_job_for_api(job_dict: dict) -> dict:

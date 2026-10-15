@@ -1,6 +1,6 @@
 # 🤖 AGENTS.md — AI Agent & Developer Guidelines
 
-> **Repository:** InternScan India (`vishnunandan555/interntrack-india`)  
+> **Repository:** InternScan India (`vishnunandan555/internscan`)  
 > **Release Version:** `2.0.0`  
 > **Purpose:** High-speed automated directory, public REST/RSS APIs, and Telegram alert bot for verified tech & software engineering internships across top tech employers in India.
 
@@ -9,7 +9,7 @@
 ## 1. Project Architecture & File Map
 
 ```
-interntrack-india/
+internscan/
 ├── scraper/                   # Python core scraper & synchronization engine
 │   ├── main.py                # Concurrent ThreadPool orchestrator (CLI entrypoint)
 │   ├── store.py               # Atomic database persistence & diff merge (added, closed, reopened)
@@ -26,7 +26,7 @@ interntrack-india/
 │   ├── main.py                # Polling daemon & interactive slash commands (/latest, /status)
 │   ├── requirements.txt       # Minimal dependencies (python-dotenv only)
 │   ├── .env.example           # Environment template (BOT_TOKEN, CHAT_ID, POLL_INTERVAL)
-│   └── interntrack-bot.service# Linux systemd unit for 24/7 background operation
+│   └── internscan-bot.service # Linux systemd unit for 24/7 background operation
 ├── docs/                      # Production web application (GitHub Pages root)
 │   ├── index.html             # High-speed static web app with #api-docs section
 │   ├── css/style.css          # Design system, dark/light theme, glassmorphism

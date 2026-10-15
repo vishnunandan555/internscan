@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""InternTrack India — Telegram Bot
+"""InternScan India — Telegram Bot
 Lightweight, resilient Telegram Bot engineered for ultra-low memory nodes (< 35 MB RAM).
 
 Modes of Operation:
-1. Auto-Broadcaster: Polls InternTrack India's public API and alerts your Telegram
+1. Auto-Broadcaster: Polls InternScan India's public API and alerts your Telegram
    channel or group the moment a new verified internship appears.
 2. Interactive Commands:
    - /start, /help : Bot intro & command guide
@@ -33,13 +33,11 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 CHANNEL_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 API_LATEST_URL = (
     os.environ.get("INTERNSCAN_API_URL")
-    or os.environ.get("INTERNTRACK_API_URL")
-    or "https://vishnunandan555.github.io/interntrack-india/api/latest.json"
+    or "https://vishnunandan555.github.io/internscan/api/latest.json"
 ).strip()
 API_ACTIVE_URL = (
     os.environ.get("INTERNSCAN_ACTIVE_URL")
-    or os.environ.get("INTERNTRACK_ACTIVE_URL")
-    or "https://vishnunandan555.github.io/interntrack-india/api/active.json"
+    or "https://vishnunandan555.github.io/internscan/api/active.json"
 ).strip()
 
 POLL_INTERVAL_SECONDS = int(os.environ.get("POLL_INTERVAL_SECONDS", "1800"))  # Default 30 mins
@@ -207,7 +205,7 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
             "• /active - Overview of currently active openings & categories\n"
             "• /status - Health check & server resource stats\n"
             "• /help   - Display this help message\n\n"
-            "🌐 <a href=\"https://vishnunandan555.github.io/interntrack-india/\"><b>Open Web Tracker &rarr;</b></a>"
+            "🌐 <a href=\"https://vishnunandan555.github.io/internscan/\"><b>Open Web Tracker &rarr;</b></a>"
         )
         send_message(chat_id, reply, reply_to=msg_id)
 
@@ -224,7 +222,7 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
                 chat_id,
                 f"ℹ️ <b>No brand new postings added today.</b>\n\n"
                 f"There are currently <b>{total}</b> active verified internships available!\n"
-                f"👉 <a href=\"https://vishnunandan555.github.io/interntrack-india/\">Browse all openings here</a>",
+                f"👉 <a href=\"https://vishnunandan555.github.io/internscan/\">Browse all openings here</a>",
                 reply_to=msg_id,
             )
             return
@@ -255,7 +253,7 @@ def handle_command(chat_id: str, text: str, msg_id: int) -> None:
             f"🎯 <b>Total Verified Positions:</b> {total}\n"
             f"🕒 <b>Last Updated:</b> {data.get('updated_at', 'Today')}\n\n"
             f"<b>Top Categories:</b>\n{cat_lines}\n\n"
-            f"👉 <a href=\"https://vishnunandan555.github.io/interntrack-india/\"><b>Explore all {total} listings on Web Tracker &rarr;</b></a>"
+            f"👉 <a href=\"https://vishnunandan555.github.io/internscan/\"><b>Explore all {total} listings on Web Tracker &rarr;</b></a>"
         )
         send_message(chat_id, reply, reply_to=msg_id)
 
@@ -349,5 +347,5 @@ if __name__ == "__main__":
     try:
         run_bot()
     except KeyboardInterrupt:
-        print("\n👋 InternTrack Bot stopped gracefully.")
+        print("\n👋 InternScan Bot stopped gracefully.")
         sys.exit(0)

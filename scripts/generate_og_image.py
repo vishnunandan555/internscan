@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate an ultra-crisp, high-impact 1200x630 OpenGraph / Twitter preview card for InternTrack India.
+Generate an ultra-crisp, high-impact 1200x630 OpenGraph / Twitter preview card for InternScan India.
 Saved to docs/og-image.png (Clean modern dark theme, NO gridlines).
 """
 import os
@@ -55,7 +55,7 @@ def generate():
     # Terminal angle brackets icon in white
     draw.line([(73, 70), (68, 78), (73, 86)], fill=(255, 255, 255, 255), width=3)
     draw.line([(91, 70), (96, 78), (91, 86)], fill=(255, 255, 255, 255), width=3)
-    draw.text((118, 64), "InternTrack", font=font_card_num, fill=(248, 250, 252, 255))
+    draw.text((118, 64), "InternScan", font=font_card_num, fill=(248, 250, 252, 255))
     # Country pill
     draw.rounded_rectangle([(270, 64), (336, 94)], radius=8, fill=(22, 30, 46, 255), outline=(249, 115, 22, 180), width=1)
     draw.text((281, 71), "INDIA", font=font_pill, fill=(249, 115, 22, 255))
@@ -109,7 +109,7 @@ def generate():
 
     # Bottom footer line
     draw.line([(60, 552), (width - 60, 552)], fill=(28, 38, 56, 255), width=1)
-    draw.text((60, 568), "vishnunandan555.github.io/interntrack-india", font=font_url, fill=(148, 163, 184, 255))
+    draw.text((60, 568), "vishnunandan555.github.io/internscan", font=font_url, fill=(148, 163, 184, 255))
     draw.text((width - 60 - 275, 568), "Live Web Tracker · Star on GitHub", font=font_url, fill=(249, 115, 22, 255))
 
     out_path = os.path.join(os.path.dirname(__file__), "..", "docs", "og-image.png")

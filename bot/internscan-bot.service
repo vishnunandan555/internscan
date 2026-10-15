@@ -5,11 +5,11 @@ After=network.target
 [Service]
 Type=simple
 User=root
-WorkingDirectory=/root/interntrack-india/bot
-ExecStart=/usr/bin/python3 /root/interntrack-india/bot/main.py
+WorkingDirectory=/root/internscan/bot
+ExecStart=/usr/bin/python3 /root/internscan/bot/main.py
 Restart=always
 RestartSec=10
-EnvironmentFile=/root/interntrack-india/bot/.env
+EnvironmentFile=/root/internscan/bot/.env
 
 # Security and resource hardening for low memory nodes (<256MB)
 MemoryMax=120M

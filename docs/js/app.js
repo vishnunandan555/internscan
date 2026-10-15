@@ -5,7 +5,7 @@
 
 const DATA_URLS = [
   "./jobs.json",
-  "https://raw.githubusercontent.com/vishnunandan555/interntrack-india/main/data/jobs.json",
+  "https://raw.githubusercontent.com/vishnunandan555/internscan/main/data/jobs.json",
   "../data/jobs.json"
 ];
 
