@@ -185,6 +185,21 @@ const HUB_PATTERNS = {
   "New York": /\b(new york|nyc|manhattan|brooklyn)\b/i,
   "Austin": /\b(austin|round rock)\b/i,
   "Boston": /\b(boston|cambridge|waltham)\b/i,
+  // Canada Hubs
+  "Toronto": /\b(toronto|mississauga|markham)\b/i,
+  "Waterloo": /\b(waterloo|kitchener)\b/i,
+  "Vancouver": /\b(vancouver|burnaby|richmond)\b/i,
+  "Montreal": /\b(montreal|montréal|laval)\b/i,
+  // UK Hubs
+  "London": /\b(london)\b/i,
+  "Cambridge / Oxford": /\b(cambridge|oxford)\b/i,
+  // Europe Hubs
+  "Berlin": /\b(berlin)\b/i,
+  "Munich": /\b(munich|münchen)\b/i,
+  "Dublin": /\b(dublin)\b/i,
+  "Amsterdam": /\b(amsterdam)\b/i,
+  "Zurich": /\b(zurich|zürich)\b/i,
+  // Global & General
   "Remote": /\b(remote|work\s*from\s*home|wfh|anywhere)\b/i,
   "Other": /\b(multiple|other)\b/i,
 };

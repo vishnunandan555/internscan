@@ -96,7 +96,7 @@ def render_list(
     updated_str = _to_ist_str(updated_at)
 
     # 1. Country-specific files
-    for code in ("in", "us"):
+    for code in ("in", "us", "ca", "uk", "eu"):
         content = _render_country_list(code, succeeded, failed, updated_at)
         target_path = os.path.join(LISTS_DIR, f"{code}.md")
         with open(target_path, "w", encoding="utf-8") as f:

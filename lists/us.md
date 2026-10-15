@@ -1,10 +1,10 @@
 # 🇺🇸 United States Companies List
 
-> 🕐 Last updated: **2026-10-15 08:57:27 IST**
+> 🕐 Last updated: **2026-10-15 09:53:42 IST**
 
 A quick reference list of companies tracked by the scraper in **United States** and their latest status.
 
-## Scraped Companies (49)
+## Scraped Companies (54)
 
 - AMD
 - Accenture
@@ -21,6 +21,8 @@ A quick reference list of companies tracked by the scraper in **United States** 
 - Databricks
 - Datadog
 - Dell Technologies
+- DoorDash
+- Duolingo
 - Elastic
 - GitHub
 - GitLab
@@ -40,13 +42,16 @@ A quick reference list of companies tracked by the scraper in **United States** 
 - Nokia
 - Okta
 - Oracle
+- Palantir
 - Palo Alto Networks
 - PayPal
 - Pure Storage
 - Qualcomm
 - Red Hat
+- Roblox
 - Rubrik
 - Salesforce
+- Samsara
 - ServiceNow
 - Snowflake
 - Stripe

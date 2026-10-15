@@ -1,6 +1,6 @@
 # Tracked Companies Directory (Global)
 
-> 🕐 Last updated: **2026-10-15 08:57:27 IST**
+> 🕐 Last updated: **2026-10-15 09:53:42 IST**
 
 InternScan tracks engineering, AI/ML, and data internships across premier global tech employers.
 
@@ -17,9 +17,9 @@ Select a country directory for the complete list of tracked employers, fallback 
 | :--- | :---: | :---: | :--- | :---: |
 | **India** | 🇮🇳 | 65 | Bengaluru, Hyderabad, Pune, Delhi-NCR | [View IN](lists/in.md) |
 | **United States** | 🇺🇸 | 58 | SF Bay Area, Seattle, New York, Austin | [View US](lists/us.md) |
-| **Canada** | 🇨🇦 | 53 | Toronto, Waterloo, Vancouver, Montreal | Included in Global |
-| **United Kingdom** | 🇬🇧 | 53 | London, Cambridge / Oxford, Remote (UK) | Included in Global |
-| **Europe** | 🇪🇺 | 53 | Berlin, Munich, Dublin, Amsterdam | Included in Global |
+| **Canada** | 🇨🇦 | 53 | Toronto, Waterloo, Vancouver, Montreal | [View CA](lists/ca.md) |
+| **United Kingdom** | 🇬🇧 | 53 | London, Cambridge / Oxford, Remote (UK) | [View UK](lists/uk.md) |
+| **Europe** | 🇪🇺 | 53 | Berlin, Munich, Dublin, Amsterdam | [View EU](lists/eu.md) |
 
 ---
 *Maintained automatically by the InternScan scrapers.* 
