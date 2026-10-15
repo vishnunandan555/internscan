@@ -220,7 +220,7 @@ button, input, select { font-family: inherit; }
 .hero {
   position: relative;
   z-index: 1;
-  padding: clamp(32px, 6vw, 52px) clamp(12px, 3vw, 24px) 32px;
+  padding: clamp(56px, 8vw, 84px) clamp(12px, 3vw, 24px) 32px;
   max-width: 1240px;
   margin: 0 auto;
   text-align: center;
@@ -1636,7 +1636,7 @@ button, input, select { font-family: inherit; }
    ========================================================================== */
 .global-hero {
   text-align: center;
-  padding: 64px 20px 32px;
+  padding: clamp(56px, 8vw, 84px) 20px 32px;
   max-width: 860px;
   margin: 0 auto;
 }
