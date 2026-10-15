@@ -16,7 +16,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-15 08:57:27 IST** · 📌 **15** open internships
+> 🕐 Last updated: **2026-10-15 11:05:12 IST** · 📌 **15** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
@@ -145,10 +145,10 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [ASIC Engineer Intern, Implementation](https://www.metacareers.com/jobs/1046140895105013) ✨ | Hardware/Silicon | Bengaluru | — | 2026-10-15 |
-| [ASIC Engineer Intern, Design Verification](https://www.metacareers.com/jobs/1123459746795309) ✨ | Hardware/Silicon | Bengaluru | — | 2026-10-15 |
-| [ASIC Engineer Intern, Design](https://www.metacareers.com/jobs/1631077978652493) | Hardware/Silicon | Bengaluru | — | 2026-10-07 |
-| [ASIC Engineer Intern - Infra Silicon Enablement](https://www.metacareers.com/jobs/939474918844068) | Hardware/Silicon | Bengaluru | — | 2026-10-07 |
+| [ASIC Engineer Intern, Implementation](https://www.metacareers.com/jobs/1046140895105013) ✨ | Hardware/Silicon | Bengaluru | 2026-10-13 | 2026-10-15 |
+| [ASIC Engineer Intern, Design Verification](https://www.metacareers.com/jobs/1123459746795309) ✨ | Hardware/Silicon | Bengaluru | 2026-10-13 | 2026-10-15 |
+| [ASIC Engineer Intern, Design](https://www.metacareers.com/jobs/1631077978652493) | Hardware/Silicon | Bengaluru | 2026-10-05 | 2026-10-07 |
+| [ASIC Engineer Intern - Infra Silicon Enablement](https://www.metacareers.com/jobs/939474918844068) | Hardware/Silicon | Bengaluru | 2026-10-05 | 2026-10-07 |
 
 [⬆️ Back to Top](#top)
 

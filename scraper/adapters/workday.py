@@ -21,14 +21,12 @@ POSTED_RE = re.compile(r"Posted (Today|Yesterday|(\d+)(\+?) Days? Ago)", re.IGNO
 
 
 def _posted_date(posted_on):
-    """Workday only gives relative text ("Posted 14 Days Ago"). "30+ Days Ago"
-    is open-ended, so it maps to None rather than a made-up date."""
+    """Workday only gives relative text ("Posted 14 Days Ago", "Posted 30+ Days Ago").
+    Map relative days to YYYY-MM-DD so older listings do not falsely fall back to today's crawl date."""
     m = POSTED_RE.search(posted_on or "")
     if not m:
         return None
     word, days, plus = m.group(1), m.group(2), m.group(3)
-    if plus:
-        return None
     if word.lower() == "today":
         delta = 0
     elif word.lower() == "yesterday":

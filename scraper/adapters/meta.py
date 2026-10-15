@@ -32,6 +32,32 @@ NAV_HEADERS = {
 }
 
 
+from concurrent.futures import ThreadPoolExecutor
+
+DATE_POSTED_RE = re.compile(r'"datePosted":\s*"([^"]+)"')
+
+
+def _enrich_dates(jobs):
+    """Meta search GraphQL doesn't include posting date, but the job detail page
+    embeds datePosted in JSON-LD. Concurrently enrich matching intern roles."""
+    interns = [j for j in jobs if j.looks_like_internship() and j.url]
+    if not interns:
+        return
+
+    def _fetch_one(j):
+        try:
+            r = requests.get(j.url, headers=NAV_HEADERS, timeout=8)
+            if r.status_code == 200:
+                m = DATE_POSTED_RE.search(r.text)
+                if m:
+                    j.posted = m.group(1)[:10]
+        except Exception:
+            pass
+
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        list(ex.map(_fetch_one, interns))
+
+
 def fetch(cfg):
     session = requests.Session()
     resp = session.get(PAGE_URL, headers=NAV_HEADERS, timeout=30)
@@ -78,4 +104,5 @@ def fetch(cfg):
             url=JOB_URL.format(id=j["id"]),
             locations=j.get("locations", []) or [],
         ))
+    _enrich_dates(jobs)
     return jobs

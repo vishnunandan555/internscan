@@ -83,12 +83,33 @@ function injectJobSchema(jobs) {
   }
 }
 
-function formatRelativeDate(dateStr) {
-  if (!dateStr) return "Recently";
+function formatJobDate(j) {
+  const isOfficial = Boolean(j.posted);
+  const dateStr = j.posted || j.first_seen;
+  if (!dateStr) return { text: "Recently", isOfficial: false, fullDate: "" };
+
   const days = Math.floor((new Date() - new Date(dateStr + "T00:00:00Z")) / 86400000);
-  if (days <= 0) return "Today";
-  if (days === 1) return "Yesterday";
-  return `${days}d ago`;
+  const prefix = isOfficial ? "Posted" : "Found";
+
+  let rel;
+  if (days <= 0) rel = `${prefix} today`;
+  else if (days === 1) rel = `${prefix} yesterday`;
+  else if (days < 30) rel = `${prefix} ${days}d ago`;
+  else {
+    const mo = Math.floor(days / 30);
+    rel = `${prefix} ${mo}mo ago`;
+  }
+  return { text: rel, isOfficial, fullDate: dateStr };
+}
+
+function cleanDisplayTitle(title) {
+  if (!title || !/stagiaire/i.test(title)) return title;
+  const parts = title.split(/[;/]|,\s*(?=[A-Z])/);
+  const eng = parts.filter(p => !/\b(stagiaire|d[ée]veloppement|recherche|apprentissage|logiciel)\b/i.test(p));
+  if (eng.length) return eng.join(" – ").trim();
+  const intern = parts.filter(p => /\bintern\b/i.test(p));
+  if (intern.length) return intern[0].trim();
+  return title;
 }
 
 function getAvatarLetters(company) {
@@ -376,8 +397,9 @@ function renderCardsView(filtered, container) {
   container.innerHTML = `<div class="job-grid-cards">${filtered.map(j => {
     const isSaved = savedKeys.includes(j.uid);
     const loc = formatLocationDisplay(j);
-    const date = formatRelativeDate(j.posted || j.first_seen);
+    const dateInfo = formatJobDate(j);
     const catClass = j.category === "AI/ML" ? "cat-ai" : (j.category === "Hardware/Silicon" ? "cat-hw" : "");
+    const dateTitle = dateInfo.isOfficial ? "Official employer posting date" : "First discovered by InternScan (employer hid original post date)";
 
     return `<div class="job-card">
       <div class="job-left">
@@ -388,12 +410,12 @@ function renderCardsView(filtered, container) {
             ${j.isNew ? '<span class="badge-status new">NEW</span>' : ''}
           </div>
           <div class="role-name">
-            <a href="${j.url}" target="_blank" rel="noopener">${j.title}</a>
+            <a href="${j.url}" target="_blank" rel="noopener">${cleanDisplayTitle(j.title)}</a>
           </div>
           <div class="chips-row">
             <span class="chip hub">${ICONS.pin}${loc}</span>
             <span class="chip ${catClass}">${ICONS.briefcase}${j.category || "Software"}</span>
-            <span class="chip">${ICONS.clock}${date}</span>
+            <span class="chip chip-date" title="${dateTitle}">${ICONS.clock}${dateInfo.text}</span>
           </div>
         </div>
       </div>
@@ -424,23 +446,24 @@ function renderCompactView(filtered, container) {
     ${filtered.map(j => {
       const isSaved = savedKeys.includes(j.uid);
       const loc = formatLocationDisplay(j);
-      const date = formatRelativeDate(j.posted || j.first_seen);
+      const dateInfo = formatJobDate(j);
+      const dateTitle = dateInfo.isOfficial ? "Official employer posting date" : "First discovered by InternScan (employer hid original post date)";
 
       return `<div class="compact-row">
         <div class="compact-role">
           ${renderAvatar(j.company, true)}
           <div class="compact-title-box">
-            <div class="compact-title"><a href="${j.url}" target="_blank" rel="noopener">${j.title}</a></div>
+            <div class="compact-title"><a href="${j.url}" target="_blank" rel="noopener">${cleanDisplayTitle(j.title)}</a></div>
             <div class="compact-sub">
               <span>${j.company}</span>
               ${j.isNew ? '<span class="badge-status new" style="font-size: 10px; padding: 1px 5px;">NEW</span>' : ''}
-              <span class="compact-meta-inline"> · ${loc} · ${date}</span>
+              <span class="compact-meta-inline" title="${dateTitle}"> · ${loc} · ${dateInfo.text}</span>
             </div>
           </div>
         </div>
         <div class="compact-col-loc"><span class="chip hub" style="font-size: 11px;">${loc}</span></div>
         <div class="compact-col-cat"><span class="chip" style="font-size: 11px;">${j.category || "Software"}</span></div>
-        <div class="compact-col-date" style="font-size: 12.5px; color: var(--dim);">${date}</div>
+        <div class="compact-col-date" style="font-size: 12.5px; color: var(--dim);" title="${dateTitle}">${dateInfo.text}</div>
         <div class="compact-actions">
           <button class="action-icon-btn ${isSaved ? 'saved' : ''}" style="width: 32px; height: 32px;" onclick="toggleSave('${j.uid}')" title="Bookmark">
             ${ICONS.star(isSaved, 13)}
