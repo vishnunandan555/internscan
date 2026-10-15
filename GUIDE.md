@@ -319,9 +319,32 @@ python3 -m scraper.main -c <company_name> --dry-run
 
 ## 11. Telegram Bot & Public API Integration
 
-InternScan India provides automated notifications and public developer APIs.
+InternScan provides automated notifications and public developer APIs.
 
 - **Telegram Bot (`bot/`):** Lightweight (< 35 MB RAM) self-hostable bot with auto-broadcast and `/latest`, `/active`, `/status` commands. See **[bot/README.md](bot/README.md)**.
 - **Developer REST APIs:** `api/latest.json` (daily new jobs) and `api/active.json` (all verified active jobs).
 - **RSS 2.0 Feed:** `feed.xml` for zero-code bot integrations.
 - **GitHub Actions Auto-Push:** Fork and set `TELEGRAM_BOT_TOKEN` & `TELEGRAM_CHAT_ID` secrets to broadcast automatically on each scrape.
+
+---
+
+## 12. Project Documentation Directory
+
+For dedicated component architecture and contribution guides, refer to:
+
+- 🏛️ **[ARCHITECTURE.md](ARCHITECTURE.md)** — Core system architecture, non-destructive synchronization, and atomic POSIX writes.
+- 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** — Guide to adding companies, fixing adapters, and testing pull requests.
+- 👥 **[CONTRIBUTORS.md](CONTRIBUTORS.md)** — Author credits, core maintainers, and community contributors.
+- 🔒 **[SECURITY.md](SECURITY.md)** — Security policies, vulnerability disclosure, and crawler ethics.
+- ⚙️ **[scraper/README.md](scraper/README.md)** — Synchronization engine and pipeline orchestrator.
+- 🔌 **[scraper/adapters/README.md](scraper/adapters/README.md)** — Modular ATS adapters directory.
+- 🌍 **[scraper/countries/README.md](scraper/countries/README.md)** — Multi-country company registries.
+- 💾 **[data/README.md](data/README.md)** — Master and regional database partitions and schema.
+- 🌐 **[docs/README.md](docs/README.md)** — GitHub Pages web application architecture and tokens.
+- 🤖 **[bot/README.md](bot/README.md)** — Dedicated 24/7 Telegram bot deployment guide.
+- 📋 **[lists/README.md](lists/README.md)** — Regional tracked company registries.
+- 🛠️ **[scripts/README.md](scripts/README.md)** — Automation utilities and logo tools.
+- 🧪 **[tests/README.md](tests/README.md)** — Unit test suite execution and test coverage.
+- 📊 **[logs/README.md](logs/README.md)** — Scrape history, summaries, and rotation policy.
+- 🚀 **[.github/README.md](.github/README.md)** — GitHub Actions CI/CD workflows.
+

@@ -35,10 +35,14 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![US Portal](https://img.shields.io/badge/US_Portal-InternScan_USA-ef4444?style=for-the-badge&logo=target&logoColor=white)](https://vishnunandan555.github.io/internscan/us/)
 [![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-India_Portal-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/internscan/in/)
 [![Version](https://img.shields.io/badge/Version-v2.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/vishnunandan555/internscan/releases)
+[![Architecture](https://img.shields.io/badge/Architecture-System_Design-8b5cf6?style=for-the-badge&logo=diagram-next&logoColor=white)](ARCHITECTURE.md)
 [![Telegram Bot Guide](https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](bot/README.md)
 [![Public API](https://img.shields.io/badge/Public_API-REST_&_RSS-10b981?style=for-the-badge&logo=fastapi&logoColor=white)](#-public-api--telegram-bot-integration)
 [![Tracked Companies](https://img.shields.io/badge/Tracked_Companies-59_Active-2563eb?style=for-the-badge&logo=airplay&logoColor=white)](LIST.md)
+[![Contributing](https://img.shields.io/badge/Contributing-Join_Us-14b8a6?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
+[![Contributors](https://img.shields.io/badge/Contributors-Hall_of_Fame-ec4899?style=for-the-badge&logo=target&logoColor=white)](CONTRIBUTORS.md)
 [![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
+[![Security](https://img.shields.io/badge/Security-Policy-e11d48?style=for-the-badge&logo=securityscorecard&logoColor=white)](SECURITY.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
 > 🕐 Last updated: **{updated}** · 📌 **{n_open}** open internships
@@ -91,11 +95,47 @@ If you don't want to host any server:
 
 ---
 
+## 📚 Repository Documentation & Architecture
+
+For comprehensive blueprints, developer handbooks, and modular subsystem documentation:
+
+| Document | Purpose |
+|---|---|
+| **[ARCHITECTURE.md](ARCHITECTURE.md)** | Full end-to-end system design, diff sync engine, multi-region routing & persistence |
+| **[GUIDE.md](GUIDE.md)** | Developer manual, CLI flags, ATS adapter guide, testing, and debugging commands |
+| **[CONTRIBUTING.md](CONTRIBUTING.md)** | Guidelines for adding new ATS adapters, company configs, and pull request rules |
+| **[CONTRIBUTORS.md](CONTRIBUTORS.md)** | Core project maintainers, domain leads, and open-source hall of fame |
+| **[SECURITY.md](SECURITY.md)** | Security vulnerability reporting guidelines and ethical crawling policy |
+| **[AGENTS.md](AGENTS.md)** | Inviolable guidelines and strict memory constraints for AI coding agents |
+| **[LIST.md](LIST.md)** | Master directory of tracked companies, ATS health statuses, and unsupported portals |
+
+### 📂 Directory-Level Architecture Guides
+- **[`scraper/`](scraper/README.md)**: Synchronization engine, thread pools, atomic store, and API generators.
+  - **[`scraper/adapters/`](scraper/adapters/README.md)**: 18 modular ATS crawler engines.
+  - **[`scraper/countries/`](scraper/countries/README.md)**: Multi-country regional registry & inheritance.
+  - **[`scraper/countries/india/`](scraper/countries/india/README.md)**: India-specific company configurations and overrides.
+  - **[`scraper/countries/usa/`](scraper/countries/usa/README.md)**: USA-specific company configurations and overrides.
+- **[`data/`](data/README.md)**: Master and regional JSON job databases, schemas, and atomic POSIX commit rules.
+- **[`bot/`](bot/README.md)**: 24/7 Telegram notification daemon (< 35 MB RAM footprint).
+- **[`docs/`](docs/README.md)**: Production GitHub Pages web application, vanilla design system, and client state engine.
+  - **[`docs/css/`](docs/css/README.md)**: Design system tokens, variables, and responsive layout styling.
+  - **[`docs/js/`](docs/js/README.md)**: Zero-dependency client state, search, and filtering engine.
+  - **[`docs/api/`](docs/api/README.md)**: Public REST endpoints and specifications.
+  - **[`docs/logos/`](docs/logos/README.md)**: Cached company brand logos and vector assets.
+- **[`lists/`](lists/README.md)**: Regional markdown reports and company health summaries.
+- **[`scripts/`](scripts/README.md)**: Logo asset fetcher and OpenGraph social banner generators.
+- **[`tests/`](tests/README.md)**: Unittest regression suite covering models, adapters, and store invariants.
+- **[`logs/`](logs/README.md)**: Automated run execution traces and historical sync metrics.
+- **[`.github/`](.github/README.md)**: GitHub Actions continuous integration and daily scraping cron workflows.
+  - **[`.github/workflows/`](.github/workflows/README.md)**: Daily sync and diagnostics workflow definitions.
+
+---
+
 ## 🤝 Request a Company or Report an Issue
 
 - **Want a company added?** Check **[LIST.md](LIST.md)** first to see if it is already actively scraped or documented as unsupported. If it's missing, [open a Company Request issue](https://github.com/vishnunandan555/internscan/issues/new?title=%5BCompany+Request%5D+<Company+Name>) with the company's official career portal URL!
 - **Found a broken link or expired posting?** Please [open a Bug Report issue](https://github.com/vishnunandan555/internscan/issues/new?title=%5BBug%5D+<Issue+Description>) so we can investigate.
-- **Looking for developer guides, CLI usage, or scraper architecture?** Read the complete **[Developer & System Guide (GUIDE.md)](GUIDE.md)**.
+- **Looking for developer guides, CLI usage, or scraper architecture?** Read the complete **[Developer & System Guide (GUIDE.md)](GUIDE.md)** and **[ARCHITECTURE.md](ARCHITECTURE.md)**.
 """
 
 

@@ -15,7 +15,8 @@ internscan/
 │   ├── store.py               # Atomic database persistence & diff merge (added, closed, reopened)
 │   ├── models.py              # Shared Job dataclass (generates stable UID "{slug}:{external_id}")
 │   ├── companies.py           # Master registry of 59+ supported companies & adapters
-│   ├── adapters/              # Modular ATS fetchers (Workday, Greenhouse, Lever, Google, etc.)
+│   ├── adapters/              # Modular ATS fetchers (18 custom crawler engines)
+│   ├── countries/             # Multi-country regional modules (India, USA, etc.)
 │   ├── categories.py          # Engineering domain classifier (Software, AI/ML, Data, Silicon...)
 │   ├── regions.py             # India location filter & Tech Hub tagger (BLR, HYD, DEL, PUN, BOM...)
 │   ├── api.py                 # Public REST API & RSS 2.0 generator (outputs to docs/api/)
@@ -28,18 +29,26 @@ internscan/
 │   ├── .env.example           # Environment template (BOT_TOKEN, CHAT_ID, POLL_INTERVAL)
 │   └── internscan-bot.service # Linux systemd unit for 24/7 background operation
 ├── docs/                      # Production web application (GitHub Pages root)
-│   ├── index.html             # High-speed static web app with #api-docs section
+│   ├── index.html             # High-speed static web app with Integrations & APIs section
 │   ├── css/style.css          # Design system, dark/light theme, glassmorphism
 │   ├── js/app.js              # Client state, fuzzy search, filters, saved roles
 │   ├── api/                   # Public REST developer endpoints
-│   │   ├── latest.json        # Newly added and reopened roles from current sync
-│   │   └── active.json        # All currently verified active internships
+│   ├── in/, us/, ca/, uk/, eu/# Localized country-specific portals
 │   ├── feed.xml               # Standard RSS 2.0 feed
 │   └── jobs.json              # Direct replica of database for client-side loading
 ├── data/
 │   ├── jobs.json              # Master JSON database of all internships
-│   └── health.json            # Cumulative scraper health status
+│   ├── health.json            # Cumulative scraper health status
+│   └── in/, us/, ca/, uk/, eu/# Region-partitioned job databases
+├── lists/                     # Auto-generated regional company health markdown files
+├── scripts/                   # Auxiliary CLI tooling (download_logos.py, generate_og_image.py)
+├── logs/                      # Execution trace logs and scrape summaries
 ├── tests/                     # Unit test suite (unittest)
+├── ARCHITECTURE.md            # Comprehensive end-to-end system architecture
+├── CONTRIBUTING.md            # Developer contribution guidelines & ATS onboarding
+├── CONTRIBUTORS.md            # Maintainer credits and recognition
+├── SECURITY.md                # Vulnerability disclosure & ethical crawling policy
+├── GUIDE.md                   # Complete developer handbook & CLI manual
 └── .github/workflows/
     ├── update.yml             # Daily 03:00 AM IST scrape & auto-commit pipeline
     └── scraper-doctor.yml     # Nightly diagnostics runner
