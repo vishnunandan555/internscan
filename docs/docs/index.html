@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Developer Platform, Public APIs &amp; Telegram Bot | InternScan</title>
+<meta name="description" content="Official documentation for InternScan's public REST APIs, real-time RSS 2.0 feeds, and lightweight Telegram bot for verified engineering internships worldwide.">
+<meta name="keywords" content="internscan api, internships api, tech jobs api, telegram internship bot, rss feed internships, software engineering internships api, developer platform">
+<meta name="author" content="Vishnu Nandan">
+<link rel="canonical" href="https://vishnunandan555.github.io/internscan/docs/">
+
+<!-- Open Graph / Twitter -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://vishnunandan555.github.io/internscan/docs/">
+<meta property="og:site_name" content="InternScan Developer Platform">
+<meta property="og:title" content="InternScan · Public APIs, RSS &amp; Telegram Bot Documentation">
+<meta property="og:description" content="Free, CORS-enabled REST endpoints, RSS 2.0 feeds, and turnkey Telegram bots for real-time verified software internships.">
+<meta property="og:image" content="https://vishnunandan555.github.io/internscan/og-image.png?v=2">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://vishnunandan555.github.io/internscan/docs/">
+<meta name="twitter:title" content="InternScan · Public APIs, RSS &amp; Telegram Bot Documentation">
+<meta name="twitter:description" content="Free, CORS-enabled REST endpoints, RSS 2.0 feeds, and turnkey Telegram bots for real-time verified software internships.">
+<meta name="twitter:image" content="https://vishnunandan555.github.io/internscan/og-image.png?v=2">
+
+<meta name="theme-color" content="#07090e">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Crect%20width='100'%20height='100'%20rx='22'%20fill='%230f172a'/%3E%3Cpath%20d='M28%2036L44%2050L28%2064M52%2064H72'%20stroke='%23f97316'%20stroke-width='8'%20stroke-linecap='round'%20stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="ambient-glow"></div>
+<div class="grid-pattern"></div>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <div class="nav-brand-group">
+      <a href="../?noredirect=1" class="brand-logo">
+        <div class="brand-icon-box">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+        </div>
+        <span>InternScan</span>
+      </a>
+      <div class="country-selector-wrap" id="countrySelectorWrap">
+        <button type="button" class="country-pill-btn" id="countryMenuBtn" aria-label="Select Country">
+          <span>📖 Documentation</span>
+        </button>
+        <div class="country-dropdown-menu" id="countryDropdownMenu">
+          <a href="../?noredirect=1" class="country-menu-item"><span class="flag">🌐</span> Global</a>
+          <a href="../in/" class="country-menu-item"><span class="flag">🇮🇳</span> India</a>
+          <a href="../us/" class="country-menu-item"><span class="flag">🇺🇸</span> United States</a>
+          <a href="../ca/" class="country-menu-item"><span class="flag">🇨🇦</span> Canada</a>
+          <a href="../uk/" class="country-menu-item"><span class="flag">🇬🇧</span> United Kingdom</a>
+          <a href="../eu/" class="country-menu-item"><span class="flag">🇪🇺</span> Europe</a>
+        </div>
+      </div>
+    </div>
+    <div class="nav-right">
+      <a href="../in/" class="nav-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+        <span class="nav-btn-text">Browse Jobs</span>
+      </a>
+      <a href="https://github.com/vishnunandan555/internscan" target="_blank" rel="noopener" class="nav-btn">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+        <span class="nav-btn-text">GitHub</span>
+      </a>
+      <button class="theme-toggle-btn" id="theme-btn" aria-label="Toggle theme">
+        <svg id="theme-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" style="padding-bottom: 24px;">
+  <h1>Developer Platform &amp; <span class="gradient-text">Integrations</span></h1>
+  <p>Free, CORS-enabled REST endpoints, RSS 2.0 syndication, and zero-cost Telegram alert bots. Power your Discord channels, university job boards, and automated trackers with direct career portal feeds.</p>
+
+  <div class="metrics-grid">
+    <div class="metric-card">
+      <div class="metric-icon-wrap">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+      </div>
+      <div class="metric-label">REST Endpoints</div>
+      <div class="metric-value">6 Regions</div>
+      <div class="metric-sub">JSON &amp; RSS formats</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-icon-wrap">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+      </div>
+      <div class="metric-label">Authentication</div>
+      <div class="metric-value">0 Keys</div>
+      <div class="metric-sub">100% free &amp; open CORS</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-icon-wrap">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+      </div>
+      <div class="metric-label">Sync Cadence</div>
+      <div class="metric-value">Daily 24h</div>
+      <div class="metric-sub">Direct official ATS sync</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-icon-wrap">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+      </div>
+      <div class="metric-label">Telegram Bot</div>
+      <div class="metric-value">&lt; 35 MB</div>
+      <div class="metric-sub">Runs on any $1 VPS</div>
+    </div>
+  </div>
+</header>
+
+<section id="api-docs" class="docs-section">
+  <div class="docs-container">
+    <div class="docs-header">
+      <span class="docs-badge">Documentation &amp; Setup</span>
+      <h2 class="docs-title">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+        InternScan API, Bot &amp; Integration Hub
+      </h2>
+      <p class="docs-desc">
+        Choose your integration method below: deploy our ultra-lightweight Telegram bot on a tiny VPS, poll our free REST/RSS endpoints, or use GitHub Actions for 100% zero-server scheduled alerts.
+      </p>
+    </div>
+
+    <!-- Tabs Nav -->
+    <div class="docs-tabs-nav">
+      <button class="docs-tab-btn active" data-tab="tab-api">
+        ⚡ REST API &amp; RSS Endpoints
+      </button>
+      <button class="docs-tab-btn" data-tab="tab-bot">
+        🤖 Telegram Bot (Deploy in 3 mins)
+      </button>
+      <button class="docs-tab-btn" data-tab="tab-fork">
+        🍴 GitHub Actions Push (Zero Server)
+      </button>
+      <button class="docs-tab-btn" data-tab="tab-schema">
+        📋 JSON Schema &amp; Invariants
+      </button>
+    </div>
+
+    <!-- Tab 1: REST API & RSS -->
+    <div id="tab-api" class="docs-tab-panel active">
+      <!-- Global Endpoints -->
+      <div class="api-card">
+        <div class="api-card-header">
+          <div class="api-endpoint-wrap">
+            <span class="method-badge">GET</span>
+            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/api/active.json</span>
+          </div>
+          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/api/active.json">
+            Copy URL
+          </button>
+        </div>
+        <p style="font-size: 13px; color: var(--dim); margin-bottom: 8px;">
+          <strong>All Active Jobs (Global):</strong> Clean JSON array of all verified active software and tech internships worldwide, sorted newest first.
+        </p>
+      </div>
+
+      <div class="api-card">
+        <div class="api-card-header">
+          <div class="api-endpoint-wrap">
+            <span class="method-badge">GET</span>
+            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/api/latest.json</span>
+          </div>
+          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/api/latest.json">
+            Copy URL
+          </button>
+        </div>
+        <p style="font-size: 13px; color: var(--dim); margin-bottom: 8px;">
+          <strong>Today's New Sync (Diff):</strong> Returns newly discovered and reopened internships from the latest daily sync cycle. Ideal for polling bots.
+        </p>
+        <div class="code-box">
+          <pre><code>{
+  "updated_at": "2026-10-15T03:00:00Z",
+  "new_count": 5,
+  "reopened_count": 1,
+  "total_active": 128,
+  "new_jobs": [
+    {
+      "company": "Google",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/...",
+      "city_tag": "Bengaluru",
+      "category": "Software",
+      "posted": "2026-10-14"
+    }
+  ]
+}</code></pre>
+        </div>
+      </div>
+
+      <!-- Regional Endpoints Directory -->
+      <div class="feature-box" style="margin: 18px 0;">
+        <h4>🌍 Dedicated Regional Endpoints</h4>
+        <p style="margin-bottom: 12px;">Query regional JSON datasets directly without client-side filtering:</p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 10px;">
+          <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; font-size: 12.5px;">
+            <strong>🇮🇳 India:</strong> <code style="color: var(--brand);">/in/api/active.json</code> &amp; <code style="color: var(--brand);">/in/api/latest.json</code>
+          </div>
+          <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; font-size: 12.5px;">
+            <strong>🇺🇸 United States:</strong> <code style="color: var(--brand);">/us/api/active.json</code> &amp; <code style="color: var(--brand);">/us/api/latest.json</code>
+          </div>
+          <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; font-size: 12.5px;">
+            <strong>🇨🇦 Canada:</strong> <code style="color: var(--brand);">/ca/api/active.json</code> &amp; <code style="color: var(--brand);">/ca/api/latest.json</code>
+          </div>
+          <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; font-size: 12.5px;">
+            <strong>🇬🇧 United Kingdom:</strong> <code style="color: var(--brand);">/uk/api/active.json</code> &amp; <code style="color: var(--brand);">/uk/api/latest.json</code>
+          </div>
+          <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; font-size: 12.5px;">
+            <strong>🇪🇺 Europe:</strong> <code style="color: var(--brand);">/eu/api/active.json</code> &amp; <code style="color: var(--brand);">/eu/api/latest.json</code>
+          </div>
+          <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; font-size: 12.5px;">
+            <strong>📊 Metrics:</strong> <code style="color: var(--brand);">/metrics.json</code> (Counts across all countries)
+          </div>
+        </div>
+      </div>
+
+      <!-- RSS Feed -->
+      <div class="api-card">
+        <div class="api-card-header">
+          <div class="api-endpoint-wrap">
+            <span class="method-badge" style="background: rgba(249, 115, 22, 0.15); color: var(--brand); border-color: rgba(249, 115, 22, 0.3);">RSS 2.0</span>
+            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/feed.xml</span>
+          </div>
+          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/feed.xml">
+            Copy URL
+          </button>
+        </div>
+        <p style="font-size: 13px; color: var(--dim); margin-bottom: 8px;">
+          Standard RSS 2.0 feed. Connect directly to no-code Telegram bots, Discord webhooks, or Slack with zero programming.
+        </p>
+      </div>
+
+      <div class="grid-2col">
+        <div class="feature-box">
+          <h4>💻 Python Example</h4>
+          <div class="code-box">
+            <pre><code>import requests
+data = requests.get("https://vishnunandan555.github.io/internscan/api/latest.json").json()
+for job in data.get("new_jobs", []):
+    print(f"[{job['company']}] {job['title']} -> {job['url']}")</code></pre>
+          </div>
+        </div>
+        <div class="feature-box">
+          <h4>⚡ JavaScript (Fetch)</h4>
+          <div class="code-box">
+            <pre><code>const res = await fetch("https://vishnunandan555.github.io/internscan/api/latest.json");
+const { new_jobs } = await res.json();
+console.log(`Found ${new_jobs.length} new openings!`);</code></pre>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tab 2: Bot Guide -->
+    <div id="tab-bot" class="docs-tab-panel">
+      <div class="step-list">
+        <div class="step-item">
+          <div class="step-number">1</div>
+          <div class="step-content">
+            <h4>Deploy on Any $1/mo Nano Node or Linux VPS (&lt;35 MB RAM)</h4>
+            <p>Our bot script is built with pure Python 3 using standard libraries, requiring less than 15% of a 256MB RAM server.</p>
+            <div class="code-box">
+              <pre><code>git clone https://github.com/vishnunandan555/internscan.git
+cd internscan/bot
+pip install -r requirements.txt
+cp .env.example .env &amp;&amp; nano .env
+python3 main.py</code></pre>
+            </div>
+          </div>
+        </div>
+        <div class="step-item">
+          <div class="step-number">2</div>
+          <div class="step-content">
+            <h4>Configure Credentials in <code>.env</code></h4>
+            <p>Create a bot in 30 seconds via <code>@BotFather</code> on Telegram, add it to your channel as an Admin, and paste your values:</p>
+            <div class="code-box">
+              <pre><code>TELEGRAM_BOT_TOKEN=7123456789:AAHfkj...
+TELEGRAM_CHAT_ID=@my_internships_channel
+POLL_INTERVAL_SECONDS=1800</code></pre>
+            </div>
+          </div>
+        </div>
+        <div class="step-item">
+          <div class="step-number">3</div>
+          <div class="step-content">
+            <h4>Keep Running 24/7 with systemd</h4>
+            <p>Use the pre-packaged service unit so your bot boots automatically on server restart:</p>
+            <div class="code-box">
+              <pre><code>sudo cp internscan-bot.service /etc/systemd/system/
+sudo systemctl daemon-reload
+sudo systemctl enable --now internscan-bot
+sudo systemctl status internscan-bot</code></pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid-2col">
+        <div class="feature-box">
+          <h4>💬 Interactive Bot Commands</h4>
+          <p>Users in your group can message: <code>/latest</code> (new roles today), <code>/active</code> (all verified roles), <code>/status</code> (health check &amp; memory).</p>
+        </div>
+        <div class="feature-box">
+          <h4>📖 Full Hosting Guide</h4>
+          <p>Read detailed deployment instructions and troubleshooting in <a href="https://github.com/vishnunandan555/internscan/blob/main/bot/README.md" target="_blank" rel="noopener" style="color: var(--brand); font-weight: 700;">bot/README.md on GitHub &rarr;</a></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tab 3: GitHub Actions Fork -->
+    <div id="tab-fork" class="docs-tab-panel">
+      <div class="step-list">
+        <div class="step-item">
+          <div class="step-number">1</div>
+          <div class="step-content">
+            <h4>Fork the Repository</h4>
+            <p>Fork <a href="https://github.com/vishnunandan555/internscan" target="_blank" rel="noopener" style="color: var(--brand); font-weight: 700;">vishnunandan555/internscan</a> to your personal GitHub account.</p>
+          </div>
+        </div>
+        <div class="step-item">
+          <div class="step-number">2</div>
+          <div class="step-content">
+            <h4>Set Repository Action Secrets</h4>
+            <p>In your forked repo: Navigate to <strong>Settings &rarr; Secrets and variables &rarr; Actions</strong> and add two secrets:</p>
+            <ul style="margin: 8px 0 8px 20px; font-size: 13px; color: var(--dim); line-height: 1.6;">
+              <li><code>TELEGRAM_BOT_TOKEN</code>: Bot token from <code>@BotFather</code></li>
+              <li><code>TELEGRAM_CHAT_ID</code>: Channel username (e.g. <code>@my_channel</code>) or chat ID</li>
+            </ul>
+          </div>
+        </div>
+        <div class="step-item">
+          <div class="step-number">3</div>
+          <div class="step-content">
+            <h4>Automated Push with Zero Server Costs</h4>
+            <p>Your GitHub Actions workflow will execute automatically on schedule. When any new internship appears, it immediately pushes the notification to your Telegram chat!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tab 4: JSON Schema & Invariants -->
+    <div id="tab-schema" class="docs-tab-panel">
+      <div class="feature-box" style="margin-bottom: 16px;">
+        <h4>🛡️ Inviolable Data Invariants</h4>
+        <ul style="margin: 8px 0 8px 20px; font-size: 13px; color: var(--dim); line-height: 1.6;">
+          <li><strong>Jobs are NEVER deleted:</strong> When an employer fills a role, it is set to <code>active: false</code> and timestamped with <code>closed</code>. Records are permanently retained to track posting flapping.</li>
+          <li><strong>Stable Unique Identifiers (UIDs):</strong> Every posting has a stable <code>uid = "{company_slug}:{external_id}"</code> derived from the employer's official ATS requisition number.</li>
+          <li><strong>Atomic Writes:</strong> All persistent databases write to temporary files first with POSIX atomic replacement to prevent corrupt reads.</li>
+        </ul>
+      </div>
+
+      <div class="code-box">
+        <pre><code>// Single Job Schema
+{
+  "uid": "google:123456789",
+  "company": "Google",
+  "title": "Software Engineering Intern, Summer 2027",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/...",
+  "locations": ["Bengaluru, Karnataka, India"],
+  "city_tag": "Bengaluru",
+  "category": "Software",
+  "first_seen": "2026-10-12",
+  "last_seen": "2026-10-15",
+  "active": true,
+  "closed": null,
+  "source": "api"
+}</code></pre>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- About Section for Architecture -->
+<section class="info-section">
+  <div class="info-box">
+    <h2>
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+      About InternScan Platform Architecture
+    </h2>
+    <div class="faq-grid">
+      <div class="faq-card">
+        <h4>Direct ATS Synchronization</h4>
+        <p>Positions are fetched directly from Workday, Greenhouse, SmartRecruiters, Lever, Oracle HCM, Eightfold, and custom corporate APIs every 3 hours.</p>
+      </div>
+      <div class="faq-card">
+        <h4>Strict Memory Budget (&lt; 35 MB RAM)</h4>
+        <p>Both our scrapers and bot engine avoid heavy frameworks or headful browsers. Pure Python standard libraries ensure instant cold starts and minimal resource consumption.</p>
+      </div>
+      <div class="faq-card">
+        <h4>Zero Fluff &amp; Verified Engineering Roles</h4>
+        <p>Rule-based categorization categorizes roles into Software, AI/ML, Data Engineering, Silicon/Hardware, Cloud/Infra, Mobile, and Security buckets.</p>
+      </div>
+      <div class="faq-card">
+        <h4>100% Free &amp; Open Source (MIT)</h4>
+        <p>The entire scraping engine, database, website, and Telegram bot are licensed under MIT. Contributions and new company adapters are welcomed on GitHub.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="toast-box" id="toast">
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+  <span id="toast-text">Link copied to clipboard</span>
+</div>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="../?noredirect=1" class="brand-logo">
+          <div class="brand-icon-box">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+          </div>
+          <span>InternScan</span>
+        </a>
+        <p class="footer-brand-desc">The open-source global directory for verified software engineering, AI/ML, and tech internships directly from official careers APIs.</p>
+        <div class="footer-status-pill">
+          <span class="pulse-dot"></span>
+          <span>Platform Operational · Updated Daily</span>
+        </div>
+      </div>
+
+      <div class="footer-col">
+        <h4>Country Trackers</h4>
+        <ul>
+          <li><a href="../in/">🇮🇳 India Tracker</a></li>
+          <li><a href="../us/">🇺🇸 United States</a></li>
+          <li><a href="../ca/">🇨🇦 Canada</a></li>
+          <li><a href="../uk/">🇬🇧 United Kingdom</a></li>
+          <li><a href="../eu/">🇪🇺 Europe</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Developer APIs</h4>
+        <ul>
+          <li><a href="../api/active.json" target="_blank">Active Jobs (JSON)</a></li>
+          <li><a href="../api/latest.json" target="_blank">Today's Sync (JSON)</a></li>
+          <li><a href="../feed.xml" target="_blank">RSS 2.0 Feed</a></li>
+          <li><a href="../metrics.json" target="_blank">Metrics API</a></li>
+          <li><a href="#">Documentation Hub</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Community &amp; Source</h4>
+        <ul>
+          <li><a href="https://github.com/vishnunandan555/internscan" target="_blank" rel="noopener">GitHub Repository</a></li>
+          <li><a href="https://github.com/vishnunandan555/internscan/issues/new?title=%5BBug%5D+<Report>" target="_blank" rel="noopener">Report an Issue</a></li>
+          <li><a href="https://github.com/vishnunandan555/internscan/issues/new?title=%5BCompany+Request%5D+<Company+Name>" target="_blank" rel="noopener">Request an Employer</a></li>
+          <li><a href="https://github.com/vishnunandan555/internscan/blob/main/LIST.md" target="_blank" rel="noopener">Tracked Employers (65+)</a></li>
+          <li><a href="#" onclick="window.scrollTo({top:0, behavior:'smooth'}); return false;">Back to Top ↑</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div>InternScan Developer Platform · Released under the MIT License · Maintained with ❤️ by the community</div>
+      <div class="footer-bottom-links">
+        <a href="https://github.com/vishnunandan555/internscan/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a>
+        <span>·</span>
+        <a href="../api/active.json" target="_blank">Open API</a>
+        <span>·</span>
+        <a href="../?noredirect=1">Global</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="../js/app.js" defer></script>
+</body>
+</html>

@@ -123,10 +123,10 @@
         <span class="nav-btn-text">Tracked Companies (49)</span>
         <span class="nav-btn-text-mobile">49 Cos</span>
       </a>
-      <a href="#api-docs" class="nav-btn">
+      <a href="../docs/" class="nav-btn">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2 2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"></path><rect x="4" y="8" width="16" height="12" rx="2"></rect><circle cx="9" cy="14" r="1.5"></circle><circle cx="15" cy="14" r="1.5"></circle></svg>
-        <span class="nav-btn-text">API &amp; Telegram Bot</span>
-        <span class="nav-btn-text-mobile">API</span>
+        <span class="nav-btn-text">API &amp; Bot Docs</span>
+        <span class="nav-btn-text-mobile">Docs</span>
       </a>
       <button class="theme-toggle-btn" id="theme-btn" aria-label="Toggle theme">
         <svg id="theme-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
@@ -266,209 +266,7 @@
   </div>
 </main>
 
-<section id="api-docs" class="docs-section">
-  <div class="docs-container">
-    <div class="docs-header">
-      <span class="docs-badge">Developer &amp; Community Integrations</span>
-      <h2 class="docs-title">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
-        InternScan UK · Public API &amp; Telegram Bot Documentation
-      </h2>
-      <p class="docs-desc">
-        Integrate our real-time verified internships with your Telegram channels, Discord bots, or campus society trackers. 100% free, CORS-enabled, and auto-synced daily directly from career portals.
-      </p>
-    </div>
 
-    <!-- Tabs Nav -->
-    <div class="docs-tabs-nav">
-      <button class="docs-tab-btn active" data-tab="tab-bot">
-        🤖 Telegram Bot (Deploy in 3 mins)
-      </button>
-      <button class="docs-tab-btn" data-tab="tab-api">
-        ⚡ REST API &amp; RSS Endpoints
-      </button>
-      <button class="docs-tab-btn" data-tab="tab-fork">
-        🍴 GitHub Actions Push (Zero Server)
-      </button>
-    </div>
-
-    <!-- Tab 1: Bot Guide -->
-    <div id="tab-bot" class="docs-tab-panel active">
-      <div class="step-list">
-        <div class="step-item">
-          <div class="step-number">1</div>
-          <div class="step-content">
-            <h4>Deploy on Any $1/mo Nano Node or Linux VPS (&lt;35 MB RAM)</h4>
-            <p>Our bot script is built with pure Python 3 using standard libraries, requiring less than 15% of a 256MB RAM server.</p>
-            <div class="code-box">
-              <pre><code>git clone https://github.com/vishnunandan555/internscan.git
-cd internscan/bot
-pip install -r requirements.txt
-cp .env.example .env &amp;&amp; nano .env
-python3 main.py</code></pre>
-            </div>
-          </div>
-        </div>
-        <div class="step-item">
-          <div class="step-number">2</div>
-          <div class="step-content">
-            <h4>Configure Credentials in <code>.env</code></h4>
-            <p>Create a bot in 30 seconds via <code>@BotFather</code> on Telegram, add it to your channel as an Admin, and paste your values:</p>
-            <div class="code-box">
-              <pre><code>TELEGRAM_BOT_TOKEN=7123456789:AAHfkj...
-TELEGRAM_CHAT_ID=@my_internships_channel
-POLL_INTERVAL_SECONDS=1800</code></pre>
-            </div>
-          </div>
-        </div>
-        <div class="step-item">
-          <div class="step-number">3</div>
-          <div class="step-content">
-            <h4>Keep Running 24/7 with systemd</h4>
-            <p>Use the pre-packaged service unit so your bot boots automatically on server restart:</p>
-            <div class="code-box">
-              <pre><code>sudo cp internscan-bot.service /etc/systemd/system/
-sudo systemctl daemon-reload
-sudo systemctl enable --now internscan-bot
-sudo systemctl status internscan-bot</code></pre>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="grid-2col">
-        <div class="feature-box">
-          <h4>💬 Interactive Bot Commands</h4>
-          <p>Users in your group can message: <code>/latest</code> (new roles today), <code>/active</code> (all verified roles), <code>/status</code> (health check &amp; memory).</p>
-        </div>
-        <div class="feature-box">
-          <h4>📖 Full Hosting Guide</h4>
-          <p>Read detailed deployment instructions and troubleshooting in <a href="https://github.com/vishnunandan555/internscan/blob/main/bot/README.md" target="_blank" rel="noopener" style="color: var(--brand); font-weight: 700;">bot/README.md on GitHub &rarr;</a></p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Tab 2: REST API & RSS -->
-    <div id="tab-api" class="docs-tab-panel">
-      <!-- Endpoint 1 -->
-      <div class="api-card">
-        <div class="api-card-header">
-          <div class="api-endpoint-wrap">
-            <span class="method-badge">GET</span>
-            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/uk/api/latest.json</span>
-          </div>
-          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/uk/api/latest.json">
-            Copy URL
-          </button>
-        </div>
-        <p style="font-size: 13px; color: var(--dim); margin-bottom: 8px;">
-          Returns only newly added and reopened internships from today's daily crawl. Perfect for polling bots.
-        </p>
-        <div class="code-box">
-          <pre><code>{
-  "updated_at": "2026-10-15T03:00:00Z",
-  "new_count": 2,
-  "reopened_count": 0,
-  "total_active": 49,
-  "new_jobs": [
-    {
-      "company": "Bloomberg",
-      "title": "Software Engineering Intern - 2027",
-      "url": "https://bloomberg.com/careers/...",
-      "city_tag": "London",
-      "category": "Software",
-      "posted": "2026-10-14"
-    }
-  ]
-}</code></pre>
-        </div>
-      </div>
-
-      <!-- Endpoint 2 -->
-      <div class="api-card">
-        <div class="api-card-header">
-          <div class="api-endpoint-wrap">
-            <span class="method-badge">GET</span>
-            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/uk/api/active.json</span>
-          </div>
-          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/uk/api/active.json">
-            Copy URL
-          </button>
-        </div>
-        <p style="font-size: 13px; color: var(--dim); margin-bottom: 8px;">
-          Returns a clean JSON array of all currently active verified UK internships across 49+ employers (sorted newest first).
-        </p>
-      </div>
-
-      <!-- Endpoint 3: RSS Feed -->
-      <div class="api-card">
-        <div class="api-card-header">
-          <div class="api-endpoint-wrap">
-            <span class="method-badge" style="background: rgba(249, 115, 22, 0.15); color: var(--brand); border-color: rgba(249, 115, 22, 0.3);">RSS 2.0</span>
-            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/uk/feed.xml</span>
-          </div>
-          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/uk/feed.xml">
-            Copy URL
-          </button>
-        </div>
-        <p style="font-size: 13px; color: var(--dim); margin-bottom: 8px;">
-          Standard RSS 2.0 feed. Connect directly to no-code Telegram bots, Discord webhooks, or Slack with zero programming.
-        </p>
-      </div>
-
-      <div class="grid-2col">
-        <div class="feature-box">
-          <h4>💻 Python Example</h4>
-          <div class="code-box">
-            <pre><code>import requests
-data = requests.get("https://vishnunandan555.github.io/internscan/uk/api/latest.json").json()
-for job in data.get("new_jobs", []):
-    print(f"{job['company']}: {job['title']} -> {job['url']}")</code></pre>
-          </div>
-        </div>
-        <div class="feature-box">
-          <h4>⚡ JavaScript (Fetch)</h4>
-          <div class="code-box">
-            <pre><code>const res = await fetch("https://vishnunandan555.github.io/internscan/uk/api/latest.json");
-const { new_jobs } = await res.json();
-console.log(`Found ${new_jobs.length} new openings!`);</code></pre>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Tab 3: GitHub Actions Fork -->
-    <div id="tab-fork" class="docs-tab-panel">
-      <div class="step-list">
-        <div class="step-item">
-          <div class="step-number">1</div>
-          <div class="step-content">
-            <h4>Fork the Repository</h4>
-            <p>Fork <a href="https://github.com/vishnunandan555/internscan" target="_blank" rel="noopener" style="color: var(--brand); font-weight: 700;">vishnunandan555/internscan</a> to your personal GitHub account.</p>
-          </div>
-        </div>
-        <div class="step-item">
-          <div class="step-number">2</div>
-          <div class="step-content">
-            <h4>Set Repository Action Secrets</h4>
-            <p>In your forked repo: Navigate to <strong>Settings &rarr; Secrets and variables &rarr; Actions</strong> and add two secrets:</p>
-            <ul style="margin: 8px 0 8px 20px; font-size: 13px; color: var(--dim); line-height: 1.6;">
-              <li><code>TELEGRAM_BOT_TOKEN</code>: Bot token from <code>@BotFather</code></li>
-              <li><code>TELEGRAM_CHAT_ID</code>: Channel username (e.g. <code>@my_channel</code>) or chat ID</li>
-            </ul>
-          </div>
-        </div>
-        <div class="step-item">
-          <div class="step-number">3</div>
-          <div class="step-content">
-            <h4>Automated Push with Zero Server Costs</h4>
-            <p>Your GitHub Actions workflow will execute automatically on each scheduled run. When any new UK internship appears, it immediately pushes the notification to your Telegram chat!</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
 <section class="info-section">
   <div class="info-box">
@@ -537,7 +335,7 @@ console.log(`Found ${new_jobs.length} new openings!`);</code></pre>
           <li><a href="./api/latest.json" target="_blank">Today's Sync (JSON)</a></li>
           <li><a href="./feed.xml" target="_blank">RSS 2.0 Feed</a></li>
           <li><a href="../metrics.json" target="_blank">Global Metrics API</a></li>
-          <li><a href="#api-docs">Telegram Bot Setup</a></li>
+          <li><a href="../docs/">API &amp; Bot Documentation</a></li>
         </ul>
       </div>
 

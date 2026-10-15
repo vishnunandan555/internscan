@@ -139,6 +139,7 @@ async function fetchJobsData() {
 }
 
 async function loadJobs() {
+  if (!document.getElementById("jobs-wrapper")) return;
   try {
     const data = await fetchJobsData();
     const updated = data.updated_at ? new Date(data.updated_at) : new Date();
@@ -347,10 +348,13 @@ function renderJobs() {
   syncUrlParams();
   const filtered = filterAndSortJobs();
 
-  document.getElementById("jobs-count").textContent = filtered.length;
-  document.getElementById("saved-counter").textContent = savedKeys.length;
-
   const container = document.getElementById("jobs-wrapper");
+  if (!container) return;
+
+  const countEl = document.getElementById("jobs-count");
+  if (countEl) countEl.textContent = filtered.length;
+  const savedCounterEl = document.getElementById("saved-counter");
+  if (savedCounterEl) savedCounterEl.textContent = savedKeys.length;
   if (!filtered.length) {
     container.innerHTML = `<div class="empty-state">
       <svg class="empty-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
@@ -492,28 +496,34 @@ function resetFilters() {
 const searchInput = document.getElementById("search-input");
 const clearBtn = document.getElementById("clear-search");
 
-document.addEventListener("keydown", (e) => {
-  if (e.key === "/" && document.activeElement !== searchInput) {
-    e.preventDefault();
-    searchInput.focus();
-  } else if (e.key === "Escape" && document.activeElement === searchInput) {
-    searchInput.blur();
-  }
-});
+if (searchInput) {
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "/" && document.activeElement !== searchInput) {
+      e.preventDefault();
+      searchInput.focus();
+    } else if (e.key === "Escape" && document.activeElement === searchInput) {
+      searchInput.blur();
+    }
+  });
 
-searchInput.addEventListener("input", (e) => {
-  state.query = e.target.value.trim();
-  clearBtn.style.display = state.query ? "flex" : "none";
-  renderJobs();
-});
+  searchInput.addEventListener("input", (e) => {
+    state.query = e.target.value.trim();
+    if (clearBtn) clearBtn.style.display = state.query ? "flex" : "none";
+    renderJobs();
+  });
+}
 
-clearBtn.addEventListener("click", () => {
-  searchInput.value = "";
-  state.query = "";
-  clearBtn.style.display = "none";
-  searchInput.focus();
-  renderJobs();
-});
+if (clearBtn) {
+  clearBtn.addEventListener("click", () => {
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
+    state.query = "";
+    clearBtn.style.display = "none";
+    renderJobs();
+  });
+}
 
 document.querySelectorAll(".hub-btn").forEach(btn => {
   btn.addEventListener("click", () => {
@@ -533,27 +543,39 @@ document.querySelectorAll("#category-pills .filter-pill").forEach(pill => {
   });
 });
 
-document.getElementById("btn-new").addEventListener("click", function() {
-  state.newOnly = !state.newOnly;
-  this.classList.toggle("active", state.newOnly);
-  renderJobs();
-});
+const btnNew = document.getElementById("btn-new");
+if (btnNew) {
+  btnNew.addEventListener("click", function() {
+    state.newOnly = !state.newOnly;
+    this.classList.toggle("active", state.newOnly);
+    renderJobs();
+  });
+}
 
-document.getElementById("btn-saved").addEventListener("click", function() {
-  state.savedOnly = !state.savedOnly;
-  this.classList.toggle("active", state.savedOnly);
-  renderJobs();
-});
+const btnSaved = document.getElementById("btn-saved");
+if (btnSaved) {
+  btnSaved.addEventListener("click", function() {
+    state.savedOnly = !state.savedOnly;
+    this.classList.toggle("active", state.savedOnly);
+    renderJobs();
+  });
+}
 
-document.getElementById("company-select").addEventListener("change", (e) => {
-  state.company = e.target.value;
-  renderJobs();
-});
+const companySelect = document.getElementById("company-select");
+if (companySelect) {
+  companySelect.addEventListener("change", (e) => {
+    state.company = e.target.value;
+    renderJobs();
+  });
+}
 
-document.getElementById("sort-select").addEventListener("change", (e) => {
-  state.sort = e.target.value;
-  renderJobs();
-});
+const sortSelect = document.getElementById("sort-select");
+if (sortSelect) {
+  sortSelect.addEventListener("change", (e) => {
+    state.sort = e.target.value;
+    renderJobs();
+  });
+}
 
 const btnCards = document.getElementById("btn-view-cards");
 const btnCompact = document.getElementById("btn-view-compact");
@@ -561,14 +583,16 @@ const btnCompact = document.getElementById("btn-view-compact");
 function setViewMode(mode) {
   state.view = mode;
   localStorage.setItem("tracker_view", mode);
-  btnCards.classList.toggle("active", mode === "cards");
-  btnCompact.classList.toggle("active", mode === "compact");
+  if (btnCards) btnCards.classList.toggle("active", mode === "cards");
+  if (btnCompact) btnCompact.classList.toggle("active", mode === "compact");
   renderJobs();
 }
 
-btnCards.addEventListener("click", () => setViewMode("cards"));
-btnCompact.addEventListener("click", () => setViewMode("compact"));
-setViewMode(state.view);
+if (btnCards && btnCompact) {
+  btnCards.addEventListener("click", () => setViewMode("cards"));
+  btnCompact.addEventListener("click", () => setViewMode("compact"));
+  setViewMode(state.view);
+}
 
 // Theme Toggle
 const themeBtn = document.getElementById("theme-btn");
