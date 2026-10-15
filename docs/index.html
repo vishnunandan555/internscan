@@ -9,17 +9,28 @@
 <meta name="author" content="Vishnu Nandan">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <link rel="canonical" href="https://vishnunandan555.github.io/internscan/">
+<link rel="alternate" hreflang="en-IN" href="https://vishnunandan555.github.io/internscan/in/">
+<link rel="alternate" hreflang="en-US" href="https://vishnunandan555.github.io/internscan/us/">
+<link rel="alternate" hreflang="x-default" href="https://vishnunandan555.github.io/internscan/">
 
 <!-- Silent Zero-Permission Auto-Redirection by Location -->
 <script>
 (function() {
-  // Purge any stale country preference so previous testing never hijacks the homepage
-  try {
-    localStorage.removeItem("internscan_preferred_country");
-  } catch (_) {}
-
   const params = new URLSearchParams(window.location.search);
-  if (params.get("noredirect") === "1" || params.get("home") === "1") return;
+  // If explicitly requested or user previously chose to stay on Global in this session, do not redirect!
+  if (params.get("noredirect") === "1" || params.get("home") === "1" || sessionStorage.getItem("stay_global") === "1") {
+    try { sessionStorage.setItem("stay_global", "1"); } catch (_) {}
+    return;
+  }
+
+  // Also check document.referrer: if user navigated to Global from one of our regional portals, respect their intent to see Global
+  try {
+    const ref = document.referrer || "";
+    if (ref.includes("/in/") || ref.includes("/us/") || ref.includes("/ca/") || ref.includes("/uk/") || ref.includes("/eu/")) {
+      sessionStorage.setItem("stay_global", "1");
+      return;
+    }
+  } catch (_) {}
 
   function detectCountry() {
     try {
@@ -136,7 +147,7 @@
           <span>🌐 Global</span>
         </button>
         <div class="country-dropdown-menu" id="countryDropdownMenu">
-          <a href="./?noredirect=1" class="country-menu-item active"><span class="flag">🌐</span> Global Gateway</a>
+          <a href="./?noredirect=1" class="country-menu-item active"><span class="flag">🌐</span> Global</a>
           <a href="./in/" class="country-menu-item"><span class="flag">🇮🇳</span> India</a>
           <a href="./us/" class="country-menu-item"><span class="flag">🇺🇸</span> United States</a>
           <a href="./ca/" class="country-menu-item"><span class="flag">🇨🇦</span> Canada</a>
@@ -407,7 +418,7 @@
         <span>·</span>
         <a href="./api/active.json" target="_blank">Open API</a>
         <span>·</span>
-        <a href="./?noredirect=1">Global Gateway</a>
+        <a href="./?noredirect=1">Global</a>
       </div>
     </div>
   </div>
