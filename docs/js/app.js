@@ -193,12 +193,15 @@ const HUB_PATTERNS = {
   // UK Hubs
   "London": /\b(london)\b/i,
   "Cambridge / Oxford": /\b(cambridge|oxford)\b/i,
+  "Manchester": /\b(manchester)\b/i,
+  "Edinburgh": /\b(edinburgh)\b/i,
   // Europe Hubs
   "Berlin": /\b(berlin)\b/i,
   "Munich": /\b(munich|münchen)\b/i,
   "Dublin": /\b(dublin)\b/i,
   "Amsterdam": /\b(amsterdam)\b/i,
   "Zurich": /\b(zurich|zürich)\b/i,
+  "Paris": /\b(paris)\b/i,
   // Global & General
   "Remote": /\b(remote|work\s*from\s*home|wfh|anywhere)\b/i,
   "Other": /\b(multiple|other)\b/i,

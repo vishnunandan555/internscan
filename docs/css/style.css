@@ -958,6 +958,7 @@ button, input, select { font-family: inherit; }
 /* Info & FAQ Section */
 .info-section {
   max-width: 1240px;
+  width: 100%;
   margin: 0 auto 60px;
   padding: 0 clamp(12px, 3vw, 24px);
 }
@@ -980,7 +981,7 @@ button, input, select { font-family: inherit; }
 .faq-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+  gap: 16px;
 }
 .faq-card {
   padding: 18px;
@@ -1022,7 +1023,7 @@ button, input, select { font-family: inherit; }
   background: linear-gradient(90deg, transparent, rgba(249, 115, 22, 0.4), transparent);
 }
 .footer-inner {
-  max-width: 1180px;
+  max-width: 1240px;
   margin: 0 auto;
 }
 .footer-top {
@@ -1266,18 +1267,18 @@ button, input, select { font-family: inherit; }
    Documentation & Telegram Bot Section Styles
    ========================================================================== */
 .docs-section {
-  max-width: 1280px;
+  max-width: 1240px;
   width: 100%;
-  margin: 36px auto 0;
-  padding: 0 20px;
+  margin: 36px auto 24px;
+  padding: 0 clamp(12px, 3vw, 24px);
 }
 
 .docs-container {
-  background: var(--surface-card);
+  background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 20px;
-  padding: 32px;
-  box-shadow: var(--shadow-md);
+  border-radius: 18px;
+  padding: clamp(20px, 3vw, 32px);
+  box-shadow: var(--shadow-sm);
   position: relative;
   overflow: hidden;
 }
@@ -1473,13 +1474,13 @@ button, input, select { font-family: inherit; }
   background: var(--surface-subtle);
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 16px;
+  padding: 18px;
 }
 .feature-box h4 {
   font-size: 14px;
   font-weight: 700;
   color: var(--ink);
-  margin-bottom: 6px;
+  margin-bottom: 8px;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -1487,7 +1488,7 @@ button, input, select { font-family: inherit; }
 .feature-box p {
   font-size: 13px;
   color: var(--dim);
-  line-height: 1.5;
+  line-height: 1.55;
   margin: 0;
 }
 
@@ -1529,8 +1530,9 @@ button, input, select { font-family: inherit; }
 }
 
 @media (max-width: 640px) {
-  .docs-container {
+  .docs-container, .info-box {
     padding: 20px 16px;
+    border-radius: 14px;
   }
   .docs-title {
     font-size: 20px;
@@ -1658,9 +1660,9 @@ button, input, select { font-family: inherit; }
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
   gap: 22px;
-  max-width: 1180px;
+  max-width: 1240px;
   margin: 20px auto 60px;
-  padding: 0 20px;
+  padding: 0 clamp(12px, 3vw, 24px);
 }
 .country-card {
   background: var(--surface-card);
@@ -1740,9 +1742,9 @@ button, input, select { font-family: inherit; }
 
 /* Features Grid (Symmetric Horizontal Row on Desktop) */
 .features-container {
-  max-width: 1180px;
+  max-width: 1240px;
   margin: 50px auto 80px;
-  padding: 0 20px;
+  padding: 0 clamp(12px, 3vw, 24px);
 }
 .features-grid {
   display: grid;
