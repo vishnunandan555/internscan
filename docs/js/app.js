@@ -159,11 +159,24 @@ async function fetchJobsData() {
   throw new Error("Unable to load jobs data from any source.");
 }
 
+function formatScanDateTime(dateObj) {
+  const dStr = dateObj.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+  const tStr = dateObj.toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true });
+  return `${dStr}, ${tStr}`;
+}
+
 async function loadJobs() {
-  if (!document.getElementById("jobs-wrapper")) return;
+  const footerScanEl = document.getElementById("footer-scan-time");
   try {
     const data = await fetchJobsData();
     const updated = data.updated_at ? new Date(data.updated_at) : new Date();
+
+    if (footerScanEl) {
+      footerScanEl.textContent = `Last Scanned on: ${formatScanDateTime(updated)}`;
+    }
+
+    if (!document.getElementById("jobs-wrapper")) return;
+
     const cutoff = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
 
     allJobs = Object.keys(data.jobs || {}).map(k => {
@@ -174,10 +187,15 @@ async function loadJobs() {
     }).filter(j => j.active);
 
     // Update hero metrics
-    document.getElementById("metric-jobs").textContent = allJobs.length;
+    const metricJobsEl = document.getElementById("metric-jobs");
+    if (metricJobsEl) metricJobsEl.textContent = allJobs.length;
     const uniqueCos = new Set(allJobs.map(j => j.company));
-    document.getElementById("metric-companies").textContent = uniqueCos.size;
-    document.getElementById("last-updated-text").textContent = `Last checked: ${updated.toLocaleDateString()} ${updated.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`;
+    const metricCosEl = document.getElementById("metric-companies");
+    if (metricCosEl) metricCosEl.textContent = uniqueCos.size;
+    const lastCheckedEl = document.getElementById("last-updated-text");
+    if (lastCheckedEl) {
+      lastCheckedEl.textContent = `Last checked: ${formatScanDateTime(updated)}`;
+    }
 
     updateHubCounts();
     updateCategoryCounts();

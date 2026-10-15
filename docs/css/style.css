@@ -1076,6 +1076,12 @@ button, input, select { font-family: inherit; }
   font-size: 12px;
   font-weight: 600;
   width: fit-content;
+  white-space: nowrap;
+}
+[data-theme="light"] .footer-status-pill {
+  color: #059669;
+  background: rgba(16, 185, 129, 0.08);
+  border-color: rgba(16, 185, 129, 0.3);
 }
 .footer-status-pill .pulse-dot {
   width: 7px;
