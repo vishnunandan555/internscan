@@ -142,6 +142,18 @@ button, input, select { font-family: inherit; }
   font-size: 17px;
   letter-spacing: -0.015em;
 }
+.brand-logo-img {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+  flex-shrink: 0;
+  display: block;
+  transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+  filter: drop-shadow(0 2px 6px rgba(249, 115, 22, 0.35));
+}
+.brand-logo:hover .brand-logo-img {
+  transform: scale(1.08) rotate(-3deg);
+}
 .brand-icon-box {
   width: 36px;
   height: 36px;

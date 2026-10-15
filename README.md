@@ -1,5 +1,10 @@
 <a id="top"></a>
-# 🇮🇳 InternScan India — Software Engineering & Tech Internship Tracker
+<p align="center">
+  <a href="https://vishnunandan555.github.io/internscan/">
+    <img src="docs/icon.png" width="96" height="96" alt="InternScan Logo">
+  </a>
+</p>
+<h1 align="center">🇮🇳 InternScan India — Software Engineering & Tech Internship Tracker</h1>
 
 Auto-updated directory of verified **tech & software-engineering internships in India** —
 AI/ML, Data, Full-Stack, Backend, Frontend, Mobile, QA/SDET, and Security roles — at
