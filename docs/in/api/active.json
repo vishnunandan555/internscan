@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-10-15T03:08:10Z",
-  "total_active": 14,
+  "updated_at": "2026-10-15T03:27:27Z",
+  "total_active": 15,
   "jobs": [
     {
       "company": "Meta",
@@ -137,6 +137,21 @@
       "region": "APAC",
       "category": "Software",
       "posted": "2026-09-09",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "Interim Engineering Intern_2027_SW",
+      "url": "https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com",
+      "locations": [
+        "Hyderabad, Telangāna, India"
+      ],
+      "city_tag": "Hyderabad",
+      "country": "in",
+      "region": "APAC",
+      "category": "Software",
+      "posted": "2026-09-15",
       "first_seen": "2026-09-17",
       "last_seen": "2026-10-15"
     },

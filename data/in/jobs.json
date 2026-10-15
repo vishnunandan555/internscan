@@ -1,4 +1,506 @@
 {
-  "jobs": {},
-  "updated_at": "2026-10-15T03:23:17Z"
+  "jobs": {
+    "dell-technologies:R270849": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "closed": "2026-09-22",
+      "company": "Dell Technologies",
+      "country": "in",
+      "external_id": "R270849",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "posted": "2026-09-20",
+      "region": "APAC",
+      "title": "Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/R270849"
+    },
+    "google:109375266236572358": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Bengaluru",
+      "company": "Google",
+      "country": "in",
+      "external_id": "109375266236572358",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bengaluru, Karnataka, India",
+        "Hyderabad, Telangana, India"
+      ],
+      "posted": "2026-09-07",
+      "region": "APAC",
+      "title": "Silicon Engineering Intern, PhD, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/109375266236572358"
+    },
+    "google:109976286780105414": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Google",
+      "country": "in",
+      "external_id": "109976286780105414",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bengaluru, Karnataka, India",
+        "Hyderabad, Telangana, India",
+        "Pune, Maharashtra, India"
+      ],
+      "posted": "2026-09-07",
+      "region": "APAC",
+      "title": "Software Engineering PhD Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414"
+    },
+    "hpe:1211843": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "HPE",
+      "country": "in",
+      "external_id": "1211843",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bengaluru, Karn\u0101taka, 560048",
+        "Bengaluru, Karn\u0101taka, India"
+      ],
+      "posted": "2026-09-01",
+      "region": "APAC",
+      "title": "College Intern",
+      "url": "https://careers.hpe.com/us/en/job/1211843"
+    },
+    "meta:1046140895105013": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Bengaluru",
+      "company": "Meta",
+      "country": "in",
+      "external_id": "1046140895105013",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": null,
+      "region": "APAC",
+      "title": "ASIC Engineer Intern, Implementation",
+      "url": "https://www.metacareers.com/jobs/1046140895105013"
+    },
+    "meta:1123459746795309": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Bengaluru",
+      "company": "Meta",
+      "country": "in",
+      "external_id": "1123459746795309",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": null,
+      "region": "APAC",
+      "title": "ASIC Engineer Intern, Design Verification",
+      "url": "https://www.metacareers.com/jobs/1123459746795309"
+    },
+    "meta:1631077978652493": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Bengaluru",
+      "company": "Meta",
+      "country": "in",
+      "external_id": "1631077978652493",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": null,
+      "region": "APAC",
+      "title": "ASIC Engineer Intern, Design",
+      "url": "https://www.metacareers.com/jobs/1631077978652493"
+    },
+    "meta:939474918844068": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Bengaluru",
+      "company": "Meta",
+      "country": "in",
+      "external_id": "939474918844068",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": null,
+      "region": "APAC",
+      "title": "ASIC Engineer Intern - Infra Silicon Enablement",
+      "url": "https://www.metacareers.com/jobs/939474918844068"
+    },
+    "microsoft:1970393556641091": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "India (Multiple/Other)",
+      "company": "Microsoft",
+      "country": "in",
+      "external_id": "1970393556641091",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "India, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-02-27",
+      "region": "APAC",
+      "title": "Research Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091"
+    },
+    "microsoft:1970393556911730": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "India (Multiple/Other)",
+      "closed": "2026-10-15",
+      "company": "Microsoft",
+      "country": "in",
+      "external_id": "1970393556911730",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "India, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-09-18",
+      "region": "APAC",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730"
+    },
+    "microsoft:1970393556917520": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "India (Multiple/Other)",
+      "company": "Microsoft",
+      "country": "in",
+      "external_id": "1970393556917520",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "India, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-10-08",
+      "region": "APAC",
+      "title": "Data Science INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520"
+    },
+    "microsoft:1970393556971804": {
+      "active": false,
+      "category": "AI/ML",
+      "city_tag": "Bengaluru",
+      "closed": "2026-09-22",
+      "company": "Microsoft",
+      "country": "in",
+      "external_id": "1970393556971804",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "India, Karnataka, Bangalore"
+      ],
+      "posted": "2026-08-20",
+      "region": "APAC",
+      "title": "Research Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971804"
+    },
+    "microsoft:1970393556997800": {
+      "active": false,
+      "category": "AI/ML",
+      "city_tag": "India (Multiple/Other)",
+      "closed": "2026-10-11",
+      "company": "Microsoft",
+      "country": "in",
+      "external_id": "1970393556997800",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-10",
+      "locations": [
+        "India, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-10-07",
+      "region": "APAC",
+      "title": "Applied Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800"
+    },
+    "microsoft:1970393557000861": {
+      "active": false,
+      "category": "Hardware/Silicon",
+      "city_tag": "Bengaluru",
+      "closed": "2026-09-23",
+      "company": "Microsoft",
+      "country": "in",
+      "external_id": "1970393557000861",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "India, Karnataka, Bangalore"
+      ],
+      "posted": "2026-09-21",
+      "region": "APAC",
+      "title": "Hardware Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557000861"
+    },
+    "microsoft:1970393557000875": {
+      "active": false,
+      "category": "Hardware/Silicon",
+      "city_tag": "Bengaluru",
+      "closed": "2026-09-23",
+      "company": "Microsoft",
+      "country": "in",
+      "external_id": "1970393557000875",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "India, Karnataka, Bangalore"
+      ],
+      "posted": "2026-09-21",
+      "region": "APAC",
+      "title": "Silicon Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557000875"
+    },
+    "nvidia:JR2024423": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Bengaluru",
+      "closed": "2026-09-17",
+      "company": "NVIDIA",
+      "country": "in",
+      "external_id": "JR2024423",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "India Bengaluru",
+        "India, Bengaluru"
+      ],
+      "posted": "2026-09-01",
+      "region": "APAC",
+      "title": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423"
+    },
+    "nvidia:JR2027260": {
+      "active": false,
+      "category": "Backend/Infra",
+      "city_tag": "Pune",
+      "closed": "2026-10-15",
+      "company": "NVIDIA",
+      "country": "in",
+      "external_id": "JR2027260",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "2 Locations",
+        "India Pune"
+      ],
+      "posted": "2026-10-13",
+      "region": "APAC",
+      "title": "CPU Compiler Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1"
+    },
+    "qualcomm:446717035053": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "Chennai",
+      "closed": "2026-09-29",
+      "company": "Qualcomm",
+      "country": "in",
+      "external_id": "446717035053",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-27",
+      "locations": [
+        "Chennai, Tamil N\u0101du, India"
+      ],
+      "posted": "2026-02-24",
+      "region": "APAC",
+      "title": "1 year  Internship_SW_CDC",
+      "url": "https://careers.qualcomm.com/careers/job/446717035053?domain=qualcomm.com"
+    },
+    "qualcomm:446719784824": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "closed": "2026-10-03",
+      "company": "Qualcomm",
+      "country": "in",
+      "external_id": "446719784824",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bangalore, India",
+        "Hyderabad, Telang\u0101na, India"
+      ],
+      "posted": "2026-09-09",
+      "region": "APAC",
+      "title": "Interim Engineering Intern_2027_HW",
+      "url": "https://careers.qualcomm.com/careers/job/446719784824?domain=qualcomm.com"
+    },
+    "qualcomm:446719785836": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Hyderabad",
+      "closed": "2026-10-15",
+      "company": "Qualcomm",
+      "country": "in",
+      "external_id": "446719785836",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Hyderabad, Telang\u0101na, India"
+      ],
+      "posted": "2026-09-15",
+      "region": "APAC",
+      "title": "Interim Engineering Intern_2027_SW",
+      "url": "https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com"
+    },
+    "red-hat:R-058560": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "Pune",
+      "closed": "2026-09-24",
+      "company": "Red Hat",
+      "country": "in",
+      "external_id": "R-058560",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "2 Locations",
+        "Pune, Tower 6"
+      ],
+      "posted": "2026-09-22",
+      "region": "APAC",
+      "title": "Software Engineering Intern",
+      "url": "https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560"
+    },
+    "rubrik:8166523": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "closed": "2026-10-15",
+      "company": "Rubrik",
+      "country": "in",
+      "external_id": "8166523",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Bangalore"
+      ],
+      "posted": "2026-09-06",
+      "region": "APAC",
+      "title": "Software Engineer - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
+    },
+    "rubrik:8166537": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Rubrik",
+      "country": "in",
+      "external_id": "8166537",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bangalore"
+      ],
+      "posted": "2026-09-06",
+      "region": "APAC",
+      "title": "Software Engineer (CPD) - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537"
+    },
+    "salesforce:JR337715": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "closed": "2026-09-22",
+      "company": "Salesforce",
+      "country": "in",
+      "external_id": "JR337715",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "2 Locations",
+        "India, Bangalore"
+      ],
+      "posted": null,
+      "region": "APAC",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
+    },
+    "stripe:8031833": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Stripe",
+      "country": "in",
+      "external_id": "8031833",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bengaluru"
+      ],
+      "posted": "2026-07-10",
+      "region": "APAC",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833"
+    },
+    "twilio:8190887": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "Remote (India)",
+      "closed": "2026-09-22",
+      "company": "Twilio",
+      "country": "in",
+      "external_id": "8190887",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "locations": [
+        "Remote - India"
+      ],
+      "posted": "2026-09-16",
+      "region": "APAC",
+      "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887"
+    },
+    "twilio:8190889": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "Remote (India)",
+      "closed": "2026-09-20",
+      "company": "Twilio",
+      "country": "in",
+      "external_id": "8190889",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-19",
+      "locations": [
+        "Remote - India"
+      ],
+      "posted": "2026-09-16",
+      "region": "APAC",
+      "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889"
+    },
+    "walmart-global-tech:R-2557935": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Walmart Global Tech",
+      "country": "in",
+      "external_id": "R-2557935",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "IN KA BANGALORE Home Office Building 10"
+      ],
+      "posted": null,
+      "region": "APAC",
+      "title": "(IND) Grad Intern - No Work Experience",
+      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935"
+    }
+  },
+  "updated_at": "2026-10-15T03:27:27Z"
 }

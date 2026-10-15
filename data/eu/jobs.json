@@ -1,4 +1,1879 @@
 {
-  "jobs": {},
-  "updated_at": "2026-10-15T03:23:17Z"
+  "jobs": {
+    "accenture:R00271343": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00271343",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw"
+      ],
+      "posted": null,
+      "region": "EMEA",
+      "title": "LLM Engineer Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343"
+    },
+    "accenture:R00280950": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00280950",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw"
+      ],
+      "posted": "2026-10-13",
+      "region": "EMEA",
+      "title": "Backend Developer Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950"
+    },
+    "accenture:R00319522": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00319522",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw"
+      ],
+      "posted": "2026-10-14",
+      "region": "EMEA",
+      "title": "GenAI Engineering Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522"
+    },
+    "accenture:R00327505": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Amsterdam",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00327505",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Amsterdam"
+      ],
+      "posted": null,
+      "region": "EMEA",
+      "title": "Digital Engineering Internship",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505"
+    },
+    "accenture:R00335218": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00335218",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw"
+      ],
+      "posted": null,
+      "region": "EMEA",
+      "title": "Adobe Experience Cloud Intern Analyst | MarTech & Digital Experience Internship Program (He/She/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218"
+    },
+    "accenture:R00352434": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00352434",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw"
+      ],
+      "posted": "2026-10-15",
+      "region": "EMEA",
+      "title": "AI/MLOps Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434"
+    },
+    "accenture:R00355473": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00355473",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw"
+      ],
+      "posted": null,
+      "region": "EMEA",
+      "title": "Angular Developer Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473"
+    },
+    "accenture:R00358078": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Amsterdam",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00358078",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Amsterdam"
+      ],
+      "posted": "2026-09-26",
+      "region": "EMEA",
+      "title": "Health Technology Internship",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078"
+    },
+    "accenture:R00358088": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Amsterdam",
+      "company": "Accenture",
+      "country": "eu",
+      "external_id": "R00358088",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Amsterdam"
+      ],
+      "posted": "2026-10-07",
+      "region": "EMEA",
+      "title": "Public Services Technology Internship",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088"
+    },
+    "amazon:10418355": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Dublin",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10418355",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2026-05-13",
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern"
+    },
+    "amazon:10537441": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10537441",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Barcelona, Catalonia, ESP"
+      ],
+      "posted": "2026-09-11",
+      "region": "EMEA",
+      "title": "Operations Engineering Intern -  start date Q1 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10537441/operations-engineering-intern-start-date-q1-2027"
+    },
+    "amazon:10537442": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10537442",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Barcelona, Catalonia, ESP"
+      ],
+      "posted": "2026-09-11",
+      "region": "EMEA",
+      "title": "Operations Engineering Intern -  start date Q3 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10537442/operations-engineering-intern-start-date-q3-2027"
+    },
+    "amazon:10541497": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Berlin",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10541497",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-09-15",
+      "region": "EMEA",
+      "title": "Operations Engineering Intern -  start date Q1 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10541497/operations-engineering-intern-start-date-q1-2027"
+    },
+    "amazon:10541498": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Berlin",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10541498",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-09-15",
+      "region": "EMEA",
+      "title": "Operations Engineering Intern -  start date Q3 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10541498/operations-engineering-intern-start-date-q3-2027"
+    },
+    "amazon:10541508": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10541508",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Clichy, Ile-de-France, FRA"
+      ],
+      "posted": "2026-09-15",
+      "region": "EMEA",
+      "title": "Operations Engineering Intern -  start date Q2 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10541508/operations-engineering-intern-start-date-q2-2027"
+    },
+    "amazon:10554701": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Berlin",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10554701",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-09-21",
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern - Germany",
+      "url": "https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany"
+    },
+    "amazon:10555855": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10555855",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Madrid, Community of Madrid, ESP"
+      ],
+      "posted": "2026-09-22",
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern - Spain",
+      "url": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain"
+    },
+    "amazon:10567688": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Munich",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10567688",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich, Bavaria, DEU"
+      ],
+      "posted": "2026-10-02",
+      "region": "EMEA",
+      "title": "Business Intelligence Engineer Intern Germany",
+      "url": "https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany"
+    },
+    "amazon:10567711": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Dublin",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10567711",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2026-10-02",
+      "region": "EMEA",
+      "title": "Cloud Support Associate Internship - April 2027 start, Support Engineering",
+      "url": "https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering"
+    },
+    "amazon:10567744": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10567744",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Madrid, Community of Madrid, ESP"
+      ],
+      "posted": "2026-10-02",
+      "region": "EMEA",
+      "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+    },
+    "amazon:10567818": {
+      "active": true,
+      "category": "Security",
+      "city_tag": "Europe (Other)",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10567818",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Paris, Ile-de-France, FRA"
+      ],
+      "posted": "2026-10-02",
+      "region": "EMEA",
+      "title": "(Physical) Security Specialist Intern -  2027 Internship",
+      "url": "https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship"
+    },
+    "amazon:10568017": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Amsterdam",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10568017",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Amsterdam, North Holland, NLD"
+      ],
+      "posted": "2026-10-05",
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern - Netherlands",
+      "url": "https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands"
+    },
+    "amazon:10571025": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Dublin",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10571025",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2026-10-06",
+      "region": "EMEA",
+      "title": "Network Development Engineer Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern"
+    },
+    "amazon:10576777": {
+      "active": true,
+      "category": "Security",
+      "city_tag": "Dublin",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10576777",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2026-10-13",
+      "region": "EMEA",
+      "title": "(Physical) Security Specialist Intern - 2027 Internship, DUB West",
+      "url": "https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west"
+    },
+    "amazon:3120058": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "3120058",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Barcelona, Catalonia, ESP"
+      ],
+      "posted": "2025-11-03",
+      "region": "EMEA",
+      "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition"
+    },
+    "amazon:3134271": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Berlin",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "3134271",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2025-12-01",
+      "region": "EMEA",
+      "title": "Software Dev Engineer internship - Embedded Development",
+      "url": "https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development"
+    },
+    "apple:200682229": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Munich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200682229",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-10-07",
+      "region": "EMEA",
+      "title": "PHY Cellular Firmware Engineer Internship",
+      "url": "https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship"
+    },
+    "apple:200682404": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Munich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200682404",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-09-08",
+      "region": "EMEA",
+      "title": "Circuit Design Intern (m/f/d)",
+      "url": "https://jobs.apple.com/en-us/details/200682404/circuit-design-intern-m-f-d"
+    },
+    "apple:200683768": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200683768",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Paris"
+      ],
+      "posted": "2026-09-16",
+      "region": "EMEA",
+      "title": "Internship - Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research"
+    },
+    "apple:200685035": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200685035",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-10-13",
+      "region": "EMEA",
+      "title": "Internship - Machine Learning (Foundation Models)",
+      "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models"
+    },
+    "apple:200686332": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Munich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200686332",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-09-29",
+      "region": "EMEA",
+      "title": "Internship Computer Vision & Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research"
+    },
+    "apple:200686336": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200686336",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-09-29",
+      "region": "EMEA",
+      "title": "Internship Computer Vision & Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200686336/internship-computer-vision-machine-learning-research"
+    },
+    "apple:200686569": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Munich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200686569",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-09-30",
+      "region": "EMEA",
+      "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
+      "url": "https://jobs.apple.com/en-us/details/200686569/internship-computer-vision-machine-learning-research-llm-efficiency"
+    },
+    "apple:200686571": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200686571",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-09-30",
+      "region": "EMEA",
+      "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
+      "url": "https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency"
+    },
+    "apple:200686742": {
+      "active": true,
+      "category": "QA",
+      "city_tag": "Munich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200686742",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-10-01",
+      "region": "EMEA",
+      "title": "AMS Lab Validation Intern",
+      "url": "https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern"
+    },
+    "apple:200686958": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Munich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200686958",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-10-06",
+      "region": "EMEA",
+      "title": "Internship - Software Engineering - Wireless Data Science",
+      "url": "https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science"
+    },
+    "apple:200687209": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Munich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200687209",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-10-06",
+      "region": "EMEA",
+      "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
+      "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis"
+    },
+    "cisco:2024366": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Cisco",
+      "country": "eu",
+      "external_id": "2024366",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Lysaker, Norway"
+      ],
+      "posted": "2026-08-31",
+      "region": "EMEA",
+      "title": "Software Engineer Summer Internship - Lysaker, Norway",
+      "url": "https://careers.cisco.com/global/en/job/2024366"
+    },
+    "cisco:2024810": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Cisco",
+      "country": "eu",
+      "external_id": "2024810",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Galway, Ireland"
+      ],
+      "posted": "2026-09-04",
+      "region": "EMEA",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.cisco.com/global/en/job/2024810"
+    },
+    "cisco:2025061": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Cisco",
+      "country": "eu",
+      "external_id": "2025061",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ecublens, Switzerland"
+      ],
+      "posted": "2026-09-08",
+      "region": "EMEA",
+      "title": "Wireless Software Engineer_ Intern",
+      "url": "https://careers.cisco.com/global/en/job/2025061"
+    },
+    "databricks:6866531002": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Berlin",
+      "company": "Databricks",
+      "country": "eu",
+      "external_id": "6866531002",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Berlin, Germany"
+      ],
+      "posted": "2023-09-01",
+      "region": "EMEA",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"
+    },
+    "databricks:6866534002": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Amsterdam",
+      "company": "Databricks",
+      "country": "eu",
+      "external_id": "6866534002",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Amsterdam, Netherlands"
+      ],
+      "posted": "2023-09-01",
+      "region": "EMEA",
+      "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002"
+    },
+    "databricks:8133710002": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Databricks",
+      "country": "eu",
+      "external_id": "8133710002",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Aarhus, Denmark"
+      ],
+      "posted": "2025-08-29",
+      "region": "EMEA",
+      "title": "Software Engineering Intern (2027 Start) - Aarhus",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002"
+    },
+    "datadog:8114161": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Datadog",
+      "country": "eu",
+      "external_id": "8114161",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Madrid, Spain"
+      ],
+      "posted": "2026-09-08",
+      "region": "EMEA",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161"
+    },
+    "datadog:8114186": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Datadog",
+      "country": "eu",
+      "external_id": "8114186",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Paris, France"
+      ],
+      "posted": "2026-09-08",
+      "region": "EMEA",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186"
+    },
+    "datadog:8181440": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Datadog",
+      "country": "eu",
+      "external_id": "8181440",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Paris, France"
+      ],
+      "posted": "2026-09-08",
+      "region": "EMEA",
+      "title": "Applied Science Intern",
+      "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440"
+    },
+    "google:107087730147500742": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "107087730147500742",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Krak\u00f3w, Poland",
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-08-17",
+      "region": "EMEA",
+      "title": "Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/107087730147500742"
+    },
+    "google:111285665542349510": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Munich",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "111285665542349510",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Munich, Germany",
+        "Paris, France",
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-08-17",
+      "region": "EMEA",
+      "title": "Research Scientist PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/111285665542349510"
+    },
+    "google:121543376737575622": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "121543376737575622",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Krak\u00f3w, Poland",
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-09-03",
+      "region": "EMEA",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/121543376737575622"
+    },
+    "google:142747733357142726": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Dublin",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "142747733357142726",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin, Ireland",
+        "Munich, Germany",
+        "Paris, France",
+        "Stockholm, Sweden",
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-09-03",
+      "region": "EMEA",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/142747733357142726"
+    },
+    "google:74389446190867142": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Europe (Other)",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "74389446190867142",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-09-03",
+      "region": "EMEA",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/74389446190867142"
+    },
+    "google:77684590197514950": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Zurich",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "77684590197514950",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-08-17",
+      "region": "EMEA",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/77684590197514950"
+    },
+    "google:83199557986329286": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "83199557986329286",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bucharest, Romania"
+      ],
+      "posted": "2026-09-03",
+      "region": "EMEA",
+      "title": "Software Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/83199557986329286"
+    },
+    "google:84561862556820166": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Zurich",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "84561862556820166",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-10-02",
+      "region": "EMEA",
+      "title": "Data Scientist Product MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166"
+    },
+    "google:93078491720753862": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Zurich",
+      "company": "Google",
+      "country": "eu",
+      "external_id": "93078491720753862",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-08-18",
+      "region": "EMEA",
+      "title": "Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/93078491720753862"
+    },
+    "hpe:1210859": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Europe (Other)",
+      "company": "HPE",
+      "country": "eu",
+      "external_id": "1210859",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Milan, Milano, 20124",
+        "Milan, Milano, Italy"
+      ],
+      "posted": "2026-09-17",
+      "region": "EMEA",
+      "title": "Data Analytics Intern \u2013 Channel Team",
+      "url": "https://careers.hpe.com/us/en/job/1210859"
+    },
+    "hpe:1210999": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "HPE",
+      "country": "eu",
+      "external_id": "1210999",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Galway, Galway, H91 WP08",
+        "Galway, Galway, Ireland"
+      ],
+      "posted": "2026-09-04",
+      "region": "EMEA",
+      "title": "Hybrid Cloud Innovation AI Internship",
+      "url": "https://careers.hpe.com/us/en/job/1210999"
+    },
+    "hpe:1211017": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "HPE",
+      "country": "eu",
+      "external_id": "1211017",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Galway, Galway, H91 WP08",
+        "Galway, Galway, Ireland"
+      ],
+      "posted": "2026-09-03",
+      "region": "EMEA",
+      "title": "Internship - Cloud Dev Engineering",
+      "url": "https://careers.hpe.com/us/en/job/1211017"
+    },
+    "intel:JR0286944": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0286944",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ireland Leixlip",
+        "Ireland, Leixlip"
+      ],
+      "posted": "2026-09-25",
+      "region": "EMEA",
+      "title": "Software Solutions Eng PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
+    },
+    "intel:JR0287250": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287250",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ireland Leixlip",
+        "Ireland, Leixlip"
+      ],
+      "posted": "2026-10-09",
+      "region": "EMEA",
+      "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250"
+    },
+    "intel:JR0287675": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Munich",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287675",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Germany Munich",
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-13",
+      "region": "EMEA",
+      "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
+    },
+    "intel:JR0287884": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287884",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-08",
+      "region": "EMEA",
+      "title": "GPU Software Performance Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884"
+    },
+    "intel:JR0287885": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287885",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-09",
+      "region": "EMEA",
+      "title": "AI Frameworks Engineer - Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885"
+    },
+    "intel:JR0287886": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287886",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-08",
+      "region": "EMEA",
+      "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886"
+    },
+    "intel:JR0287890": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287890",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-09",
+      "region": "EMEA",
+      "title": "AI Software Engineering - Workloads Validation Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890"
+    },
+    "intel:JR0287893": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287893",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-14",
+      "region": "EMEA",
+      "title": "GPU Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893"
+    },
+    "intel:JR0287894": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287894",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-14",
+      "region": "EMEA",
+      "title": "GPU Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894"
+    },
+    "intel:JR0287895": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287895",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-09",
+      "region": "EMEA",
+      "title": "AI Frameworks Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
+    },
+    "intel:JR0287897": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287897",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-15",
+      "region": "EMEA",
+      "title": "Compiler Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"
+    },
+    "intel:JR0287923": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Munich",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287923",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Germany Munich",
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-09",
+      "region": "EMEA",
+      "title": "Software Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923"
+    },
+    "intel:JR0287942": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Munich",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287942",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Germany Munich",
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-15",
+      "region": "EMEA",
+      "title": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942"
+    },
+    "intel:JR0287943": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Munich",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287943",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Germany Munich",
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-15",
+      "region": "EMEA",
+      "title": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"
+    },
+    "intel:JR0287998": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287998",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ireland Leixlip",
+        "Ireland, Leixlip"
+      ],
+      "posted": "2026-10-14",
+      "region": "EMEA",
+      "title": "Silicon Architecture Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Silicon-Architecture-Undergraduate-Intern_JR0287998"
+    },
+    "intel:JR0287999": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0287999",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ireland Leixlip",
+        "Ireland, Leixlip"
+      ],
+      "posted": "2026-10-13",
+      "region": "EMEA",
+      "title": "Logic Design / Design Verification Engineering Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Logic-Design---Design-Verification-Engineering-Undergraduate-Intern_JR0287999"
+    },
+    "jpmorgan-chase:210776172": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Dublin",
+      "company": "JPMorgan Chase",
+      "country": "eu",
+      "external_id": "210776172",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "posted": "2026-08-31",
+      "region": "EMEA",
+      "title": "2027 Software Engineer Program - Summer Internship - Dublin",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776172"
+    },
+    "microsoft:1970393556998387": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "Microsoft",
+      "country": "eu",
+      "external_id": "1970393556998387",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Belgium, Brussels Region, Brussels"
+      ],
+      "posted": "2026-09-14",
+      "region": "EMEA",
+      "title": "Cloud Solution Architecture Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
+    },
+    "microsoft:1970393557021513": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Microsoft",
+      "country": "eu",
+      "external_id": "1970393557021513",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Czech Republic, Prague, Prague"
+      ],
+      "posted": "2026-10-07",
+      "region": "EMEA",
+      "title": "Software Engineering Internship Opportunities - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021513"
+    },
+    "microsoft:1970393557021515": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Microsoft",
+      "country": "eu",
+      "external_id": "1970393557021515",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Czech Republic, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-10-07",
+      "region": "EMEA",
+      "title": "Software Engineering Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021515"
+    },
+    "microsoft:1970393557026573": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "Microsoft",
+      "country": "eu",
+      "external_id": "1970393557026573",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Switzerland, Z\u00fcrich, Z\u00fcrich"
+      ],
+      "posted": "2026-10-09",
+      "region": "EMEA",
+      "title": "Research Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557026573"
+    },
+    "microsoft:1970393557027235": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Microsoft",
+      "country": "eu",
+      "external_id": "1970393557027235",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Netherlands, Noord-Holland, Schiphol"
+      ],
+      "posted": "2026-10-13",
+      "region": "EMEA",
+      "title": "Solution Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027235"
+    },
+    "microsoft:1970393557038773": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Dublin",
+      "company": "Microsoft",
+      "country": "eu",
+      "external_id": "1970393557038773",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ireland, Dublin, Dublin"
+      ],
+      "posted": "2026-10-12",
+      "region": "EMEA",
+      "title": "Software Engineer Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773"
+    },
+    "mongodb:8258279": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Dublin",
+      "company": "MongoDB",
+      "country": "eu",
+      "external_id": "8258279",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-10-09",
+      "region": "EMEA",
+      "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279"
+    },
+    "nokia:39653": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "Nokia",
+      "country": "eu",
+      "external_id": "39653",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland"
+      ],
+      "posted": "2026-09-08",
+      "region": "EMEA",
+      "title": "Infrastructure Lab - Working Student (Krakow)",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39653"
+    },
+    "nokia:40195": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "Nokia",
+      "country": "eu",
+      "external_id": "40195",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland"
+      ],
+      "posted": "2026-09-18",
+      "region": "EMEA",
+      "title": "Remote Delivery Engineering, Optical Networks \u2013 Working Student",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40195"
+    },
+    "nokia:40344": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Europe (Other)",
+      "company": "Nokia",
+      "country": "eu",
+      "external_id": "40344",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Poland"
+      ],
+      "posted": "2026-09-29",
+      "region": "EMEA",
+      "title": "Materials Management & Analytics - Working Student (Bydgoszcz)",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40344"
+    },
+    "nvidia:JR2007248": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Remote (EU)",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2007248",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "2 Locations",
+        "Poland Remote"
+      ],
+      "posted": "2026-10-06",
+      "region": "EMEA",
+      "title": "Software Engineering Intern, Nsight Systems - 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248"
+    },
+    "nvidia:JR2024606": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2024606",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
+      ],
+      "posted": "2026-09-29",
+      "region": "EMEA",
+      "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
+    },
+    "nvidia:JR2024708": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Munich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2024708",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "4 Locations",
+        "Germany Munich"
+      ],
+      "posted": "2026-10-14",
+      "region": "EMEA",
+      "title": "Data Processing Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
+    },
+    "nvidia:JR2025334": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Remote (EU)",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2025334",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "2 Locations",
+        "Poland Remote"
+      ],
+      "posted": "2026-10-15",
+      "region": "EMEA",
+      "title": "System Software Engineering Intern, GPU - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
+    },
+    "nvidia:JR2026517": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Europe (Other)",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2026517",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "2 Locations",
+        "Poland Warsaw"
+      ],
+      "posted": "2026-09-30",
+      "region": "EMEA",
+      "title": "Image and Data Processing Libraries Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
+    },
+    "nvidia:JR2026569": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Europe (Other)",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2026569",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "3 Locations",
+        "Poland Warsaw"
+      ],
+      "posted": "2026-09-30",
+      "region": "EMEA",
+      "title": "Image and Data Processing Libraries Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569"
+    },
+    "nvidia:JR2026775": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Munich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2026775",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "3 Locations",
+        "Germany Munich"
+      ],
+      "posted": "2026-10-14",
+      "region": "EMEA",
+      "title": "Developer Technology Engineering Intern - Compute Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775"
+    },
+    "nvidia:JR2027025": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2027025",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "2 Locations",
+        "Switzerland Zurich"
+      ],
+      "posted": "2026-10-06",
+      "region": "EMEA",
+      "title": "AI Compiler Formal Verification Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025"
+    },
+    "nvidia:JR2027294": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2027294",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
+      ],
+      "posted": "2026-10-10",
+      "region": "EMEA",
+      "title": "PhD Research Intern, Robotics - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294"
+    },
+    "nvidia:JR2027497": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Munich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2027497",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "2 Locations",
+        "Germany Munich"
+      ],
+      "posted": "2026-10-09",
+      "region": "EMEA",
+      "title": "AI Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497"
+    },
+    "nvidia:JR2027531": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2027531",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
+      ],
+      "posted": "2026-10-10",
+      "region": "EMEA",
+      "title": "Robotics Simulation and Evaluation PhD Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531"
+    },
+    "qualcomm:446715095913": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Amsterdam",
+      "company": "Qualcomm",
+      "country": "eu",
+      "external_id": "446715095913",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Amsterdam Drenthe, North Holland, Netherlands"
+      ],
+      "posted": "2025-10-21",
+      "region": "EMEA",
+      "title": "FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
+      "url": "https://careers.qualcomm.com/careers/job/446715095913?domain=qualcomm.com"
+    },
+    "qualcomm:446718345493": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Qualcomm",
+      "country": "eu",
+      "external_id": "446718345493",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cork, Ireland"
+      ],
+      "posted": "2026-05-07",
+      "region": "EMEA",
+      "title": "FY27 Intern - Engineering Internship 2027 - 6 months, Cork",
+      "url": "https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com"
+    },
+    "qualcomm:446718630683": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Qualcomm",
+      "country": "eu",
+      "external_id": "446718630683",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cork, Ireland"
+      ],
+      "posted": "2026-05-21",
+      "region": "EMEA",
+      "title": "FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork",
+      "url": "https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com"
+    },
+    "qualcomm:446718947455": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Qualcomm",
+      "country": "eu",
+      "external_id": "446718947455",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cork, Ireland"
+      ],
+      "posted": "2026-06-11",
+      "region": "EMEA",
+      "title": "FY27 Intern - Software Intern (Data Center, Cloud-AI Engineering) - Cork",
+      "url": "https://careers.qualcomm.com/careers/job/446718947455?domain=qualcomm.com"
+    },
+    "qualcomm:446719176184": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Qualcomm",
+      "country": "eu",
+      "external_id": "446719176184",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cork, Ireland"
+      ],
+      "posted": "2026-06-23",
+      "region": "EMEA",
+      "title": "FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork",
+      "url": "https://careers.qualcomm.com/careers/job/446719176184?domain=qualcomm.com"
+    },
+    "qualcomm:446720699932": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "Qualcomm",
+      "country": "eu",
+      "external_id": "446720699932",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cork, Ireland"
+      ],
+      "posted": "2026-08-24",
+      "region": "EMEA",
+      "title": "FY27 IT Cloud Engineering Intern - Cork 8 months",
+      "url": "https://careers.qualcomm.com/careers/job/446720699932?domain=qualcomm.com"
+    },
+    "qualcomm:446721045034": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Qualcomm",
+      "country": "eu",
+      "external_id": "446721045034",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cork, Ireland"
+      ],
+      "posted": "2026-09-23",
+      "region": "EMEA",
+      "title": "EDT - FY27 Intern - Engineering Internship 2027 - 6 months, Cork",
+      "url": "https://careers.qualcomm.com/careers/job/446721045034?domain=qualcomm.com"
+    },
+    "snowflake:36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Berlin",
+      "company": "Snowflake",
+      "country": "eu",
+      "external_id": "36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Berlin, Germany"
+      ],
+      "posted": "2026-09-29",
+      "region": "EMEA",
+      "title": "Software Engineer Intern - Berlin (2027)",
+      "url": "https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e"
+    },
+    "snowflake:3a9baeaf-b107-41fb-a9b3-a98ab78275ed": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Berlin",
+      "company": "Snowflake",
+      "country": "eu",
+      "external_id": "3a9baeaf-b107-41fb-a9b3-a98ab78275ed",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Berlin, Germany"
+      ],
+      "posted": "2026-06-02",
+      "region": "EMEA",
+      "title": "Software Engineer Intern - Berlin (2026)",
+      "url": "https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed"
+    },
+    "snowflake:a92a900c-56c2-4cf6-8c2e-fcd183a84e58": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Zurich",
+      "company": "Snowflake",
+      "country": "eu",
+      "external_id": "a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "posted": "2026-10-12",
+      "region": "EMEA",
+      "title": "Software Engineer Intern - Zurich (2026)",
+      "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
+    },
+    "stripe:8097801": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Dublin",
+      "company": "Stripe",
+      "country": "eu",
+      "external_id": "8097801",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-08-17",
+      "region": "EMEA",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801"
+    },
+    "stripe:8130807": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "Stripe",
+      "country": "eu",
+      "external_id": "8130807",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bucharest"
+      ],
+      "posted": "2026-08-31",
+      "region": "EMEA",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130807"
+    }
+  },
+  "updated_at": "2026-10-15T03:27:27Z"
 }

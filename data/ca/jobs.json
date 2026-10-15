@@ -1,4 +1,873 @@
 {
-  "jobs": {},
-  "updated_at": "2026-10-15T03:23:17Z"
+  "jobs": {
+    "amazon:10535280": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Amazon",
+      "country": "ca",
+      "external_id": "10535280",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, CAN"
+      ],
+      "posted": "2026-09-09",
+      "region": "AMER",
+      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027"
+    },
+    "amazon:10538066": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Toronto",
+      "company": "Amazon",
+      "country": "ca",
+      "external_id": "10538066",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, CAN"
+      ],
+      "posted": "2026-09-11",
+      "region": "AMER",
+      "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"
+    },
+    "amazon:10553947": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Vancouver",
+      "company": "Amazon",
+      "country": "ca",
+      "external_id": "10553947",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Vancouver, British Columbia, CAN"
+      ],
+      "posted": "2026-09-18",
+      "region": "AMER",
+      "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
+      "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can"
+    },
+    "amazon:10564588": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Vancouver",
+      "company": "Amazon",
+      "country": "ca",
+      "external_id": "10564588",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Vancouver, British Columbia, CAN"
+      ],
+      "posted": "2026-09-30",
+      "region": "AMER",
+      "title": "2027 Applied Science Internship - Canada, PhD Student Science Recruiting",
+      "url": "https://www.amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting"
+    },
+    "amazon:3136815": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Toronto",
+      "company": "Amazon",
+      "country": "ca",
+      "external_id": "3136815",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, CAN"
+      ],
+      "posted": "2025-12-03",
+      "region": "AMER",
+      "title": "Robotics - Software Development Engineer Intern - 2026 - Toronto",
+      "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto"
+    },
+    "autodesk:26WD100398": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Montreal",
+      "company": "Autodesk",
+      "country": "ca",
+      "external_id": "26WD100398",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Montreal QC CAN",
+        "Montreal, QC, CAN"
+      ],
+      "posted": null,
+      "region": "AMER",
+      "title": "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2"
+    },
+    "autodesk:26WD100400": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Montreal",
+      "company": "Autodesk",
+      "country": "ca",
+      "external_id": "26WD100400",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Montreal QC CAN",
+        "Montreal, QC, CAN"
+      ],
+      "posted": null,
+      "region": "AMER",
+      "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400"
+    },
+    "autodesk:26WD100406": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Montreal",
+      "company": "Autodesk",
+      "country": "ca",
+      "external_id": "26WD100406",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Montreal QC CAN",
+        "Montreal, QC, CAN"
+      ],
+      "posted": null,
+      "region": "AMER",
+      "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer \u2013 FCAP",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"
+    },
+    "autodesk:26WD100523": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Montreal",
+      "company": "Autodesk",
+      "country": "ca",
+      "external_id": "26WD100523",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Montreal QC CAN",
+        "Montreal, QC, CAN"
+      ],
+      "posted": null,
+      "region": "AMER",
+      "title": "Intern, AI Developer/ Stagiaire en d\u00e9veloppement IA",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"
+    },
+    "autodesk:26WD101061": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Toronto",
+      "company": "Autodesk",
+      "country": "ca",
+      "external_id": "26WD101061",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto ON CAN",
+        "Toronto, ON, CAN"
+      ],
+      "posted": "2026-10-02",
+      "region": "AMER",
+      "title": "Intern, AI/ML Platform (Winter)",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1"
+    },
+    "autodesk:26WD101082": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Toronto",
+      "company": "Autodesk",
+      "country": "ca",
+      "external_id": "26WD101082",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto ON CAN",
+        "Toronto, ON, CAN"
+      ],
+      "posted": "2026-10-02",
+      "region": "AMER",
+      "title": "Intern, AI Data Developer (Winter)",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1"
+    },
+    "autodesk:26WD101436": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Autodesk",
+      "country": "ca",
+      "external_id": "26WD101436",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto ON CAN",
+        "Toronto, ON, CAN"
+      ],
+      "posted": "2026-10-02",
+      "region": "AMER",
+      "title": "Software Development Internship (Summer 2027)",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1"
+    },
+    "google:104405499448828614": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Montreal",
+      "company": "Google",
+      "country": "ca",
+      "external_id": "104405499448828614",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "posted": "2026-09-14",
+      "region": "AMER",
+      "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614"
+    },
+    "google:112518690523488966": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Waterloo",
+      "company": "Google",
+      "country": "ca",
+      "external_id": "112518690523488966",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-08-24",
+      "region": "AMER",
+      "title": "Software Developer Intern, PhD, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966"
+    },
+    "google:113855697199735494": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Waterloo",
+      "company": "Google",
+      "country": "ca",
+      "external_id": "113855697199735494",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Montreal, QC, Canada",
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-07-20",
+      "region": "AMER",
+      "title": "Student Researcher, BS/MS, Fall 2026",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494"
+    },
+    "google:114416552819729094": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Waterloo",
+      "company": "Google",
+      "country": "ca",
+      "external_id": "114416552819729094",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-09-14",
+      "region": "AMER",
+      "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094"
+    },
+    "google:128430823337534150": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Waterloo",
+      "company": "Google",
+      "country": "ca",
+      "external_id": "128430823337534150",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Montreal, QC, Canada",
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-07-20",
+      "region": "AMER",
+      "title": "Student Researcher, PhD, Fall 2026",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/128430823337534150"
+    },
+    "google:141525012002546374": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Montreal",
+      "company": "Google",
+      "country": "ca",
+      "external_id": "141525012002546374",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "posted": "2026-09-14",
+      "region": "AMER",
+      "title": "Student Researcher, PhD, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/141525012002546374"
+    },
+    "google:75043041429070534": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Waterloo",
+      "company": "Google",
+      "country": "ca",
+      "external_id": "75043041429070534",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-09-14",
+      "region": "AMER",
+      "title": "Student Researcher, PhD, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/75043041429070534"
+    },
+    "intel:JR0287516": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Intel",
+      "country": "ca",
+      "external_id": "JR0287516",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "posted": "2026-10-03",
+      "region": "AMER",
+      "title": "Thermal Mechanical Engineering Undergraduate Intern, GPU Platforms",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516"
+    },
+    "intel:JR0287535": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Toronto",
+      "company": "Intel",
+      "country": "ca",
+      "external_id": "JR0287535",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "posted": "2026-10-02",
+      "region": "AMER",
+      "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535"
+    },
+    "intel:JR0287539": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Toronto",
+      "company": "Intel",
+      "country": "ca",
+      "external_id": "JR0287539",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "posted": "2026-10-03",
+      "region": "AMER",
+      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
+    },
+    "microsoft:1970393557040927": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Montreal",
+      "company": "Microsoft",
+      "country": "ca",
+      "external_id": "1970393557040927",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada, Qu\u00e9bec, Montreal"
+      ],
+      "posted": "2026-10-14",
+      "region": "AMER",
+      "title": "Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040927"
+    },
+    "nokia:39237": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Canada (Other)",
+      "company": "Nokia",
+      "country": "ca",
+      "external_id": "39237",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada"
+      ],
+      "posted": "2026-09-02",
+      "region": "AMER",
+      "title": "DSP Firmware Engineering Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237"
+    },
+    "nokia:39487": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Canada (Other)",
+      "company": "Nokia",
+      "country": "ca",
+      "external_id": "39487",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada"
+      ],
+      "posted": "2026-10-01",
+      "region": "AMER",
+      "title": "IT Network Software/AI Development - Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39487"
+    },
+    "nokia:39600": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Canada (Other)",
+      "company": "Nokia",
+      "country": "ca",
+      "external_id": "39600",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada"
+      ],
+      "posted": "2026-09-15",
+      "region": "AMER",
+      "title": "Hardware Developer Eng Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600"
+    },
+    "nokia:39965": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Canada (Other)",
+      "company": "Nokia",
+      "country": "ca",
+      "external_id": "39965",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada"
+      ],
+      "posted": "2026-09-11",
+      "region": "AMER",
+      "title": "Data Science Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965"
+    },
+    "nokia:40261": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Canada (Other)",
+      "company": "Nokia",
+      "country": "ca",
+      "external_id": "40261",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada"
+      ],
+      "posted": "2026-09-25",
+      "region": "AMER",
+      "title": "Operations Analytics Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261"
+    },
+    "nvidia:JR2024997": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Toronto",
+      "company": "NVIDIA",
+      "country": "ca",
+      "external_id": "JR2024997",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "posted": "2026-10-13",
+      "region": "AMER",
+      "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997"
+    },
+    "qualcomm:446721064018": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721064018",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721064018?domain=qualcomm.com"
+    },
+    "qualcomm:446721064094": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721064094",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721064094?domain=qualcomm.com"
+    },
+    "qualcomm:446721064141": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721064141",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Display IP Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721064141?domain=qualcomm.com"
+    },
+    "qualcomm:446721109168": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721109168",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721109168?domain=qualcomm.com"
+    },
+    "qualcomm:446721109229": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721109229",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design / Verification/Implementation - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com"
+    },
+    "qualcomm:446721140936": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721140936",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com"
+    },
+    "qualcomm:446721141411": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Toronto",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721141411",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com"
+    },
+    "qualcomm:446721142985": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721142985",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Physical Mixed Layout Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721142985?domain=qualcomm.com"
+    },
+    "qualcomm:446721143274": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Toronto",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721143274",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Silicon Validation Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com"
+    },
+    "qualcomm:446721143440": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721143440",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "posted": "2026-09-17",
+      "region": "AMER",
+      "title": "FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com"
+    },
+    "qualcomm:446721156176": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721156176",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ottawa, Ontario, Canada"
+      ],
+      "posted": "2026-09-18",
+      "region": "AMER",
+      "title": "FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156176?domain=qualcomm.com"
+    },
+    "qualcomm:446721156182": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721156182",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "posted": "2026-09-18",
+      "region": "AMER",
+      "title": "FY27 Intern - MSIP Digital Design Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156182?domain=qualcomm.com"
+    },
+    "qualcomm:446721156615": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721156615",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "posted": "2026-09-18",
+      "region": "AMER",
+      "title": "FY27 Intern - IP Applications Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156615?domain=qualcomm.com"
+    },
+    "qualcomm:446721156800": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721156800",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "posted": "2026-09-18",
+      "region": "AMER",
+      "title": "FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156800?domain=qualcomm.com"
+    },
+    "qualcomm:446721229661": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721229661",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "posted": "2026-09-23",
+      "region": "AMER",
+      "title": "FY27 Intern - PAL Firmware Development Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721229661?domain=qualcomm.com"
+    },
+    "qualcomm:446721302471": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721302471",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ottawa, Ontario, Canada"
+      ],
+      "posted": "2026-09-29",
+      "region": "AMER",
+      "title": "FY27 Intern - Soft IP ASIC Engineering Internship - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721302471?domain=qualcomm.com"
+    },
+    "qualcomm:446721302528": {
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Toronto",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721302528",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "posted": "2026-09-28",
+      "region": "AMER",
+      "title": "FY27 Intern - Silicon Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721302528?domain=qualcomm.com"
+    },
+    "qualcomm:446721349404": {
+      "active": true,
+      "category": "QA",
+      "city_tag": "Canada (Other)",
+      "company": "Qualcomm",
+      "country": "ca",
+      "external_id": "446721349404",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ottawa, Ontario, Canada"
+      ],
+      "posted": "2026-09-30",
+      "region": "AMER",
+      "title": "FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com"
+    },
+    "stripe:8130805": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
+      "company": "Stripe",
+      "country": "ca",
+      "external_id": "8130805",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto"
+      ],
+      "posted": "2026-08-31",
+      "region": "AMER",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805"
+    },
+    "stripe:8194285": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Toronto",
+      "company": "Stripe",
+      "country": "ca",
+      "external_id": "8194285",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto"
+      ],
+      "posted": "2026-10-01",
+      "region": "AMER",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194285"
+    },
+    "stripe:8194287": {
+      "active": true,
+      "category": "Data",
+      "city_tag": "Toronto",
+      "company": "Stripe",
+      "country": "ca",
+      "external_id": "8194287",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Toronto"
+      ],
+      "posted": "2026-10-01",
+      "region": "AMER",
+      "title": "Data Analyst, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194287"
+    }
+  },
+  "updated_at": "2026-10-15T03:27:27Z"
 }

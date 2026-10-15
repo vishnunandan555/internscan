@@ -16,12 +16,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-15 08:38:10 IST** · 📌 **14** open internships
+> 🕐 Last updated: **2026-10-15 08:57:27 IST** · 📌 **15** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (14)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (15)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -68,7 +68,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | PayPal | — |
 | PhonePe | — |
 | Pure Storage | — |
-| [Qualcomm](#qualcomm) | **1** |
+| [Qualcomm](#qualcomm) | **2** |
 | Razorpay | — |
 | Red Hat | — |
 | [Rubrik](#rubrik) | **1** |
@@ -173,6 +173,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Interim Engineering Intern_2027_SW](https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com) | Software | Hyderabad | 2026-09-15 | 2026-09-17 |
 | [Interim Engineering Intern_2027_HW](https://careers.qualcomm.com/careers/job/446719784824?domain=qualcomm.com) | Software | Bengaluru | 2026-09-09 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
