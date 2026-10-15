@@ -163,20 +163,27 @@ async function loadJobs() {
 
 // Hub Keyword Patterns for Intelligent Multi-City Matching
 const HUB_PATTERNS = {
+  // India Hubs
   "Bengaluru": /\b(bengaluru|bangalore|blr)\b/i,
   "Hyderabad": /\b(hyderabad|secunderabad|cyberabad|hyd)\b/i,
   "Pune": /\b(pune|pun)\b/i,
   "Delhi-NCR": /\b(delhi|gurugram|gurgaon|noida|ncr|ggn)\b/i,
   "Chennai": /\b(chennai|madras|maa)\b/i,
   "Mumbai": /\b(mumbai|bombay|bom|navi mumbai|thane)\b/i,
-  "Remote": /\b(remote\s*[-–—]?\s*india|india\s*[-–—]?\s*remote|work\s*from\s*home|wfh|anywhere in india)\b/i,
-  "Other": /\b(multiple|other|pan[- ]?india|all india)\b/i,
+  // US Hubs
+  "SF Bay Area": /\b(san francisco|sf|bay area|mountain view|sunnyvale|palo alto|san jose|santa clara|menlo park|cupertino|redwood city|san mateo|fremont)\b/i,
+  "Seattle": /\b(seattle|redmond|bellevue|kirkland)\b/i,
+  "New York": /\b(new york|nyc|manhattan|brooklyn)\b/i,
+  "Austin": /\b(austin|round rock)\b/i,
+  "Boston": /\b(boston|cambridge|waltham)\b/i,
+  "Remote": /\b(remote|work\s*from\s*home|wfh|anywhere)\b/i,
+  "Other": /\b(multiple|other)\b/i,
 };
 
 function isJobRemote(j) {
   const locText = [j.city_tag || "", ...(j.locations || []), j.title || ""].join(" ");
   return (
-    j.city_tag === "Remote (India)" ||
+    /remote/i.test(j.city_tag || "") ||
     HUB_PATTERNS["Remote"].test(locText) ||
     (/\bremote\b/i.test(locText) && !/\b(hybrid|on-?site|in-?office)\b/i.test(locText))
   );
@@ -185,14 +192,14 @@ function isJobRemote(j) {
 function jobMatchesHub(j, hub) {
   if (!hub || hub === "all") return true;
 
-  if (hub === "Remote" || hub === "Remote (India)") {
+  if (hub === "Remote" || hub.toLowerCase().includes("remote")) {
     return isJobRemote(j);
   }
 
   const locText = [j.city_tag || "", ...(j.locations || [])].join(" ");
 
-  if (hub === "Other" || hub === "Other / Multi-city" || hub === "India (Multiple/Other)") {
-    return HUB_PATTERNS["Other"].test(locText) || j.city_tag === "India (Multiple/Other)";
+  if (hub === "Other" || hub.toLowerCase().includes("other")) {
+    return HUB_PATTERNS["Other"].test(locText) || (j.city_tag || "").toLowerCase().includes("other");
   }
 
   const pattern = HUB_PATTERNS[hub];
@@ -203,16 +210,20 @@ function jobMatchesHub(j, hub) {
 }
 
 function formatLocationDisplay(j) {
-  if (isJobRemote(j)) return "Remote (India)";
+  if (isJobRemote(j)) return j.city_tag && j.city_tag.includes("Remote") ? j.city_tag : "Remote";
   const locs = j.locations || [];
   const text = (j.city_tag || "") + " " + locs.join(" ");
-  if (/multiple/i.test(text) || j.city_tag === "India (Multiple/Other)") {
+  if (/multiple/i.test(text) || (j.city_tag || "").includes("Multiple")) {
     return "Multiple Locations";
   }
 
   const detected = [];
-  for (const h of ["Bengaluru", "Hyderabad", "Pune", "Delhi-NCR", "Chennai", "Mumbai"]) {
-    if (HUB_PATTERNS[h].test(text)) detected.push(h);
+  const checkHubs = [
+    "Bengaluru", "Hyderabad", "Pune", "Delhi-NCR", "Chennai", "Mumbai",
+    "SF Bay Area", "Seattle", "New York", "Austin", "Boston"
+  ];
+  for (const h of checkHubs) {
+    if (HUB_PATTERNS[h] && HUB_PATTERNS[h].test(text)) detected.push(h);
   }
 
   if (detected.length > 0) {
@@ -220,7 +231,7 @@ function formatLocationDisplay(j) {
     return `${detected[0]}, ${detected[1]} (+${detected.length - 2})`;
   }
 
-  return j.city_tag || locs[0] || "India";
+  return j.city_tag || locs[0] || "Global";
 }
 
 function updateHubCounts() {

@@ -47,7 +47,7 @@ def dim(t: str) -> str:
 def status_ok(name: str, duration: float, n_postings: int, n_interns: int, n_india: int) -> str:
     badge = green("[OK]  ")
     dur = dim(f"({duration:4.1f}s)")
-    details = f"{n_postings:>4} postings, {n_interns:>2} interns, {bold(str(n_india))} India"
+    details = f"{n_postings:>4} postings, {n_interns:>2} interns, {bold(str(n_india))} roles"
     padded_name = f"{name:<24}"
     return f"{badge} {bold(padded_name)} {dur} {details}"
 
@@ -89,7 +89,7 @@ def print_dashboard(total_duration: float, succeeded: set, failed: dict,
     add_text = green(f"+{len(added)} new")
     close_text = red(f"-{len(closed)} closed")
     reopen_text = yellow(f"~{len(reopened)} reopened") if reopened else dim("0 reopened")
-    print(f" Listings:   {live_text} active in India | {add_text} | {close_text} | {reopen_text}")
+    print(f" Listings:   {live_text} active verified | {add_text} | {close_text} | {reopen_text}")
     print(bold("-" * width))
 
     if added:

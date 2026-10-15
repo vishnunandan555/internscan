@@ -6,7 +6,9 @@ AI/ML, Data, Full-Stack, Backend, Frontend, Mobile, QA/SDET, and Security roles 
 60 top tech companies, GCCs, and high-growth Indian unicorns. Scraped directly
 from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
-[![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-InternScan_India-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/internscan/)
+[![Global Gateway](https://img.shields.io/badge/Global_Gateway-Explore_All_Regions-6366f1?style=for-the-badge&logo=globe&logoColor=white)](https://vishnunandan555.github.io/internscan/)
+[![US Portal](https://img.shields.io/badge/US_Portal-InternScan_USA-ef4444?style=for-the-badge&logo=target&logoColor=white)](https://vishnunandan555.github.io/internscan/us/)
+[![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-India_Portal-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/internscan/in/)
 [![Version](https://img.shields.io/badge/Version-v2.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/vishnunandan555/internscan/releases)
 [![Telegram Bot Guide](https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](bot/README.md)
 [![Public API](https://img.shields.io/badge/Public_API-REST_&_RSS-10b981?style=for-the-badge&logo=fastapi&logoColor=white)](#-public-api--telegram-bot-integration)
@@ -14,7 +16,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-15 05:31:20 IST** · 📌 **14** open internships
+> 🕐 Last updated: **2026-10-15 08:38:10 IST** · 📌 **14** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.

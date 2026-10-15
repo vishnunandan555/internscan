@@ -9,6 +9,10 @@ on:
         description: "Company to scrape (leave blank for all 55)"
         required: false
         default: ""
+      country:
+        description: "Country code to scrape (e.g. in, us, or blank for all)"
+        required: false
+        default: ""
       keyword:
         description: "Filter by title keyword (e.g. 2027, hardware)"
         required: false
@@ -60,6 +64,7 @@ jobs:
           PYTHONUNBUFFERED: "1"
           FORCE_COLOR: "1"
           SCRAPER_COMPANY: ${{ github.event.inputs.company }}
+          SCRAPER_COUNTRY: ${{ github.event.inputs.country }}
           SCRAPER_KEYWORD: ${{ github.event.inputs.keyword }}
           SCRAPER_DRY_RUN: ${{ github.event.inputs.dry_run }}
           SCRAPER_WORKERS: ${{ github.event.inputs.workers }}
@@ -74,7 +79,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md LIST.md data/ docs/ logs/
+          git add README.md LIST.md lists/ data/ docs/ logs/
           if git diff --cached --quiet; then
             echo "No database or README changes to commit."
             exit 0
