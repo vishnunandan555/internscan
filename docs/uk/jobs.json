@@ -1,215 +1,219 @@
 {
-  "updated_at": "2026-10-15T03:27:27Z",
+  "updated_at": "2026-10-15T03:43:30Z",
   "jobs": {
     "stripe:8130867": {
       "uid": "stripe:8130867",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "Stripe",
+      "country": "uk",
       "external_id": "8130867",
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "London"
       ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-08-31",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
+      "region": "EMEA",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     },
     "nvidia:JR2027948": {
       "uid": "nvidia:JR2027948",
+      "active": true,
+      "category": "Data",
+      "city_tag": "UK (Other)",
       "company": "NVIDIA",
+      "country": "uk",
       "external_id": "JR2027948",
-      "title": "Data Processing Developer Technology Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "2 Locations",
         "UK Bristol"
       ],
-      "category": "Data",
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-15",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
+      "region": "EMEA",
+      "title": "Data Processing Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948"
     },
     "meta:2558941294546763": {
       "uid": "meta:2558941294546763",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "London",
       "company": "Meta",
+      "country": "uk",
       "external_id": "2558941294546763",
-      "title": "Network Production Engineer Intern",
-      "url": "https://www.metacareers.com/jobs/2558941294546763",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "Dublin, Ireland",
         "London, UK"
       ],
-      "category": "Backend/Infra",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": null,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
-    },
-    "jpmorgan-chase:210774745": {
-      "uid": "jpmorgan-chase:210774745",
-      "company": "JPMorgan Chase",
-      "external_id": "210774745",
-      "title": "2027 Data & AI - Summer Internship -  Glasgow, London",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
-      "locations": [
-        "GLASGOW, LANARKSHIRE, United Kingdom",
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "category": "Data",
-      "city_tag": "London",
-      "country": "uk",
       "region": "EMEA",
-      "posted": "2026-08-31",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
+      "title": "Network Production Engineer Intern",
+      "url": "https://www.metacareers.com/jobs/2558941294546763"
     },
     "jpmorgan-chase:210774716": {
       "uid": "jpmorgan-chase:210774716",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "JPMorgan Chase",
+      "country": "uk",
       "external_id": "210774716",
-      "title": "2027 Software Engineer Program - Summer Internship - Glasgow, London",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom",
         "LONDON, LONDON, United Kingdom"
       ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-08-31",
+      "region": "EMEA",
+      "title": "2027 Software Engineer Program - Summer Internship - Glasgow, London",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716"
+    },
+    "jpmorgan-chase:210774745": {
+      "uid": "jpmorgan-chase:210774745",
+      "active": true,
+      "category": "Data",
+      "city_tag": "London",
+      "company": "JPMorgan Chase",
+      "country": "uk",
+      "external_id": "210774745",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "active": true
+      "locations": [
+        "GLASGOW, LANARKSHIRE, United Kingdom",
+        "LONDON, LONDON, United Kingdom"
+      ],
+      "posted": "2026-08-31",
+      "region": "EMEA",
+      "title": "2027 Data & AI - Summer Internship -  Glasgow, London",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745"
     },
     "jpmorgan-chase:210774813": {
       "uid": "jpmorgan-chase:210774813",
+      "active": true,
+      "category": "Software",
+      "city_tag": "UK (Other)",
       "company": "JPMorgan Chase",
+      "country": "uk",
       "external_id": "210774813",
-      "title": "2027 Software Engineer Immersion Program - Summer Internship - Glasgow",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom"
       ],
-      "category": "Software",
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-08-31",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
+      "region": "EMEA",
+      "title": "2027 Software Engineer Immersion Program - Summer Internship - Glasgow",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813"
     },
     "hpe:1215804": {
       "uid": "hpe:1215804",
+      "active": true,
+      "category": "Software",
+      "city_tag": "UK (Other)",
       "company": "HPE",
+      "country": "uk",
       "external_id": "1215804",
-      "title": "Software Engineering Internship (Placement Year)",
-      "url": "https://careers.hpe.com/us/en/job/1215804",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "Bristol, Avon, BS34 8QZ",
         "Bristol, Avon, United Kingdom"
       ],
-      "category": "Software",
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-09-23",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
-    },
-    "google:80037545080955590": {
-      "uid": "google:80037545080955590",
-      "company": "Google",
-      "external_id": "80037545080955590",
-      "title": "Software Engineering PhD Intern, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590",
-      "locations": [
-        "London, UK"
-      ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
       "region": "EMEA",
-      "posted": "2026-08-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
-    },
-    "google:135156989620560582": {
-      "uid": "google:135156989620560582",
-      "company": "Google",
-      "external_id": "135156989620560582",
-      "title": "Forward Deployed Engineering Intern, BS/MS, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582",
-      "locations": [
-        "London, UK"
-      ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "posted": "2026-10-02",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
-    },
-    "google:73321728058499782": {
-      "uid": "google:73321728058499782",
-      "company": "Google",
-      "external_id": "73321728058499782",
-      "title": "Data Science PhD Intern, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782",
-      "locations": [
-        "London, UK"
-      ],
-      "category": "Data",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "posted": "2026-08-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
+      "title": "Software Engineering Internship (Placement Year)",
+      "url": "https://careers.hpe.com/us/en/job/1215804"
     },
     "google:100028133205254854": {
       "uid": "google:100028133205254854",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "Google",
+      "country": "uk",
       "external_id": "100028133205254854",
-      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "London, UK"
       ],
+      "posted": "2026-09-03",
+      "region": "EMEA",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854"
+    },
+    "google:135156989620560582": {
+      "uid": "google:135156989620560582",
+      "active": true,
       "category": "Software",
       "city_tag": "London",
+      "company": "Google",
       "country": "uk",
-      "region": "EMEA",
-      "posted": "2026-09-03",
+      "external_id": "135156989620560582",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "active": true
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-10-02",
+      "region": "EMEA",
+      "title": "Forward Deployed Engineering Intern, BS/MS, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582"
+    },
+    "google:73321728058499782": {
+      "uid": "google:73321728058499782",
+      "active": true,
+      "category": "Data",
+      "city_tag": "London",
+      "company": "Google",
+      "country": "uk",
+      "external_id": "73321728058499782",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-08-17",
+      "region": "EMEA",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782"
+    },
+    "google:80037545080955590": {
+      "uid": "google:80037545080955590",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
+      "company": "Google",
+      "country": "uk",
+      "external_id": "80037545080955590",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-08-17",
+      "region": "EMEA",
+      "title": "Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590"
     },
     "google:86733690079453894": {
       "uid": "google:86733690079453894",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "London",
       "company": "Google",
+      "country": "uk",
       "external_id": "86733690079453894",
-      "title": "Student Researcher, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/86733690079453894",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "Accra, Ghana",
         "Amsterdam, Netherlands",
@@ -221,176 +225,172 @@
         "Stockholm, Sweden",
         "Zürich, Switzerland"
       ],
-      "category": "AI/ML",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-05",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
+      "region": "EMEA",
+      "title": "Student Researcher, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/86733690079453894"
     },
     "databricks:8847738002": {
       "uid": "databricks:8847738002",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "Databricks",
+      "country": "uk",
       "external_id": "8847738002",
-      "title": "Software Engineering Intern (2027 Start) - London",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "London, United Kingdom"
       ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-02",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
-    },
-    "cisco:2024351": {
-      "uid": "cisco:2024351",
-      "company": "Cisco",
-      "external_id": "2024351",
-      "title": "Network Engineer Intern, Australia",
-      "url": "https://careers.cisco.com/global/en/job/2024351",
-      "locations": [
-        "North Sydney, New South Wales, Australia"
-      ],
-      "category": "Backend/Infra",
-      "city_tag": "UK (Other)",
-      "country": "uk",
       "region": "EMEA",
-      "posted": "2026-09-29",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
+      "title": "Software Engineering Intern (2027 Start) - London",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
     },
     "cisco:2023625": {
       "uid": "cisco:2023625",
+      "active": true,
+      "category": "Software",
+      "city_tag": "UK (Other)",
       "company": "Cisco",
+      "country": "uk",
       "external_id": "2023625",
-      "title": "Software Engineer - Intern",
-      "url": "https://careers.cisco.com/global/en/job/2023625",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "Harpenden, Herefordshire, United Kingdom"
       ],
-      "category": "Software",
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-08-21",
+      "region": "EMEA",
+      "title": "Software Engineer - Intern",
+      "url": "https://careers.cisco.com/global/en/job/2023625"
+    },
+    "cisco:2024351": {
+      "uid": "cisco:2024351",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "UK (Other)",
+      "company": "Cisco",
+      "country": "uk",
+      "external_id": "2024351",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "active": true
+      "locations": [
+        "North Sydney, New South Wales, Australia"
+      ],
+      "posted": "2026-09-29",
+      "region": "EMEA",
+      "title": "Network Engineer Intern, Australia",
+      "url": "https://careers.cisco.com/global/en/job/2024351"
     },
     "apple:200682357": {
       "uid": "apple:200682357",
+      "active": true,
+      "category": "QA",
+      "city_tag": "London",
       "company": "Apple",
+      "country": "uk",
       "external_id": "200682357",
-      "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "London"
       ],
-      "category": "QA",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-09-08",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
-    },
-    "amazon:10567687": {
-      "uid": "amazon:10567687",
-      "company": "Amazon",
-      "external_id": "10567687",
-      "title": "Business Intelligence Intern London",
-      "url": "https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "category": "Data",
-      "city_tag": "London",
-      "country": "uk",
       "region": "EMEA",
-      "posted": "2026-10-02",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
-    },
-    "amazon:10554586": {
-      "uid": "amazon:10554586",
-      "company": "Amazon",
-      "external_id": "10554586",
-      "title": "2027 Software Dev Engineer Intern - United Kingdom",
-      "url": "https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "posted": "2026-09-21",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
-    },
-    "amazon:10577611": {
-      "uid": "amazon:10577611",
-      "company": "Amazon",
-      "external_id": "10577611",
-      "title": "(Physical) Security Specialist Intern - 2027 Internship, DC Security",
-      "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "category": "Security",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "active": true
+      "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture"
     },
     "amazon:10541467": {
       "uid": "amazon:10541467",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "Amazon",
+      "country": "uk",
       "external_id": "10541467",
-      "title": "Operations Engineering Intern -  3 months, start date Q2 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10541467/operations-engineering-intern-3-months-start-date-q2-2027",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "London, England, GBR"
       ],
+      "posted": "2026-09-15",
+      "region": "EMEA",
+      "title": "Operations Engineering Intern -  3 months, start date Q2 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10541467/operations-engineering-intern-3-months-start-date-q2-2027"
+    },
+    "amazon:10554586": {
+      "uid": "amazon:10554586",
+      "active": true,
       "category": "Software",
       "city_tag": "London",
+      "company": "Amazon",
       "country": "uk",
-      "region": "EMEA",
-      "posted": "2026-09-15",
+      "external_id": "10554586",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "active": true
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-09-21",
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom"
+    },
+    "amazon:10567687": {
+      "uid": "amazon:10567687",
+      "active": true,
+      "category": "Data",
+      "city_tag": "London",
+      "company": "Amazon",
+      "country": "uk",
+      "external_id": "10567687",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-02",
+      "region": "EMEA",
+      "title": "Business Intelligence Intern London",
+      "url": "https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london"
     },
     "amazon:10567694": {
       "uid": "amazon:10567694",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "London",
       "company": "Amazon",
+      "country": "uk",
       "external_id": "10567694",
-      "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
       "locations": [
         "London, England, GBR"
       ],
-      "category": "AI/ML",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-02",
+      "region": "EMEA",
+      "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+    },
+    "amazon:10577611": {
+      "uid": "amazon:10577611",
+      "active": true,
+      "category": "Security",
+      "city_tag": "London",
+      "company": "Amazon",
+      "country": "uk",
+      "external_id": "10577611",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "active": true
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-13",
+      "region": "EMEA",
+      "title": "(Physical) Security Specialist Intern - 2027 Internship, DC Security",
+      "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security"
     }
   }
 }

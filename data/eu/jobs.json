@@ -1017,7 +1017,7 @@
     },
     "intel:JR0287250": {
       "active": true,
-      "category": "Software",
+      "category": "Backend/Infra",
       "city_tag": "Europe (Other)",
       "company": "Intel",
       "country": "eu",
@@ -1035,7 +1035,7 @@
     },
     "intel:JR0287675": {
       "active": true,
-      "category": "Software",
+      "category": "Backend/Infra",
       "city_tag": "Munich",
       "company": "Intel",
       "country": "eu",
@@ -1875,5 +1875,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130807"
     }
   },
-  "updated_at": "2026-10-15T03:38:16Z"
+  "updated_at": "2026-10-15T03:43:30Z"
 }

@@ -249,13 +249,21 @@ def get_eu_hub(locations):
     return "Europe (Other)"
 
 
+NON_US_COUNTRIES = re.compile(
+    r"\b(Mexico|Baja California|Brazil|Australia|Japan|China|South Korea|Israel|New Zealand|South Africa)\b",
+    re.IGNORECASE,
+)
+
+
 def is_us_location(text):
     if not text:
         return False
     # If explicitly India, not US
     if _is_indian_location(text):
         return False
-    # If explicit other country and not mentioning USA, not US
+    # If explicit foreign country and not mentioning USA, not US
+    if NON_US_COUNTRIES.search(text) and not US_COUNTRY.search(text):
+        return False
     if (UK_COUNTRY.search(text) or CA_COUNTRY.search(text) or EU_COUNTRIES.search(text) or SG_COUNTRY.search(text)) and not US_COUNTRY.search(text):
         return False
     if US_COUNTRY.search(text) or US_REMOTE.search(text):

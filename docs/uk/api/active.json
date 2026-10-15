@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-15T03:27:27Z",
+  "updated_at": "2026-10-15T03:43:30Z",
   "total_active": 21,
   "jobs": [
     {
@@ -53,22 +53,6 @@
     },
     {
       "company": "JPMorgan Chase",
-      "title": "2027 Data & AI - Summer Internship -  Glasgow, London",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
-      "locations": [
-        "GLASGOW, LANARKSHIRE, United Kingdom",
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-08-31",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15"
-    },
-    {
-      "company": "JPMorgan Chase",
       "title": "2027 Software Engineer Program - Summer Internship - Glasgow, London",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
       "locations": [
@@ -79,6 +63,22 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
+      "posted": "2026-08-31",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "title": "2027 Data & AI - Summer Internship -  Glasgow, London",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
+      "locations": [
+        "GLASGOW, LANARKSHIRE, United Kingdom",
+        "LONDON, LONDON, United Kingdom"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Data",
       "posted": "2026-08-31",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
@@ -116,8 +116,8 @@
     },
     {
       "company": "Google",
-      "title": "Software Engineering PhD Intern, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854",
       "locations": [
         "London, UK"
       ],
@@ -125,7 +125,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-08-17",
+      "posted": "2026-09-03",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
     },
@@ -161,8 +161,8 @@
     },
     {
       "company": "Google",
-      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854",
+      "title": "Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590",
       "locations": [
         "London, UK"
       ],
@@ -170,7 +170,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-09-03",
+      "posted": "2026-08-17",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
     },
@@ -214,21 +214,6 @@
     },
     {
       "company": "Cisco",
-      "title": "Network Engineer Intern, Australia",
-      "url": "https://careers.cisco.com/global/en/job/2024351",
-      "locations": [
-        "North Sydney, New South Wales, Australia"
-      ],
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-09-29",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15"
-    },
-    {
-      "company": "Cisco",
       "title": "Software Engineer - Intern",
       "url": "https://careers.cisco.com/global/en/job/2023625",
       "locations": [
@@ -239,6 +224,21 @@
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-08-21",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
+    },
+    {
+      "company": "Cisco",
+      "title": "Network Engineer Intern, Australia",
+      "url": "https://careers.cisco.com/global/en/job/2024351",
+      "locations": [
+        "North Sydney, New South Wales, Australia"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
     },
@@ -259,16 +259,16 @@
     },
     {
       "company": "Amazon",
-      "title": "Business Intelligence Intern London",
-      "url": "https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london",
+      "title": "Operations Engineering Intern -  3 months, start date Q2 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10541467/operations-engineering-intern-3-months-start-date-q2-2027",
       "locations": [
         "London, England, GBR"
       ],
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-10-02",
+      "category": "Software",
+      "posted": "2026-09-15",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
     },
@@ -289,31 +289,16 @@
     },
     {
       "company": "Amazon",
-      "title": "(Physical) Security Specialist Intern - 2027 Internship, DC Security",
-      "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security",
+      "title": "Business Intelligence Intern London",
+      "url": "https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london",
       "locations": [
         "London, England, GBR"
       ],
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Security",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15"
-    },
-    {
-      "company": "Amazon",
-      "title": "Operations Engineering Intern -  3 months, start date Q2 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10541467/operations-engineering-intern-3-months-start-date-q2-2027",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-15",
+      "category": "Data",
+      "posted": "2026-10-02",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
     },
@@ -329,6 +314,21 @@
       "region": "EMEA",
       "category": "AI/ML",
       "posted": "2026-10-02",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
+    },
+    {
+      "company": "Amazon",
+      "title": "(Physical) Security Specialist Intern - 2027 Internship, DC Security",
+      "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Security",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
     }
