@@ -1538,48 +1538,54 @@ button, input, select { font-family: inherit; }
 }
 
 /* ==========================================================================
-   Country Switcher Dropdown
+   Navbar Brand & Country Switcher
    ========================================================================== */
+.nav-brand-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
 .country-selector-wrap {
   position: relative;
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
 }
-.country-badge-btn {
+.country-pill-btn {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  background: var(--surface-card);
-  color: var(--ink);
-  border: 1px solid var(--border);
-  border-radius: 9px;
-  padding: 6px 12px;
-  font-size: 13px;
+  background: transparent;
+  color: var(--ink-secondary);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 4px 8px;
+  font-size: 13.5px;
   font-weight: 600;
   cursor: pointer;
-  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: all 0.15s ease;
+  font-family: inherit;
+  line-height: 1.4;
+  user-select: none;
 }
-.country-badge-btn:hover {
-  background: var(--surface-card-hover);
-  border-color: var(--border-hover);
+.country-pill-btn:hover {
+  background: var(--surface-hover);
+  color: var(--ink);
 }
-.country-badge-btn .chevron {
-  transition: transform 0.2s ease;
-  color: var(--dim);
-}
-.country-selector-wrap.open .country-badge-btn .chevron {
-  transform: rotate(180deg);
+.country-selector-wrap.open .country-pill-btn {
+  background: var(--surface-hover);
+  color: var(--ink);
 }
 .country-dropdown-menu {
   position: absolute;
-  top: calc(100% + 6px);
-  right: 0;
-  min-width: 185px;
+  top: calc(100% + 8px);
+  left: 0;
+  min-width: 200px;
   background: var(--surface);
   border: 1px solid var(--border-hover);
   border-radius: 12px;
-  box-shadow: var(--shadow-lg);
+  box-shadow: 0 16px 36px -8px rgba(0, 0, 0, 0.45), 0 0 0 1px var(--border);
   padding: 6px;
-  z-index: 100;
+  z-index: 1000;
   display: none;
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
@@ -1597,7 +1603,12 @@ button, input, select { font-family: inherit; }
   font-size: 13.5px;
   font-weight: 500;
   color: var(--ink-secondary);
+  text-decoration: none;
   transition: background 0.15s, color 0.15s;
+}
+.country-menu-item .flag {
+  font-size: 15px;
+  line-height: 1;
 }
 .country-menu-item:hover {
   background: var(--surface-card-hover);
@@ -1607,6 +1618,17 @@ button, input, select { font-family: inherit; }
   background: var(--brand-soft);
   color: var(--brand);
   font-weight: 700;
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* ==========================================================================

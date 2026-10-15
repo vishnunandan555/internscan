@@ -595,4 +595,36 @@ document.querySelectorAll(".api-copy-btn").forEach(btn => {
   });
 });
 
+// Country Dropdown Handler
+const countryWrap = document.getElementById("countrySelectorWrap");
+if (countryWrap) {
+  const countryBtn = document.getElementById("countryMenuBtn");
+  if (countryBtn) {
+    countryBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      countryWrap.classList.toggle("open");
+    });
+  }
+  document.addEventListener("click", (e) => {
+    if (!countryWrap.contains(e.target)) {
+      countryWrap.classList.remove("open");
+    }
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") countryWrap.classList.remove("open");
+  });
+  countryWrap.querySelectorAll(".country-menu-item").forEach(item => {
+    item.addEventListener("click", () => {
+      const href = item.getAttribute("href") || "";
+      const match = href.match(/\b(in|us|ca|uk|eu)\b/);
+      if (match) {
+        localStorage.setItem("internscan_preferred_country", match[1]);
+      } else if (href.includes("../") || href === "./") {
+        localStorage.removeItem("internscan_preferred_country");
+      }
+    });
+  });
+}
+
 loadJobs();
