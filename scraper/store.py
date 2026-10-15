@@ -84,8 +84,9 @@ def save(state: dict) -> None:
 
     # 2. Country partitions (e.g. data/in/jobs.json, data/us/jobs.json)
     jobs_dict = state.get("jobs", {})
+    data_dir = os.path.dirname(DATA_PATH)
     for country_code in SUPPORTED_COUNTRIES:
-        c_dir = os.path.join(DATA_DIR, country_code)
+        c_dir = os.path.join(data_dir, country_code)
         os.makedirs(c_dir, exist_ok=True)
         c_jobs = {
             uid: entry for uid, entry in jobs_dict.items()
