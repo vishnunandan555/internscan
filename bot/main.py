@@ -20,6 +20,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
+from typing import Optional
 
 # Optional: Load .env if python-dotenv is installed
 try:

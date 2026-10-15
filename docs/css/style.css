@@ -263,6 +263,7 @@ button, input, select { font-family: inherit; }
 .gradient-text {
   background: linear-gradient(135deg, var(--brand) 0%, #f97316 50%, #ea580c 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .hero p {
