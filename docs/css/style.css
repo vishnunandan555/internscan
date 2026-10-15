@@ -141,6 +141,10 @@ button, input, select { font-family: inherit; }
   font-weight: 800;
   font-size: 17px;
   letter-spacing: -0.015em;
+  color: var(--ink);
+}
+.brand-accent {
+  color: var(--brand);
 }
 .brand-logo-img {
   width: 34px;
