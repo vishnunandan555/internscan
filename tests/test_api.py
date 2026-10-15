@@ -42,6 +42,7 @@ class TestApiGenerator(unittest.TestCase):
             orig_feed = api.FEED_PATH
             orig_latest = api.LATEST_API_PATH
             orig_active = api.ACTIVE_API_PATH
+            orig_metrics = api.METRICS_PATH
 
             try:
                 api.DOCS_DIR = tmpdir
@@ -49,6 +50,7 @@ class TestApiGenerator(unittest.TestCase):
                 api.FEED_PATH = os.path.join(tmpdir, "feed.xml")
                 api.LATEST_API_PATH = os.path.join(tmpdir, "api", "latest.json")
                 api.ACTIVE_API_PATH = os.path.join(tmpdir, "api", "active.json")
+                api.METRICS_PATH = os.path.join(tmpdir, "metrics.json")
 
                 res = api.generate_apis(sample_state)
 
@@ -67,12 +69,25 @@ class TestApiGenerator(unittest.TestCase):
                     self.assertIn("<rss version=\"2.0\"", rss_text)
                     self.assertIn("SWE Intern 2027", rss_text)
 
+                # Check country partitions and metrics.json
+                metrics_path = os.path.join(tmpdir, "metrics.json")
+                self.assertTrue(os.path.exists(metrics_path))
+                with open(metrics_path, encoding="utf-8") as f:
+                    metrics = json.load(f)
+                    self.assertIn("countries", metrics)
+                    self.assertIn("in", metrics["countries"])
+                    self.assertIn("us", metrics["countries"])
+
+                in_active_path = os.path.join(tmpdir, "in", "api", "active.json")
+                self.assertTrue(os.path.exists(in_active_path))
+
             finally:
                 api.DOCS_DIR = orig_docs
                 api.API_DIR = orig_api
                 api.FEED_PATH = orig_feed
                 api.LATEST_API_PATH = orig_latest
                 api.ACTIVE_API_PATH = orig_active
+                api.METRICS_PATH = orig_metrics
 
 
 if __name__ == "__main__":

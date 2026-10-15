@@ -1,0 +1,79 @@
+{
+  "version": "2.0.0",
+  "updated_at": "2026-10-14T03:00:00Z",
+  "total_active_global": 1,
+  "countries": {
+    "in": {
+      "name": "India",
+      "flag": "🇮🇳",
+      "currency": "INR",
+      "active_count": 0,
+      "tracked_companies": 65,
+      "hubs": [
+        "Bengaluru",
+        "Hyderabad",
+        "Pune",
+        "Delhi-NCR",
+        "Chennai",
+        "Mumbai",
+        "Remote (India)"
+      ]
+    },
+    "us": {
+      "name": "United States",
+      "flag": "🇺🇸",
+      "currency": "USD",
+      "active_count": 0,
+      "tracked_companies": 58,
+      "hubs": [
+        "SF Bay Area",
+        "Seattle",
+        "New York",
+        "Austin",
+        "Boston",
+        "Remote (US)"
+      ]
+    },
+    "ca": {
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "currency": "CAD",
+      "active_count": 0,
+      "tracked_companies": 53,
+      "hubs": [
+        "Toronto",
+        "Waterloo",
+        "Vancouver",
+        "Montreal",
+        "Remote (Canada)"
+      ]
+    },
+    "uk": {
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "currency": "GBP",
+      "active_count": 0,
+      "tracked_companies": 53,
+      "hubs": [
+        "London",
+        "Cambridge / Oxford",
+        "Remote (UK)"
+      ]
+    },
+    "eu": {
+      "name": "Europe",
+      "flag": "🇪🇺",
+      "currency": "EUR",
+      "active_count": 0,
+      "tracked_companies": 53,
+      "hubs": [
+        "Berlin",
+        "Munich",
+        "Dublin",
+        "Amsterdam",
+        "Zurich",
+        "Remote (EU)"
+      ]
+    }
+  }
+}

@@ -30,9 +30,10 @@ from .companies import (
     get_companies,
     has_fallback_keys,
 )
+from .countries import SUPPORTED_COUNTRIES
 from .http import close_thread_session, get_session, set_thread_timeout
 from .logger import ScrapeLogger
-from .regions import get_city_tag, is_india_job
+from .regions import classify_location, get_city_tag, is_india_job
 from .render_list import render_list
 from .render_readme import render
 
@@ -44,7 +45,7 @@ DOCS_SITEMAP_PATH = os.path.join(os.path.dirname(__file__), "..", "docs", "sitem
 
 
 
-def _scrape_single_company(cfg, keyword=None):
+def _scrape_single_company(cfg, keyword=None, country=None):
     """Worker function executed inside ThreadPoolExecutor for a single company."""
     name = cfg["name"]
     start_t = time.perf_counter()
@@ -60,16 +61,25 @@ def _scrape_single_company(cfg, keyword=None):
             interns = [j for j in interns if kw in j.title.lower()]
 
         # Fused single-pass filter for categorization, region verification, and city hub tagging
-        in_india = []
+        matched = []
         for j in interns:
             cat = categorize(j.title)
-            if cat and is_india_job(j.locations):
+            if not cat:
+                continue
+            c_code, region, hub = classify_location(j.locations)
+            # If target country is specified, filter by it
+            if country and c_code != country:
+                continue
+            # Keep roles in supported countries or global remote
+            if c_code in SUPPORTED_COUNTRIES or c_code == "remote":
                 j.category = cat
-                j.city_tag = get_city_tag(j.locations)
-                in_india.append(j)
+                j.country = c_code
+                j.region = region
+                j.city_tag = hub
+                matched.append(j)
 
         duration = time.perf_counter() - start_t
-        return (name, in_india, len(fetched), len(interns), duration, None)
+        return (name, matched, len(fetched), len(interns), duration, None)
     except Exception as err:
         duration = time.perf_counter() - start_t
         return (name, [], 0, 0, duration, err)
@@ -77,10 +87,10 @@ def _scrape_single_company(cfg, keyword=None):
         close_thread_session()
 
 
-def run(only_companies=None, keyword=None, dry_run=False, workers=8):
+def run(only_companies=None, keyword=None, dry_run=False, workers=8, country=None):
     """Run concurrent scraping across target companies."""
     # Filter target companies
-    all_known = get_all_known_companies()
+    all_known = get_all_known_companies(country=country) if country else get_all_known_companies()
     if only_companies:
         norm_targets = {c.strip().lower() for c in only_companies}
         targets = [c for c in all_known if c["name"].lower() in norm_targets]
@@ -89,31 +99,32 @@ def run(only_companies=None, keyword=None, dry_run=False, workers=8):
             print(display.dim("Use --list to see all supported company names."))
             return 1
     else:
-        targets = get_companies()
+        targets = get_companies(country=country) if country else get_companies()
 
-    print(display.bold(f"\n🚀 Launching scraper for {len(targets)} companies ({workers} worker threads)..."))
+    country_label = f" [{country.upper()}]" if country else " [GLOBAL]"
+    print(display.bold(f"\n🚀 Launching scraper for {len(targets)} companies{country_label} ({workers} worker threads)..."))
     if dry_run:
         print(display.yellow("⚠️  Running in DRY RUN mode: files will NOT be updated.\n"))
     else:
         print()
 
     logger = ScrapeLogger()
-    logger.log(f"Starting scrape for {len(targets)} companies with {workers} workers (dry_run={dry_run}, keyword={keyword})")
+    logger.log(f"Starting scrape for {len(targets)} companies with {workers} workers (country={country}, dry_run={dry_run}, keyword={keyword})")
 
     all_jobs, succeeded, failed = [], set(), {}
     total_start_t = time.perf_counter()
 
     # Execute scrapers concurrently
     with concurrent.futures.ThreadPoolExecutor(max_workers=min(workers, len(targets))) as executor:
-        futures = {executor.submit(_scrape_single_company, cfg, keyword): cfg["name"] for cfg in targets}
+        futures = {executor.submit(_scrape_single_company, cfg, keyword, country): cfg["name"] for cfg in targets}
 
         for future in concurrent.futures.as_completed(futures):
-            name, in_india, n_fetched, n_interns, duration, err = future.result()
+            name, matched_jobs, n_fetched, n_interns, duration, err = future.result()
             if err is None:
                 succeeded.add(name)
-                all_jobs.extend(in_india)
-                print(display.status_ok(name, duration, n_fetched, n_interns, len(in_india)))
-                logger.log(f"[OK]   {name:<24} ({duration:4.1f}s) -> {n_fetched:>4} postings, {n_interns:>2} interns, {len(in_india)} India")
+                all_jobs.extend(matched_jobs)
+                print(display.status_ok(name, duration, n_fetched, n_interns, len(matched_jobs)))
+                logger.log(f"[OK]   {name:<24} ({duration:4.1f}s) -> {n_fetched:>4} postings, {n_interns:>2} interns, {len(matched_jobs)} matched")
             else:
                 failed[name] = str(err)
                 print(display.status_fail(name, duration, err))
@@ -247,12 +258,13 @@ def run(only_companies=None, keyword=None, dry_run=False, workers=8):
 def _args_from_env() -> tuple:
     """Read scraper config from environment variables (set by GitHub Actions or container)."""
     company_env = os.environ.get("SCRAPER_COMPANY", "").strip()
+    country_env = os.environ.get("SCRAPER_COUNTRY", "").strip()
     keyword_env = os.environ.get("SCRAPER_KEYWORD", "").strip()
     dry_run_env = os.environ.get("SCRAPER_DRY_RUN", "").strip().lower() in ("true", "1", "yes")
     workers_env_str = os.environ.get("SCRAPER_WORKERS", "").strip()
     workers_env = int(workers_env_str) if workers_env_str.isdigit() else None
     companies = [c.strip() for c in company_env.split(",") if c.strip()] if company_env else None
-    return companies, keyword_env or None, dry_run_env, workers_env
+    return companies, keyword_env or None, dry_run_env, workers_env, country_env or None
 
 
 def main():
@@ -262,6 +274,7 @@ def main():
     )
     parser.add_argument("targets", nargs="*", help="Optional company name(s) to scrape (e.g. Google Qualcomm)")
     parser.add_argument("-c", "--company", action="append", help="Company name to scrape (can be repeated or comma-separated)")
+    parser.add_argument("-C", "--country", help="Target country code (e.g. 'in', 'us', 'ca', 'uk', 'eu')")
     parser.add_argument("-k", "--keyword", help="Custom keyword to filter internship titles (e.g. 'hardware', '2027')")
     parser.add_argument("-d", "--dry-run", action="store_true", help="Preview scraped listings without modifying data/ or README")
     parser.add_argument("-s", "--search", help="Universal search for any company/keyword using Google Jobs/SERP API")
@@ -304,7 +317,7 @@ def main():
         print()
         return 0
 
-    env_companies, env_keyword, env_dry_run, env_workers = _args_from_env()
+    env_companies, env_keyword, env_dry_run, env_workers, env_country = _args_from_env()
 
     # Combine positional args and --company flags
     selected = []
@@ -319,12 +332,14 @@ def main():
     keyword = args.keyword or env_keyword
     dry_run = args.dry_run or env_dry_run
     workers = args.workers if args.workers is not None else (env_workers if env_workers is not None else 8)
+    country = args.country or env_country
 
     return run(
         only_companies=set(selected) if selected else None,
         keyword=keyword,
         dry_run=dry_run,
         workers=workers,
+        country=country,
     )
 
 

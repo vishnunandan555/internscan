@@ -21,7 +21,11 @@ import re
 import sys
 from datetime import datetime, timezone
 
-DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "jobs.json")
+from .regions import classify_location
+from .countries import SUPPORTED_COUNTRIES
+
+DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "data"))
+DATA_PATH = os.path.join(DATA_DIR, "jobs.json")
 _TMP_PATH = DATA_PATH + ".tmp"
 
 
@@ -30,21 +34,36 @@ def _slugify(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
-def load() -> dict:
-    """Load jobs.json, returning a safe default if missing or corrupt."""
-    if not os.path.exists(DATA_PATH):
+def load(country: Optional[str] = None) -> dict:
+    """Load jobs database. If country is provided, loads from data/<country>/jobs.json if available.
+    Backfills country and region on legacy records if absent."""
+    path = DATA_PATH
+    if country and country in SUPPORTED_COUNTRIES:
+        country_path = os.path.join(DATA_DIR, country, "jobs.json")
+        if os.path.exists(country_path):
+            path = country_path
+
+    if not os.path.exists(path):
         return {"updated_at": None, "jobs": {}}
     try:
-        with open(DATA_PATH, encoding="utf-8") as fh:
+        with open(path, encoding="utf-8") as fh:
             state = json.load(fh)
         if not isinstance(state, dict) or not isinstance(state.get("jobs"), dict):
             raise ValueError("Root state or 'jobs' key is not a dict")
+        # Backfill country and region if missing
+        for uid, entry in state["jobs"].items():
+            if not entry.get("country") or not entry.get("region"):
+                c, r, h = classify_location(entry.get("locations", []))
+                entry["country"] = entry.get("country") or c
+                entry["region"] = entry.get("region") or r
+                if not entry.get("city_tag"):
+                    entry["city_tag"] = h
         return state
     except (json.JSONDecodeError, ValueError, OSError) as exc:
         print(f"[WARN] jobs.json corrupt ({exc}); starting fresh.", file=sys.stderr)
-        corrupt_path = f"{DATA_PATH}.corrupt.{datetime.now(timezone.utc).strftime('%Y%m%d%H%M%S')}"
+        corrupt_path = f"{path}.corrupt.{datetime.now(timezone.utc).strftime('%Y%m%d%H%M%S')}"
         try:
-            os.replace(DATA_PATH, corrupt_path)
+            os.replace(path, corrupt_path)
             print(f"[INFO] Backup saved to {corrupt_path}", file=sys.stderr)
         except OSError:
             pass
@@ -52,13 +71,36 @@ def load() -> dict:
 
 
 def save(state: dict) -> None:
-    """Atomically persist state to jobs.json via a tmp-file + os.replace."""
-    state["updated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
+    """Atomically persist master state to data/jobs.json and partitioned slices to data/<country>/jobs.json."""
+    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    state["updated_at"] = now_iso
+    os.makedirs(DATA_DIR, exist_ok=True)
+
+    # 1. Master state
     with open(_TMP_PATH, "w", encoding="utf-8") as fh:
         json.dump(state, fh, indent=2, sort_keys=True)
         fh.write("\n")
     os.replace(_TMP_PATH, DATA_PATH)  # atomic on POSIX
+
+    # 2. Country partitions (e.g. data/in/jobs.json, data/us/jobs.json)
+    jobs_dict = state.get("jobs", {})
+    for country_code in SUPPORTED_COUNTRIES:
+        c_dir = os.path.join(DATA_DIR, country_code)
+        os.makedirs(c_dir, exist_ok=True)
+        c_jobs = {
+            uid: entry for uid, entry in jobs_dict.items()
+            if entry.get("country") == country_code
+        }
+        c_state = {
+            "updated_at": now_iso,
+            "jobs": c_jobs,
+        }
+        c_tmp = os.path.join(c_dir, "jobs.json.tmp")
+        c_final = os.path.join(c_dir, "jobs.json")
+        with open(c_tmp, "w", encoding="utf-8") as fh:
+            json.dump(c_state, fh, indent=2, sort_keys=True)
+            fh.write("\n")
+        os.replace(c_tmp, c_final)
 
 
 def merge(state: dict, scraped_jobs: list, succeeded_companies: set) -> tuple:
