@@ -53,6 +53,47 @@ class TestRegions(unittest.TestCase):
             with self.subTest(locations=locs):
                 self.assertEqual(get_city_tag(locs), expected)
 
+    def test_classify_location(self):
+        from scraper.regions import classify_location
+        cases = [
+            # India
+            (["Bengaluru, Karnataka, India"], ("in", "APAC", "Bengaluru")),
+            (["Hyderabad, Telangana"], ("in", "APAC", "Hyderabad")),
+            (["Remote - India"], ("in", "APAC", "Remote (India)")),
+            # USA
+            (["Seattle, WA, United States"], ("us", "AMER", "Seattle")),
+            (["San Francisco, CA"], ("us", "AMER", "SF Bay Area")),
+            (["Mountain View, California"], ("us", "AMER", "SF Bay Area")),
+            (["New York, NY, USA"], ("us", "AMER", "New York")),
+            (["Austin, TX"], ("us", "AMER", "Austin")),
+            (["Boston, MA"], ("us", "AMER", "Boston")),
+            (["Remote, United States"], ("us", "AMER", "Remote (US)")),
+            (["Indianapolis, IN, United States"], ("us", "AMER", "US (Other)")),
+            # Canada
+            (["Waterloo, Ontario, Canada"], ("ca", "AMER", "Waterloo")),
+            (["Toronto, ON"], ("ca", "AMER", "Toronto")),
+            (["Vancouver, BC, Canada"], ("ca", "AMER", "Vancouver")),
+            # UK
+            (["London, United Kingdom"], ("uk", "EMEA", "London")),
+            (["Cambridge, UK"], ("uk", "EMEA", "Cambridge / Oxford")),
+            # Europe
+            (["Berlin, Germany"], ("eu", "EMEA", "Berlin")),
+            (["Munich, Germany"], ("eu", "EMEA", "Munich")),
+            (["Dublin, Ireland"], ("eu", "EMEA", "Dublin")),
+            (["Zurich, Switzerland"], ("eu", "EMEA", "Zurich")),
+            (["Amsterdam, Netherlands"], ("eu", "EMEA", "Amsterdam")),
+            # Singapore
+            (["Singapore, Singapore"], ("sg", "APAC", "Singapore")),
+            # Global Remote
+            (["Remote"], ("remote", "Remote", "Global Remote")),
+            (["Anywhere"], ("remote", "Remote", "Global Remote")),
+            # Unknown
+            ([], ("other", "Other", "Unknown")),
+        ]
+        for locs, expected in cases:
+            with self.subTest(locations=locs):
+                self.assertEqual(classify_location(locs), expected)
+
 
 if __name__ == "__main__":
     unittest.main()

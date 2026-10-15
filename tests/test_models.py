@@ -20,10 +20,14 @@ class TestModels(unittest.TestCase):
             title="  SDE Intern  ",
             url="https://amazon.jobs/en/jobs/A9876",
             locations="Bengaluru, India; Hyderabad, India",
+            country="in",
+            region="APAC",
         )
         d = job.to_dict()
         self.assertEqual(d["company"], "Amazon")
         self.assertEqual(d["title"], "SDE Intern")
+        self.assertEqual(d["country"], "in")
+        self.assertEqual(d["region"], "APAC")
         self.assertIn("Bengaluru, India", d["locations"])
         self.assertIn("Hyderabad, India", d["locations"])
 

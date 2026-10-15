@@ -131,3 +131,186 @@ def get_city_tag(locations):
 
     return "India (Multiple/Other)"
 
+
+# =============================================================================
+# Global Country & Regional Hub Classifier
+# =============================================================================
+
+US_COUNTRY = re.compile(r"\b(United States|USA|U\.S\.A\.|U\.S\.)\b", re.IGNORECASE)
+US_REMOTE = re.compile(
+    r"\b(remote\s*[-–—]?\s*(us|usa|united states)|(us|usa|united states)\s*[-–—]?\s*remote|anywhere\s+in\s+(the\s+)?(us|usa))\b",
+    re.IGNORECASE,
+)
+US_STATES_FULL = _rx([
+    "California", "Washington", "New York", "Texas", "Massachusetts", "Colorado",
+    "Illinois", "Georgia", "North Carolina", "Pennsylvania", "Virginia", "Ohio",
+    "Michigan", "Florida", "Utah", "Oregon", "Maryland", "New Jersey", "Minnesota",
+    "Arizona", "Indiana", "Wisconsin", "Missouri", "Tennessee", "Connecticut",
+    "Iowa", "Kansas", "Kentucky", "Louisiana", "Nevada", "Oklahoma", "Alabama",
+    "Arkansas", "Idaho", "Mississippi", "Montana", "Nebraska", "New Hampshire",
+    "New Mexico", "Rhode Island", "South Carolina", "South Dakota", "Vermont",
+    "West Virginia", "Wyoming", "District of Columbia",
+])
+US_STATE_CODES = re.compile(
+    r"(?:,\s*|\b)("
+    r"CA|WA|NY|TX|MA|CO|IL|GA|NC|PA|VA|OH|MI|FL|UT|OR|MD|NJ|MN|AZ|WI|MO|TN|CT|IA|KS|KY|LA|NV|OK|AL|AR|ID|MS|MT|NE|NH|NM|RI|SC|SD|VT|WV|WY|DC"
+    r")\b",
+)
+
+US_HUB_RULES: tuple = (
+    ("SF Bay Area", (
+        "san francisco", "sf", "bay area", "mountain view", "sunnyvale", "palo alto",
+        "san jose", "santa clara", "menlo park", "cupertino", "redwood city", "san mateo",
+        "oakland", "berkeley", "fremont", "pleasanton", "san bruno", "south san francisco",
+    )),
+    ("Seattle", ("seattle", "redmond", "bellevue", "kirkland")),
+    ("New York", ("new york", "nyc", "manhattan", "brooklyn")),
+    ("Austin", ("austin", "round rock")),
+    ("Boston", ("boston", "cambridge", "waltham")),
+)
+
+# Canada
+CA_COUNTRY = re.compile(r"\b(Canada|CAN)\b", re.IGNORECASE)
+CA_PROVINCES = _rx(["Ontario", "British Columbia", "Quebec", "Alberta", "Nova Scotia", "Manitoba", "Saskatchewan"])
+CA_CITIES = _rx(["Toronto", "Vancouver", "Waterloo", "Kitchener", "Montreal", "Ottawa", "Calgary", "Edmonton"])
+
+# United Kingdom
+UK_COUNTRY = re.compile(r"\b(United Kingdom|UK|Great Britain|GBR|England|Scotland|Wales|Northern Ireland)\b", re.IGNORECASE)
+UK_CITIES = _rx(["London", "Cambridge", "Oxford", "Edinburgh", "Manchester", "Bristol", "Glasgow", "Belfast"])
+
+# Europe
+EU_COUNTRIES = _rx([
+    "Germany", "Deutschland", "Ireland", "Netherlands", "Switzerland", "France",
+    "Sweden", "Poland", "Spain", "Italy", "Denmark", "Austria", "Finland", "Norway",
+    "Czech Republic", "Czechia", "Estonia", "Portugal", "Belgium", "Romania",
+])
+EU_CITIES = _rx([
+    "Berlin", "Munich", "München", "Dublin", "Amsterdam", "Zurich", "Zürich",
+    "Paris", "Stockholm", "Warsaw", "Madrid", "Barcelona", "Krakow", "Prague",
+    "Tallinn", "Copenhagen", "Vienna", "Lisbon", "Bucharest",
+])
+
+# Singapore / APAC
+SG_COUNTRY = re.compile(r"\b(Singapore|SGP)\b", re.IGNORECASE)
+
+GENERIC_REMOTE = re.compile(r"\b(remote|virtual|work\s+from\s+home|anywhere)\b", re.IGNORECASE)
+
+
+def get_us_hub(locations):
+    combined = " ".join(locations or []).lower()
+    if US_REMOTE.search(combined) or ("remote" in combined and is_us_location(combined)):
+        return "Remote (US)"
+    for hub, keywords in US_HUB_RULES:
+        if any(kw in combined for kw in keywords):
+            return hub
+    return "US (Other)"
+
+
+def get_ca_hub(locations):
+    combined = " ".join(locations or []).lower()
+    if "waterloo" in combined or "kitchener" in combined:
+        return "Waterloo"
+    if "toronto" in combined:
+        return "Toronto"
+    if "vancouver" in combined:
+        return "Vancouver"
+    if "montreal" in combined:
+        return "Montreal"
+    if "remote" in combined:
+        return "Remote (Canada)"
+    return "Canada (Other)"
+
+
+def get_uk_hub(locations):
+    combined = " ".join(locations or []).lower()
+    if "london" in combined:
+        return "London"
+    if "cambridge" in combined or "oxford" in combined:
+        return "Cambridge / Oxford"
+    if "remote" in combined:
+        return "Remote (UK)"
+    return "UK (Other)"
+
+
+def get_eu_hub(locations):
+    combined = " ".join(locations or []).lower()
+    if "dublin" in combined:
+        return "Dublin"
+    if "berlin" in combined:
+        return "Berlin"
+    if "munich" in combined or "münchen" in combined:
+        return "Munich"
+    if "amsterdam" in combined:
+        return "Amsterdam"
+    if "zurich" in combined or "zürich" in combined:
+        return "Zurich"
+    if "remote" in combined:
+        return "Remote (EU)"
+    return "Europe (Other)"
+
+
+def is_us_location(text):
+    if not text:
+        return False
+    # If explicitly India, not US
+    if _is_indian_location(text):
+        return False
+    # If explicit other country and not mentioning USA, not US
+    if (UK_COUNTRY.search(text) or CA_COUNTRY.search(text) or EU_COUNTRIES.search(text) or SG_COUNTRY.search(text)) and not US_COUNTRY.search(text):
+        return False
+    if US_COUNTRY.search(text) or US_REMOTE.search(text):
+        return True
+    if US_STATES_FULL.search(text):
+        return True
+    if US_STATE_CODES.search(text):
+        return True
+    for _, kws in US_HUB_RULES:
+        if any(kw in text.lower() for kw in kws):
+            return True
+    return False
+
+
+def classify_location(locations):
+    """Classify a list of location strings into (country_code, region, city_hub).
+
+    Returns:
+        (country_code, region, city_hub)
+        country_code: "in", "us", "ca", "uk", "eu", "sg", "remote", or "other"
+        region: "APAC", "AMER", "EMEA", "Remote", or "Other"
+        city_hub: e.g. "Bengaluru", "SF Bay Area", "Seattle", "London", etc.
+    """
+    if not locations:
+        return ("other", "Other", "Unknown")
+
+    # 1. India check
+    if is_india_job(locations):
+        return ("in", "APAC", get_city_tag(locations))
+
+    combined = " ".join(locations)
+
+    # 2. US check
+    if any(is_us_location(loc) for loc in locations):
+        return ("us", "AMER", get_us_hub(locations))
+
+    # 3. Canada check
+    if CA_COUNTRY.search(combined) or CA_PROVINCES.search(combined) or CA_CITIES.search(combined):
+        return ("ca", "AMER", get_ca_hub(locations))
+
+    # 4. UK check
+    if UK_COUNTRY.search(combined) or UK_CITIES.search(combined):
+        return ("uk", "EMEA", get_uk_hub(locations))
+
+    # 5. Europe check
+    if EU_COUNTRIES.search(combined) or EU_CITIES.search(combined):
+        return ("eu", "EMEA", get_eu_hub(locations))
+
+    # 6. Singapore check
+    if SG_COUNTRY.search(combined):
+        return ("sg", "APAC", "Singapore")
+
+    # 7. Generic Global Remote check
+    if GENERIC_REMOTE.search(combined):
+        return ("remote", "Remote", "Global Remote")
+
+    return ("other", "Other", "Other")
+

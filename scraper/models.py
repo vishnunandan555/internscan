@@ -77,8 +77,12 @@ class Job:
     is_intern: Optional[bool] = None
     # Engineering role category, assigned in main.py via categories.categorize
     category: Optional[str] = None
-    # Hub tag (Bengaluru, Hyderabad, Pune, Delhi-NCR, Chennai, etc.)
+    # Hub tag (Bengaluru, Hyderabad, SF Bay Area, Seattle, etc.)
     city_tag: Optional[str] = None
+    # Country code: "in", "us", "ca", "uk", "eu", "sg", "remote"
+    country: Optional[str] = None
+    # Region code: "APAC", "AMER", "EMEA", "Remote"
+    region: Optional[str] = None
     # Publication date (YYYY-MM-DD) from the ATS, when it exposes one
     posted: Optional[str] = None
 
@@ -105,5 +109,7 @@ class Job:
             "locations": sorted(set(l.strip() for l in self.locations if l and l.strip())),
             "category": self.category,
             "city_tag": self.city_tag,
+            "country": self.country,
+            "region": self.region,
             "posted": self.posted,
         }
