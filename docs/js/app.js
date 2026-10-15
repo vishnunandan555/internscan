@@ -101,13 +101,22 @@ function getCompanySlug(company) {
   return (company || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 }
 
+function getLogosBasePath() {
+  const p = window.location.pathname;
+  if (/\/(in|us|ca|uk|eu)(\/|$)/i.test(p)) {
+    return "../logos/";
+  }
+  return "./logos/";
+}
+
 function renderAvatar(company, isCompact = false) {
   const slug = getCompanySlug(company);
   const letters = getAvatarLetters(company);
   const boxCls = isCompact ? "compact-avatar" : "company-avatar";
   const imgCls = isCompact ? "compact-logo-img" : "company-logo-img";
+  const basePath = getLogosBasePath();
   return `<div class="${boxCls}" title="${company}">
-    <img class="${imgCls}" src="./logos/${slug}.png" alt="${company}" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='block';" loading="lazy">
+    <img class="${imgCls}" src="${basePath}${slug}.png" alt="${company}" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='block';" loading="lazy">
     <span class="avatar-fallback" style="display:none;">${letters}</span>
   </div>`;
 }
