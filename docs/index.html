@@ -10,41 +10,70 @@
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <link rel="canonical" href="https://vishnunandan555.github.io/internscan/">
 
-<!-- Silent Zero-Permission Auto-Redirection by Timezone -->
+<!-- Silent Zero-Permission Auto-Redirection by Location -->
 <script>
 (function() {
+  // Purge any stale country preference so previous testing never hijacks the homepage
+  try {
+    localStorage.removeItem("internscan_preferred_country");
+  } catch (_) {}
+
   const params = new URLSearchParams(window.location.search);
   if (params.get("noredirect") === "1" || params.get("home") === "1") return;
 
-  const saved = localStorage.getItem("internscan_preferred_country");
-  if (saved && ["in", "us", "ca", "uk", "eu"].includes(saved)) {
-    window.location.replace("./" + saved + "/");
-    return;
+  function detectCountry() {
+    try {
+      const tz = (Intl.DateTimeFormat().resolvedOptions().timeZone || "").toLowerCase();
+      const offset = new Date().getTimezoneOffset(); // in minutes from UTC (India IST is -330)
+      const langs = (navigator.languages || [navigator.language || ""]).map(l => (l || "").toLowerCase());
+
+      // 1. India: Asia/Kolkata, Asia/Calcutta, UTC+5:30 (offset === -330), or Indian language locales
+      if (tz.includes("kolkata") || tz.includes("calcutta") || offset === -330) {
+        return "in";
+      }
+      if (langs.some(l => l.includes("-in") || ["hi", "ta", "te", "bn", "mr", "gu", "kn", "ml", "pa"].some(code => l.startsWith(code)))) {
+        return "in";
+      }
+
+      // 2. United States
+      const usTimezones = [
+        "new_york", "detroit", "kentucky", "indiana", "chicago", "menominee",
+        "north_dakota", "denver", "boise", "phoenix", "los_angeles", "anchorage",
+        "juneau", "sitka", "yakutat", "nome", "adak", "honolulu"
+      ];
+      if (usTimezones.some(t => tz.includes(t))) {
+        return "us";
+      }
+
+      // 3. Canada
+      const caTimezones = [
+        "toronto", "vancouver", "edmonton", "calgary", "winnipeg", "halifax",
+        "st_johns", "regina", "moncton", "glace_bay", "goose_bay", "yellowknife",
+        "inuvik", "whitehorse", "dawson"
+      ];
+      if (caTimezones.some(t => tz.includes(t)) || langs.some(l => l === "en-ca" || l === "fr-ca")) {
+        return "ca";
+      }
+
+      // 4. United Kingdom
+      if (tz.includes("london") || tz.includes("belfast") || langs.some(l => l === "en-gb")) {
+        return "uk";
+      }
+
+      // 5. Europe
+      if (tz.startsWith("europe/")) {
+        return "eu";
+      }
+    } catch (_) {}
+
+    // Incase proper location cannot be determined, return null to show home page
+    return null;
   }
 
-  try {
-    const tz = (Intl.DateTimeFormat().resolvedOptions().timeZone || "").toLowerCase();
-    if (tz.includes("kolkata") || tz.includes("calcutta")) {
-      window.location.replace("./in/");
-      return;
-    }
-    if (tz.includes("new_york") || tz.includes("los_angeles") || tz.includes("chicago") || tz.includes("denver") || tz.includes("phoenix") || tz.includes("detroit") || tz.includes("indiana")) {
-      window.location.replace("./us/");
-      return;
-    }
-    if (tz.includes("toronto") || tz.includes("vancouver") || tz.includes("edmonton") || tz.includes("winnipeg") || tz.includes("halifax")) {
-      window.location.replace("./ca/");
-      return;
-    }
-    if (tz.includes("london")) {
-      window.location.replace("./uk/");
-      return;
-    }
-    if (tz.startsWith("europe/")) {
-      window.location.replace("./eu/");
-      return;
-    }
-  } catch (_) {}
+  const target = detectCountry();
+  if (target && ["in", "us", "ca", "uk", "eu"].includes(target)) {
+    window.location.replace("./" + target + "/");
+  }
 })();
 </script>
 
@@ -188,7 +217,7 @@
 
   <div class="country-grid">
     <!-- India -->
-    <a href="./in/" class="country-card" onclick="localStorage.setItem('internscan_preferred_country', 'in')">
+    <a href="./in/" class="country-card">
       <div class="country-card-header">
         <span class="country-card-flag">🇮🇳</span>
         <span class="country-card-badge" id="badge-in-count">15 Active</span>
@@ -210,7 +239,7 @@
     </a>
 
     <!-- United States -->
-    <a href="./us/" class="country-card" onclick="localStorage.setItem('internscan_preferred_country', 'us')">
+    <a href="./us/" class="country-card">
       <div class="country-card-header">
         <span class="country-card-flag">🇺🇸</span>
         <span class="country-card-badge" id="badge-us-count" style="background: rgba(59, 130, 246, 0.15); color: #60a5fa; border-color: rgba(59, 130, 246, 0.3);">294 Active</span>
@@ -232,7 +261,7 @@
     </a>
 
     <!-- Canada -->
-    <a href="./ca/" class="country-card" onclick="localStorage.setItem('internscan_preferred_country', 'ca')">
+    <a href="./ca/" class="country-card">
       <div class="country-card-header">
         <span class="country-card-flag">🇨🇦</span>
         <span class="country-card-badge" id="badge-ca-count" style="background: rgba(168, 85, 247, 0.15); color: #c084fc; border-color: rgba(168, 85, 247, 0.3);">49 Active</span>
@@ -252,7 +281,7 @@
     </a>
 
     <!-- United Kingdom -->
-    <a href="./uk/" class="country-card" onclick="localStorage.setItem('internscan_preferred_country', 'uk')">
+    <a href="./uk/" class="country-card">
       <div class="country-card-header">
         <span class="country-card-flag">🇬🇧</span>
         <span class="country-card-badge" id="badge-uk-count" style="background: rgba(16, 185, 129, 0.15); color: #34d399; border-color: rgba(16, 185, 129, 0.3);">21 Active</span>
@@ -272,7 +301,7 @@
     </a>
 
     <!-- Europe -->
-    <a href="./eu/" class="country-card" onclick="localStorage.setItem('internscan_preferred_country', 'eu')">
+    <a href="./eu/" class="country-card">
       <div class="country-card-header">
         <span class="country-card-flag">🇪🇺</span>
         <span class="country-card-badge" id="badge-eu-count" style="background: rgba(234, 179, 8, 0.15); color: #facc15; border-color: rgba(234, 179, 8, 0.3);">108 Active</span>
@@ -445,13 +474,7 @@ if (countryWrap) {
   });
   countryWrap.querySelectorAll(".country-menu-item").forEach(item => {
     item.addEventListener("click", () => {
-      const href = item.getAttribute("href") || "";
-      const match = href.match(/\b(in|us|ca|uk|eu)\b/);
-      if (match) {
-        localStorage.setItem("internscan_preferred_country", match[1]);
-      } else {
-        localStorage.removeItem("internscan_preferred_country");
-      }
+      countryWrap.classList.remove("open");
     });
   });
 }

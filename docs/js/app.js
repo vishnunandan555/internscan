@@ -616,13 +616,7 @@ if (countryWrap) {
   });
   countryWrap.querySelectorAll(".country-menu-item").forEach(item => {
     item.addEventListener("click", () => {
-      const href = item.getAttribute("href") || "";
-      const match = href.match(/\b(in|us|ca|uk|eu)\b/);
-      if (match) {
-        localStorage.setItem("internscan_preferred_country", match[1]);
-      } else if (href.includes("../") || href === "./") {
-        localStorage.removeItem("internscan_preferred_country");
-      }
+      countryWrap.classList.remove("open");
     });
   });
 }
