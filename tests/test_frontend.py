@@ -38,6 +38,10 @@ class TestFrontend(unittest.TestCase):
                 self.assertIn('rel="stylesheet"', content)
                 self.assertIn("style.css", content)
 
+                # Early theme initialization in head (prevents white flash / FOUC)
+                self.assertIn("localStorage.getItem(\"theme\")", content)
+                self.assertIn("document.documentElement.setAttribute(\"data-theme\"", content)
+
                 # Semantic elements
                 self.assertIn("<header", content)
                 self.assertIn("<nav", content)

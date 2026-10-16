@@ -64,6 +64,39 @@
   color-scheme: dark;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #07090e;
+    --surface: #0f131d;
+    --surface-card: #111726;
+    --surface-glass: rgba(15, 19, 29, 0.88);
+    --surface-hover: #192236;
+    --surface-subtle: #0d111a;
+    --border: #1e2638;
+    --border-strong: #2c3852;
+    --ink: #f8fafc;
+    --ink-secondary: #e2e8f0;
+    --dim: #94a3b8;
+    --faint: #64748b;
+    --brand: #f97316;
+    --brand-dark: #ea580c;
+    --brand-soft: rgba(249, 115, 22, 0.12);
+    --brand-glow: rgba(249, 115, 22, 0.22);
+    --brand-blue: #3b82f6;
+    --brand-purple: #a855f7;
+    --new-fg: #4ade80;
+    --new-bg: rgba(74, 222, 128, 0.12);
+    --new-border: rgba(74, 222, 128, 0.25);
+    --badge-bg: #161e2e;
+    --badge-fg: #cbd5e1;
+    --badge-border: #222e44;
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.4);
+    --shadow-md: 0 6px 18px -2px rgba(0, 0, 0, 0.55);
+    --shadow-lg: 0 16px 36px -4px rgba(0, 0, 0, 0.7);
+    color-scheme: dark;
+  }
+}
+
 /* Base & Reset */
 * {
   box-sizing: border-box;
@@ -77,12 +110,16 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   scroll-behavior: smooth;
+  background-color: var(--bg);
+  color: var(--ink);
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 body {
   background: var(--bg);
   color: var(--ink);
   font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.5;
+  transition: background-color 0.2s ease, color 0.2s ease;
   -webkit-font-smoothing: antialiased;
   min-height: 100vh;
   display: flex;
