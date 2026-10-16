@@ -1,11 +1,57 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-10-16T07:14:47Z",
-  "new_count": 1,
+  "updated_at": "2026-10-16T13:29:37Z",
+  "new_count": 8,
   "reopened_count": 0,
   "total_active": 297,
   "new_jobs": [
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Efficient AI Software Systems",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Quality & Reliability Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/1624891432439039",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "HPE",
+      "title": "People Care HR AI Agent - Process Improvement Project Management Intern",
+      "url": "https://careers.hpe.com/us/en/job/1212389",
+      "locations": [
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
     {
       "company": "HPE",
       "title": "AI & HPC Performance Engineering Intern",
@@ -19,6 +65,68 @@
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "HPE",
+      "title": "GMC Digital Marketing, Analytics & AI Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213640",
+      "locations": [
+        "Houston, Texas, 77070",
+        "San Jose, California, 95134",
+        "San Jose, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-09-28",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Dell Technologies",
+      "title": "Product & Application Security Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299002",
+      "locations": [
+        "Round Rock, TX, United States"
+      ],
+      "city_tag": "Austin",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Dell Technologies",
+      "title": "Cybersecurity Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299004",
+      "locations": [
+        "Round Rock, TX, United States"
+      ],
+      "city_tag": "Austin",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Amazon",
+      "title": "Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
+      "url": "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more",
+      "locations": [
+        "Westborough, Massachusetts, USA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2025-12-17",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     }

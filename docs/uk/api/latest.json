@@ -1,10 +1,71 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-16T07:14:47Z",
-  "new_count": 0,
+  "updated_at": "2026-10-16T13:29:37Z",
+  "new_count": 4,
   "reopened_count": 0,
   "total_active": 24,
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Microsoft",
+      "title": "Applied Sciences Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "title": "2027 AI Research Associate Program - Internship",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
+      "locations": [
+        "LONDON, United Kingdom"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Amazon",
+      "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Amazon",
+      "title": "Network Development Engineer Intern, Core Networking",
+      "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
+      "locations": [
+        "Sydney, New South Wales, AUS"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-03-11",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    }
+  ],
   "reopened_jobs": []
 }

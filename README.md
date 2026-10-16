@@ -24,7 +24,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![Security](https://img.shields.io/badge/Security-Policy-e11d48?style=for-the-badge&logo=securityscorecard&logoColor=white)](SECURITY.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-16 12:44:47 IST** · 📌 **15** open internships
+> 🕐 Last updated: **2026-10-16 18:59:37 IST** · 📌 **15** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.

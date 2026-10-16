@@ -16,6 +16,6 @@ def fetch(cfg):
             title=j.get("title", ""),
             url=j.get("absolute_url", ""),
             locations=[loc.strip() for loc in location.split(";")] if location else [],
-            posted=as_date(j.get("first_published")),
+            posted=as_date(j.get("updated_at") or j.get("first_published")),
         ))
     return jobs

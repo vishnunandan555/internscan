@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:14:47Z",
+  "updated_at": "2026-10-16T13:29:37Z",
   "jobs": {
     "microsoft:1970393557041731": {
       "uid": "microsoft:1970393557041731",
@@ -56,6 +56,25 @@
       "title": "People Care HR AI Agent - Process Improvement Project Management Intern",
       "url": "https://careers.hpe.com/us/en/job/1212389"
     },
+    "hpe:1213397": {
+      "uid": "hpe:1213397",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "US (Other)",
+      "company": "HPE",
+      "country": "us",
+      "external_id": "1213397",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
+      ],
+      "posted": "2026-10-15",
+      "region": "AMER",
+      "title": "AI & HPC Performance Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213397"
+    },
     "hpe:1213640": {
       "uid": "hpe:1213640",
       "active": true,
@@ -75,25 +94,6 @@
       "region": "AMER",
       "title": "GMC Digital Marketing, Analytics & AI Intern",
       "url": "https://careers.hpe.com/us/en/job/1213640"
-    },
-    "hpe:1213397": {
-      "uid": "hpe:1213397",
-      "company": "HPE",
-      "external_id": "1213397",
-      "title": "AI & HPC Performance Engineering Intern",
-      "url": "https://careers.hpe.com/us/en/job/1213397",
-      "locations": [
-        "Spring, Texas, 77389-1767",
-        "Spring, Texas, United States of America"
-      ],
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
     },
     "dell-technologies:299002": {
       "uid": "dell-technologies:299002",
@@ -4414,7 +4414,7 @@
         "San Francisco, California",
         "Vancouver, Canada"
       ],
-      "posted": "2023-08-04",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Software Engineering Intern (2027)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
@@ -4432,7 +4432,7 @@
       "locations": [
         "San Francisco, California"
       ],
-      "posted": "2023-11-07",
+      "posted": "2026-10-09",
       "region": "AMER",
       "title": "PhD GenAI Research Scientist Intern",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
@@ -4452,7 +4452,7 @@
         "Mountain View, California",
         "San Francisco, California"
       ],
-      "posted": "2026-08-20",
+      "posted": "2026-09-23",
       "region": "AMER",
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
