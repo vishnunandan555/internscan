@@ -1229,6 +1229,23 @@
       "title": "Business Intelligence Engineer Internship France",
       "url": "https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france"
     },
+    "amazon:10581332": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
+      "company": "Amazon",
+      "country": "uk",
+      "external_id": "10581332",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom"
+    },
     "amazon:3104589": {
       "active": true,
       "category": "AI/ML",
@@ -1416,6 +1433,23 @@
       "title": "2027 Masters Hardware Design Verification Engineering Intern/Co-op",
       "url": "https://careers.amd.com/careers-home/jobs/90813"
     },
+    "amd:91368": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Canada (Other)",
+      "company": "AMD",
+      "country": "ca",
+      "external_id": "91368",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "posted": "2026-09-01",
+      "region": "AMER",
+      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91368"
+    },
     "amd:91469": {
       "active": true,
       "category": "Hardware/Silicon",
@@ -1451,9 +1485,10 @@
       "url": "https://careers.amd.com/careers-home/jobs/91867"
     },
     "amd:92358": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "SF Bay Area",
+      "closed": "2026-10-16",
       "company": "AMD",
       "country": "us",
       "external_id": "92358",
@@ -1943,6 +1978,23 @@
       "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
       "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis"
     },
+    "apple:200689473": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
+      "company": "Apple",
+      "country": "uk",
+      "external_id": "200689473",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "Software Engineering Intern, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering"
+    },
     "autodesk:26WD100398": {
       "active": true,
       "category": "Software",
@@ -2225,6 +2277,25 @@
       "region": "AMER",
       "title": "Software Consulting Engineer I (Intern) United States",
       "url": "https://careers.cisco.com/global/en/job/2025180"
+    },
+    "cisco:2025611": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "company": "Cisco",
+      "country": "us",
+      "external_id": "2025611",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Chicago, Illinois, United States of America",
+        "San Jose, California, United States of America",
+        "Santa Monica, California, United States of America"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Software Engineer Data & AI PhD (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2025611"
     },
     "cisco:2025924": {
       "active": true,
@@ -2560,7 +2631,7 @@
         "Boston, Massachusetts, USA",
         "New York, New York, USA"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-09-30",
       "region": "AMER",
       "title": "Software Engineering Intern (Summer)",
       "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
@@ -2577,7 +2648,7 @@
       "locations": [
         "Madrid, Spain"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "region": "EMEA",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161"
@@ -2594,7 +2665,7 @@
       "locations": [
         "Paris, France"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "region": "EMEA",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186"
@@ -2611,7 +2682,7 @@
       "locations": [
         "Paris, France"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "region": "EMEA",
       "title": "Applied Science Intern",
       "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440"
@@ -2629,7 +2700,7 @@
         "New York, New York, USA",
         "Pittsburgh, Pennsylvania, USA"
       ],
-      "posted": "2026-09-15",
+      "posted": "2026-09-29",
       "region": "AMER",
       "title": "Research Science Intern (PhD)",
       "url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657"
@@ -4472,6 +4543,24 @@
       "title": "Software Engineering Internship (Placement Year)",
       "url": "https://careers.hpe.com/us/en/job/1215804"
     },
+    "hpe:1216282": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "UK (Other)",
+      "company": "HPE",
+      "country": "uk",
+      "external_id": "1216282",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Winnersh, N/A",
+        "Winnersh, United Kingdom"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "Networking Intern - Placement Year",
+      "url": "https://careers.hpe.com/us/en/job/1216282"
+    },
     "hpe:1216555": {
       "active": true,
       "category": "Hardware/Silicon",
@@ -4833,20 +4922,19 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"
     },
     "intel:JR0287539": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "city_tag": "Toronto",
-      "closed": "2026-10-16",
       "company": "Intel",
       "country": "ca",
       "external_id": "JR0287539",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-16",
       "region": "AMER",
       "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
@@ -5211,6 +5299,24 @@
       "region": "EMEA",
       "title": "Design Verification Engineering Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Logic-Design---Design-Verification-Engineering-Undergraduate-Intern_JR0287999"
+    },
+    "intel:JR0288221": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "company": "Intel",
+      "country": "eu",
+      "external_id": "JR0288221",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1"
     },
     "jane-street:5869205002": {
       "active": true,
@@ -5677,6 +5783,23 @@
       "region": "AMER",
       "title": "Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)",
       "url": "https://www.metacareers.com/jobs/1139865145249047"
+    },
+    "meta:1141752241867684": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1141752241867684",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)",
+      "url": "https://www.metacareers.com/jobs/1141752241867684"
     },
     "meta:1373603594867455": {
       "active": true,
@@ -6209,6 +6332,23 @@
       "region": "AMER",
       "title": "Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
       "url": "https://www.metacareers.com/jobs/3364701000388712"
+    },
+    "meta:4536253699919879": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "4536253699919879",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Production Systems Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/4536253699919879"
     },
     "meta:929122273385202": {
       "active": true,
@@ -6791,9 +6931,10 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557037856"
     },
     "microsoft:1970393557038773": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Dublin",
+      "closed": "2026-10-16",
       "company": "Microsoft",
       "country": "eu",
       "external_id": "1970393557038773",
@@ -6853,7 +6994,7 @@
       "locations": [
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-16",
       "region": "AMER",
       "title": "Research Intern - Agentic Data Memory",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344"
@@ -6910,6 +7051,42 @@
       "title": "Research Intern - Efficient AI Software Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731"
     },
+    "microsoft:1970393557042145": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "New York",
+      "company": "Microsoft",
+      "country": "us",
+      "external_id": "1970393557042145",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "United States, Massachusetts, Cambridge",
+        "United States, New York, New York"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Intern - Machine Learning at MSR NYC",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145"
+    },
+    "microsoft:1970393557042156": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Microsoft",
+      "country": "us",
+      "external_id": "1970393557042156",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "United States, New York, New York",
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Intern - MSR AI Interaction and Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156"
+    },
     "mongodb:8258279": {
       "active": true,
       "category": "Software",
@@ -6922,7 +7099,7 @@
       "locations": [
         "Dublin"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-16",
       "region": "EMEA",
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279"
@@ -8045,6 +8222,24 @@
       "title": "Robotics Simulation and Evaluation PhD Intern - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531"
     },
+    "nvidia:JR2027826": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2027826",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Poland Warsaw",
+        "Poland, Warsaw"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "Developer Tools DevOps Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
+    },
     "nvidia:JR2027829": {
       "active": true,
       "category": "Data",
@@ -8157,9 +8352,10 @@
       "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749"
     },
     "qualcomm:446715095913": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
       "city_tag": "Amsterdam",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "eu",
       "external_id": "446715095913",
@@ -8627,9 +8823,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com"
     },
     "qualcomm:446721140936": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Toronto",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721140936",
@@ -8644,9 +8841,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com"
     },
     "qualcomm:446721141411": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "city_tag": "Toronto",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721141411",
@@ -8661,9 +8859,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com"
     },
     "qualcomm:446721142985": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Toronto",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721142985",
@@ -8678,9 +8877,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721142985?domain=qualcomm.com"
     },
     "qualcomm:446721143274": {
-      "active": true,
+      "active": false,
       "category": "Hardware/Silicon",
       "city_tag": "Toronto",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721143274",
@@ -8712,9 +8912,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com"
     },
     "qualcomm:446721156176": {
-      "active": true,
+      "active": false,
       "category": "Hardware/Silicon",
       "city_tag": "Canada (Other)",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721156176",
@@ -8947,7 +9148,7 @@
       "locations": [
         "Bangalore"
       ],
-      "posted": "2026-09-06",
+      "posted": "2026-10-14",
       "region": "APAC",
       "title": "Software Engineer (CPD) - Winter Intern",
       "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537"
@@ -9022,6 +9223,23 @@
       "title": "Staff Research Scientist",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000155594899"
     },
+    "snowflake:26f36ea2-bc44-401f-9d01-ef724a8edb03": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Snowflake",
+      "country": "us",
+      "external_id": "26f36ea2-bc44-401f-9d01-ef724a8edb03",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Menlo Park, California, United States"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
+      "url": "https://careers.snowflake.com/us/en/job/26f36ea2-bc44-401f-9d01-ef724a8edb03"
+    },
     "snowflake:36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e": {
       "active": true,
       "category": "Software",
@@ -9085,7 +9303,7 @@
       "locations": [
         "Bengaluru"
       ],
-      "posted": "2026-07-10",
+      "posted": "2026-10-07",
       "region": "APAC",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
@@ -9102,7 +9320,7 @@
       "locations": [
         "Dublin"
       ],
-      "posted": "2026-08-17",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
@@ -9119,7 +9337,7 @@
       "locations": [
         "San Francisco, Seattle, New York City"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745"
@@ -9136,7 +9354,7 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
@@ -9153,7 +9371,7 @@
       "locations": [
         "Bucharest"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130807"
@@ -9170,7 +9388,7 @@
       "locations": [
         "London"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
@@ -9187,7 +9405,7 @@
       "locations": [
         "New York, Seattle, South San Francisco HQ"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194283"
@@ -9204,7 +9422,7 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194285"
@@ -9221,7 +9439,7 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Data Analyst, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194287"
@@ -9238,7 +9456,7 @@
       "locations": [
         "New York, Seattle, South San Francisco HQ"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Data Analyst, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194291"
@@ -9255,7 +9473,7 @@
       "locations": [
         "Seattle, San Francisco"
       ],
-      "posted": "2026-09-30",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "High School Internship, Software Engineering (Summer 2027)",
       "url": "https://stripe.com/jobs/search?gh_jid=8241260"
@@ -9458,5 +9676,5 @@
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032"
     }
   },
-  "updated_at": "2026-10-16T15:23:49Z"
+  "updated_at": "2026-10-16T23:45:36Z"
 }

@@ -2,25 +2,25 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-16 20:53:49 IST** · 📌 **24** open verified internships
+> 🕐 Last updated: **2026-10-17 05:15:36 IST** · 📌 **27** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/uk/) · [⚡ **REST API**](https://vishnunandan555.github.io/internscan/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (24)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (27)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United Kingdom |
 |---|:---:|
-| [Amazon](#amazon) | **6** |
-| [Apple](#apple) | **1** |
+| [Amazon](#amazon) | **7** |
+| [Apple](#apple) | **2** |
 | [Cisco](#cisco) | **2** |
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **5** |
-| [HPE](#hpe) | **1** |
+| [HPE](#hpe) | **2** |
 | [JPMorgan Chase](#jpmorgan-chase) | **4** |
 | [Meta](#meta) | **1** |
 | [Microsoft](#microsoft) | **1** |
@@ -37,6 +37,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom) ✨ | Software | London | 2026-10-16 | 2026-10-16 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) ✨ | Security | London | 2026-10-13 | 2026-10-15 |
 | [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) ✨ | Data | London | 2026-10-02 | 2026-10-15 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) ✨ | AI/ML | London | 2026-10-02 | 2026-10-15 |
@@ -50,6 +51,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern, Apple Services Engineering](https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering) ✨ | Software | London | 2026-10-16 | 2026-10-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) ✨ | QA | London | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -87,6 +89,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) ✨ | Backend/Infra | UK (Other) | 2026-10-16 | 2026-10-16 |
 | [Software Engineering Internship (Placement Year)](https://careers.hpe.com/us/en/job/1215804) ✨ | Software | UK (Other) | 2026-09-23 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -130,7 +133,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) ✨ | Software | London | 2026-08-31 | 2026-10-15 |
+| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) ✨ | Software | London | 2026-10-07 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

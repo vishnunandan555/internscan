@@ -2,18 +2,17 @@
 
 # 🇺🇸 United States — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-10-16 21:10:20 IST**
+> 🕐 Last updated: **2026-10-17 05:15:36 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/us/)
 
 This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **United States**.
 
-## 🟢 Directly Scraped Employers (54)
+## 🟢 Directly Scraped Employers (48)
 
 Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):
 
 - AMD
-- Accenture
 - Adobe
 - Amazon
 - Apple
@@ -27,8 +26,6 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - Databricks
 - Datadog
 - Dell Technologies
-- DoorDash
-- Duolingo
 - Elastic
 - GitHub
 - GitLab
@@ -48,16 +45,13 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - Nokia
 - Okta
 - Oracle
-- Palantir
 - Palo Alto Networks
 - PayPal
 - Pure Storage
 - Qualcomm
 - Red Hat
-- Roblox
 - Rubrik
 - Salesforce
-- Samsara
 - ServiceNow
 - Snowflake
 - Stripe

@@ -1,115 +1,40 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-10-16T15:23:49Z",
-  "new_count": 7,
+  "updated_at": "2026-10-16T23:45:36Z",
+  "new_count": 2,
   "reopened_count": 0,
   "total_active": 111,
   "new_jobs": [
     {
       "company": "NVIDIA",
-      "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
+      "title": "Developer Tools DevOps Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
       "locations": [
-        "2 Locations",
-        "Germany Remote"
+        "Poland Warsaw",
+        "Poland, Warsaw"
       ],
-      "city_tag": "Remote (EU)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineering Intern - Compute Performance",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
-      "locations": [
-        "2 Locations",
-        "Switzerland Zurich"
-      ],
-      "city_tag": "Zurich",
+      "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-15",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
     {
-      "company": "Microsoft",
-      "title": "Copilot & AI Solution Engineer Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998782",
+      "company": "Intel",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
       "locations": [
-        "Belgium, Brussels Region, Brussels"
+        "Poland Gdansk",
+        "Poland, Gdansk"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-09-15",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
-      "url": "https://www.metacareers.com/jobs/1050177734644029",
-      "locations": [
-        "Paris, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Amazon",
-      "title": "Business Developer Intern - 2027 - 6 months",
-      "url": "https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months",
-      "locations": [
-        "Munich, Bavaria, DEU"
-      ],
-      "city_tag": "Munich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Amazon",
-      "title": "Business Intelligence Engineer Internship France",
-      "url": "https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france",
-      "locations": [
-        "Clichy, Ile-de-France, FRA"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Accenture",
-      "title": "Data & AI Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786",
-      "locations": [
-        "Krakow"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-10-15",
+      "category": "Backend/Infra",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     }

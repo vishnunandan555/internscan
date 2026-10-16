@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T15:23:49Z",
+  "updated_at": "2026-10-16T23:45:36Z",
   "jobs": {
     "microsoft:1970393557040084": {
       "uid": "microsoft:1970393557040084",
@@ -37,6 +37,43 @@
       "title": "2027 AI Research Associate Program - Internship",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615"
     },
+    "hpe:1216282": {
+      "uid": "hpe:1216282",
+      "company": "HPE",
+      "external_id": "1216282",
+      "title": "Networking Intern - Placement Year",
+      "url": "https://careers.hpe.com/us/en/job/1216282",
+      "locations": [
+        "Winnersh, N/A",
+        "Winnersh, United Kingdom"
+      ],
+      "category": "Backend/Infra",
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "active": true
+    },
+    "apple:200689473": {
+      "uid": "apple:200689473",
+      "company": "Apple",
+      "external_id": "200689473",
+      "title": "Software Engineering Intern, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering",
+      "locations": [
+        "London"
+      ],
+      "category": "Software",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "active": true
+    },
     "amazon:10552039": {
       "uid": "amazon:10552039",
       "active": true,
@@ -73,6 +110,24 @@
       "title": "Network Development Engineer Intern, Core Networking",
       "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking"
     },
+    "amazon:10581332": {
+      "uid": "amazon:10581332",
+      "company": "Amazon",
+      "external_id": "10581332",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "category": "Software",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "active": true
+    },
     "stripe:8130867": {
       "uid": "stripe:8130867",
       "active": true,
@@ -86,7 +141,7 @@
       "locations": [
         "London"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"

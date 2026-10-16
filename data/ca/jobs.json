@@ -85,6 +85,23 @@
       "title": "Robotics - Software Development Engineer Intern - 2026 - Toronto",
       "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto"
     },
+    "amd:91368": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Canada (Other)",
+      "company": "AMD",
+      "country": "ca",
+      "external_id": "91368",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "posted": "2026-09-01",
+      "region": "AMER",
+      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91368"
+    },
     "autodesk:26WD100398": {
       "active": true,
       "category": "Software",
@@ -356,20 +373,19 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535"
     },
     "intel:JR0287539": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "city_tag": "Toronto",
-      "closed": "2026-10-16",
       "company": "Intel",
       "country": "ca",
       "external_id": "JR0287539",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-16",
       "region": "AMER",
       "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
@@ -615,9 +631,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com"
     },
     "qualcomm:446721140936": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Toronto",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721140936",
@@ -632,9 +649,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com"
     },
     "qualcomm:446721141411": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "city_tag": "Toronto",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721141411",
@@ -649,9 +667,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com"
     },
     "qualcomm:446721142985": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Toronto",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721142985",
@@ -666,9 +685,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721142985?domain=qualcomm.com"
     },
     "qualcomm:446721143274": {
-      "active": true,
+      "active": false,
       "category": "Hardware/Silicon",
       "city_tag": "Toronto",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721143274",
@@ -700,9 +720,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com"
     },
     "qualcomm:446721156176": {
-      "active": true,
+      "active": false,
       "category": "Hardware/Silicon",
       "city_tag": "Canada (Other)",
+      "closed": "2026-10-16",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721156176",
@@ -847,7 +868,7 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
@@ -864,7 +885,7 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194285"
@@ -881,11 +902,11 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Data Analyst, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194287"
     }
   },
-  "updated_at": "2026-10-16T15:23:49Z"
+  "updated_at": "2026-10-16T23:45:36Z"
 }

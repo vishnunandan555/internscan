@@ -752,9 +752,10 @@
       "url": "https://careers.amd.com/careers-home/jobs/91867"
     },
     "amd:92358": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "SF Bay Area",
+      "closed": "2026-10-16",
       "company": "AMD",
       "country": "us",
       "external_id": "92358",
@@ -1112,6 +1113,25 @@
       "title": "Software Consulting Engineer I (Intern) United States",
       "url": "https://careers.cisco.com/global/en/job/2025180"
     },
+    "cisco:2025611": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "company": "Cisco",
+      "country": "us",
+      "external_id": "2025611",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Chicago, Illinois, United States of America",
+        "San Jose, California, United States of America",
+        "Santa Monica, California, United States of America"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Software Engineer Data & AI PhD (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2025611"
+    },
     "cisco:2025924": {
       "active": true,
       "category": "Software",
@@ -1378,7 +1398,7 @@
         "Boston, Massachusetts, USA",
         "New York, New York, USA"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-09-30",
       "region": "AMER",
       "title": "Software Engineering Intern (Summer)",
       "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
@@ -1396,7 +1416,7 @@
         "New York, New York, USA",
         "Pittsburgh, Pennsylvania, USA"
       ],
-      "posted": "2026-09-15",
+      "posted": "2026-09-29",
       "region": "AMER",
       "title": "Research Science Intern (PhD)",
       "url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657"
@@ -3420,6 +3440,23 @@
       "title": "Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)",
       "url": "https://www.metacareers.com/jobs/1139865145249047"
     },
+    "meta:1141752241867684": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1141752241867684",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)",
+      "url": "https://www.metacareers.com/jobs/1141752241867684"
+    },
     "meta:1373603594867455": {
       "active": true,
       "category": "Data",
@@ -3917,6 +3954,23 @@
       "title": "Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
       "url": "https://www.metacareers.com/jobs/3364701000388712"
     },
+    "meta:4536253699919879": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "4536253699919879",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Production Systems Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/4536253699919879"
+    },
     "meta:929122273385202": {
       "active": true,
       "category": "Software",
@@ -4283,7 +4337,7 @@
       "locations": [
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-16",
       "region": "AMER",
       "title": "Research Intern - Agentic Data Memory",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344"
@@ -4322,6 +4376,42 @@
       "region": "AMER",
       "title": "Research Intern - Efficient AI Software Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731"
+    },
+    "microsoft:1970393557042145": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "New York",
+      "company": "Microsoft",
+      "country": "us",
+      "external_id": "1970393557042145",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "United States, Massachusetts, Cambridge",
+        "United States, New York, New York"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Intern - Machine Learning at MSR NYC",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145"
+    },
+    "microsoft:1970393557042156": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Microsoft",
+      "country": "us",
+      "external_id": "1970393557042156",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "United States, New York, New York",
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Intern - MSR AI Interaction and Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156"
     },
     "netflix:790317917022": {
       "active": true,
@@ -5406,6 +5496,23 @@
       "title": "Staff Research Scientist",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000155594899"
     },
+    "snowflake:26f36ea2-bc44-401f-9d01-ef724a8edb03": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Snowflake",
+      "country": "us",
+      "external_id": "26f36ea2-bc44-401f-9d01-ef724a8edb03",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Menlo Park, California, United States"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
+      "url": "https://careers.snowflake.com/us/en/job/26f36ea2-bc44-401f-9d01-ef724a8edb03"
+    },
     "stripe:8128745": {
       "active": true,
       "category": "Software",
@@ -5418,7 +5525,7 @@
       "locations": [
         "San Francisco, Seattle, New York City"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745"
@@ -5435,7 +5542,7 @@
       "locations": [
         "New York, Seattle, South San Francisco HQ"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194283"
@@ -5452,7 +5559,7 @@
       "locations": [
         "New York, Seattle, South San Francisco HQ"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Data Analyst, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194291"
@@ -5469,7 +5576,7 @@
       "locations": [
         "Seattle, San Francisco"
       ],
-      "posted": "2026-09-30",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "High School Internship, Software Engineering (Summer 2027)",
       "url": "https://stripe.com/jobs/search?gh_jid=8241260"
@@ -5619,5 +5726,5 @@
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032"
     }
   },
-  "updated_at": "2026-10-16T15:23:49Z"
+  "updated_at": "2026-10-16T23:45:36Z"
 }

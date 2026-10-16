@@ -1,9 +1,24 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-10-16T15:23:49Z",
-  "total_active": 297,
+  "updated_at": "2026-10-16T23:45:36Z",
+  "total_active": 302,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
+      "url": "https://careers.snowflake.com/us/en/job/26f36ea2-bc44-401f-9d01-ef724a8edb03",
+      "locations": [
+        "Menlo Park, California, United States"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
     {
       "company": "Microsoft",
       "title": "Research Intern - Efficient AI Software Systems",
@@ -20,6 +35,38 @@
       "last_seen": "2026-10-16"
     },
     {
+      "company": "Microsoft",
+      "title": "Research Intern - MSR AI Interaction and Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
+      "locations": [
+        "United States, New York, New York",
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning at MSR NYC",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+      "locations": [
+        "United States, Massachusetts, Cambridge",
+        "United States, New York, New York"
+      ],
+      "city_tag": "New York",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
       "company": "Meta",
       "title": "Quality & Reliability Engineering Intern",
       "url": "https://www.metacareers.com/jobs/1624891432439039",
@@ -31,6 +78,36 @@
       "region": "AMER",
       "category": "Software",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)",
+      "url": "https://www.metacareers.com/jobs/1141752241867684",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Production Systems Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/4536253699919879",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -110,6 +187,23 @@
       "region": "AMER",
       "category": "Security",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI PhD (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2025611",
+      "locations": [
+        "Chicago, Illinois, United States of America",
+        "San Jose, California, United States of America",
+        "Santa Monica, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -267,7 +361,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -282,7 +376,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -297,7 +391,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -312,7 +406,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-30",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1472,7 +1566,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-13",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3721,7 +3815,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-08",
+      "posted": "2026-09-30",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3737,7 +3831,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-09-15",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -4917,21 +5011,6 @@
       "region": "AMER",
       "category": "Backend/Infra",
       "posted": "2026-09-01",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 PhD Photonics Engineering Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/92358",
-      "locations": [
-        "San Jose, California"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-11",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     }

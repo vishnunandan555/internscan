@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T15:23:49Z",
+  "updated_at": "2026-10-16T23:45:36Z",
   "jobs": {
     "nokia:41311": {
       "uid": "nokia:41311",
@@ -38,6 +38,24 @@
       "title": "Compiler Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934"
     },
+    "amd:91368": {
+      "uid": "amd:91368",
+      "company": "AMD",
+      "external_id": "91368",
+      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91368",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "category": "Software",
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "posted": "2026-09-01",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "active": true
+    },
     "stripe:8130805": {
       "uid": "stripe:8130805",
       "active": true,
@@ -51,7 +69,7 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
@@ -69,7 +87,7 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194285"
@@ -87,7 +105,7 @@
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Data Analyst, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194287"
@@ -182,78 +200,6 @@
       "title": "FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design / Verification/Implementation - Canada (12 or 16 months)",
       "url": "https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com"
     },
-    "qualcomm:446721140936": {
-      "uid": "qualcomm:446721140936",
-      "active": true,
-      "category": "Software",
-      "city_tag": "Toronto",
-      "company": "Qualcomm",
-      "country": "ca",
-      "external_id": "446721140936",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "posted": "2026-09-17",
-      "region": "AMER",
-      "title": "FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com"
-    },
-    "qualcomm:446721141411": {
-      "uid": "qualcomm:446721141411",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "Toronto",
-      "company": "Qualcomm",
-      "country": "ca",
-      "external_id": "446721141411",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "posted": "2026-09-17",
-      "region": "AMER",
-      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com"
-    },
-    "qualcomm:446721142985": {
-      "uid": "qualcomm:446721142985",
-      "active": true,
-      "category": "Software",
-      "city_tag": "Toronto",
-      "company": "Qualcomm",
-      "country": "ca",
-      "external_id": "446721142985",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "posted": "2026-09-17",
-      "region": "AMER",
-      "title": "FY27 Intern - Physical Mixed Layout Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721142985?domain=qualcomm.com"
-    },
-    "qualcomm:446721143274": {
-      "uid": "qualcomm:446721143274",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "Toronto",
-      "company": "Qualcomm",
-      "country": "ca",
-      "external_id": "446721143274",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "posted": "2026-09-17",
-      "region": "AMER",
-      "title": "FY27 Intern - Silicon Validation Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com"
-    },
     "qualcomm:446721143440": {
       "uid": "qualcomm:446721143440",
       "active": true,
@@ -271,24 +217,6 @@
       "region": "AMER",
       "title": "FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)",
       "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com"
-    },
-    "qualcomm:446721156176": {
-      "uid": "qualcomm:446721156176",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "Canada (Other)",
-      "company": "Qualcomm",
-      "country": "ca",
-      "external_id": "446721156176",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "locations": [
-        "Ottawa, Ontario, Canada"
-      ],
-      "posted": "2026-09-18",
-      "region": "AMER",
-      "title": "FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721156176?domain=qualcomm.com"
     },
     "qualcomm:446721156182": {
       "uid": "qualcomm:446721156182",
@@ -561,6 +489,25 @@
       "region": "AMER",
       "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535"
+    },
+    "intel:JR0287539": {
+      "uid": "intel:JR0287539",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Toronto",
+      "company": "Intel",
+      "country": "ca",
+      "external_id": "JR0287539",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
     },
     "google:104405499448828614": {
       "uid": "google:104405499448828614",

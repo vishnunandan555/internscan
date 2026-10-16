@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T15:23:49Z",
+  "updated_at": "2026-10-16T23:45:36Z",
   "jobs": {
     "nvidia:JR2027829": {
       "uid": "nvidia:JR2027829",
@@ -39,6 +39,25 @@
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949"
     },
+    "nvidia:JR2027826": {
+      "uid": "nvidia:JR2027826",
+      "company": "NVIDIA",
+      "external_id": "JR2027826",
+      "title": "Developer Tools DevOps Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
+      "locations": [
+        "Poland Warsaw",
+        "Poland, Warsaw"
+      ],
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "active": true
+    },
     "microsoft:1970393556998782": {
       "uid": "microsoft:1970393556998782",
       "active": true,
@@ -74,6 +93,25 @@
       "region": "EMEA",
       "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
       "url": "https://www.metacareers.com/jobs/1050177734644029"
+    },
+    "intel:JR0288221": {
+      "uid": "intel:JR0288221",
+      "company": "Intel",
+      "external_id": "JR0288221",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "active": true
     },
     "amazon:10544726": {
       "uid": "amazon:10544726",
@@ -142,7 +180,7 @@
       "locations": [
         "Dublin"
       ],
-      "posted": "2026-08-17",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
@@ -160,7 +198,7 @@
       "locations": [
         "Bucharest"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130807"
@@ -218,24 +256,6 @@
       "region": "EMEA",
       "title": "Software Engineer Intern - Zurich (2026)",
       "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
-    },
-    "qualcomm:446715095913": {
-      "uid": "qualcomm:446715095913",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "Amsterdam",
-      "company": "Qualcomm",
-      "country": "eu",
-      "external_id": "446715095913",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "locations": [
-        "Amsterdam Drenthe, North Holland, Netherlands"
-      ],
-      "posted": "2025-10-21",
-      "region": "EMEA",
-      "title": "FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
-      "url": "https://careers.qualcomm.com/careers/job/446715095913?domain=qualcomm.com"
     },
     "qualcomm:446718345493": {
       "uid": "qualcomm:446718345493",
@@ -603,7 +623,7 @@
       "locations": [
         "Dublin"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-16",
       "region": "EMEA",
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279"
@@ -697,24 +717,6 @@
       "region": "EMEA",
       "title": "Solution Engineering INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557027235"
-    },
-    "microsoft:1970393557038773": {
-      "uid": "microsoft:1970393557038773",
-      "active": true,
-      "category": "Software",
-      "city_tag": "Dublin",
-      "company": "Microsoft",
-      "country": "eu",
-      "external_id": "1970393557038773",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "locations": [
-        "Ireland, Dublin, Dublin"
-      ],
-      "posted": "2026-10-12",
-      "region": "EMEA",
-      "title": "Software Engineer Internship Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773"
     },
     "jpmorgan-chase:210776172": {
       "uid": "jpmorgan-chase:210776172",
@@ -1240,7 +1242,7 @@
       "locations": [
         "Madrid, Spain"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "region": "EMEA",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161"
@@ -1258,7 +1260,7 @@
       "locations": [
         "Paris, France"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "region": "EMEA",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186"
@@ -1276,7 +1278,7 @@
       "locations": [
         "Paris, France"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "region": "EMEA",
       "title": "Applied Science Intern",
       "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440"

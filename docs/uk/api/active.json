@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-16T15:23:49Z",
-  "total_active": 24,
+  "updated_at": "2026-10-16T23:45:36Z",
+  "total_active": 27,
   "jobs": [
     {
       "company": "Microsoft",
@@ -31,6 +31,37 @@
       "region": "EMEA",
       "category": "AI/ML",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "HPE",
+      "title": "Networking Intern - Placement Year",
+      "url": "https://careers.hpe.com/us/en/job/1216282",
+      "locations": [
+        "Winnersh, N/A",
+        "Winnersh, United Kingdom"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineering Intern, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering",
+      "locations": [
+        "London"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -65,6 +96,21 @@
       "last_seen": "2026-10-16"
     },
     {
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
       "company": "Stripe",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867",
@@ -75,7 +121,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },

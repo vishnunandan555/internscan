@@ -1,8 +1,23 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-10-16T15:23:49Z",
-  "total_active": 498,
+  "updated_at": "2026-10-16T23:45:36Z",
+  "total_active": 503,
   "jobs": [
+    {
+      "company": "Snowflake",
+      "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
+      "url": "https://careers.snowflake.com/us/en/job/26f36ea2-bc44-401f-9d01-ef724a8edb03",
+      "locations": [
+        "Menlo Park, California, United States"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
     {
       "company": "Nokia",
       "title": "Embedded C/C++ SW Developer Co-op/Intern",
@@ -47,6 +62,22 @@
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Tools DevOps Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
+      "locations": [
+        "Poland Warsaw",
+        "Poland, Warsaw"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -96,6 +127,38 @@
       "last_seen": "2026-10-16"
     },
     {
+      "company": "Microsoft",
+      "title": "Research Intern - MSR AI Interaction and Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
+      "locations": [
+        "United States, New York, New York",
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning at MSR NYC",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+      "locations": [
+        "United States, Massachusetts, Cambridge",
+        "United States, New York, New York"
+      ],
+      "city_tag": "New York",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
       "company": "Meta",
       "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
       "url": "https://www.metacareers.com/jobs/1050177734644029",
@@ -122,6 +185,36 @@
       "region": "AMER",
       "category": "Software",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)",
+      "url": "https://www.metacareers.com/jobs/1141752241867684",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Production Systems Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/4536253699919879",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -153,6 +246,22 @@
       "region": "AMER",
       "category": "Backend/Infra",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Intel",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -206,6 +315,22 @@
       "last_seen": "2026-10-16"
     },
     {
+      "company": "HPE",
+      "title": "Networking Intern - Placement Year",
+      "url": "https://careers.hpe.com/us/en/job/1216282",
+      "locations": [
+        "Winnersh, N/A",
+        "Winnersh, United Kingdom"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
       "company": "Dell Technologies",
       "title": "Product & Application Security Undergraduate Intern",
       "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299002",
@@ -232,6 +357,38 @@
       "region": "AMER",
       "category": "Security",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI PhD (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2025611",
+      "locations": [
+        "Chicago, Illinois, United States of America",
+        "San Jose, California, United States of America",
+        "Santa Monica, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineering Intern, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering",
+      "locations": [
+        "London"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -311,6 +468,21 @@
       "last_seen": "2026-10-16"
     },
     {
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
       "company": "Accenture",
       "title": "Data & AI Internship Program (She/He/They)",
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786",
@@ -322,6 +494,21 @@
       "region": "EMEA",
       "category": "Data",
       "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "AMD",
+      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91368",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-01",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -464,7 +651,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-08-17",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -479,7 +666,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -494,7 +681,7 @@
       "country": "ca",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -509,7 +696,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -524,7 +711,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -539,7 +726,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -554,7 +741,7 @@
       "country": "ca",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -569,7 +756,7 @@
       "country": "ca",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -584,7 +771,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -599,7 +786,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-30",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -720,21 +907,6 @@
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-09-16",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
-      "url": "https://careers.qualcomm.com/careers/job/446715095913?domain=qualcomm.com",
-      "locations": [
-        "Amsterdam Drenthe, North Holland, Netherlands"
-      ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2025-10-21",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1096,66 +1268,6 @@
     },
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Physical Mixed Layout Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721142985?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Silicon Validation Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Qualcomm",
       "title": "FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)",
       "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com",
       "locations": [
@@ -1166,21 +1278,6 @@
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721156176?domain=qualcomm.com",
-      "locations": [
-        "Ottawa, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-09-18",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2310,7 +2407,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-09",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2558,21 +2655,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Software Engineer Internship Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773",
-      "locations": [
-        "Ireland, Dublin, Dublin"
-      ],
-      "city_tag": "Dublin",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-12",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Microsoft",
       "title": "Research Intern - Machine Learning for Biology and Healthcare",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
       "locations": [
@@ -2597,7 +2679,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-13",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3808,6 +3890,22 @@
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-09-30",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Intel",
+      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -5626,7 +5724,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-08",
+      "posted": "2026-09-30",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -5641,7 +5739,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -5656,7 +5754,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -5671,7 +5769,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-09-08",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -5687,7 +5785,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-09-15",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7808,21 +7906,6 @@
       "last_seen": "2026-10-16"
     },
     {
-      "company": "AMD",
-      "title": "2027 PhD Photonics Engineering Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/92358",
-      "locations": [
-        "San Jose, California"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-11",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    },
-    {
       "company": "Meta",
       "title": "ASIC Engineer Intern, Design",
       "url": "https://www.metacareers.com/jobs/1631077978652493",
@@ -7893,7 +7976,7 @@
       "country": "in",
       "region": "APAC",
       "category": "Software",
-      "posted": "2026-07-10",
+      "posted": "2026-10-07",
       "first_seen": "2026-09-17",
       "last_seen": "2026-10-16"
     },
@@ -7908,7 +7991,7 @@
       "country": "in",
       "region": "APAC",
       "category": "Software",
-      "posted": "2026-09-06",
+      "posted": "2026-10-14",
       "first_seen": "2026-09-17",
       "last_seen": "2026-10-16"
     },

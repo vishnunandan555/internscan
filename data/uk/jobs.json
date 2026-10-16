@@ -103,6 +103,23 @@
       "title": "(Physical) Security Specialist Intern - 2027 Internship, DC Security",
       "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security"
     },
+    "amazon:10581332": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
+      "company": "Amazon",
+      "country": "uk",
+      "external_id": "10581332",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom"
+    },
     "amazon:3201714": {
       "active": true,
       "category": "Backend/Infra",
@@ -136,6 +153,23 @@
       "region": "EMEA",
       "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture"
+    },
+    "apple:200689473": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
+      "company": "Apple",
+      "country": "uk",
+      "external_id": "200689473",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "Software Engineering Intern, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering"
     },
     "cisco:2023625": {
       "active": true,
@@ -299,6 +333,24 @@
       "title": "Software Engineering Internship (Placement Year)",
       "url": "https://careers.hpe.com/us/en/job/1215804"
     },
+    "hpe:1216282": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "UK (Other)",
+      "company": "HPE",
+      "country": "uk",
+      "external_id": "1216282",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Winnersh, N/A",
+        "Winnersh, United Kingdom"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "Networking Intern - Placement Year",
+      "url": "https://careers.hpe.com/us/en/job/1216282"
+    },
     "jpmorgan-chase:210774716": {
       "active": true,
       "category": "Software",
@@ -434,11 +486,11 @@
       "locations": [
         "London"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-16T15:23:49Z"
+  "updated_at": "2026-10-16T23:45:36Z"
 }

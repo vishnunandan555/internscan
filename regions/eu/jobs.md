@@ -2,7 +2,7 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-16 20:53:49 IST** · 📌 **111** open verified internships
+> 🕐 Last updated: **2026-10-17 05:15:36 IST** · 📌 **111** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/eu/) · [⚡ **REST API**](https://vishnunandan555.github.io/internscan/eu/api/active.json)
@@ -23,14 +23,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Datadog](#datadog) | **3** |
 | [Google](#google) | **9** |
 | [HPE](#hpe) | **2** |
-| [Intel](#intel) | **15** |
+| [Intel](#intel) | **16** |
 | [JPMorgan Chase](#jpmorgan-chase) | **1** |
 | [Meta](#meta) | **1** |
-| [Microsoft](#microsoft) | **7** |
+| [Microsoft](#microsoft) | **6** |
 | [MongoDB](#mongodb) | **1** |
-| [NVIDIA](#nvidia) | **13** |
+| [NVIDIA](#nvidia) | **14** |
 | [Nokia](#nokia) | **2** |
-| [Qualcomm](#qualcomm) | **7** |
+| [Qualcomm](#qualcomm) | **6** |
 | [Snowflake](#snowflake) | **3** |
 | [Stripe](#stripe) | **2** |
 
@@ -124,9 +124,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) ✨ | Software | Europe (Other) | 2026-09-08 | 2026-10-15 |
-| [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) ✨ | Software | Europe (Other) | 2026-09-08 | 2026-10-15 |
-| [Applied Science Intern](https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440) ✨ | AI/ML | Europe (Other) | 2026-09-08 | 2026-10-15 |
+| [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) ✨ | Software | Europe (Other) | 2026-09-29 | 2026-10-15 |
+| [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) ✨ | Software | Europe (Other) | 2026-09-29 | 2026-10-15 |
+| [Applied Science Intern](https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440) ✨ | AI/ML | Europe (Other) | 2026-09-29 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
@@ -159,6 +159,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1) ✨ | Backend/Infra | Europe (Other) | 2026-10-16 | 2026-10-16 |
 | [Design Verification Engineering Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Logic-Design---Design-Verification-Engineering-Undergraduate-Intern_JR0287999) ✨ | Software | Europe (Other) | 2026-10-15 | 2026-10-15 |
 | [MLIR Compiler Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942) ✨ | Backend/Infra | Munich | 2026-10-14 | 2026-10-15 |
 | [MLIR Compiler Engineering Graduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943) ✨ | Backend/Infra | Munich | 2026-10-14 | 2026-10-15 |
@@ -198,7 +199,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Solution Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557027235) ✨ | Software | Europe (Other) | 2026-10-13 | 2026-10-15 |
-| [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557038773) ✨ | Software | Dublin | 2026-10-12 | 2026-10-15 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393557026573) ✨ | AI/ML | Zurich | 2026-10-09 | 2026-10-15 |
 | [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) ✨ | Software | Europe (Other) | 2026-10-07 | 2026-10-15 |
 | [Software Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557021515) ✨ | Software | Europe (Other) | 2026-10-07 | 2026-10-15 |
@@ -211,7 +211,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) ✨ | Software | Dublin | 2026-10-09 | 2026-10-15 |
+| [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) ✨ | Software | Dublin | 2026-10-16 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
@@ -219,6 +219,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) ✨ | Software | Europe (Other) | 2026-10-16 | 2026-10-16 |
 | [Relational Foundation Model Intern, Modern Data Stack – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829) ✨ | Data | Remote (EU) | 2026-10-15 | 2026-10-16 |
 | [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949) ✨ | Software | Zurich | 2026-10-15 | 2026-10-16 |
 | [System Software Engineering Intern, GPU - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) ✨ | Software | Remote (EU) | 2026-10-14 | 2026-10-15 |
@@ -254,7 +255,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Software Intern (Data Center, Cloud-AI Engineering) - Cork](https://careers.qualcomm.com/careers/job/446718947455?domain=qualcomm.com) ✨ | Software | Europe (Other) | 2026-06-11 | 2026-10-15 |
 | [FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com) ✨ | Software | Europe (Other) | 2026-05-21 | 2026-10-15 |
 | [FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com) ✨ | Software | Europe (Other) | 2026-05-07 | 2026-10-15 |
-| [FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446715095913?domain=qualcomm.com) ✨ | AI/ML | Amsterdam | 2025-10-21 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
@@ -272,8 +272,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) ✨ | Software | Europe (Other) | 2026-08-31 | 2026-10-15 |
-| [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) ✨ | Software | Dublin | 2026-08-17 | 2026-10-15 |
+| [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) ✨ | Software | Dublin | 2026-10-07 | 2026-10-15 |
+| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) ✨ | Software | Europe (Other) | 2026-10-07 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 

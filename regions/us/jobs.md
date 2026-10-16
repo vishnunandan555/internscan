@@ -2,24 +2,24 @@
 
 # 🇺🇸 United States — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-16 20:53:49 IST** · 📌 **297** open verified internships
+> 🕐 Last updated: **2026-10-17 05:15:36 IST** · 📌 **302** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/us/) · [⚡ **REST API**](https://vishnunandan555.github.io/internscan/us/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United States**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (297)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (302)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United States |
 |---|:---:|
-| [AMD](#amd) | **6** |
+| [AMD](#amd) | **5** |
 | [Adobe](#adobe) | **3** |
 | [Amazon](#amazon) | **36** |
 | [Apple](#apple) | **16** |
-| [Cisco](#cisco) | **14** |
+| [Cisco](#cisco) | **15** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **2** |
 | [Dell Technologies](#dell-technologies) | **8** |
@@ -28,9 +28,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Intel](#intel) | **19** |
 | [JPMorgan Chase](#jpmorgan-chase) | **4** |
 | [Jane Street](#jane-street) | **8** |
-| [Meta](#meta) | **37** |
+| [Meta](#meta) | **39** |
 | [Micron](#micron) | **1** |
-| [Microsoft](#microsoft) | **15** |
+| [Microsoft](#microsoft) | **17** |
 | [NVIDIA](#nvidia) | **31** |
 | [Netflix](#netflix) | **1** |
 | [Nokia](#nokia) | **8** |
@@ -39,6 +39,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Qualcomm](#qualcomm) | **12** |
 | [Red Hat](#red-hat) | **2** |
 | [ServiceNow](#servicenow) | **3** |
+| [Snowflake](#snowflake) | **1** |
 | [Stripe](#stripe) | **4** |
 | [Visa](#visa) | **3** |
 | [Walmart Global Tech](#walmart-global-tech) | **5** |
@@ -53,7 +54,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 PhD Photonics Engineering Intern/Co-Op](https://careers.amd.com/careers-home/jobs/92358) ✨ | Software | SF Bay Area | 2026-09-11 | 2026-10-15 |
 | [2027 Masters Compiler Engineering Intern / Co-op](https://careers.amd.com/careers-home/jobs/91867) ✨ | Backend/Infra | Austin | 2026-09-01 | 2026-10-15 |
 | [2027 Masters ASIC Package Engineering Co-op/Intern](https://careers.amd.com/careers-home/jobs/91469) ✨ | Hardware/Silicon | SF Bay Area | 2026-08-25 | 2026-10-15 |
 | [2027 Undergrad Hardware Design Verification Engineering Co-op/Intern](https://careers.amd.com/careers-home/jobs/90811) ✨ | Hardware/Silicon | SF Bay Area | 2026-08-20 | 2026-10-15 |
@@ -142,6 +142,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer Data & AI PhD (Intern) - United States](https://careers.cisco.com/global/en/job/2025611) ✨ | Software | SF Bay Area | 2026-10-16 | 2026-10-16 |
 | [ASIC Design Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2027790) ✨ | Hardware/Silicon | SF Bay Area | 2026-10-14 | 2026-10-15 |
 | [Software Consulting Engineer I (Intern) United States](https://careers.cisco.com/global/en/job/2025180) ✨ | Software | US (Other) | 2026-10-01 | 2026-10-15 |
 | [Software Engineer Full Stack / Backend II (Intern) – United States](https://careers.cisco.com/global/en/job/2026800) ✨ | Software | SF Bay Area | 2026-09-24 | 2026-10-15 |
@@ -173,8 +174,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) ✨ | AI/ML | New York | 2026-09-15 | 2026-10-15 |
-| [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) ✨ | Software | New York | 2026-09-08 | 2026-10-15 |
+| [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) ✨ | Software | New York | 2026-09-30 | 2026-10-15 |
+| [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) ✨ | AI/ML | New York | 2026-09-29 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
@@ -316,6 +317,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)](https://www.metacareers.com/jobs/1141752241867684) ✨ | AI/ML | Seattle | 2026-10-16 | 2026-10-16 |
+| [Production Systems Engineering Intern](https://www.metacareers.com/jobs/4536253699919879) ✨ | Software | SF Bay Area | 2026-10-16 | 2026-10-16 |
 | [Quality & Reliability Engineering Intern](https://www.metacareers.com/jobs/1624891432439039) ✨ | Software | SF Bay Area | 2026-10-15 | 2026-10-16 |
 | [Research Scientist Intern, Wireless Research (PhD)](https://www.metacareers.com/jobs/2374839409720164) ✨ | AI/ML | SF Bay Area | 2026-10-14 | 2026-10-15 |
 | [Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)](https://www.metacareers.com/jobs/1658187582680157) ✨ | AI/ML | SF Bay Area | 2026-10-14 | 2026-10-15 |
@@ -368,10 +371,12 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Intern - Machine Learning at MSR NYC](https://apply.careers.microsoft.com/careers/job/1970393557042145) ✨ | AI/ML | New York | 2026-10-16 | 2026-10-16 |
+| [Research Intern - MSR AI Interaction and Learning](https://apply.careers.microsoft.com/careers/job/1970393557042156) ✨ | AI/ML | Seattle | 2026-10-16 | 2026-10-16 |
+| [Research Intern - Agentic Data Memory](https://apply.careers.microsoft.com/careers/job/1970393557040344) ✨ | Data | Seattle | 2026-10-16 | 2026-10-15 |
 | [Research Intern - Efficient AI Software Systems](https://apply.careers.microsoft.com/careers/job/1970393557041731) ✨ | AI/ML | Seattle | 2026-10-15 | 2026-10-16 |
 | [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557040333) ✨ | AI/ML | Boston | 2026-10-13 | 2026-10-15 |
 | [Research Intern - Machine Learning and Statistics](https://apply.careers.microsoft.com/careers/job/1970393557040502) ✨ | AI/ML | Seattle | 2026-10-13 | 2026-10-15 |
-| [Research Intern - Agentic Data Memory](https://apply.careers.microsoft.com/careers/job/1970393557040344) ✨ | Data | Seattle | 2026-10-13 | 2026-10-15 |
 | [Cloud Network Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557037856) ✨ | Backend/Infra | Seattle | 2026-10-12 | 2026-10-15 |
 | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) ✨ | Data | Seattle | 2026-10-08 | 2026-10-15 |
 | [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) ✨ | AI/ML | SF Bay Area | 2026-10-07 | 2026-10-15 |
@@ -502,14 +507,22 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
+### Snowflake
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)](https://careers.snowflake.com/us/en/job/26f36ea2-bc44-401f-9d01-ef724a8edb03) ✨ | AI/ML | SF Bay Area | 2026-10-16 | 2026-10-16 |
+
+[⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
+
 ### Stripe
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) ✨ | Data | SF Bay Area | 2026-10-01 | 2026-10-15 |
-| [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) ✨ | Data | SF Bay Area | 2026-10-01 | 2026-10-15 |
-| [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) ✨ | Software | SF Bay Area | 2026-09-30 | 2026-10-15 |
-| [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745) ✨ | Software | SF Bay Area | 2026-08-31 | 2026-10-15 |
+| [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745) ✨ | Software | SF Bay Area | 2026-10-07 | 2026-10-15 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) ✨ | Data | SF Bay Area | 2026-10-07 | 2026-10-15 |
+| [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) ✨ | Software | SF Bay Area | 2026-10-07 | 2026-10-15 |
+| [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) ✨ | Data | SF Bay Area | 2026-10-07 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
