@@ -101,7 +101,7 @@ Our ultra-lightweight Telegram bot runs 24/7 (**< 35 MB RAM**) to dispatch insta
 | **[AGENTS.md](AGENTS.md)** | Inviolable architectural invariants and memory rules for AI coding agents |
 
 ### 📂 Directory Map
-- **[`regions/`](regions/)**: Regional Markdown trackers (`jobs.md` & `companies.md`) for `in/`, `us/`, `ca/`, `uk/`, and `eu/`.
+- **[`regions/`](regions/README_regions.md)**: Regional Markdown trackers (`jobs.md` & `companies.md`) for `in/`, `us/`, `ca/`, `uk/`, and `eu/`.
 - **[`scraper/`](scraper/)**: Concurrent ThreadPool scraper engine, modular ATS adapters, and regional registries.
 - **[`data/`](data/)**: Master and region-partitioned JSON databases with atomic schema persistence.
 - **[`docs/`](docs/)**: Production GitHub Pages web application (Vanilla CSS tokens, zero dependencies).

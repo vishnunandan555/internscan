@@ -34,6 +34,6 @@ jobs:
         run: |
           python -c "from scraper import store, api; api.generate_apis(store.load())"
 
-      - name: Check README generation
+      - name: Check README & Regional directories generation
         run: |
-          python -c "from scraper import store, render_readme; render_readme.render(store.load())"
+          python -c "from scraper import store, render_readme, render_list; s = store.load(); render_readme.render(s); render_list.render()"
