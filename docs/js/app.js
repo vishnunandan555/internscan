@@ -197,6 +197,7 @@ async function loadJobs() {
       lastCheckedEl.textContent = `Last checked: ${formatScanDateTime(updated)}`;
     }
 
+    initMobileSelects();
     updateHubCounts();
     updateCategoryCounts();
     populateCompanies();
@@ -301,6 +302,49 @@ function formatLocationDisplay(j) {
   return j.city_tag || locs[0] || "Global";
 }
 
+function initMobileSelects() {
+  const hubSelect = document.getElementById("hub-select");
+  const catSelect = document.getElementById("category-select");
+
+  if (hubSelect && hubSelect.options.length <= 1) {
+    const hubBtns = document.querySelectorAll(".hub-btn");
+    if (hubBtns.length > 0) {
+      hubSelect.innerHTML = "";
+      hubBtns.forEach(btn => {
+        const hubVal = btn.dataset.hub;
+        const clone = btn.cloneNode(true);
+        const countSpan = clone.querySelector(".count, .badge");
+        if (countSpan) countSpan.remove();
+        const label = clone.textContent.trim() || hubVal;
+        const opt = document.createElement("option");
+        opt.value = hubVal;
+        opt.textContent = label;
+        opt.dataset.label = label;
+        hubSelect.appendChild(opt);
+      });
+    }
+  }
+
+  if (catSelect && catSelect.options.length <= 1) {
+    const catPills = document.querySelectorAll("#category-pills .filter-pill");
+    if (catPills.length > 0) {
+      catSelect.innerHTML = "";
+      catPills.forEach(pill => {
+        const catVal = pill.dataset.cat;
+        const clone = pill.cloneNode(true);
+        const countSpan = clone.querySelector(".cat-count, .pill-count");
+        if (countSpan) countSpan.remove();
+        const label = clone.textContent.trim() || catVal;
+        const opt = document.createElement("option");
+        opt.value = catVal;
+        opt.textContent = label;
+        opt.dataset.label = label;
+        catSelect.appendChild(opt);
+      });
+    }
+  }
+}
+
 function updateHubCounts() {
   document.querySelectorAll(".hub-btn").forEach(btn => {
     const hub = btn.dataset.hub;
@@ -312,6 +356,21 @@ function updateHubCounts() {
       badge.textContent = allJobs.filter(j => jobMatchesHub(j, hub)).length;
     }
   });
+
+  const hubSelect = document.getElementById("hub-select");
+  if (hubSelect) {
+    Array.from(hubSelect.options).forEach(opt => {
+      const hub = opt.value;
+      const baseLabel = opt.dataset.label || opt.text.replace(/\s*\(\d+\)$/, "");
+      opt.dataset.label = baseLabel;
+      if (hub === "all") {
+        opt.text = `${baseLabel} (${allJobs.length})`;
+      } else {
+        const count = allJobs.filter(j => jobMatchesHub(j, hub)).length;
+        opt.text = `${baseLabel} (${count})`;
+      }
+    });
+  }
 }
 
 function updateCategoryCounts() {
@@ -329,6 +388,21 @@ function updateCategoryCounts() {
       badge.textContent = num > 0 ? num : "";
     }
   });
+
+  const catSelect = document.getElementById("category-select");
+  if (catSelect) {
+    Array.from(catSelect.options).forEach(opt => {
+      const cat = opt.value;
+      const baseLabel = opt.dataset.label || opt.text.replace(/\s*\(\d+\)$/, "");
+      opt.dataset.label = baseLabel;
+      if (cat === "all") {
+        opt.text = `${baseLabel} (${allJobs.length})`;
+      } else {
+        const count = counts[cat] || 0;
+        opt.text = `${baseLabel} (${count})`;
+      }
+    });
+  }
 }
 
 function populateCompanies() {
@@ -346,15 +420,34 @@ function restoreUIFromState() {
     document.getElementById("search-input").value = state.query;
     document.getElementById("clear-search").style.display = "flex";
   }
-  if (state.company !== "all") document.getElementById("company-select").value = state.company;
-  if (state.sort !== "newest") document.getElementById("sort-select").value = state.sort;
+  const compSelect = document.getElementById("company-select");
+  if (state.company !== "all" && compSelect) {
+    compSelect.value = state.company;
+    compSelect.classList.add("is-filtered");
+  }
+  const sortSelect = document.getElementById("sort-select");
+  if (state.sort !== "newest" && sortSelect) {
+    sortSelect.value = state.sort;
+    sortSelect.classList.add("is-filtered");
+  }
   if (state.hub !== "all") {
     document.querySelectorAll(".hub-btn").forEach(b => b.classList.toggle("active", b.dataset.hub === state.hub));
+    const hubSelect = document.getElementById("hub-select");
+    if (hubSelect) {
+      hubSelect.value = state.hub;
+      hubSelect.classList.add("is-filtered");
+    }
   }
   if (state.category !== "all") {
     document.querySelectorAll("#category-pills .filter-pill").forEach(p => p.classList.toggle("active", p.dataset.cat === state.category));
+    const catSelect = document.getElementById("category-select");
+    if (catSelect) {
+      catSelect.value = state.category;
+      catSelect.classList.add("is-filtered");
+    }
   }
   if (state.newOnly) document.getElementById("btn-new").classList.add("active");
+  if (state.savedOnly) document.getElementById("btn-saved").classList.add("active");
 }
 
 function filterAndSortJobs() {
@@ -524,7 +617,26 @@ function resetFilters() {
 
   document.getElementById("search-input").value = "";
   document.getElementById("clear-search").style.display = "none";
-  document.getElementById("company-select").value = "all";
+  const compSelect = document.getElementById("company-select");
+  if (compSelect) {
+    compSelect.value = "all";
+    compSelect.classList.remove("is-filtered");
+  }
+  const hubSelect = document.getElementById("hub-select");
+  if (hubSelect) {
+    hubSelect.value = "all";
+    hubSelect.classList.remove("is-filtered");
+  }
+  const catSelect = document.getElementById("category-select");
+  if (catSelect) {
+    catSelect.value = "all";
+    catSelect.classList.remove("is-filtered");
+  }
+  const sortSelect = document.getElementById("sort-select");
+  if (sortSelect) {
+    sortSelect.value = "newest";
+    sortSelect.classList.remove("is-filtered");
+  }
   document.querySelectorAll(".hub-btn").forEach(b => b.classList.toggle("active", b.dataset.hub === "all"));
   document.querySelectorAll("#category-pills .filter-pill").forEach(p => p.classList.toggle("active", p.dataset.cat === "all"));
   document.getElementById("btn-new").classList.remove("active");
@@ -571,6 +683,11 @@ document.querySelectorAll(".hub-btn").forEach(btn => {
     document.querySelectorAll(".hub-btn").forEach(b => b.classList.remove("active"));
     btn.classList.add("active");
     state.hub = btn.dataset.hub;
+    const hs = document.getElementById("hub-select");
+    if (hs) {
+      hs.value = state.hub;
+      hs.classList.toggle("is-filtered", state.hub !== "all");
+    }
     renderJobs();
   });
 });
@@ -580,9 +697,34 @@ document.querySelectorAll("#category-pills .filter-pill").forEach(pill => {
     document.querySelectorAll("#category-pills .filter-pill").forEach(p => p.classList.remove("active"));
     pill.classList.add("active");
     state.category = pill.dataset.cat;
+    const cs = document.getElementById("category-select");
+    if (cs) {
+      cs.value = state.category;
+      cs.classList.toggle("is-filtered", state.category !== "all");
+    }
     renderJobs();
   });
 });
+
+const hubSelect = document.getElementById("hub-select");
+if (hubSelect) {
+  hubSelect.addEventListener("change", (e) => {
+    state.hub = e.target.value;
+    document.querySelectorAll(".hub-btn").forEach(b => b.classList.toggle("active", b.dataset.hub === state.hub));
+    hubSelect.classList.toggle("is-filtered", state.hub !== "all");
+    renderJobs();
+  });
+}
+
+const categorySelect = document.getElementById("category-select");
+if (categorySelect) {
+  categorySelect.addEventListener("change", (e) => {
+    state.category = e.target.value;
+    document.querySelectorAll("#category-pills .filter-pill").forEach(p => p.classList.toggle("active", p.dataset.cat === state.category));
+    categorySelect.classList.toggle("is-filtered", state.category !== "all");
+    renderJobs();
+  });
+}
 
 const btnNew = document.getElementById("btn-new");
 if (btnNew) {
@@ -606,6 +748,7 @@ const companySelect = document.getElementById("company-select");
 if (companySelect) {
   companySelect.addEventListener("change", (e) => {
     state.company = e.target.value;
+    companySelect.classList.toggle("is-filtered", state.company !== "all");
     renderJobs();
   });
 }
@@ -614,6 +757,7 @@ const sortSelect = document.getElementById("sort-select");
 if (sortSelect) {
   sortSelect.addEventListener("change", (e) => {
     state.sort = e.target.value;
+    sortSelect.classList.toggle("is-filtered", state.sort !== "newest");
     renderJobs();
   });
 }

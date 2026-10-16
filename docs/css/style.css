@@ -468,6 +468,14 @@ button, input, select {
   transition: all 0.15s;
 }
 .select-box:focus { border-color: var(--brand); }
+.select-box.is-filtered {
+  border-color: var(--brand);
+  background-color: var(--brand-soft);
+  color: var(--brand);
+}
+.mobile-filter-select {
+  display: none;
+}
 
 .view-switch-box {
   display: flex;
@@ -1382,13 +1390,13 @@ button, input, select {
 
   /* Controls Dock */
   .controls-wrap {
-    margin: 16px auto 0;
-    padding: 0 max(14px, env(safe-area-inset-right)) 0 max(14px, env(safe-area-inset-left));
+    margin: 14px auto 0;
+    padding: 0 max(12px, env(safe-area-inset-right)) 0 max(12px, env(safe-area-inset-left));
   }
   .controls-box {
-    padding: 14px;
-    border-radius: 16px;
-    gap: 12px;
+    padding: 12px;
+    border-radius: 14px;
+    gap: 8px;
     box-shadow: var(--shadow-sm);
   }
   .search-row {
@@ -1405,23 +1413,26 @@ button, input, select {
   }
   .search-input {
     font-size: 16px !important; /* CRITICAL: Prevents unwanted iOS auto-zoom on focus */
-    height: 44px;
+    height: 42px;
     padding: 0 36px 0 38px;
-    border-radius: 10px;
+    border-radius: 9px;
     border: 1px solid var(--border-strong);
     background: var(--bg);
     color: var(--ink);
   }
   .search-icon {
     left: 12px;
-    width: 16px;
-    height: 16px;
+    width: 15px;
+    height: 15px;
   }
   .search-kbd-hint { display: none !important; }
+  .mobile-filter-select {
+    display: block !important;
+  }
   .select-box {
     min-width: 0 !important;
     width: 100% !important;
-    height: 42px !important;
+    height: 40px !important;
     font-size: 13px !important;
     font-weight: 600 !important;
     padding: 0 24px 0 10px !important;
@@ -1438,6 +1449,17 @@ button, input, select {
     background-repeat: no-repeat !important;
     background-position: right 8px center !important;
   }
+  .select-box.is-filtered {
+    border-color: var(--brand) !important;
+    color: var(--brand) !important;
+    background-color: var(--brand-soft) !important;
+  }
+  #category-select {
+    grid-column: 1 !important;
+  }
+  #hub-select {
+    grid-column: 2 !important;
+  }
   #company-select {
     grid-column: 1 !important;
   }
@@ -1448,94 +1470,57 @@ button, input, select {
     display: none !important;
   }
 
-  /* Smooth Horizontal Filter Strips */
+  /* Hide horizontal strips on mobile - replaced by vertical dropdown selectors above */
   .hub-filter-bar {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    gap: 6px;
-    padding: 2px 2px 8px;
-    border-bottom: 1px dashed var(--border);
-    scrollbar-width: none;
-    scroll-behavior: smooth;
+    display: none !important;
   }
-  .hub-filter-bar::-webkit-scrollbar { display: none; }
-  .hub-label {
-    font-size: 10.5px;
-    font-weight: 700;
-    flex-shrink: 0;
-    color: var(--faint);
-  }
-  .hub-btn {
-    flex-shrink: 0;
-    padding: 0 11px;
-    font-size: 12px;
-    border-radius: 8px;
-    height: 32px;
-    gap: 4px;
-    display: inline-flex;
-    align-items: center;
-    white-space: nowrap;
-  }
-  .hub-btn span.count, .hub-btn span.badge {
-    font-size: 10px;
-    padding: 1px 5px;
+  #category-pills {
+    display: none !important;
   }
 
   .pills-row {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    align-items: stretch;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: stretch !important;
+    align-items: center !important;
+    gap: 8px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
   }
-  .role-pills {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    gap: 6px;
-    padding: 2px 2px 4px;
-    scrollbar-width: none;
-    scroll-behavior: smooth;
+  .quick-toggles {
+    display: flex !important;
+    gap: 8px !important;
+    width: 100% !important;
+    padding: 0 !important;
+    overflow-x: visible !important;
   }
-  .role-pills::-webkit-scrollbar { display: none; }
-  .filter-pill {
-    flex-shrink: 0;
-    padding: 0 11px;
-    font-size: 12px;
-    border-radius: 8px;
-    height: 32px;
-    gap: 4px;
-    display: inline-flex;
-    align-items: center;
-    white-space: nowrap;
-  }
-  .filter-pill span.cat-count, .filter-pill span.pill-count {
-    font-size: 10px;
-    padding: 1px 5px;
+  .toggle-btn {
+    flex: 1 !important;
+    justify-content: center !important;
+    padding: 0 10px !important;
+    font-size: 12px !important;
+    border-radius: 9px !important;
+    height: 36px !important;
+    gap: 5px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    white-space: nowrap !important;
   }
 
-  .quick-toggles {
-    display: flex;
-    gap: 6px;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    padding: 2px 2px 2px;
-  }
-  .quick-toggles::-webkit-scrollbar { display: none; }
-  .toggle-btn {
-    flex-shrink: 0;
-    padding: 0 11px;
-    font-size: 12px;
-    border-radius: 8px;
-    height: 32px;
-    gap: 4px;
-    display: inline-flex;
-    align-items: center;
-    white-space: nowrap;
+  @media (max-width: 360px) {
+    .search-row {
+      grid-template-columns: 1fr !important;
+    }
+    #category-select,
+    #hub-select,
+    #company-select,
+    #sort-select {
+      grid-column: 1 / -1 !important;
+    }
+    .quick-toggles {
+      flex-direction: column !important;
+    }
   }
 
   /* Results Bar */
