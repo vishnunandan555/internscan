@@ -1323,7 +1323,8 @@ button, input, select {
     display: none !important;
   }
   /* Hide secondary wide links that clutter mobile navigation */
-  .nav-btn[href*="lists/"],
+  .nav-btn[href*="companies.md"],
+  .nav-btn[href*="regions/"],
   .nav-btn[href="#countries"],
   .nav-btn[href*="/in/"] {
     display: none !important;

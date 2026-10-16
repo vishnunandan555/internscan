@@ -1,9 +1,16 @@
-"""Render README.md from data/jobs.json. The README is generated — never hand-edit."""
+"""Render root project README.md and regional regions/{code}/jobs.md files atomically."""
 import os
 from datetime import datetime, timedelta, timezone
+from typing import Dict, List
+from .countries import (
+    COUNTRY_METADATA,
+    SUPPORTED_COUNTRIES,
+    get_companies_for_country,
+)
 
-README_PATH = os.path.join(os.path.dirname(__file__), "..", "README.md")
-_TMP_README_PATH = README_PATH + ".tmp"
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+README_PATH = os.path.join(ROOT_DIR, "README.md")
+REGIONS_DIR = os.path.join(ROOT_DIR, "regions")
 NEW_BADGE_DAYS = 7
 IST = timezone(timedelta(hours=5, minutes=30))
 
@@ -17,214 +24,267 @@ def _to_ist_str(iso_utc: str) -> str:
         return datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S IST")
 
 
-HEADER = """\
+def _slug(name: str) -> str:
+    return "".join(c if c.isalnum() else "-" for c in name.lower()).strip("-")
+
+
+def _md_escape(text: str) -> str:
+    return text.replace("|", "\\|").strip()
+
+
+def _fmt_locations(locations: List[str], default_loc: str = "Regional", limit: int = 2) -> str:
+    locs = [loc for loc in locations if loc]
+    if not locs:
+        return default_loc
+    shown = "; ".join(_md_escape(loc) for loc in locs[:limit])
+    extra = len(locs) - limit
+    if extra > 0:
+        shown += f" *(+{extra} more)*"
+    return shown
+
+
+def _render_country_jobs_md(code: str, all_jobs: List[dict], updated_iso: str, cutoff: str) -> str:
+    """Generate Markdown job listing table for a specific region."""
+    meta = COUNTRY_METADATA.get(code, {})
+    c_name = meta.get("name", code.upper())
+    c_flag = meta.get("flag", "🌐")
+
+    jobs = [j for j in all_jobs if j.get("active", True) and j.get("country", "") == code]
+    tracked_cos = [c["name"] for c in get_companies_for_country(code, include_fallback=True)]
+
+    by_company = {name: [] for name in tracked_cos}
+    for j in jobs:
+        by_company.setdefault(j["company"], []).append(j)
+
+    companies_with_jobs = sorted([c for c, r in by_company.items() if r])
+    updated_str = _to_ist_str(updated_iso)
+
+    lines = [
+        f"<a id=\"top\"></a>\n\n",
+        f"# {c_flag} {c_name} — Active Tech & Software Internship Listings\n\n",
+        f"> 🕐 Last updated: **{updated_str}** · 📌 **{len(jobs)}** open verified internships\n",
+        f"> · ✨ = added in the last {NEW_BADGE_DAYS} days\n\n",
+        f"[📋 **Tracked Employers ({len(tracked_cos)})**](companies.md) · "
+        f"[🌐 **Global Project README**](../../README.md) · "
+        f"[💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/{code}/) · "
+        f"[⚡ **REST API**](https://vishnunandan555.github.io/internscan/{code}/api/active.json)\n\n",
+        f"Verified engineering, AI/ML, data, and systems internships across premier employers in **{c_name}**. "
+        f"All postings are scraped directly from official ATS portals every 24 hours.\n\n",
+        f"[⬇️ **Skip directly to Open Internship Postings ({len(jobs)})**](#open-internships)\n\n",
+        f"## 🏢 Employers with Open Roles\n\n",
+        f"| Company | Open Internships in {c_name} |\n|---|:---:|\n",
+    ]
+
+    for c in companies_with_jobs:
+        n = len(by_company[c])
+        label = f"[{c}](#{_slug(c)})" if n else c
+        lines.append(f"| {label} | **{n}** |\n")
+
+    lines.append("\n---\n\n<a id=\"open-internships\"></a>\n\n## 💼 Open Internship Postings\n\n")
+
+    if not jobs:
+        lines.append(f"*Currently no verified openings are listed for {c_name}. Check back after the next scheduled scrape or browse our [Live Web Portal](https://vishnunandan555.github.io/internscan/{code}/).*\n\n")
+    else:
+        for c in companies_with_jobs:
+            rows = sorted(
+                by_company[c],
+                key=lambda j: (j.get("posted") or j.get("first_seen", ""), j.get("title", "")),
+                reverse=True,
+            )
+            lines.append(f"### {c}\n\n")
+            lines.append("| Role | Category | Hub / Location | Posted | First seen |\n|---|---|---|---|---|\n")
+            for j in rows:
+                is_new = (j.get("first_seen") or "") >= cutoff
+                badge = " ✨" if is_new else ""
+                title = f"[{_md_escape(j.get('title', ''))}]({j.get('url', '#')}){badge}"
+                cat = j.get("category") or "Software"
+                hub = j.get("city_tag") or _fmt_locations(j.get("locations", []), default_loc=c_name)
+                posted = j.get("posted") or "—"
+                first_seen = j.get("first_seen") or "—"
+                lines.append(f"| {title} | {cat} | {hub} | {posted} | {first_seen} |\n")
+            lines.append(f"\n[⬆️ Back to Top](#top) · [📋 View {c_name} Companies](companies.md)\n\n")
+
+    lines.append("---\n\n")
+    lines.append(f"[🌐 Global Project README](../../README.md) · [📋 Tracked Companies](companies.md) · [💻 Web Portal](https://vishnunandan555.github.io/internscan/{code}/)\n")
+    return "".join(lines)
+
+
+def _render_global_readme(state: dict, cutoff: str) -> str:
+    """Generate root project README.md as a clean GitHub product showcase."""
+    jobs_dict = state.get("jobs", {})
+    active_jobs = [j for j in jobs_dict.values() if j.get("active", True)]
+    total_active = len(active_jobs)
+    updated_iso = state.get("updated_at") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    updated_ist = _to_ist_str(updated_iso)
+
+    counts: Dict[str, int] = {}
+    for code in SUPPORTED_COUNTRIES:
+        counts[code] = sum(1 for j in active_jobs if j.get("country") == code)
+
+    content = f"""\
 <a id="top"></a>
 <p align="center">
   <a href="https://vishnunandan555.github.io/internscan/">
     <img src="docs/icon.png" width="96" height="96" alt="InternScan Logo">
   </a>
 </p>
-<h1 align="center">🇮🇳 InternScan India — Software Engineering & Tech Internship Tracker</h1>
+<h1 align="center">InternScan — The Global Directory for Tech Internships</h1>
 
-Auto-updated directory of verified **tech & software-engineering internships in India** —
-AI/ML, Data, Full-Stack, Backend, Frontend, Mobile, QA/SDET, and Security roles — at
-{n_companies} top tech companies, GCCs, and high-growth Indian unicorns. Scraped directly
-from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
+<p align="center">
+  <strong>Automated, open-source directory of verified engineering, AI/ML, and tech internships across top employers worldwide. 100% open source and direct.</strong>
+</p>
 
-[![Global Gateway](https://img.shields.io/badge/Global_Gateway-Explore_All_Regions-6366f1?style=for-the-badge&logo=globe&logoColor=white)](https://vishnunandan555.github.io/internscan/)
-[![US Portal](https://img.shields.io/badge/US_Portal-InternScan_USA-ef4444?style=for-the-badge&logo=target&logoColor=white)](https://vishnunandan555.github.io/internscan/us/)
-[![Live Web Dashboard](https://img.shields.io/badge/Live_Dashboard-India_Portal-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnunandan555.github.io/internscan/in/)
-[![Version](https://img.shields.io/badge/Version-v2.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/vishnunandan555/internscan/releases)
-[![Architecture](https://img.shields.io/badge/Architecture-System_Design-8b5cf6?style=for-the-badge&logo=diagram-next&logoColor=white)](ARCHITECTURE.md)
-[![Telegram Bot Guide](https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](bot/README_bot.md)
-[![Public API](https://img.shields.io/badge/Public_API-REST_&_RSS-10b981?style=for-the-badge&logo=fastapi&logoColor=white)](#-public-api--telegram-bot-integration)
-[![Tracked Companies](https://img.shields.io/badge/Tracked_Companies-59_Active-2563eb?style=for-the-badge&logo=airplay&logoColor=white)](LIST.md)
-[![Contributing](https://img.shields.io/badge/Contributing-Join_Us-14b8a6?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
-[![Developer Guide](https://img.shields.io/badge/Developer_Guide-GUIDE.md-475569?style=for-the-badge&logo=readme&logoColor=white)](GUIDE.md)
-[![Security](https://img.shields.io/badge/Security-Policy-e11d48?style=for-the-badge&logo=securityscorecard&logoColor=white)](SECURITY.md)
-[![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
+<p align="center">
+  <a href="https://vishnunandan555.github.io/internscan/"><img src="https://img.shields.io/badge/Live_Dashboard-Explore_All_Regions-6366f1?style=for-the-badge&logo=globe&logoColor=white" alt="Live Dashboard"></a>
+  <a href="#-regional-internship-trackers"><img src="https://img.shields.io/badge/Verified_Roles-{total_active}_Active-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Active Roles"></a>
+  <a href="#-regional-internship-trackers"><img src="https://img.shields.io/badge/Tracked_Employers-65+_Global-2563eb?style=for-the-badge&logo=airplay&logoColor=white" alt="Tracked Employers"></a>
+  <a href="#-regional-internship-trackers"><img src="https://img.shields.io/badge/Supported_Regions-5_Countries-f59e0b?style=for-the-badge&logo=target&logoColor=white" alt="Supported Regions"></a>
+  <a href="https://github.com/vishnunandan555/internscan/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Sync_Cadence-Daily_03:00_IST-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white" alt="Sync Cadence"></a>
+  <a href="ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-System_Design-8b5cf6?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Architecture"></a>
+  <a href="bot/README_bot.md"><img src="https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"></a>
+  <a href="https://vishnunandan555.github.io/internscan/api/active.json"><img src="https://img.shields.io/badge/Public_API-REST_&_RSS-ec4899?style=for-the-badge&logo=fastapi&logoColor=white" alt="Public API"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-Join_Us-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Contributing"></a>
+</p>
 
-> 🕐 Last updated: **{updated}** · 📌 **{n_open}** open internships
-> · ✨ = added in the last {new_days} days
+> 🕐 Last synchronized: **{updated_ist}** · 📌 **{total_active}** active verified tech internships worldwide across **5** supported regions.
 
-⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
-
-"""
-
-FOOTER = """
 ---
 
-## 🤖 Public API & Telegram Bot Integration
+## 🌍 Regional Internship Trackers
 
-InternScan India provides **free, open, high-speed developer APIs** and a **ready-to-deploy Telegram Bot** (< 35 MB RAM) to easily automate internship notifications for campus clubs, placement groups, and personal channels.
+InternScan partitions verified listings into dedicated regional portals. Each region features its own Markdown job tracker, company coverage registry, and high-speed web application:
 
-### 1. Ready-to-Deploy Telegram Bot (`bot/`)
+| Region | Flag | Active Roles | Markdown Job Directory | Tracked Employers | Live Web Portal |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **India** | 🇮🇳 | **{counts.get('in', 0)}** | [🇮🇳 **View India Jobs**](regions/in/jobs.md) | [Tracked Companies](regions/in/companies.md) | [Open India Dashboard](https://vishnunandan555.github.io/internscan/in/) |
+| **United States** | 🇺🇸 | **{counts.get('us', 0)}** | [🇺🇸 **View US Jobs**](regions/us/jobs.md) | [Tracked Companies](regions/us/companies.md) | [Open US Dashboard](https://vishnunandan555.github.io/internscan/us/) |
+| **Canada** | 🇨🇦 | **{counts.get('ca', 0)}** | [🇨🇦 **View Canada Jobs**](regions/ca/jobs.md) | [Tracked Companies](regions/ca/companies.md) | [Open Canada Dashboard](https://vishnunandan555.github.io/internscan/ca/) |
+| **United Kingdom** | 🇬🇧 | **{counts.get('uk', 0)}** | [🇬🇧 **View UK Jobs**](regions/uk/jobs.md) | [Tracked Companies](regions/uk/companies.md) | [Open UK Dashboard](https://vishnunandan555.github.io/internscan/uk/) |
+| **Europe** | 🇪🇺 | **{counts.get('eu', 0)}** | [🇪🇺 **View Europe Jobs**](regions/eu/jobs.md) | [Tracked Companies](regions/eu/companies.md) | [Open Europe Dashboard](https://vishnunandan555.github.io/internscan/eu/) |
 
-Our pre-built bot runs 24/7 on minimal cloud servers (**< 35 MB RAM**, perfect for ₹10/mo Nano nodes or Raspberry Pis):
-- **Auto-Broadcasts:** Pushes newly detected internships directly to your Telegram Channel or Group.
-- **Interactive Commands:** `/latest` (new roles), `/active` (all roles), `/status` (uptime and memory usage).
-- 📖 **Quickstart Guide:** Read **[bot/README_bot.md](bot/README_bot.md)** to launch in 3 minutes.
+---
 
-### 2. Public REST API Endpoints (No Auth, CORS Enabled)
+## ⚡ Why InternScan? Core Platform Invariants
+
+Unlike generic job scrapers and aggregator boards, InternScan is built on strict engineering invariants:
+
+1. **Zero Ghost Jobs (100% Direct Official ATS Sync):**  
+   Every position is pulled directly from official corporate ATS APIs (**Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, and custom portals**). Never third-party aggregators or spam recruitment boards.
+2. **Jobs Are Never Deleted:**  
+   When a posting is closed by an employer, it is marked `active: false` and timestamped with `closed = today`. Historical postings remain searchable for interview preparation and market intelligence.
+3. **Strict Memory Budget (< 35 MB RAM):**  
+   Both our scraping daemon and Telegram bot run cleanly on minimal cloud nodes (e.g. ₹10/mo Nano nodes or micro VPS). Pure Python standard library with zero headless browser overhead.
+4. **POSIX Atomic Persistence:**  
+   Every write to master JSON databases, API payloads, and Markdown directories writes first to a `.tmp` file and commits via `os.replace` to prevent data corruption.
+5. **Categorized Engineering Buckets:**  
+   Rule-based categorization groups roles into Software, AI/ML, Data Engineering, Cloud/Infra, Silicon/Hardware, Mobile, and Security.
+
+---
+
+## 🤖 Public REST & RSS APIs (No Auth, CORS-Enabled)
+
+InternScan provides free public developer APIs updated on every scrape:
 
 | Endpoint | Method | Format | Description |
 |---|---|---|---|
-| `https://vishnunandan555.github.io/internscan/api/latest.json` | `GET` | JSON | New and reopened internships from today's scrape. |
-| `https://vishnunandan555.github.io/internscan/api/active.json` | `GET` | JSON | Clean array of all currently active verified internships. |
-| `https://vishnunandan555.github.io/internscan/feed.xml` | `GET` | RSS 2.0 | Standard RSS feed for no-code bots (like `@FeedManBot`) or Discord webhooks. |
+| `https://vishnunandan555.github.io/internscan/api/active.json` | `GET` | JSON | All currently active verified internships worldwide. |
+| `https://vishnunandan555.github.io/internscan/api/latest.json` | `GET` | JSON | New and reopened internships discovered in today's scrape. |
+| `https://vishnunandan555.github.io/internscan/feed.xml` | `GET` | RSS 2.0 | Standard RSS feed for Slack, Discord webhooks, or Feed readers. |
+| `https://vishnunandan555.github.io/internscan/metrics.json` | `GET` | JSON | Scraper health, platform metrics, and country breakdowns. |
+| `https://vishnunandan555.github.io/internscan/{{region}}/api/active.json` | `GET` | JSON | Regional active postings (`in`, `us`, `ca`, `uk`, `eu`). |
 
 ```python
 # Quick Python Example
 import requests
 
-data = requests.get("https://vishnunandan555.github.io/internscan/api/latest.json").json()
-print(f"Discovered {data['new_count']} new openings today!")
-for job in data.get("new_jobs", []):
-    print(f"• {job['company']}: {job['title']} -> {job['url']}")
+data = requests.get("https://vishnunandan555.github.io/internscan/api/active.json").json()
+print(f"Total active global roles: {{data['total_active']}}")
+for job in data.get("jobs", [])[:5]:
+    print(f"• [{{job['country'].upper()}}] {{job['company']}}: {{job['title']}} ({{job['city_tag']}})")
 ```
-
-### 3. Direct GitHub Actions Push (Zero Server / Fork)
-
-If you don't want to host any server:
-1. Fork this repository.
-2. Add your secrets in **Settings → Secrets and variables → Actions**:
-   - `TELEGRAM_BOT_TOKEN`: Your token from `@BotFather`.
-   - `TELEGRAM_CHAT_ID`: Your channel (e.g. `@my_channel`) or chat ID.
-3. Your GitHub Actions cron runs daily and sends new alerts automatically!
 
 ---
 
-## 📚 Repository Documentation & Architecture
+## 📱 Telegram Alert Bot (`bot/`)
 
-For comprehensive blueprints, developer handbooks, and modular subsystem documentation:
+Our ultra-lightweight Telegram bot runs 24/7 (**< 35 MB RAM**) to dispatch instant alerts when new roles open:
+- **Instant Broadcasts:** Sends structured HTML alert cards with company logos, tech hub tags, and direct application links.
+- **Interactive Commands:** `/latest` (recent roles), `/active` (all roles), `/status` (uptime and system stats).
+- 📖 **Deployment Guide:** Follow the [bot/README_bot.md](bot/README_bot.md) to launch your own instance in 3 minutes.
+
+---
+
+## 📚 Repository Map & Documentation
 
 | Document | Purpose |
 |---|---|
-| **[ARCHITECTURE.md](ARCHITECTURE.md)** | Full end-to-end system design, diff sync engine, multi-region routing & persistence |
-| **[GUIDE.md](GUIDE.md)** | Developer manual, CLI flags, ATS adapter guide, testing, and debugging commands |
-| **[CONTRIBUTING.md](CONTRIBUTING.md)** | Guidelines for adding new ATS adapters, company configs, and pull request rules |
-| **[SECURITY.md](SECURITY.md)** | Security vulnerability reporting guidelines and ethical crawling policy |
-| **[AGENTS.md](AGENTS.md)** | Inviolable guidelines and strict memory constraints for AI coding agents |
-| **[LIST.md](LIST.md)** | Master directory of tracked companies, ATS health statuses, and unsupported portals |
+| **[ARCHITECTURE.md](ARCHITECTURE.md)** | System blueprints, synchronization pipeline, and multi-region persistence |
+| **[GUIDE.md](GUIDE.md)** | Developer handbook, CLI flags, ATS onboarding, and local testing |
+| **[CONTRIBUTING.md](CONTRIBUTING.md)** | Guidelines for adding new ATS adapters, company configs, and PR standards |
+| **[SECURITY.md](SECURITY.md)** | Vulnerability reporting and ethical crawler access guidelines |
+| **[AGENTS.md](AGENTS.md)** | Inviolable architectural invariants and memory rules for AI coding agents |
 
-### 📂 Directory-Level Architecture Guides
-- **[`scraper/`](scraper/README_scraper.md)**: Synchronization engine, thread pools, atomic store, and API generators.
-  - **[`scraper/adapters/`](scraper/adapters/README_adapters.md)**: 18 modular ATS crawler engines.
-  - **[`scraper/countries/`](scraper/countries/README_countries.md)**: Multi-country regional registry & inheritance.
-  - **[`scraper/countries/india/`](scraper/countries/india/README_india.md)**: India-specific company configurations and overrides.
-  - **[`scraper/countries/usa/`](scraper/countries/usa/README_usa.md)**: USA-specific company configurations and overrides.
-- **[`data/`](data/README_data.md)**: Master and regional JSON job databases, schemas, and atomic POSIX commit rules.
-- **[`bot/`](bot/README_bot.md)**: 24/7 Telegram notification daemon (< 35 MB RAM footprint).
-- **[`docs/`](docs/README_docs.md)**: Production GitHub Pages web application, vanilla design system, and client state engine.
-  - **[`docs/css/`](docs/css/README_css.md)**: Design system tokens, variables, and responsive layout styling.
-  - **[`docs/js/`](docs/js/README_js.md)**: Zero-dependency client state, search, and filtering engine.
-  - **[`docs/api/`](docs/api/README_api.md)**: Public REST endpoints and specifications.
-  - **[`docs/logos/`](docs/logos/README_logos.md)**: Cached company brand logos and vector assets.
-- **[`lists/`](lists/README_lists.md)**: Regional markdown reports and company health summaries.
-- **[`scripts/`](scripts/README_scripts.md)**: Logo asset fetcher and OpenGraph social banner generators.
-- **[`tests/`](tests/README_tests.md)**: Unittest regression suite covering models, adapters, and store invariants.
-- **[`logs/`](logs/README_logs.md)**: Automated run execution traces and historical sync metrics.
-- **[`.github/`](.github/README_github.md)**: GitHub Actions continuous integration and daily scraping cron workflows.
-  - **[`.github/workflows/`](.github/workflows/README_workflows.md)**: Daily sync and diagnostics workflow definitions.
+### 📂 Directory Map
+- **[`regions/`](regions/)**: Regional Markdown trackers (`jobs.md` & `companies.md`) for `in/`, `us/`, `ca/`, `uk/`, and `eu/`.
+- **[`scraper/`](scraper/)**: Concurrent ThreadPool scraper engine, modular ATS adapters, and regional registries.
+- **[`data/`](data/)**: Master and region-partitioned JSON databases with atomic schema persistence.
+- **[`docs/`](docs/)**: Production GitHub Pages web application (Vanilla CSS tokens, zero dependencies).
+- **[`bot/`](bot/)**: Production Telegram bot daemon (< 35 MB RAM).
+- **[`tests/`](tests/)**: Automated unittest regression suite covering models, adapters, and store logic.
 
 ---
 
-## 🤝 Request a Company or Report an Issue
+## 🤝 Community & Support
 
-- **Want a company added?** Check **[LIST.md](LIST.md)** first to see if it is already actively scraped or documented as unsupported. If it's missing, [open a Company Request issue](https://github.com/vishnunandan555/internscan/issues/new?title=%5BCompany+Request%5D+<Company+Name>) with the company's official career portal URL!
-- **Found a broken link or expired posting?** Please [open a Bug Report issue](https://github.com/vishnunandan555/internscan/issues/new?title=%5BBug%5D+<Issue+Description>) so we can investigate.
-- **Looking for developer guides, CLI usage, or scraper architecture?** Read the complete **[Developer & System Guide (GUIDE.md)](GUIDE.md)** and **[ARCHITECTURE.md](ARCHITECTURE.md)**.
+- **Want an employer added?** Check the region's `companies.md` (e.g. [regions/in/companies.md](regions/in/companies.md)) to see if it is already tracked. If missing, [open a Company Request issue](https://github.com/vishnunandan555/internscan/issues/new?title=%5BCompany+Request%5D+<Company+Name>).
+- **Found an expired listing or bug?** [Open a Bug Report](https://github.com/vishnunandan555/internscan/issues/new?title=%5BBug%5D+<Issue+Description>).
+
+---
+
+## 📄 License
+
+InternScan is open-source software licensed under the **[MIT License](LICENSE)**.
 """
+    return content
 
 
-def _slug(name):
-    return "".join(c if c.isalnum() else "-" for c in name.lower()).strip("-")
-
-
-def _md_escape(text):
-    return text.replace("|", "\\|").strip()
-
-
-def _fmt_locations(locations, limit=2):
-    locs = [loc for loc in locations if loc]
-    if not locs:
-        return "India"
-    shown = "; ".join(_md_escape(loc) for loc in locs[:limit])
-    extra = len(locs) - limit
-    if extra > 0:
-        shown += " *(+{} more)*".format(extra)
-    return shown
-
-
-def render(state):
-    from .companies import get_companies, UNSUPPORTED
-    tracked = [c["name"] for c in get_companies()]
-    jobs = [j for j in state["jobs"].values() if j.get("active", True) and j.get("country", "in") == "in"]
-    updated = state.get("updated_at") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+def render(state: dict) -> None:
+    """Render root README.md and all regional regions/{code}/jobs.md files atomically."""
+    os.makedirs(REGIONS_DIR, exist_ok=True)
+    jobs_list = list(state.get("jobs", {}).values())
+    updated_iso = state.get("updated_at") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     cutoff = (datetime.now(timezone.utc) - timedelta(days=NEW_BADGE_DAYS)).strftime("%Y-%m-%d")
 
-    by_company = {name: [] for name in tracked}
-    for j in jobs:
-        by_company.setdefault(j["company"], []).append(j)
+    # 1. Render regions/{code}/jobs.md for each supported country
+    for code in SUPPORTED_COUNTRIES:
+        country_dir = os.path.join(REGIONS_DIR, code)
+        os.makedirs(country_dir, exist_ok=True)
+        jobs_content = _render_country_jobs_md(code, jobs_list, updated_iso, cutoff)
+        target_path = os.path.join(country_dir, "jobs.md")
+        tmp_path = target_path + ".tmp"
+        try:
+            with open(tmp_path, "w", encoding="utf-8") as f:
+                f.write(jobs_content)
+            os.replace(tmp_path, target_path)
+        except Exception as exc:
+            if os.path.exists(tmp_path):
+                try:
+                    os.remove(tmp_path)
+                except OSError:
+                    pass
+            raise IOError(f"Failed to atomically render {target_path}: {exc}") from exc
 
-    companies = sorted(by_company)
-    out = [HEADER.format(
-        n_companies=len(companies),
-        updated=_to_ist_str(updated),
-        n_open=len(jobs),
-        new_days=NEW_BADGE_DAYS,
-    )]
-
-    # Fast jump to active postings
-    out.append(f"[⬇️ **Skip directly to Open Internship Postings ({len(jobs)})**](#open-internships)\n\n")
-
-    # summary table with anchors
-    out.append("| Company | Open Internships in India |\n|---|:---:|\n")
-    for c in companies:
-        n = len(by_company[c])
-        label = "[{}](#{})".format(c, _slug(c)) if n else c
-        out.append("| {} | {} |\n".format(label, f"**{n}**" if n else "—"))
-    for name, why in sorted(UNSUPPORTED.items()):
-        out.append("| {} | *{}* |\n".format(name, why))
-    out.append("\n---\n\n<a id=\"open-internships\"></a>\n\n## 💼 Open Internship Postings\n\n")
-
-    sorted_by_company = {
-        c: sorted(
-            by_company[c],
-            key=lambda j: (j.get("posted") or j.get("first_seen", ""), j["title"]),
-            reverse=True,
-        )
-        for c in companies
-        if by_company.get(c)
-    }
-
-    for c, rows in sorted_by_company.items():
-        out.append("## {}\n\n".format(c))
-        out.append("| Role | Category | Hub / Location | Posted | First seen |\n"
-                   "|---|---|---|---|---|\n")
-        for j in rows:
-            is_new = (j.get("first_seen") or "") >= cutoff
-            badge = " ✨" if is_new else ""
-            title = "[{}]({}){}".format(_md_escape(j["title"]), j["url"], badge)
-            cat = j.get("category") or "Software"
-            hub = j.get("city_tag") or _fmt_locations(j.get("locations", []))
-            posted = j.get("posted") or "—"
-            first_seen = j.get("first_seen") or "—"
-            out.append("| {} | {} | {} | {} | {} |\n".format(
-                title, cat, hub, posted, first_seen))
-        out.append("\n[⬆️ Back to Top](#top)\n\n")
-
-    out.append(FOOTER)
-
+    # 2. Render root README.md
+    readme_content = _render_global_readme(state, cutoff)
+    tmp_readme = README_PATH + ".tmp"
     try:
-        with open(_TMP_README_PATH, "w", encoding="utf-8") as fh:
-            fh.writelines(out)
-        os.replace(_TMP_README_PATH, README_PATH)
+        with open(tmp_readme, "w", encoding="utf-8") as f:
+            f.write(readme_content)
+        os.replace(tmp_readme, README_PATH)
     except Exception as exc:
-        if os.path.exists(_TMP_README_PATH):
+        if os.path.exists(tmp_readme):
             try:
-                os.remove(_TMP_README_PATH)
+                os.remove(tmp_readme)
             except OSError:
                 pass
-        raise IOError(f"Failed to atomically render README to {README_PATH}: {exc}") from exc
-
+        raise IOError(f"Failed to atomically render {README_PATH}: {exc}") from exc

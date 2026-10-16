@@ -79,7 +79,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md LIST.md lists/ data/ docs/ logs/
+          git add README.md regions/ data/ docs/ logs/
           if git diff --cached --quiet; then
             echo "No database or README changes to commit."
             exit 0

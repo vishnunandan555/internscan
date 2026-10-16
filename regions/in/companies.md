@@ -1,10 +1,16 @@
-# 🇮🇳 India Companies List
+<a id="top"></a>
 
-> 🕐 Last updated: **2026-10-16 18:59:37 IST**
+# 🇮🇳 India — Tracked Employers & ATS Coverage
 
-A quick reference list of companies tracked by the scraper in **India** and their latest status.
+> 🕐 Last updated: **2026-10-16 21:04:50 IST**
 
-## Scraped Companies (60)
+[💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/in/)
+
+This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **India**.
+
+## 🟢 Directly Scraped Employers (60)
+
+Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):
 
 - AMD
 - Accenture
@@ -67,7 +73,7 @@ A quick reference list of companies tracked by the scraper in **India** and thei
 - Zeta
 - Zomato
 
-## Bot-Protected Companies (Google Jobs Fallback) (5)
+## 🟡 Bot-Protected Employers (Google Jobs Fallback) (5)
 
 > Integration Status: **Standby (Requires SERP_API_KEY / RAPIDAPI_KEY in environment)**
 
@@ -77,7 +83,9 @@ A quick reference list of companies tracked by the scraper in **India** and thei
 - **SAP** — *Indexed via Google Jobs / JSearch fallback adapter*
 - **Uber** — *Indexed via Google Jobs / JSearch fallback adapter*
 
-## Unsupported / Campus-Only Companies (32)
+## ⚪ Unsupported / Campus-Only Employers (32)
+
+Employers that do not host public ATS internship listings for India (e.g. exclusive university placement cell hiring, internal referrals only, or closed portals):
 
 - **ASML** — *has no software engineering/R&D center in India (field service only in Gujarat); portal is custom Next.js without public CXS API*
 - **American Express** — *careers site sits behind Akamai bot defense returning 403 to automated clients*
@@ -112,3 +120,6 @@ A quick reference list of companies tracked by the scraper in **India** and thei
 - **Zerodha** — *no external ATS; engineering openings posted ad-hoc via static page (zerodha.com/careers) and email*
 - **Zoho** — *uses Zoho Recruit proprietary portal without public job search API*
 
+---
+
+[⬆️ Back to Top](#top) · [💼 View India Jobs](jobs.md) · [🌐 Global Directory](../../README.md)

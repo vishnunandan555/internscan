@@ -20,8 +20,8 @@ scraper/
 ├── detector.py        # Automatic ATS detector for new or unmapped company careers portals
 ├── api.py             # Public REST developer endpoints & RSS 2.0 feed generator
 ├── telegram.py        # Telegram push notification dispatcher (HTML formatted cards)
-├── render_readme.py   # Atomic README.md Markdown table generator
-├── render_list.py     # Atomic LIST.md company health & tracking status generator
+├── render_readme.py   # Atomic root README.md & regional jobs.md generator
+├── render_list.py     # Atomic regional companies.md tracking status generator
 ├── adapters/          # Modular ATS fetchers (Workday, Greenhouse, Lever, Meta, Apple...)
 └── countries/         # Regional company registries (India, USA, Canada, UK, Europe)
 ```

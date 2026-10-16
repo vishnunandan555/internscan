@@ -17,7 +17,7 @@ graph TD
     D -->|Telegram Push| H[Telegram Broadcast: scraper/telegram.py]
     H -->|Instant Alert| I[Telegram Channels & Groups]
     G -->|Client-side Fetch| J[Web Application: docs/js/app.js]
-    E -->|Automated Tables| K[README.md & lists/*.md]
+    E -->|Automated Tables| K[README.md & regions/*/jobs.md, companies.md]
 ```
 
 ---
@@ -29,7 +29,7 @@ graph TD
 - **Solution:** In InternScan, **jobs are never deleted**. When an active job disappears from an employer's ATS feed, it is marked `active: false` and timestamped with `closed = today`. If the job reappears later, it is marked `reopened = today`, while retaining its original `first_seen` date.
 
 ### B. POSIX Atomic File Commitments
-- Master databases (`data/jobs.json`, `docs/jobs.json`), API artifacts (`docs/api/*.json`), and generated Markdown files (`README.md`, `LIST.md`) write first to a temporary file (`.tmp`).
+- Master databases (`data/jobs.json`, `docs/jobs.json`), API artifacts (`docs/api/*.json`), and generated Markdown files (`README.md`, `regions/*/*.md`) write first to a temporary file (`.tmp`).
 - Commits use `os.replace` (POSIX atomic rename). If a cloud node crashes, runs out of disk space, or is terminated mid-write, database corruption is physically impossible.
 
 ### C. Extreme Memory Efficiency (< 35 MB Budget)

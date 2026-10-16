@@ -130,6 +130,7 @@ def merge(state: dict, scraped_jobs: list, succeeded_companies: set) -> tuple:
             entry = jobs[uid]
             if not entry.get("active", True):
                 entry["active"] = True
+                entry.pop("closed", None)
                 reopened.append(entry)
             # Workday's relative "30+ Days Ago" degrades to posted=None once a
             # posting ages past 30 days — keep the date we captured earlier.

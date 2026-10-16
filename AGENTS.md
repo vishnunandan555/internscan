@@ -21,8 +21,8 @@ internscan/
 │   ├── regions.py             # India location filter & Tech Hub tagger (BLR, HYD, DEL, PUN, BOM...)
 │   ├── api.py                 # Public REST API & RSS 2.0 generator (outputs to docs/api/)
 │   ├── telegram.py            # Telegram push notification dispatcher (HTML mode)
-│   ├── render_readme.py       # Auto-generator for README.md tables
-│   └── render_list.py         # Auto-generator for LIST.md company health
+│   ├── render_readme.py       # Auto-generator for root README.md & regional jobs.md
+│   └── render_list.py         # Auto-generator for regional companies.md
 ├── bot/                       # Dedicated lightweight Telegram Bot (< 35 MB RAM)
 │   ├── main.py                # Polling daemon & interactive slash commands (/latest, /status)
 │   ├── requirements.txt       # Minimal dependencies (python-dotenv only)
@@ -40,7 +40,7 @@ internscan/
 │   ├── jobs.json              # Master JSON database of all internships
 │   ├── health.json            # Cumulative scraper health status
 │   └── in/, us/, ca/, uk/, eu/# Region-partitioned job databases
-├── lists/                     # Auto-generated regional company health markdown files
+├── regions/                   # Auto-generated regional directories (jobs.md & companies.md per country)
 ├── scripts/                   # Auxiliary CLI tooling (download_logos.py, generate_og_image.py)
 ├── logs/                      # Execution trace logs and scrape summaries
 ├── tests/                     # Unit test suite (unittest)

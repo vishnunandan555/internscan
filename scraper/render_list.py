@@ -1,4 +1,4 @@
-"""Render LIST.md and country-specific lists/in.md, lists/us.md tracking scraper status."""
+"""Render regional company lists inside regions/{code}/companies.md tracking scraper status."""
 import os
 from datetime import datetime, timedelta, timezone
 from typing import Dict, Iterable, Optional
@@ -11,8 +11,7 @@ from .countries import (
 )
 
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-LISTS_DIR = os.path.join(ROOT_DIR, "lists")
-GLOBAL_LIST_PATH = os.path.join(ROOT_DIR, "LIST.md")
+REGIONS_DIR = os.path.join(ROOT_DIR, "regions")
 IST = timezone(timedelta(hours=5, minutes=30))
 
 
@@ -27,13 +26,13 @@ def _to_ist_str(iso_utc: Optional[str] = None) -> str:
     return datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S IST")
 
 
-def _render_country_list(
+def _render_country_companies(
     country_code: str,
     succeeded: Optional[Iterable[str]] = None,
     failed: Optional[Dict[str, str]] = None,
     updated_at: Optional[str] = None,
 ) -> str:
-    """Render localized company list for a specific country."""
+    """Render localized company list for a specific country/region."""
     failed = failed or {}
     meta = COUNTRY_METADATA.get(country_code, {})
     c_name = meta.get("name", country_code.upper())
@@ -55,17 +54,22 @@ def _render_country_list(
     updated_str = _to_ist_str(updated_at)
 
     lines = [
-        f"# {c_flag} {c_name} Companies List\n\n",
+        f"<a id=\"top\"></a>\n\n",
+        f"# {c_flag} {c_name} — Tracked Employers & ATS Coverage\n\n",
         f"> 🕐 Last updated: **{updated_str}**\n\n",
-        f"A quick reference list of companies tracked by the scraper in **{c_name}** and their latest status.\n\n",
-        f"## Scraped Companies ({len(succeeded_list)})\n\n",
+        f"[💼 **View Active Openings (jobs.md)**](jobs.md) · "
+        f"[🌐 **Global Project README**](../../README.md) · "
+        f"[💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/{country_code}/)\n\n",
+        f"This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **{c_name}**.\n\n",
+        f"## 🟢 Directly Scraped Employers ({len(succeeded_list)})\n\n",
+        f"Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):\n\n",
     ]
 
     for c in succeeded_list:
         lines.append(f"- {c}\n")
     lines.append("\n")
 
-    lines.append(f"## Bot-Protected Companies (Google Jobs Fallback) ({len(fallback_companies)})\n\n")
+    lines.append(f"## 🟡 Bot-Protected Employers (Google Jobs Fallback) ({len(fallback_companies)})\n\n")
     status_note = "Active" if has_fallback_keys() else "Standby (Requires SERP_API_KEY / RAPIDAPI_KEY in environment)"
     lines.append(f"> Integration Status: **{status_note}**\n\n")
     if fallback_companies:
@@ -75,13 +79,15 @@ def _render_country_list(
         lines.append("*None*\n")
     lines.append("\n")
 
-    lines.append(f"## Unsupported / Campus-Only Companies ({len(unsupported_items)})\n\n")
+    lines.append(f"## ⚪ Unsupported / Campus-Only Employers ({len(unsupported_items)})\n\n")
     if unsupported_items:
+        lines.append(f"Employers that do not host public ATS internship listings for {c_name} (e.g. exclusive university placement cell hiring, internal referrals only, or closed portals):\n\n")
         for name, reason in unsupported_items:
             lines.append(f"- **{name}** — *{reason}*\n")
     else:
         lines.append("*None documented*\n")
-    lines.append("\n")
+    lines.append("\n---\n\n")
+    lines.append(f"[⬆️ Back to Top](#top) · [💼 View {c_name} Jobs](jobs.md) · [🌐 Global Directory](../../README.md)\n")
 
     return "".join(lines)
 
@@ -91,44 +97,26 @@ def render_list(
     failed: Optional[Dict[str, str]] = None,
     updated_at: Optional[str] = None,
 ) -> None:
-    """Generate lists/in.md, lists/us.md, and global master LIST.md."""
-    os.makedirs(LISTS_DIR, exist_ok=True)
-    updated_str = _to_ist_str(updated_at)
+    """Generate regions/{code}/companies.md for each supported region atomically."""
+    os.makedirs(REGIONS_DIR, exist_ok=True)
 
-    # 1. Country-specific files
-    for code in ("in", "us", "ca", "uk", "eu"):
-        content = _render_country_list(code, succeeded, failed, updated_at)
-        target_path = os.path.join(LISTS_DIR, f"{code}.md")
-        with open(target_path, "w", encoding="utf-8") as f:
-            f.write(content)
-
-    # 2. Master Global LIST.md
-    lines = [
-        "# Tracked Companies Directory (Global)\n\n",
-        f"> 🕐 Last updated: **{updated_str}**\n\n",
-        "InternScan tracks engineering, AI/ML, and data internships across premier global tech employers.\n\n",
-        "## Country Directories\n\n",
-        "Select a country directory for the complete list of tracked employers, fallback adapters, and campus policies:\n\n",
-        "- [🇮🇳 **India Companies Directory (lists/in.md)**](lists/in.md) — *60 Tracked Employers, 5 Fallbacks, 32 Documented Limitations*\n",
-        "- [🇺🇸 **United States Companies Directory (lists/us.md)**](lists/us.md) — *54 Tracked Employers, High-Growth Innovators*\n\n",
-        "## Summary by Country\n\n",
-        "| Country | Flag | Tracked Employers | Primary Tech Hubs | Direct Directory |\n",
-        "| :--- | :---: | :---: | :--- | :---: |\n",
-    ]
-
-    for c_code in ("in", "us", "ca", "uk", "eu"):
-        meta = COUNTRY_METADATA.get(c_code, {})
-        cos = get_companies_for_country(c_code, include_fallback=True)
-        flag = meta.get("flag", "🌐")
-        name = meta.get("name", c_code.upper())
-        hubs = ", ".join(meta.get("hubs", [])[:4])
-        doc_link = f"[View {c_code.upper()}](lists/{c_code}.md)" if os.path.exists(os.path.join(LISTS_DIR, f"{c_code}.md")) else "Included in Global"
-        lines.append(f"| **{name}** | {flag} | {len(cos)} | {hubs} | {doc_link} |\n")
-
-    lines.append("\n---\n*Maintained automatically by the InternScan scrapers.* \n")
-
-    with open(GLOBAL_LIST_PATH, "w", encoding="utf-8") as f:
-        f.write("".join(lines))
+    for code in SUPPORTED_COUNTRIES:
+        country_dir = os.path.join(REGIONS_DIR, code)
+        os.makedirs(country_dir, exist_ok=True)
+        content = _render_country_companies(code, succeeded, failed, updated_at)
+        target_path = os.path.join(country_dir, "companies.md")
+        tmp_path = target_path + ".tmp"
+        try:
+            with open(tmp_path, "w", encoding="utf-8") as f:
+                f.write(content)
+            os.replace(tmp_path, target_path)
+        except Exception as exc:
+            if os.path.exists(tmp_path):
+                try:
+                    os.remove(tmp_path)
+                except OSError:
+                    pass
+            raise IOError(f"Failed to atomically render {target_path}: {exc}") from exc
 
 
 render = render_list

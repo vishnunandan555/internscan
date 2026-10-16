@@ -1,10 +1,16 @@
-# 🇺🇸 United States Companies List
+<a id="top"></a>
 
-> 🕐 Last updated: **2026-10-16 18:59:37 IST**
+# 🇺🇸 United States — Tracked Employers & ATS Coverage
 
-A quick reference list of companies tracked by the scraper in **United States** and their latest status.
+> 🕐 Last updated: **2026-10-16 21:04:50 IST**
 
-## Scraped Companies (49)
+[💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/us/)
+
+This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **United States**.
+
+## 🟢 Directly Scraped Employers (54)
+
+Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):
 
 - AMD
 - Accenture
@@ -21,6 +27,8 @@ A quick reference list of companies tracked by the scraper in **United States** 
 - Databricks
 - Datadog
 - Dell Technologies
+- DoorDash
+- Duolingo
 - Elastic
 - GitHub
 - GitLab
@@ -40,13 +48,16 @@ A quick reference list of companies tracked by the scraper in **United States** 
 - Nokia
 - Okta
 - Oracle
+- Palantir
 - Palo Alto Networks
 - PayPal
 - Pure Storage
 - Qualcomm
 - Red Hat
+- Roblox
 - Rubrik
 - Salesforce
+- Samsara
 - ServiceNow
 - Snowflake
 - Stripe
@@ -56,7 +67,7 @@ A quick reference list of companies tracked by the scraper in **United States** 
 - Wells Fargo
 - Workday
 
-## Bot-Protected Companies (Google Jobs Fallback) (4)
+## 🟡 Bot-Protected Employers (Google Jobs Fallback) (4)
 
 > Integration Status: **Standby (Requires SERP_API_KEY / RAPIDAPI_KEY in environment)**
 
@@ -65,9 +76,14 @@ A quick reference list of companies tracked by the scraper in **United States** 
 - **SAP** — *Indexed via Google Jobs / JSearch fallback adapter*
 - **Uber** — *Indexed via Google Jobs / JSearch fallback adapter*
 
-## Unsupported / Campus-Only Companies (3)
+## ⚪ Unsupported / Campus-Only Employers (3)
+
+Employers that do not host public ATS internship listings for United States (e.g. exclusive university placement cell hiring, internal referrals only, or closed portals):
 
 - **ByteDance** — *US careers portal uses anti-scraping signature validation; requires authenticated browser session*
 - **Epic Systems** — *recruiting conducted via university recruitment fairs and closed applicant portal*
 - **TikTok** — *uses ByteDance proprietary ATS with Cloudflare Turnstile bot protection*
 
+---
+
+[⬆️ Back to Top](#top) · [💼 View United States Jobs](jobs.md) · [🌐 Global Directory](../../README.md)

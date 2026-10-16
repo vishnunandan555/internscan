@@ -341,7 +341,7 @@ For dedicated component architecture and contribution guides, refer to:
 - 💾 **[data/README_data.md](data/README_data.md)** — Master and regional database partitions and schema.
 - 🌐 **[docs/README_docs.md](docs/README_docs.md)** — GitHub Pages web application architecture and tokens.
 - 🤖 **[bot/README_bot.md](bot/README_bot.md)** — Dedicated 24/7 Telegram bot deployment guide.
-- 📋 **[lists/README_lists.md](lists/README_lists.md)** — Regional tracked company registries.
+- 📋 **[regions/](regions/)** — Regional directories containing active listings (`jobs.md`) and tracked company registries (`companies.md`).
 - 🛠️ **[scripts/README_scripts.md](scripts/README_scripts.md)** — Automation utilities and logo tools.
 - 🧪 **[tests/README_tests.md](tests/README_tests.md)** — Unit test suite execution and test coverage.
 - 📊 **[logs/README_logs.md](logs/README_logs.md)** — Scrape history, summaries, and rotation policy.
