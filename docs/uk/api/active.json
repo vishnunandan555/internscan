@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-16T01:35:13Z",
+  "updated_at": "2026-10-16T07:14:47Z",
   "total_active": 24,
   "jobs": [
     {
@@ -36,21 +36,6 @@
     },
     {
       "company": "Amazon",
-      "title": "Network Development Engineer Intern, Core Networking",
-      "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
-      "locations": [
-        "Sydney, New South Wales, AUS"
-      ],
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-03-11",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Amazon",
       "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition",
       "locations": [
@@ -61,6 +46,21 @@
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-09-17",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Amazon",
+      "title": "Network Development Engineer Intern, Core Networking",
+      "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
+      "locations": [
+        "Sydney, New South Wales, AUS"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-03-11",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -91,7 +91,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },

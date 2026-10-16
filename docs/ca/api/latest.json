@@ -1,42 +1,10 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-16T01:35:13Z",
-  "new_count": 2,
+  "updated_at": "2026-10-16T07:14:47Z",
+  "new_count": 0,
   "reopened_count": 0,
   "total_active": 50,
-  "new_jobs": [
-    {
-      "company": "Intel",
-      "title": "Compiler Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
-      "locations": [
-        "Canada Toronto",
-        "Canada, Toronto"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Nokia",
-      "title": "Embedded C/C++ SW Developer Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311",
-      "locations": [
-        "Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    }
-  ],
+  "new_jobs": [],
   "reopened_jobs": []
 }

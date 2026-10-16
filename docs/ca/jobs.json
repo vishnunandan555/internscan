@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-10-16T01:35:13Z",
+  "updated_at": "2026-10-16T07:14:47Z",
   "jobs": {
     "nokia:41311": {
       "uid": "nokia:41311",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Canada (Other)",
       "company": "Nokia",
+      "country": "ca",
       "external_id": "41311",
-      "title": "Embedded C/C++ SW Developer Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "Canada"
       ],
-      "category": "Backend/Infra",
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "region": "AMER",
+      "title": "Embedded C/C++ SW Developer Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311"
     },
     "intel:JR0287934": {
       "uid": "intel:JR0287934",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Toronto",
       "company": "Intel",
+      "country": "ca",
       "external_id": "JR0287934",
-      "title": "Compiler Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "category": "Backend/Infra",
-      "city_tag": "Toronto",
-      "country": "ca",
+      "posted": "2026-10-15",
       "region": "AMER",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "title": "Compiler Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934"
     },
     "stripe:8130805": {
       "uid": "stripe:8130805",
@@ -520,7 +520,7 @@
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997"
@@ -557,7 +557,7 @@
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "region": "AMER",
       "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535"
@@ -785,7 +785,7 @@
         "Toronto ON CAN",
         "Toronto, ON, CAN"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "region": "AMER",
       "title": "Intern, AI/ML Platform (Winter)",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1"
@@ -804,7 +804,7 @@
         "Toronto ON CAN",
         "Toronto, ON, CAN"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "region": "AMER",
       "title": "Intern, AI Data Developer (Winter)",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1"
@@ -823,7 +823,7 @@
         "Toronto ON CAN",
         "Toronto, ON, CAN"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "region": "AMER",
       "title": "Software Development Internship (Summer 2027)",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1"

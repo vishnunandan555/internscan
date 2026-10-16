@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-10-16T01:35:13Z",
-  "total_active": 497,
+  "updated_at": "2026-10-16T07:14:47Z",
+  "total_active": 498,
   "jobs": [
     {
       "company": "Nokia",
@@ -30,7 +30,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -46,21 +46,6 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Applied Sciences Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084",
-      "locations": [
-        "United Kingdom, London, London"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
@@ -82,6 +67,21 @@
     },
     {
       "company": "Microsoft",
+      "title": "Applied Sciences Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Microsoft",
       "title": "Research Intern - Efficient AI Software Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
       "locations": [
@@ -90,6 +90,21 @@
       "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
+      "url": "https://www.metacareers.com/jobs/1050177734644029",
+      "locations": [
+        "Paris, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
       "category": "AI/ML",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
@@ -106,21 +121,6 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
-      "url": "https://www.metacareers.com/jobs/1050177734644029",
-      "locations": [
-        "Paris, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
@@ -152,7 +152,23 @@
       "country": "ca",
       "region": "AMER",
       "category": "Backend/Infra",
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "HPE",
+      "title": "People Care HR AI Agent - Process Improvement Project Management Intern",
+      "url": "https://careers.hpe.com/us/en/job/1212389",
+      "locations": [
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-04",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -175,8 +191,8 @@
     },
     {
       "company": "HPE",
-      "title": "People Care HR AI Agent - Process Improvement Project Management Intern",
-      "url": "https://careers.hpe.com/us/en/job/1212389",
+      "title": "AI & HPC Performance Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213397",
       "locations": [
         "Spring, Texas, 77389-1767",
         "Spring, Texas, United States of America"
@@ -185,14 +201,14 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-04",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
     {
       "company": "Dell Technologies",
-      "title": "Cybersecurity Undergraduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299004",
+      "title": "Product & Application Security Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299002",
       "locations": [
         "Round Rock, TX, United States"
       ],
@@ -206,8 +222,8 @@
     },
     {
       "company": "Dell Technologies",
-      "title": "Product & Application Security Undergraduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299002",
+      "title": "Cybersecurity Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299004",
       "locations": [
         "Round Rock, TX, United States"
       ],
@@ -236,21 +252,6 @@
     },
     {
       "company": "Amazon",
-      "title": "Network Development Engineer Intern, Core Networking",
-      "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
-      "locations": [
-        "Sydney, New South Wales, AUS"
-      ],
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-03-11",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    },
-    {
-      "company": "Amazon",
       "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition",
       "locations": [
@@ -261,6 +262,21 @@
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-09-17",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
+    {
+      "company": "Amazon",
+      "title": "Business Intelligence Engineer Internship France",
+      "url": "https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france",
+      "locations": [
+        "Clichy, Ile-de-France, FRA"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -281,16 +297,16 @@
     },
     {
       "company": "Amazon",
-      "title": "Business Intelligence Engineer Internship France",
-      "url": "https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france",
+      "title": "Network Development Engineer Intern, Core Networking",
+      "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
       "locations": [
-        "Clichy, Ile-de-France, FRA"
+        "Sydney, New South Wales, AUS"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
+      "city_tag": "UK (Other)",
+      "country": "uk",
       "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-10-15",
+      "category": "Backend/Infra",
+      "posted": "2026-03-11",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -305,7 +321,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
@@ -369,7 +385,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-09-30",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -385,7 +401,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -401,7 +417,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-09-18",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -417,7 +433,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-09-18",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -433,7 +449,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-09-18",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1591,7 +1607,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1607,7 +1623,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1623,7 +1639,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1639,7 +1655,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1655,7 +1671,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1671,7 +1687,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1687,7 +1703,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1703,7 +1719,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1719,7 +1735,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1735,7 +1751,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1751,7 +1767,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1767,7 +1783,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1783,7 +1799,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1799,7 +1815,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1815,7 +1831,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1831,7 +1847,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1847,7 +1863,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1863,7 +1879,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1879,7 +1895,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1895,7 +1911,7 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1911,7 +1927,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1927,7 +1943,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Security",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1943,7 +1959,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Backend/Infra",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1959,7 +1975,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1975,7 +1991,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -1991,7 +2007,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2007,7 +2023,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2023,7 +2039,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2039,7 +2055,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2055,7 +2071,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2071,7 +2087,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2087,7 +2103,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-09-30",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2103,7 +2119,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-09-30",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2119,7 +2135,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2135,7 +2151,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2151,7 +2167,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2167,7 +2183,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2183,7 +2199,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2199,7 +2215,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2215,7 +2231,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2231,7 +2247,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2247,7 +2263,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2263,7 +2279,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2279,7 +2295,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -2628,7 +2644,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3520,7 +3536,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-09-17",
+      "posted": "2026-09-16",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3632,7 +3648,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3664,7 +3680,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3680,7 +3696,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-26",
+      "posted": "2026-09-25",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3696,7 +3712,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-26",
+      "posted": "2026-09-25",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3712,7 +3728,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3728,7 +3744,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3743,7 +3759,7 @@
       "country": "remote",
       "region": "Remote",
       "category": "AI/ML",
-      "posted": "2026-10-01",
+      "posted": "2026-09-30",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3759,7 +3775,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3775,7 +3791,7 @@
       "country": "ca",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3791,7 +3807,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-01",
+      "posted": "2026-09-30",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3807,7 +3823,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3823,7 +3839,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3839,7 +3855,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3855,7 +3871,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3871,7 +3887,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3887,7 +3903,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3903,7 +3919,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3919,7 +3935,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3935,7 +3951,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3951,7 +3967,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3967,7 +3983,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3983,7 +3999,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -3999,7 +4015,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -4015,7 +4031,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -4031,7 +4047,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -4047,7 +4063,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -4063,7 +4079,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -4079,7 +4095,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -6177,7 +6193,7 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -6193,7 +6209,7 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -6209,7 +6225,7 @@
       "country": "ca",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7545,7 +7561,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7561,7 +7577,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-19",
+      "posted": "2026-09-18",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7577,7 +7593,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7607,7 +7623,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7622,7 +7638,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7667,7 +7683,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7697,7 +7713,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-09-26",
+      "posted": "2026-09-25",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
@@ -7712,7 +7728,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-07",
+      "posted": "2026-10-06",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-16"
     },
