@@ -15,11 +15,14 @@ Jobs are never deleted; when a posting disappears from a successful scrape it is
 flagged active=false (so first_seen survives a posting flapping on/off).
 If a company's scraper FAILED this run, its existing jobs are left untouched.
 """
+from __future__ import annotations
+
 import json
 import os
 import re
 import sys
 from datetime import datetime, timezone
+from typing import Optional, List, Dict, Tuple, Set, Any
 
 from .regions import classify_location
 from .countries import SUPPORTED_COUNTRIES
