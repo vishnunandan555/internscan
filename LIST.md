@@ -1,6 +1,6 @@
 # Tracked Companies Directory (Global)
 
-> 🕐 Last updated: **2026-10-15 11:06:32 IST**
+> 🕐 Last updated: **2026-10-16 07:05:13 IST**
 
 InternScan tracks engineering, AI/ML, and data internships across premier global tech employers.
 

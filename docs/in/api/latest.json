@@ -1,41 +1,10 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-10-15T05:35:12Z",
-  "new_count": 2,
+  "updated_at": "2026-10-16T01:35:13Z",
+  "new_count": 0,
   "reopened_count": 0,
   "total_active": 15,
-  "new_jobs": [
-    {
-      "company": "Meta",
-      "title": "ASIC Engineer Intern, Implementation",
-      "url": "https://www.metacareers.com/jobs/1046140895105013",
-      "locations": [
-        "Bangalore, India"
-      ],
-      "city_tag": "Bengaluru",
-      "country": "in",
-      "region": "APAC",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15"
-    },
-    {
-      "company": "Meta",
-      "title": "ASIC Engineer Intern, Design Verification",
-      "url": "https://www.metacareers.com/jobs/1123459746795309",
-      "locations": [
-        "Bangalore, India"
-      ],
-      "city_tag": "Bengaluru",
-      "country": "in",
-      "region": "APAC",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15"
-    }
-  ],
+  "new_jobs": [],
   "reopened_jobs": []
 }

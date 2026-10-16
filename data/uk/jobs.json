@@ -1,9 +1,10 @@
 {
   "jobs": {
     "amazon:10541467": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "London",
+      "closed": "2026-10-16",
       "company": "Amazon",
       "country": "uk",
       "external_id": "10541467",
@@ -17,6 +18,23 @@
       "title": "Operations Engineering Intern -  3 months, start date Q2 2027",
       "url": "https://www.amazon.jobs/en/jobs/10541467/operations-engineering-intern-3-months-start-date-q2-2027"
     },
+    "amazon:10552039": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
+      "company": "Amazon",
+      "country": "uk",
+      "external_id": "10552039",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-09-17",
+      "region": "EMEA",
+      "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition"
+    },
     "amazon:10554586": {
       "active": true,
       "category": "Software",
@@ -25,7 +43,7 @@
       "country": "uk",
       "external_id": "10554586",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, England, GBR"
       ],
@@ -42,7 +60,7 @@
       "country": "uk",
       "external_id": "10567687",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, England, GBR"
       ],
@@ -59,7 +77,7 @@
       "country": "uk",
       "external_id": "10567694",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, England, GBR"
       ],
@@ -76,7 +94,7 @@
       "country": "uk",
       "external_id": "10577611",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, England, GBR"
       ],
@@ -84,6 +102,23 @@
       "region": "EMEA",
       "title": "(Physical) Security Specialist Intern - 2027 Internship, DC Security",
       "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security"
+    },
+    "amazon:3201714": {
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "UK (Other)",
+      "company": "Amazon",
+      "country": "uk",
+      "external_id": "3201714",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Sydney, New South Wales, AUS"
+      ],
+      "posted": "2026-03-11",
+      "region": "EMEA",
+      "title": "Network Development Engineer Intern, Core Networking",
+      "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking"
     },
     "apple:200682357": {
       "active": true,
@@ -93,7 +128,7 @@
       "country": "uk",
       "external_id": "200682357",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London"
       ],
@@ -110,7 +145,7 @@
       "country": "uk",
       "external_id": "2023625",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "Harpenden, Herefordshire, United Kingdom"
       ],
@@ -127,7 +162,7 @@
       "country": "uk",
       "external_id": "2024351",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "North Sydney, New South Wales, Australia"
       ],
@@ -144,7 +179,7 @@
       "country": "uk",
       "external_id": "8847738002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, United Kingdom"
       ],
@@ -161,7 +196,7 @@
       "country": "uk",
       "external_id": "100028133205254854",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, UK"
       ],
@@ -178,7 +213,7 @@
       "country": "uk",
       "external_id": "135156989620560582",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, UK"
       ],
@@ -195,7 +230,7 @@
       "country": "uk",
       "external_id": "73321728058499782",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, UK"
       ],
@@ -212,7 +247,7 @@
       "country": "uk",
       "external_id": "80037545080955590",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London, UK"
       ],
@@ -229,7 +264,7 @@
       "country": "uk",
       "external_id": "86733690079453894",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "Accra, Ghana",
         "Amsterdam, Netherlands",
@@ -254,7 +289,7 @@
       "country": "uk",
       "external_id": "1215804",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "Bristol, Avon, BS34 8QZ",
         "Bristol, Avon, United Kingdom"
@@ -272,7 +307,7 @@
       "country": "uk",
       "external_id": "210774716",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom",
         "LONDON, LONDON, United Kingdom"
@@ -290,7 +325,7 @@
       "country": "uk",
       "external_id": "210774745",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom",
         "LONDON, LONDON, United Kingdom"
@@ -308,7 +343,7 @@
       "country": "uk",
       "external_id": "210774813",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom"
       ],
@@ -316,6 +351,23 @@
       "region": "EMEA",
       "title": "2027 Software Engineer Immersion Program - Summer Internship - Glasgow",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813"
+    },
+    "jpmorgan-chase:210800615": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "London",
+      "company": "JPMorgan Chase",
+      "country": "uk",
+      "external_id": "210800615",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "LONDON, United Kingdom"
+      ],
+      "posted": "2026-10-15",
+      "region": "EMEA",
+      "title": "2027 AI Research Associate Program - Internship",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615"
     },
     "meta:2558941294546763": {
       "active": true,
@@ -325,7 +377,7 @@
       "country": "uk",
       "external_id": "2558941294546763",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "Dublin, Ireland",
         "London, UK"
@@ -335,6 +387,23 @@
       "title": "Network Production Engineer Intern",
       "url": "https://www.metacareers.com/jobs/2558941294546763"
     },
+    "microsoft:1970393557040084": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "London",
+      "company": "Microsoft",
+      "country": "uk",
+      "external_id": "1970393557040084",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "posted": "2026-10-15",
+      "region": "EMEA",
+      "title": "Applied Sciences Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084"
+    },
     "nvidia:JR2027948": {
       "active": true,
       "category": "Data",
@@ -343,7 +412,7 @@
       "country": "uk",
       "external_id": "JR2027948",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "2 Locations",
         "UK Bristol"
@@ -361,7 +430,7 @@
       "country": "uk",
       "external_id": "8130867",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "London"
       ],
@@ -371,5 +440,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-15T05:35:12Z"
+  "updated_at": "2026-10-16T01:35:13Z"
 }

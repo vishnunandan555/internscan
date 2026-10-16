@@ -1,11 +1,71 @@
 # 🇮🇳 India Companies List
 
-> 🕐 Last updated: **2026-10-15 11:06:32 IST**
+> 🕐 Last updated: **2026-10-16 07:05:13 IST**
 
 A quick reference list of companies tracked by the scraper in **India** and their latest status.
 
-## Scraped Companies (0)
+## Scraped Companies (60)
 
+- AMD
+- Accenture
+- Adobe
+- Amazon
+- Apple
+- Autodesk
+- Barclays
+- Bloomberg
+- Broadcom (VMware)
+- CRED
+- Cisco
+- Cloudflare
+- CrowdStrike
+- Databricks
+- Datadog
+- Dell Technologies
+- Elastic
+- Freshworks
+- GitHub
+- GitLab
+- Google
+- Groww
+- HPE
+- InMobi
+- Intel
+- JPMorgan Chase
+- Jane Street
+- Mastercard
+- Meesho
+- Meta
+- Micron
+- Microsoft
+- MongoDB
+- Morgan Stanley
+- NVIDIA
+- Netflix
+- Nokia
+- Okta
+- Oracle
+- Palo Alto Networks
+- PayPal
+- PhonePe
+- Pure Storage
+- Qualcomm
+- Razorpay
+- Red Hat
+- Rubrik
+- Salesforce
+- ServiceNow
+- Snowflake
+- Stripe
+- Swiggy
+- Target
+- Twilio
+- Visa
+- Walmart Global Tech
+- Wells Fargo
+- Workday
+- Zeta
+- Zomato
 
 ## Bot-Protected Companies (Google Jobs Fallback) (5)
 
