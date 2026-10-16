@@ -14,8 +14,8 @@
   })();
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
-<title>InternScan · The Global Tech Internship Directory</title>
-<meta name="description" content="High-speed automated directory of verified software engineering, AI/ML, data, and cloud internships across top tech employers worldwide. Direct career portal links only.">
+<title>InternScan · The Global Directory for Tech Internships</title>
+<meta name="description" content="Automated global directory of verified engineering, AI/ML, and tech internships across top employers worldwide. 100% open source and direct.">
 <meta name="keywords" content="internscan, tech internships 2026, tech internships 2027, software engineering internships, sde intern, global tech internships, faang internships, internships in india, internships in usa">
 <meta name="author" content="Vishnu Nandan">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -103,8 +103,8 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vishnunandan555.github.io/internscan/">
 <meta property="og:site_name" content="InternScan">
-<meta property="og:title" content="InternScan: The Global Tech Internship Directory">
-<meta property="og:description" content="Automated directory of engineering, AI/ML &amp; systems internships across top tech employers globally. Scraped directly from official career portals. Zero ghost jobs.">
+<meta property="og:title" content="InternScan: The Global Directory for Tech Internships">
+<meta property="og:description" content="Automated global directory of verified engineering, AI/ML, and tech internships across top employers worldwide. 100% open source and direct.">
 <meta property="og:image" content="https://vishnunandan555.github.io/internscan/og-image.png?v=2">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -112,8 +112,8 @@
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:url" content="https://vishnunandan555.github.io/internscan/">
-<meta name="twitter:title" content="InternScan: The Global Tech Internship Directory">
-<meta name="twitter:description" content="Direct official ATS sync for SDE, AI/ML, Data &amp; Cloud internships across top tech employers globally.">
+<meta name="twitter:title" content="InternScan: The Global Directory for Tech Internships">
+<meta name="twitter:description" content="Track verified software engineering, AI/ML, and systems roles across top tech employers in India, US, Canada, UK, and Europe. Updated daily.">
 <meta name="twitter:image" content="https://vishnunandan555.github.io/internscan/og-image.png?v=2">
 
 <!-- Mobile & App Identity -->
@@ -189,8 +189,8 @@
 </nav>
 
 <header class="global-hero">
-  <h1>The Open Source Tech Internship Directory <span class="gradient-text">Worldwide</span></h1>
-  <p>Track verified software engineering, AI/ML, data, and systems internships across top tech employers globally. Select your country to browse live openings.</p>
+  <h1>The Global Directory for <span class="gradient-text">Tech Internships</span></h1>
+  <p>Track verified software engineering, AI/ML, and systems roles across top tech employers in India, US, Canada, UK, and Europe. Updated daily.</p>
 
   <div class="metrics-grid">
     <div class="metric-card">
@@ -380,7 +380,7 @@
           <img src="./icon.png" alt="InternScan Logo" class="brand-logo-img" width="32" height="32">
           <span>Intern<span class="brand-accent">Scan</span></span>
         </a>
-        <p class="footer-brand-desc">The open-source global directory for verified software engineering, AI/ML, and tech internships directly from official careers APIs.</p>
+        <p class="footer-brand-desc">Automated global directory of verified engineering, AI/ML, and tech internships across top employers worldwide. 100% open source and direct.</p>
         <div class="footer-status-pill">
           <span class="pulse-dot"></span>
           <span id="footer-scan-time">Last Scanned on: Oct 15, 2026, 11:05 AM IST</span>
@@ -471,6 +471,13 @@ function applyTheme(theme) {
   }
 }
 applyTheme(currentTheme);
+
+if (themeBtn) {
+  themeBtn.addEventListener("click", () => {
+    const next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    applyTheme(next);
+  });
+}
 
 // Country Dropdown Handler
 const countryWrap = document.getElementById("countrySelectorWrap");
