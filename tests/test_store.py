@@ -82,6 +82,53 @@ class TestStore(unittest.TestCase):
         self.assertEqual(reopened[0]["external_id"], "m1")
         self.assertTrue(state["jobs"]["meta:m1"]["active"])
 
+    def test_country_partitioned_load_and_save(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            orig_data_dir = store.DATA_DIR
+            orig_data_path = store.DATA_PATH
+            orig_tmp_path = store._TMP_PATH
+            try:
+                store.DATA_DIR = tmpdir
+                store.DATA_PATH = os.path.join(tmpdir, "jobs.json")
+                store._TMP_PATH = os.path.join(tmpdir, "jobs.json.tmp")
+
+                state = {
+                    "updated_at": None,
+                    "jobs": {
+                        "google:in1": {"company": "Google", "country": "in", "active": True},
+                        "meta:us1": {"company": "Meta", "country": "us", "active": True},
+                    },
+                }
+                store.save(state)
+
+                # Verify main file
+                self.assertTrue(os.path.exists(store.DATA_PATH))
+                # Verify partition files
+                in_path = os.path.join(tmpdir, "in", "jobs.json")
+                us_path = os.path.join(tmpdir, "us", "jobs.json")
+                self.assertTrue(os.path.exists(in_path))
+                self.assertTrue(os.path.exists(us_path))
+
+                # Load with country filter
+                in_loaded = store.load(country="in")
+                self.assertIn("google:in1", in_loaded["jobs"])
+                self.assertNotIn("meta:us1", in_loaded["jobs"])
+
+                us_loaded = store.load(country="us")
+                self.assertIn("meta:us1", us_loaded["jobs"])
+                self.assertNotIn("google:in1", us_loaded["jobs"])
+            finally:
+                store.DATA_DIR = orig_data_dir
+                store.DATA_PATH = orig_data_path
+                store._TMP_PATH = orig_tmp_path
+
+    def test_typing_annotations_evaluation(self):
+        import typing
+        hints = typing.get_type_hints(store.load)
+        self.assertIn("country", hints)
+        self.assertIn("return", hints)
+
 
 if __name__ == "__main__":
     unittest.main()
+
