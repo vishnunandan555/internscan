@@ -8,7 +8,7 @@
 
 ## 1. Project Architecture & File Map
 
-```
+```text
 internscan/
 ├── scraper/                   # Python core scraper & synchronization engine
 │   ├── main.py                # Concurrent ThreadPool orchestrator (CLI entrypoint)
@@ -78,30 +78,37 @@ internscan/
 ## 3. Standard Commands & Workflows
 
 ### Run the Test Suite
+
 Always run the full test suite before committing changes:
+
 ```bash
 python3 -m unittest discover -s tests
 ```
 
 ### Dry-Run Scrape a Company
+
 Test scrapers without modifying database or production markdown files:
+
 ```bash
 python3 -m scraper.main -c google --dry-run
 python3 -m scraper.main -c "qualcomm,nvidia" --dry-run
 ```
 
 ### Check Version
+
 ```bash
 python3 -m scraper.main --version
 # Outputs: InternScan India v2.0.0
 ```
 
 ### Regenerate Public APIs & RSS
+
 ```bash
 python3 -c "from scraper import store, api; api.generate_apis(store.load())"
 ```
 
 ### Regenerate README.md
+
 ```bash
 python3 -c "from scraper import store, render_readme; render_readme.render(store.load())"
 ```

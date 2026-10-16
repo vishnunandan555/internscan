@@ -6,7 +6,7 @@ The `scraper/` directory houses the core synchronization pipeline, company regis
 
 ## Architecture & Module Map
 
-```
+```text
 scraper/
 ├── main.py            # CLI entrypoint & concurrent ThreadPool orchestrator
 ├── store.py           # Atomic JSON persistence & three-way diff engine (added, closed, reopened)
@@ -31,7 +31,9 @@ scraper/
 ## Key Workflows
 
 ### 1. Concurrent Execution (`main.py`)
+
 Runs multiple scraper threads in parallel (`ThreadPoolExecutor`) to fetch listings across 60+ employers in under 25 seconds:
+
 ```bash
 # Run all scrapers across all regions
 python3 -m scraper.main
@@ -44,13 +46,17 @@ python3 -m scraper.main -c meta --dry-run
 ```
 
 ### 2. Atomic Diff Merge (`store.py`)
+
 Computes diffs between incoming scrape data and `data/jobs.json`:
+
 - **New roles:** Assigned `first_seen = today`, `active = True`.
 - **Closed roles:** Kept in database, marked `active = False`, `closed = today`.
 - **Reopened roles:** Marked `active = True`, `reopened = today`, preserving historical `first_seen`.
 
 ### 3. Public API & Feed Generation (`api.py`)
+
 After each sync, automatically produces:
+
 - `docs/api/active.json` & `docs/<country>/api/active.json`
 - `docs/api/latest.json` & `docs/<country>/api/latest.json`
 - `docs/feed.xml` & `docs/<country>/feed.xml` (RSS 2.0)

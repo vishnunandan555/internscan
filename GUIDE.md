@@ -19,12 +19,13 @@ This document explains the internal architecture, scraper engine, CLI commands, 
 9. [External API Fallback (Google Jobs / SerpApi)](#9-external-api-fallback-google-jobs--serpapi)
 10. [Troubleshooting & FAQ](#10-troubleshooting--faq)
 11. [Telegram Bot & Public API Integration](#11-telegram-bot--public-api-integration)
+12. [Project Documentation Directory](#12-project-documentation-directory)
 
 ---
 
 ## 1. Architecture Overview
 
-```
+```text
                           ┌────────────────────────┐
                           │   Official Career APIs │
                           │ (Greenhouse, Workday,  │
@@ -61,6 +62,7 @@ This document explains the internal architecture, scraper engine, CLI commands, 
 ```
 
 The system is designed with strict separation of concerns:
+
 - **`scraper/adapters/`**: Lightweight adapters per ATS (Workday, Greenhouse, SmartRecruiters, Lever, Phenom, Oracle HCM, Eightfold, custom REST).
 - **`scraper/http.py`**: Centralized HTTP client with browser User-Agents, automatic retries on 429/5xx, and adaptive backoff.
 - **`scraper/models.py`**: Unified `Job` dataclass with automatic internship detection and date normalization.
@@ -103,32 +105,38 @@ python3 -m scraper.main --help
 ### Common Commands
 
 #### 1. Preview listings without saving (Dry Run)
+
 ```bash
 python3 -m scraper.main -c qualcomm --dry-run
 ```
 
 #### 2. Scrape a single company
+
 ```bash
 python3 -m scraper.main -c qualcomm
 ```
 
 #### 3. Scrape multiple companies concurrently
+
 ```bash
 python3 -m scraper.main -c "amd,phonepe,razorpay" --dry-run
 ```
 
 #### 4. Filter by role keyword (e.g., Hardware, AI, 2027)
+
 ```bash
 python3 -m scraper.main -k "hardware" --dry-run
 python3 -m scraper.main -k "2027" --dry-run
 ```
 
 #### 5. Run all 42 scrapers with custom thread pool
+
 ```bash
 python3 -m scraper.main --workers 10
 ```
 
 #### 6. List all configured scrapers & unsupported notes
+
 ```bash
 python3 -m scraper.main --list
 ```
@@ -143,7 +151,8 @@ When researching a new company, you don't need to write custom scraper code if t
 python3 -m scraper.detector <careers_url> --scrape
 ```
 
-### Examples:
+### Examples
+
 ```bash
 # Inspect a Lever job board:
 python3 -m scraper.detector https://jobs.lever.co/meesho --scrape
@@ -161,52 +170,55 @@ The detector inspects HTTP redirects, HTML source, and script bundles to extract
 To add an employer to the automated tracker:
 
 1. **Find their ATS**: Look at their careers URL or inspect network requests via DevTools (`XHR/Fetch`).
-2. **Open [`scraper/companies.py`](scraper/companies.py)**:
+2. **Open [`scraper/companies.py`](scraper/companies.py)**
 3. **Add an entry to `COMPANIES`**:
 
-```python
-# Example 1: Greenhouse company
-{
-    "name": "NewCompany",
-    "fetch": greenhouse.fetch,
-    "token": "newcompany_slug",
-},
+   ```python
+   # Example 1: Greenhouse company
+   {
+       "name": "NewCompany",
+       "fetch": greenhouse.fetch,
+       "token": "newcompany_slug",
+   },
 
-# Example 2: Lever company
-{
-    "name": "NewCompany",
-    "fetch": lever.fetch,
-    "site": "newcompany_slug",
-},
+   # Example 2: Lever company
+   {
+       "name": "NewCompany",
+       "fetch": lever.fetch,
+       "site": "newcompany_slug",
+   },
 
-# Example 3: SmartRecruiters company
-{
-    "name": "NewCompany",
-    "fetch": smartrecruiters.fetch,
-    "company": "COMPANY_SLUG",
-},
+   # Example 3: SmartRecruiters company
+   {
+       "name": "NewCompany",
+       "fetch": smartrecruiters.fetch,
+       "company": "COMPANY_SLUG",
+   },
 
-# Example 4: Workday company
-{
-    "name": "NewCompany",
-    "fetch": workday.fetch,
-    "host": "newcompany.wd3.myworkdayjobs.com",
-    "site": "NewCompanyCareers",
-    "max_pages": 15,
-},
-```
+   # Example 4: Workday company
+   {
+       "name": "NewCompany",
+       "fetch": workday.fetch,
+       "host": "newcompany.wd3.myworkdayjobs.com",
+       "site": "NewCompanyCareers",
+       "max_pages": 15,
+   },
+   ```
 
 4. **Verify your scraper**:
-```bash
-python3 -m scraper.main -c "NewCompany" --dry-run
-```
+
+   ```bash
+   python3 -m scraper.main -c "NewCompany" --dry-run
+   ```
 
 ---
 
 ## 6. Data Schema & Storage
 
 ### `data/jobs.json`
+
 Stores the source-of-truth state for every discovered posting:
+
 ```json
 {
   "updated_at": "2026-09-17T16:30:00Z",
@@ -229,7 +241,9 @@ Stores the source-of-truth state for every discovered posting:
 ```
 
 ### `data/health.json`
+
 Tracks scraper uptime and error diagnostics across runs:
+
 ```json
 {
   "succeeded": ["AMD", "Google", "Microsoft", "Qualcomm", "..."],
@@ -240,10 +254,13 @@ Tracks scraper uptime and error diagnostics across runs:
 ```
 
 ### `logs/` Execution Logs
+
 Every scrape run generates logs committed directly into the repository:
+
 - **`logs/scrape_full.log`**: Exhaustive technical log of the latest scrape. Includes exact timestamps, execution times per company, raw postings count, location filtering details, HTTP errors, and full stack traces.
 - **`logs/scrape_summary.log`**: Concise, scannable summary of the latest scrape. Shows execution timestamp, overall success/failure count, active India listings, a clean list of newly discovered internships (with URLs and locations), and closed listings.
 - **`logs/history.log`**: Append-only audit log tracking daily execution history over time:
+
   ```text
   [2026-09-17 00:00:00 UTC] OK: 40/42 | Active: 14 | +3 new, -0 closed | Runtime: 17.5s
   ```
@@ -270,6 +287,7 @@ Every scrape run generates logs committed directly into the repository:
 ## 8. Automated CI/CD (GitHub Actions)
 
 The tracker runs completely autonomously via `.github/workflows/update.yml`:
+
 - **Trigger**: Daily at 00:00 UTC (05:30 AM IST) via GitHub Actions `cron: '0 0 * * *'` + manual `workflow_dispatch` (with options for target company, keyword filter, workers, and dry runs).
 - **Concurrency**: Parallel execution in GitHub's Linux runner (pip cached).
 - **Auto-Commit**: If new internships are found or closed, the bot commits directly with:
@@ -283,27 +301,35 @@ The tracker runs completely autonomously via `.github/workflows/update.yml`:
 Certain employers (Flipkart, Atlassian, Uber, Zepto, Goldman Sachs) block unauthenticated scrapers with Cloudflare, Akamai, or require campus SSO credentials.
 
 To discover jobs for these companies without scraping their bot-protected pages:
+
 1. Export your API key:
+
    ```bash
    export SERP_API_KEY="your_serpapi_key_here"
    # or
    export RAPIDAPI_KEY="your_rapidapi_key_here"
    ```
+
 2. Query using universal search:
+
    ```bash
    python3 -m scraper.main --search "Flipkart Software Engineer Intern India"
    ```
+
 This queries Google Jobs via SerpApi, bypassing all CAPTCHAs, bot defenses, and SSO walls.
 
 ---
 
 ## 10. Troubleshooting & FAQ
 
-### Q: A scraper is taking too long to finish.
+### Q: A scraper is taking too long to finish
+
 **A**: Some enterprise Workday/Oracle instances list over 4,000 global jobs. We parameterized `max_pages` (default 15 for Workday, 10 for Oracle HCM). Ensure your company configuration has `max_pages` set.
 
 ### Q: How do I test my changes before making a PR?
+
 **A**:
+
 ```bash
 # 1. Compile test
 python3 -m compileall scraper/
@@ -313,6 +339,7 @@ python3 -m scraper.main -c <company_name> --dry-run
 ```
 
 ### Q: Does running a single company erase other companies' jobs?
+
 **A**: **No.** `scraper/store.py` only updates the company you ran. All other companies' active jobs remain untouched in `data/jobs.json`.
 
 ---
@@ -346,4 +373,3 @@ For dedicated component architecture and contribution guides, refer to:
 - 🧪 **[tests/README_tests.md](tests/README_tests.md)** — Unit test suite execution and test coverage.
 - 📊 **[logs/README_logs.md](logs/README_logs.md)** — Scrape history, summaries, and rotation policy.
 - 🚀 **[.github/README_github.md](.github/README_github.md)** — GitHub Actions CI/CD workflows.
-

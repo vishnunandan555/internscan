@@ -25,14 +25,17 @@ graph TD
 ## 2. Core Architectural Pillars
 
 ### A. Non-Destructive State Synchronization
+
 - **Problem:** Many job tracking boards wipe and recreate their database during each scrape. If a company temporarily hides a job or their career portal experiences a momentary glitch, records flicker on and off, losing historical tracking.
 - **Solution:** In InternScan, **jobs are never deleted**. When an active job disappears from an employer's ATS feed, it is marked `active: false` and timestamped with `closed = today`. If the job reappears later, it is marked `reopened = today`, while retaining its original `first_seen` date.
 
 ### B. POSIX Atomic File Commitments
+
 - Master databases (`data/jobs.json`, `docs/jobs.json`), API artifacts (`docs/api/*.json`), and generated Markdown files (`README.md`, `regions/*/*.md`) write first to a temporary file (`.tmp`).
 - Commits use `os.replace` (POSIX atomic rename). If a cloud node crashes, runs out of disk space, or is terminated mid-write, database corruption is physically impossible.
 
 ### C. Extreme Memory Efficiency (< 35 MB Budget)
+
 - Designed to run on micro cloud servers (such as ₹10/mo 256 MB VPS nodes or free-tier GitHub Actions runners).
 - **Heavy web drivers (Selenium, Playwright) and bulky data science libraries (Pandas, NumPy) are strictly prohibited.**
 - Operations rely on Python's optimized standard library (`urllib`, `json`, `concurrent.futures`, `re`) and lightweight HTTP libraries.
