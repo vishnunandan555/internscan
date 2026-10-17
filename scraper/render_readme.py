@@ -354,6 +354,7 @@ Our ultra-lightweight Telegram bot runs 24/7 (**< 35 MB RAM**) to dispatch insta
 | **[CONTRIBUTING.md](CONTRIBUTING.md)** | Guidelines for adding new ATS adapters, company configs, and PR standards |
 | **[SECURITY.md](SECURITY.md)** | Vulnerability reporting and ethical crawler access guidelines |
 | **[AGENTS.md](AGENTS.md)** | Inviolable architectural invariants and memory rules for AI coding agents |
+| **[DISCUSSIONS.md](DISCUSSIONS.md)** | Technical roadmap, feature RFCs, and architecture discussions |
 
 ### 📂 Directory Map
 - **[`regions/`](regions/README_regions.md)**: Regional Markdown trackers (`jobs.md` & `companies.md`) for `in/`, `us/`, `ca/`, `uk/`, and `eu/`.

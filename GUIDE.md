@@ -1,8 +1,8 @@
-# 🛠️ InternScan India — System Architecture & Developer Guide (v2.0.0)
+# 🛠️ InternScan — Global System Architecture & Developer Guide (v2.0.0)
 
-Welcome to the complete technical guide for **InternScan India**.
+Welcome to the technical handbook for **InternScan**.
 
-This document explains the internal architecture, scraper engine, CLI commands, ATS auto-detection, and how to add new companies or integrate external search APIs.
+This document explains the internal architecture, concurrent scraper engine, CLI commands, ATS auto-detection, multi-region routing, and how to add new companies or integrate external search APIs.
 
 ---
 
@@ -42,9 +42,9 @@ This document explains the internal architecture, scraper engine, CLI commands, 
                ┌──────────────────────┴──────────────────────┐
                ▼                                             ▼
     ┌────────────────────┐                        ┌────────────────────┐
-    │  Intern Filter     │                        │  Location Filter   │
+    │  Intern Filter     │                        │  Location Engine   │
     │ scraper/models.py  │                        │ scraper/regions.py │
-    │ & categories.py    │                        │ (India Tech Hubs)  │
+    │ & categories.py    │                        │ & countries/       │
     └──────────┬─────────┘                        └──────────┬─────────┘
                └──────────────────────┬──────────────────────┘
                                       ▼
@@ -57,20 +57,21 @@ This document explains the internal architecture, scraper engine, CLI commands, 
          ▼                            ▼                            ▼
 ┌──────────────────┐        ┌──────────────────┐        ┌──────────────────┐
 │  data/jobs.json  │        │    README.md     │        │ docs/index.html  │
-│ (Active Database)│        │ (Markdown Table) │        │ (Live Web UI)    │
+│ (Active Database)│        │ & regions/*/jobs │        │ (Live Web UI)    │
 └──────────────────┘        └──────────────────┘        └──────────────────┘
 ```
 
 The system is designed with strict separation of concerns:
 
-- **`scraper/adapters/`**: Lightweight adapters per ATS (Workday, Greenhouse, SmartRecruiters, Lever, Phenom, Oracle HCM, Eightfold, custom REST).
+- **`scraper/adapters/`**: Modular adapters per ATS platform (Workday, Greenhouse, SmartRecruiters, Lever, Phenom, Oracle HCM, Eightfold, and custom JSON/GraphQL endpoints).
 - **`scraper/http.py`**: Centralized HTTP client with browser User-Agents, automatic retries on 429/5xx, and adaptive backoff.
 - **`scraper/models.py`**: Unified `Job` dataclass with automatic internship detection and date normalization.
 - **`scraper/categories.py`**: Fast regex categorization (Software, AI/ML, Data, Hardware/Silicon, Security, Systems).
-- **`scraper/regions.py`**: Strict India location classifier with city tagging (Bengaluru, Hyderabad, Pune, Delhi-NCR, Chennai, Mumbai).
-- **`scraper/store.py`**: State management, deduplication, and diff engine (`added`, `closed`, `reopened`).
+- **`scraper/countries/`**: Multi-region company registries for India (`in`), United States (`us`), Canada (`ca`), United Kingdom (`uk`), and Europe (`eu`).
+- **`scraper/regions.py`**: Regional location classifiers with granular city tagging and tech hub grouping.
+- **`scraper/store.py`**: Atomic state management, deduplication, and diff engine (`added`, `closed`, `reopened`).
 - **`scraper/display.py`**: ANSI color terminal dashboard with execution timings and diagnostics.
-- **`docs/`**: Production web application portal (served via GitHub Pages):
+- **`docs/`**: Production web application portal:
   - **`docs/index.html`**: Clean semantic HTML markup, SEO metadata, controls dock, and accessible layout.
   - **`docs/css/style.css`**: Modern responsive styling, theme variables, glassmorphic UI, and mobile breakpoints.
   - **`docs/js/app.js`**: Frontend client logic: real-time search, multi-filter pipeline, saved jobs, and view mode toggling.
@@ -81,15 +82,15 @@ The system is designed with strict separation of concerns:
 ## 2. Data Pipeline Flow
 
 1. **Fetch**: Each adapter queries the target company's public JSON REST endpoint.
-2. **Filter Internships**: `looks_like_internship()` verifies role keywords (`intern`, `internship`, `co-op`, `grad intern`).
-3. **Categorize**: Regex rules assign a domain category (`Software`, `Hardware/Silicon`, `Data`, etc.). Non-engineering roles (Sales, Marketing, HR) are excluded.
-4. **Filter India**: Postings are tested against `is_india_job()`. Only jobs in Indian hubs or remote within India are kept.
+2. **Filter Internships**: `looks_like_internship()` verifies role keywords (`intern`, `internship`, `co-op`, `grad intern`, `apprentice`).
+3. **Categorize**: Regex rules assign a domain category (`Software`, `Hardware/Silicon`, `Data`, `AI/ML`, etc.). Non-engineering roles are excluded.
+4. **Filter & Tag Locations**: Postings are verified against country and regional filters. Clean place names (`display_place`) and high-level hubs (`city_tag`) are assigned.
 5. **Diff & Upsert**:
    - New posting $\rightarrow$ tagged with `first_seen = today`, `active = true`.
    - Existing posting $\rightarrow$ updates `last_seen = today`.
    - Missing posting $\rightarrow$ flagged `active = false`, `closed = today`.
    - If only scraping a subset of companies, **all other companies' active jobs are preserved**.
-6. **Publish**: Synchronizes `data/jobs.json`, `docs/jobs.json`, updates `data/health.json`, and renders `README.md`.
+6. **Publish**: Synchronizes `data/jobs.json`, regional partitions `data/<country>/jobs.json`, REST APIs (`docs/api/`), updates health metrics, and renders Markdown tables.
 
 ---
 
@@ -122,20 +123,30 @@ python3 -m scraper.main -c qualcomm
 python3 -m scraper.main -c "amd,phonepe,razorpay" --dry-run
 ```
 
-#### 4. Filter by role keyword (e.g., Hardware, AI, 2027)
+#### 4. Filter by country code
+
+```bash
+python3 -m scraper.main -C in --dry-run   # India
+python3 -m scraper.main -C us --dry-run   # United States
+python3 -m scraper.main -C ca --dry-run   # Canada
+python3 -m scraper.main -C uk --dry-run   # United Kingdom
+python3 -m scraper.main -C eu --dry-run   # Europe
+```
+
+#### 5. Filter by role keyword (e.g., Hardware, AI, 2027)
 
 ```bash
 python3 -m scraper.main -k "hardware" --dry-run
 python3 -m scraper.main -k "2027" --dry-run
 ```
 
-#### 5. Run all 42 scrapers with custom thread pool
+#### 6. Run all scrapers with custom thread pool
 
 ```bash
-python3 -m scraper.main --workers 10
+python3 -m scraper.main --workers 12
 ```
 
-#### 6. List all configured scrapers & unsupported notes
+#### 7. List all configured scrapers & unsupported notes
 
 ```bash
 python3 -m scraper.main --list
@@ -170,20 +181,22 @@ The detector inspects HTTP redirects, HTML source, and script bundles to extract
 To add an employer to the automated tracker:
 
 1. **Find their ATS**: Look at their careers URL or inspect network requests via DevTools (`XHR/Fetch`).
-2. **Open [`scraper/companies.py`](scraper/companies.py)**
+2. **Open the appropriate country registry** under `scraper/countries/<country>/companies.py`.
 3. **Add an entry to `COMPANIES`**:
 
    ```python
    # Example 1: Greenhouse company
    {
        "name": "NewCompany",
+       "slug": "newcompany",
        "fetch": greenhouse.fetch,
-       "token": "newcompany_slug",
+       "board": "newcompany_slug",
    },
 
    # Example 2: Lever company
    {
        "name": "NewCompany",
+       "slug": "newcompany",
        "fetch": lever.fetch,
        "site": "newcompany_slug",
    },
@@ -191,6 +204,7 @@ To add an employer to the automated tracker:
    # Example 3: SmartRecruiters company
    {
        "name": "NewCompany",
+       "slug": "newcompany",
        "fetch": smartrecruiters.fetch,
        "company": "COMPANY_SLUG",
    },
@@ -198,6 +212,7 @@ To add an employer to the automated tracker:
    # Example 4: Workday company
    {
        "name": "NewCompany",
+       "slug": "newcompany",
        "fetch": workday.fetch,
        "host": "newcompany.wd3.myworkdayjobs.com",
        "site": "NewCompanyCareers",
@@ -205,7 +220,7 @@ To add an employer to the automated tracker:
    },
    ```
 
-4. **Verify your scraper**:
+4. **Verify your scraper with a dry run**:
 
    ```bash
    python3 -m scraper.main -c "NewCompany" --dry-run
@@ -221,9 +236,9 @@ Stores the source-of-truth state for every discovered posting:
 
 ```json
 {
-  "updated_at": "2026-09-17T16:30:00Z",
+  "updated_at": "2026-10-17T05:15:36Z",
   "jobs": {
-    "qualcomm-446719785836": {
+    "qualcomm:446719785836": {
       "company": "Qualcomm",
       "external_id": "446719785836",
       "title": "Interim Engineering Intern_2027_SW",
@@ -231,9 +246,11 @@ Stores the source-of-truth state for every discovered posting:
       "locations": ["Hyderabad, India"],
       "city_tag": "Hyderabad",
       "category": "Software",
+      "country": "in",
+      "region": "APAC",
       "posted": "2026-09-15",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-10-17",
       "active": true
     }
   }
@@ -246,10 +263,8 @@ Tracks scraper uptime and error diagnostics across runs:
 
 ```json
 {
-  "succeeded": ["AMD", "Google", "Microsoft", "Qualcomm", "..."],
-  "failed": {
-    "Apple": "HTTP 403 Forbidden"
-  }
+  "succeeded": ["AMD", "Google", "Microsoft", "Qualcomm", "NVIDIA"],
+  "failed": {}
 }
 ```
 
@@ -258,11 +273,11 @@ Tracks scraper uptime and error diagnostics across runs:
 Every scrape run generates logs committed directly into the repository:
 
 - **`logs/scrape_full.log`**: Exhaustive technical log of the latest scrape. Includes exact timestamps, execution times per company, raw postings count, location filtering details, HTTP errors, and full stack traces.
-- **`logs/scrape_summary.log`**: Concise, scannable summary of the latest scrape. Shows execution timestamp, overall success/failure count, active India listings, a clean list of newly discovered internships (with URLs and locations), and closed listings.
+- **`logs/scrape_summary.log`**: Concise, scannable summary of the latest scrape. Shows execution timestamp, overall success/failure count, active listings, newly discovered internships, and closed listings.
 - **`logs/history.log`**: Append-only audit log tracking daily execution history over time:
 
   ```text
-  [2026-09-17 00:00:00 UTC] OK: 40/42 | Active: 14 | +3 new, -0 closed | Runtime: 17.5s
+  [2026-10-17 05:15:36 UTC] OK: 65/65 | Active: 503 | +5 new, -1 closed | Runtime: 24.2s
   ```
 
 ---
@@ -278,9 +293,12 @@ Every scrape run generates logs committed directly into the repository:
   - `Systems / Infrastructure`: Cloud, DevOps, SRE, platform, distributed systems.
   - `QA / SDET`: Quality assurance, test automation, SDET.
 
-- **India Location Rules ([`scraper/regions.py`](scraper/regions.py))**:
-  - Hubs recognized: `Bengaluru`, `Hyderabad`, `Pune`, `Delhi-NCR`, `Chennai`, `Mumbai`, `Kolkata`, `Remote India`.
-  - Non-India postings (USA, UK, Singapore, Europe) are excluded automatically.
+- **Regional Location Rules**:
+  - `India`: Bengaluru, Hyderabad, Pune, Delhi-NCR, Chennai, Mumbai.
+  - `United States`: SF Bay Area, Seattle, New York, Austin, Boston.
+  - `Canada`: Toronto, Waterloo, Vancouver, Montreal.
+  - `United Kingdom`: London, Cambridge / Oxford, Manchester, Edinburgh.
+  - `Europe`: Berlin, Munich, Dublin, Amsterdam, Zurich, Paris.
 
 ---
 
@@ -288,17 +306,17 @@ Every scrape run generates logs committed directly into the repository:
 
 The tracker runs completely autonomously via `.github/workflows/update.yml`:
 
-- **Trigger**: Daily at 00:00 UTC (05:30 AM IST) via GitHub Actions `cron: '0 0 * * *'` + manual `workflow_dispatch` (with options for target company, keyword filter, workers, and dry runs).
+- **Trigger**: Daily at `21:30 UTC` (`03:00 AM IST`) via GitHub Actions `cron: '30 21 * * *'` + manual `workflow_dispatch` (with options for target company, keyword filter, workers, and dry runs).
 - **Concurrency**: Parallel execution in GitHub's Linux runner (pip cached).
 - **Auto-Commit**: If new internships are found or closed, the bot commits directly with:
   `Automated scrape: +X added, -Y closed [skip ci]`
-- **Pages Sync**: The workflow deploys `docs/index.html` and `docs/jobs.json` directly to GitHub Pages.
+- **Pages Sync**: The workflow deploys `docs/index.html` and `docs/jobs.json` directly to GitHub Pages / Vercel.
 
 ---
 
 ## 9. External API Fallback (Google Jobs / SerpApi)
 
-Certain employers (Flipkart, Atlassian, Uber, Zepto, Goldman Sachs) block unauthenticated scrapers with Cloudflare, Akamai, or require campus SSO credentials.
+Certain employers block unauthenticated scrapers with Cloudflare, Akamai, or require campus SSO credentials.
 
 To discover jobs for these companies without scraping their bot-protected pages:
 
@@ -331,8 +349,8 @@ This queries Google Jobs via SerpApi, bypassing all CAPTCHAs, bot defenses, and 
 **A**:
 
 ```bash
-# 1. Compile test
-python3 -m compileall scraper/
+# 1. Run unit tests
+python3 -m unittest discover -s tests
 
 # 2. Dry-run test your target company
 python3 -m scraper.main -c <company_name> --dry-run
@@ -361,14 +379,16 @@ For dedicated component architecture and contribution guides, refer to:
 
 - 🏛️ **[ARCHITECTURE.md](ARCHITECTURE.md)** — Core system architecture, non-destructive synchronization, and atomic POSIX writes.
 - 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** — Guide to adding companies, fixing adapters, and testing pull requests.
+- 💬 **[DISCUSSIONS.md](DISCUSSIONS.md)** — Feature roadmap, technical RFCs, and completed architectural milestones.
 - 🔒 **[SECURITY.md](SECURITY.md)** — Security policies, vulnerability disclosure, and crawler ethics.
+- 🤖 **[AGENTS.md](AGENTS.md)** — Inviolable architectural invariants and memory rules for AI coding agents.
 - ⚙️ **[scraper/README_scraper.md](scraper/README_scraper.md)** — Synchronization engine and pipeline orchestrator.
 - 🔌 **[scraper/adapters/README_adapters.md](scraper/adapters/README_adapters.md)** — Modular ATS adapters directory.
 - 🌍 **[scraper/countries/README_countries.md](scraper/countries/README_countries.md)** — Multi-country company registries.
 - 💾 **[data/README_data.md](data/README_data.md)** — Master and regional database partitions and schema.
-- 🌐 **[docs/README_docs.md](docs/README_docs.md)** — GitHub Pages web application architecture and tokens.
+- 🌐 **[docs/README_docs.md](docs/README_docs.md)** — Web application architecture, Vanilla design tokens, and components.
 - 🤖 **[bot/README_bot.md](bot/README_bot.md)** — Dedicated 24/7 Telegram bot deployment guide.
-- 📋 **[regions/](regions/)** — Regional directories containing active listings (`jobs.md`) and tracked company registries (`companies.md`).
+- 📋 **[regions/](regions/README_regions.md)** — Regional directories containing active listings (`jobs.md`) and tracked company registries (`companies.md`).
 - 🛠️ **[scripts/README_scripts.md](scripts/README_scripts.md)** — Automation utilities and logo tools.
 - 🧪 **[tests/README_tests.md](tests/README_tests.md)** — Unit test suite execution and test coverage.
 - 📊 **[logs/README_logs.md](logs/README_logs.md)** — Scrape history, summaries, and rotation policy.

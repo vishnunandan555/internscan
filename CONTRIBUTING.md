@@ -1,6 +1,6 @@
 # 🤝 Contributing to InternScan
 
-Thank you for your interest in contributing to **InternScan**! Our mission is to provide students and engineers worldwide with a 100% verified, automated, and fluff-free directory of technical internships sourced directly from official careers portals.
+Thank you for your interest in contributing to **InternScan**! Our mission is to provide students and engineers worldwide with a 100% verified, automated, and fluff-free directory of technical internships sourced directly from official employer careers portals.
 
 ---
 
@@ -12,11 +12,11 @@ We are committed to providing a welcoming, inclusive, and harassment-free enviro
 
 ## How You Can Contribute
 
-1. **Add a Company:** Add a top tech employer or startup whose internships are not yet tracked.
-2. **Fix or Enhance an Adapter:** Fix a broken scraper or enhance extraction (e.g. posting dates, multi-location hubs).
+1. **Add a Company:** Add a top tech employer or high-growth startup whose technical internships are not yet tracked.
+2. **Fix or Enhance an ATS Adapter:** Fix a broken scraper or improve location / date extraction in `scraper/adapters/`.
 3. **Frontend & UX:** Improve search speed, accessibility, theme parity, or mobile responsiveness in `docs/`.
 4. **Documentation:** Refine setup guides, API examples, or regional coverage notes.
-5. **Report Bugs:** Open an issue with reproduction details if a scraper fails or returns ghost roles.
+5. **Report Bugs:** Open an issue with reproduction details if an adapter fails or returns expired roles.
 
 ---
 
@@ -37,7 +37,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Run the Test Suite
+### 3. Run the Automated Test Suite
 Always verify that unit tests pass before making any changes:
 ```bash
 python3 -m unittest discover -s tests
@@ -54,16 +54,30 @@ Navigate to `http://localhost:8080` in your browser.
 
 ## Adding a New Company
 
-### Step 1: Identify the ATS Platform
-Determine the applicant tracking system used by the employer:
+### Step 1: Identify the Applicant Tracking System (ATS)
+Determine the ATS platform used by the employer:
 - **Workday:** Host pattern `*.myworkdayjobs.com` (e.g. NVIDIA, Walmart, HPE)
 - **Greenhouse:** Board token (e.g. Stripe, Figma, Databricks)
 - **Lever:** Site name (e.g. Netflix, Spotify)
 - **SmartRecruiters:** Company identifier (e.g. Cisco, Snowflake)
+- **Phenom:** Domain / Host pattern (e.g. Qualcomm, Microsoft)
+- **Eightfold:** Domain (e.g. Micron, Capital One)
 - **Custom / Direct API:** Meta GraphQL, Google Careers API, Amazon Jobs API, Apple Careers, etc.
 
+You can also use our built-in auto-detector:
+```bash
+python3 -m scraper.detector <careers_url> --scrape
+```
+
 ### Step 2: Register the Company
-Open the relevant country registry under `scraper/countries/` (e.g. `india/companies.py` or `usa/companies.py`):
+Open the relevant country registry under `scraper/countries/`:
+- 🇮🇳 `scraper/countries/india/companies.py`
+- 🇺🇸 `scraper/countries/usa/companies.py`
+- 🇨🇦 `scraper/countries/canada/companies.py`
+- 🇬🇧 `scraper/countries/uk/companies.py`
+- 🇪🇺 `scraper/countries/europe/companies.py`
+
+Add the company entry:
 ```python
 {
     "name": "Acme Corp",
@@ -75,14 +89,24 @@ Open the relevant country registry under `scraper/countries/` (e.g. `india/compa
 ```
 
 ### Step 3: Test with Dry-Run
-Run a dry run to verify extraction without altering production databases:
+Run a dry run to verify extraction without altering production databases or markdown tables:
 ```bash
 python3 -m scraper.main -c acme-corp --dry-run
 ```
 Inspect the output to confirm:
-- Requisition IDs are stable.
-- Roles match engineering categories (`Software`, `AI/ML`, `Data`, etc.).
-- Regional locations are correctly parsed.
+- Official requisition IDs are extracted and stable.
+- Job titles match engineering categories (`Software`, `AI/ML`, `Data`, `Silicon`, `Security`, etc.).
+- Locations are properly normalized.
+
+### Step 4: Regenerate Tables & APIs
+To test rendering and API generation locally:
+```bash
+# Regenerate README.md and regional jobs.md tables
+python3 -c "from scraper import store, render_readme; render_readme.render(store.load())"
+
+# Regenerate public REST APIs and RSS feeds
+python3 -c "from scraper import store, api; api.generate_apis(store.load())"
+```
 
 ---
 
@@ -90,9 +114,10 @@ Inspect the output to confirm:
 
 When submitting a pull request, ensure you follow these repository rules:
 1. **Never delete jobs:** The synchronization engine marks unlisted postings as `active: false` with a `closed` timestamp. Records are never deleted to preserve `first_seen` history.
-2. **Atomic Writes:** All database and markdown persistence must write to `.tmp` first and commit atomically via `os.replace`.
+2. **POSIX Atomic Writes:** All database and markdown persistence must write to `.tmp` first and commit atomically via `os.replace`.
 3. **Strict Memory Budget (< 35 MB RAM):** Avoid heavy dependencies (like `pandas`, `selenium`, `playwright`). Rely on standard library HTTP or lightweight minimal dependencies.
 4. **Stable UIDs:** Unique identifiers must follow `{company_slug}:{external_id}`.
+5. **Quality Aesthetics & Parity:** Maintain dark and light mode parity in `docs/css/style.css` without external CSS frameworks.
 
 ---
 
@@ -106,4 +131,4 @@ When submitting a pull request, ensure you follow these repository rules:
 3. **Tests Required:** Add or update tests in `tests/` for any new logic.
 4. **Check Quality:** Run `python3 -m unittest discover -s tests` prior to opening your PR.
 
-Thank you for helping empower students and engineers everywhere!
+Thank you for helping empower students and engineers worldwide!

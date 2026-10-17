@@ -117,10 +117,10 @@ def generate():
     # -----------------------------
     regions = [
         ("IN", "India (BLR · HYD · DEL)"),
-        ("US", "United States (Bay Area · SEA · NYC)"),
+        ("US", "USA (Bay Area · SEA · NYC)"),
         ("CA", "Canada (TOR · WAT · VAN)"),
-        ("UK", "United Kingdom (London · CAM)"),
-        ("EU", "Europe (Berlin · Dublin · Munich)"),
+        ("UK", "UK (London · Cambridge)"),
+        ("EU", "Europe (BER · DUB · MUC)"),
     ]
     cur_x = 56
     cur_y = 278
@@ -131,7 +131,7 @@ def generate():
         th = bbox[3] - bbox[1]
         draw.rounded_rectangle([(cur_x - 8, cur_y - 4), (cur_x + tw + 8, cur_y + th + 6)], radius=6, fill=(18, 26, 40, 255), outline=(42, 56, 82, 255), width=1)
         draw.text((cur_x, cur_y), text, font=font_pill_bold, fill=(203, 213, 225, 255))
-        cur_x += tw + 20
+        cur_x += tw + 16 + 12
 
     # Category pills row
     cur_x = 56
@@ -198,7 +198,7 @@ def generate():
     # -----------------------------
     draw.line([(56, 524), (width - 56, 524)], fill=(28, 38, 56, 255), width=1)
 
-    url_text = "vishnunandan555.github.io/internscan"
+    url_text = "internscan.vercel.app"
     draw.text((56, 546), url_text, font=font_footer, fill=(203, 213, 225, 255))
 
     # Star icon and GitHub handle on right
