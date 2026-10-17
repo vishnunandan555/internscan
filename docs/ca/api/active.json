@@ -1,9 +1,24 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-16T23:45:36Z",
-  "total_active": 47,
+  "updated_at": "2026-10-17T23:17:43Z",
+  "total_active": 53,
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Automotive Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721615591?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17"
+    },
     {
       "company": "Nokia",
       "title": "Embedded C/C++ SW Developer Co-op/Intern",
@@ -17,7 +32,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Intel",
@@ -33,7 +48,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "AMD",
@@ -48,7 +63,7 @@
       "category": "Software",
       "posted": "2026-09-01",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Stripe",
@@ -63,7 +78,7 @@
       "category": "Software",
       "posted": "2026-10-07",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Stripe",
@@ -78,7 +93,7 @@
       "category": "Data",
       "posted": "2026-10-07",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Stripe",
@@ -93,7 +108,7 @@
       "category": "Data",
       "posted": "2026-10-07",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -108,7 +123,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -123,7 +138,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -138,7 +153,7 @@
       "category": "Software",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -153,7 +168,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -168,7 +183,67 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-17"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-17"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Physical Mixed Layout Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721142985?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-17"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Silicon Validation Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -183,7 +258,22 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156176?domain=qualcomm.com",
+      "locations": [
+        "Ottawa, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-18",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -198,7 +288,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -213,7 +303,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -228,7 +318,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -243,7 +333,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -258,7 +348,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -273,7 +363,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-28",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Qualcomm",
@@ -288,7 +378,7 @@
       "category": "QA",
       "posted": "2026-09-30",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Nokia",
@@ -303,7 +393,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Nokia",
@@ -318,7 +408,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Nokia",
@@ -333,7 +423,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Nokia",
@@ -348,7 +438,7 @@
       "category": "Data",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Nokia",
@@ -363,7 +453,7 @@
       "category": "Data",
       "posted": "2026-09-25",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "NVIDIA",
@@ -379,7 +469,7 @@
       "category": "AI/ML",
       "posted": "2026-10-12",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Microsoft",
@@ -394,7 +484,7 @@
       "category": "AI/ML",
       "posted": "2026-10-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Intel",
@@ -410,7 +500,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Intel",
@@ -426,7 +516,7 @@
       "category": "AI/ML",
       "posted": "2026-10-16",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Google",
@@ -441,7 +531,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Google",
@@ -457,7 +547,7 @@
       "category": "Software",
       "posted": "2026-08-24",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Google",
@@ -474,7 +564,7 @@
       "category": "AI/ML",
       "posted": "2026-07-20",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Google",
@@ -490,7 +580,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Google",
@@ -507,7 +597,7 @@
       "category": "AI/ML",
       "posted": "2026-07-20",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Google",
@@ -522,7 +612,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Google",
@@ -538,7 +628,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Autodesk",
@@ -552,9 +642,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-16",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Autodesk",
@@ -568,9 +658,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "Backend/Infra",
-      "posted": "2026-09-16",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Autodesk",
@@ -584,9 +674,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "Backend/Infra",
-      "posted": "2026-09-16",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Autodesk",
@@ -600,9 +690,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-09-16",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Autodesk",
@@ -618,7 +708,7 @@
       "category": "AI/ML",
       "posted": "2026-10-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Autodesk",
@@ -634,7 +724,7 @@
       "category": "AI/ML",
       "posted": "2026-10-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Autodesk",
@@ -650,7 +740,7 @@
       "category": "Software",
       "posted": "2026-10-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Amazon",
@@ -665,7 +755,7 @@
       "category": "Software",
       "posted": "2026-09-09",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Amazon",
@@ -680,7 +770,7 @@
       "category": "AI/ML",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Amazon",
@@ -695,7 +785,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Amazon",
@@ -710,7 +800,7 @@
       "category": "AI/ML",
       "posted": "2026-09-30",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     {
       "company": "Amazon",
@@ -725,7 +815,7 @@
       "category": "AI/ML",
       "posted": "2025-12-03",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     }
   ]
 }

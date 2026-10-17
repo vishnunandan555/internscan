@@ -1,10 +1,42 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-10-16T23:45:36Z",
-  "new_count": 0,
-  "reopened_count": 0,
+  "updated_at": "2026-10-17T23:17:43Z",
+  "new_count": 1,
+  "reopened_count": 1,
   "total_active": 111,
-  "new_jobs": [],
-  "reopened_jobs": []
+  "new_jobs": [
+    {
+      "company": "Apple",
+      "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
+      "url": "https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear",
+      "locations": [
+        "Paris"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-17",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
+      "url": "https://careers.qualcomm.com/careers/job/446715095913?domain=qualcomm.com",
+      "locations": [
+        "Amsterdam Drenthe, North Holland, Netherlands"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2025-10-21",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-17"
+    }
+  ]
 }

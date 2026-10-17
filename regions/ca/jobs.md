@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-17 05:15:36 IST** · 📌 **47** open verified internships
+> 🕐 Last updated: **2026-10-18 04:47:43 IST** · 📌 **53** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (47)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (53)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -23,7 +23,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **1** |
 | [Nokia](#nokia) | **6** |
-| [Qualcomm](#qualcomm) | **13** |
+| [Qualcomm](#qualcomm) | **19** |
 | [Stripe](#stripe) | **3** |
 
 ---
@@ -59,10 +59,10 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Software Development Internship (Summer 2027)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) ✨ | Software | Toronto | 2026-10-01 | 2026-10-15 |
 | [Intern, AI/ML Platform (Winter)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) ✨ | AI/ML | Toronto | 2026-10-01 | 2026-10-15 |
 | [Intern, AI Data Developer (Winter)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) ✨ | AI/ML | Toronto | 2026-10-01 | 2026-10-15 |
-| [Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) ✨ | Backend/Infra | Montreal | 2026-09-16 | 2026-10-15 |
-| [Stagiaire en Développement Cloud, Intern Cloud Developer](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) ✨ | Backend/Infra | Montreal | 2026-09-16 | 2026-10-15 |
-| [Intern, AI Developer/ Stagiaire en développement IA](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) ✨ | AI/ML | Montreal | 2026-09-16 | 2026-10-15 |
-| [Intern Software Developer, Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) ✨ | Software | Montreal | 2026-09-16 | 2026-10-15 |
+| [Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) ✨ | Backend/Infra | Montreal | 2026-09-17 | 2026-10-15 |
+| [Stagiaire en Développement Cloud, Intern Cloud Developer](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) ✨ | Backend/Infra | Montreal | 2026-09-17 | 2026-10-15 |
+| [Intern, AI Developer/ Stagiaire en développement IA](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) ✨ | AI/ML | Montreal | 2026-09-17 | 2026-10-15 |
+| [Intern Software Developer, Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) ✨ | Software | Montreal | 2026-09-17 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
 
@@ -123,17 +123,23 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern - Automotive Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721615591?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-10-16 | 2026-10-17 |
 | [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com) ✨ | QA | Ottawa, ON | 2026-09-30 | 2026-10-15 |
 | [FY27 Intern - Soft IP ASIC Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721302471?domain=qualcomm.com) ✨ | Hardware/Silicon | Ottawa, ON | 2026-09-29 | 2026-10-15 |
 | [FY27 Intern - Silicon Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721302528?domain=qualcomm.com) ✨ | Hardware/Silicon | Toronto | 2026-09-28 | 2026-10-15 |
 | [FY27 Intern - PAL Firmware Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721229661?domain=qualcomm.com) ✨ | Backend/Infra | Markham, ON | 2026-09-23 | 2026-10-15 |
+| [FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156176?domain=qualcomm.com) ✨ | Hardware/Silicon | Ottawa, ON | 2026-09-18 | 2026-10-15 |
 | [FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156800?domain=qualcomm.com) ✨ | Software | Toronto | 2026-09-18 | 2026-10-15 |
 | [FY27 Intern - MSIP Digital Design Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156182?domain=qualcomm.com) ✨ | Software | Toronto | 2026-09-18 | 2026-10-15 |
 | [FY27 Intern - IP Applications Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156615?domain=qualcomm.com) ✨ | Software | Toronto | 2026-09-18 | 2026-10-15 |
+| [FY27 Intern - Silicon Validation Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com) ✨ | Hardware/Silicon | Toronto | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - Physical Mixed Layout Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721142985?domain=qualcomm.com) ✨ | Software | Toronto | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064018?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com) ✨ | Software | Toronto | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721109168?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design / Verification/Implementation - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com) ✨ | Backend/Infra | Toronto | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Display IP Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064141?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064094?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 

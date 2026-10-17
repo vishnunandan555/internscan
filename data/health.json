@@ -1,9 +1,8 @@
 {
-  "failed": {
-    "Accenture": "Expecting value: line 1 column 1 (char 0)"
-  },
+  "failed": {},
   "succeeded": [
     "AMD",
+    "Accenture",
     "Adobe",
     "Amazon",
     "Apple",

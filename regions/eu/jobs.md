@@ -2,7 +2,7 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-17 05:15:36 IST** · 📌 **111** open verified internships
+> 🕐 Last updated: **2026-10-18 04:47:43 IST** · 📌 **111** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
@@ -15,9 +15,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Company | Open Internships in Europe |
 |---|:---:|
-| [Accenture](#accenture) | **10** |
+| [Accenture](#accenture) | **8** |
 | [Amazon](#amazon) | **18** |
-| [Apple](#apple) | **11** |
+| [Apple](#apple) | **12** |
 | [Cisco](#cisco) | **3** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **3** |
@@ -30,7 +30,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [MongoDB](#mongodb) | **1** |
 | [NVIDIA](#nvidia) | **14** |
 | [Nokia](#nokia) | **2** |
-| [Qualcomm](#qualcomm) | **6** |
+| [Qualcomm](#qualcomm) | **7** |
 | [Snowflake](#snowflake) | **3** |
 | [Stripe](#stripe) | **2** |
 
@@ -44,16 +44,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Data & AI Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786) ✨ | Data | Krakow | 2026-10-15 | 2026-10-16 |
-| [AI/MLOps Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434) ✨ | AI/ML | Warsaw | 2026-10-14 | 2026-10-15 |
 | [GenAI Engineering Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522) ✨ | AI/ML | Warsaw | 2026-10-13 | 2026-10-15 |
 | [Backend Developer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950) ✨ | Backend/Infra | Warsaw | 2026-10-12 | 2026-10-15 |
 | [Public Services Technology Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088) ✨ | Software | Amsterdam | 2026-10-06 | 2026-10-15 |
 | [Health Technology Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078) ✨ | Software | Amsterdam | 2026-09-25 | 2026-10-15 |
-| [LLM Engineer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343) ✨ | AI/ML | Warsaw | 2026-09-16 | 2026-10-15 |
-| [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) ✨ | Software | Amsterdam | 2026-09-16 | 2026-10-15 |
-| [Angular Developer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473) ✨ | Software | Warsaw | 2026-09-16 | 2026-10-15 |
-| [Adobe Experience Cloud Intern Analyst \| MarTech & Digital Experience Internship Program (He/She/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218) ✨ | Backend/Infra | Warsaw | 2026-09-16 | 2026-10-15 |
+| [LLM Engineer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343) ✨ | AI/ML | Warsaw | 2026-09-17 | 2026-10-15 |
+| [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) ✨ | Software | Amsterdam | 2026-09-17 | 2026-10-15 |
+| [Angular Developer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473) ✨ | Software | Warsaw | 2026-09-17 | 2026-10-15 |
+| [Adobe Experience Cloud Intern Analyst \| MarTech & Digital Experience Internship Program (He/She/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218) ✨ | Backend/Infra | Warsaw | 2026-09-17 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
@@ -86,6 +84,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) ✨ | AI/ML | Paris | 2026-10-17 | 2026-10-17 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) ✨ | AI/ML | Zurich | 2026-10-13 | 2026-10-15 |
 | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) ✨ | Backend/Infra | Munich | 2026-10-07 | 2026-10-15 |
 | [Internship - Software Engineering - Wireless Data Science](https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science) ✨ | Software | Munich | 2026-10-06 | 2026-10-15 |
@@ -255,6 +254,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Software Intern (Data Center, Cloud-AI Engineering) - Cork](https://careers.qualcomm.com/careers/job/446718947455?domain=qualcomm.com) ✨ | Software | Cork, Ireland | 2026-06-11 | 2026-10-15 |
 | [FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com) ✨ | Software | Cork, Ireland | 2026-05-21 | 2026-10-15 |
 | [FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com) ✨ | Software | Cork, Ireland | 2026-05-07 | 2026-10-15 |
+| [FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446715095913?domain=qualcomm.com) ✨ | AI/ML | Amsterdam | 2025-10-21 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 

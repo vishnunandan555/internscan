@@ -1,54 +1,29 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-16 23:44:20 UTC
+SCRAPE RUN SUMMARY — 2026-10-17 23:16:21 UTC
 ========================================================================
-Runtime:            76.2 seconds
+Runtime:            81.4 seconds
 Companies Scraped:  60 total
-  - Succeeded:      59
-  - Failed:         1
-Active India Roles: 504
+  - Succeeded:      60
+  - Failed:         0
+Active India Roles: 507
 Changes Detected:
-  - New Additions:  +12
-  - Closed Roles:   -8
-  - Reopened Roles: ~1
+  - New Additions:  +2
+  - Closed Roles:   -6
+  - Reopened Roles: ~6
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Apple — Software Engineering Intern, Apple Services Engineering (London) [Software]
-    Apply: https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering
-  + Amazon — 2027 Software Dev Engineer Intern - United Kingdom (London) [Software]
-    Apply: https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom
-  + Cisco — Software Engineer Data & AI PhD (Intern) - United States (SF Bay Area) [Software]
-    Apply: https://careers.cisco.com/global/en/job/2025611
-  + AMD — Short Term 2027 Software Engineering Intern/Co-Op (Canada (Other)) [Software]
-    Apply: https://careers.amd.com/careers-home/jobs/91368
-  + Meta — Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1141752241867684
-  + Meta — Production Systems Engineering Intern (SF Bay Area) [Software]
-    Apply: https://www.metacareers.com/jobs/4536253699919879
-  + Microsoft — Research Intern - MSR AI Interaction and Learning (Seattle) [AI/ML]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557042156
-  + Microsoft — Research Intern - Machine Learning at MSR NYC (New York) [AI/ML]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557042145
-  + HPE — Networking Intern - Placement Year (UK (Other)) [Backend/Infra]
-    Apply: https://careers.hpe.com/us/en/job/1216282
-  + NVIDIA — Developer Tools DevOps Engineering Intern - 2027 (Europe (Other)) [Software]
-    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826
-  + Snowflake — Product Marketing, AI-Powered Data Engineering Intern (Spring 2027) (SF Bay Area) [AI/ML]
-    Apply: https://careers.snowflake.com/us/en/job/26f36ea2-bc44-401f-9d01-ef724a8edb03
-  + Intel — DevOps Engineering Intern (Europe (Other)) [Backend/Infra]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1
+  + Apple — AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR (Europe (Other)) [AI/ML]
+    Apply: https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear
+  + Qualcomm — FY27 Intern - Automotive Engineering Internship - Canada (16 months) (Canada (Other)) [Software]
+    Apply: https://careers.qualcomm.com/careers/job/446721615591?domain=qualcomm.com
 
 [INTERNSHIPS CLOSED]
-  - AMD — 2027 PhD Photonics Engineering Intern/Co-Op (SF Bay Area)
-  - Microsoft — Software Engineer Internship Opportunities (Dublin)
-  - Qualcomm — FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam (Amsterdam)
-  - Qualcomm — FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months) (Toronto)
-  - Qualcomm — FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months) (Toronto)
-  - Qualcomm — FY27 Intern - Physical Mixed Layout Engineering Internship - Canada (16 months) (Toronto)
-  - Qualcomm — FY27 Intern - Silicon Validation Internship - Canada (16 months) (Toronto)
-  - Qualcomm — FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months) (Canada (Other))
-
-[FAILED SCRAPERS]
-  × Accenture: Expecting value: line 1 column 1 (char 0)
+  - Accenture — Data & AI Internship Program (She/He/They) (Europe (Other))
+  - Accenture — AI/MLOps Internship Program (She/He/They) (Europe (Other))
+  - Dell Technologies — Product & Application Security Undergraduate Intern (Austin)
+  - Dell Technologies — Cybersecurity Undergraduate Intern (Austin)
+  - Dell Technologies — Cloud Software Security (CSS) Summer Internship, Undergraduate Intern (Austin)
+  - Microsoft — Data Science: AI Experiences PhD Internship Opportunities - Redmond (Seattle)
 
 ========================================================================
