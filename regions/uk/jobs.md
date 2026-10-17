@@ -43,7 +43,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) ✨ | AI/ML | London | 2026-10-02 | 2026-10-15 |
 | [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) ✨ | Software | London | 2026-09-21 | 2026-10-15 |
 | [Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition) ✨ | Software | London | 2026-09-17 | 2026-10-16 |
-| [Network Development Engineer Intern, Core Networking](https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking) ✨ | Backend/Infra | UK (Other) | 2026-03-11 | 2026-10-16 |
+| [Network Development Engineer Intern, Core Networking](https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking) ✨ | Backend/Infra | Sydney, New South Wales | 2026-03-11 | 2026-10-16 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -60,8 +60,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Network Engineer Intern, Australia](https://careers.cisco.com/global/en/job/2024351) ✨ | Backend/Infra | UK (Other) | 2026-09-29 | 2026-10-15 |
-| [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) ✨ | Software | UK (Other) | 2026-08-21 | 2026-10-15 |
+| [Network Engineer Intern, Australia](https://careers.cisco.com/global/en/job/2024351) ✨ | Backend/Infra | North Sydney, New South Wales | 2026-09-29 | 2026-10-15 |
+| [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) ✨ | Software | Harpenden, Herefordshire | 2026-08-21 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -89,8 +89,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) ✨ | Backend/Infra | UK (Other) | 2026-10-16 | 2026-10-16 |
-| [Software Engineering Internship (Placement Year)](https://careers.hpe.com/us/en/job/1215804) ✨ | Software | UK (Other) | 2026-09-23 | 2026-10-15 |
+| [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) ✨ | Backend/Infra | Winnersh | 2026-10-16 | 2026-10-16 |
+| [Software Engineering Internship (Placement Year)](https://careers.hpe.com/us/en/job/1215804) ✨ | Software | Bristol, Avon | 2026-09-23 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -100,7 +100,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) ✨ | AI/ML | London | 2026-10-15 | 2026-10-16 |
 | [2027 Software Engineer Program - Summer Internship - Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) ✨ | Software | London | 2026-08-31 | 2026-10-15 |
-| [2027 Software Engineer Immersion Program - Summer Internship - Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) ✨ | Software | UK (Other) | 2026-08-31 | 2026-10-15 |
+| [2027 Software Engineer Immersion Program - Summer Internship - Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) ✨ | Software | Glasgow, Lanarkshire | 2026-08-31 | 2026-10-15 |
 | [2027 Data & AI - Summer Internship -  Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) ✨ | Data | London | 2026-08-31 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -125,7 +125,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) ✨ | Data | UK (Other) | 2026-10-14 | 2026-10-15 |
+| [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) ✨ | Data | Bristol | 2026-10-14 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

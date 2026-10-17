@@ -320,6 +320,150 @@ const HUB_PATTERNS = {
   "Other": /\b(multiple|other)\b/i,
 };
 
+const US_STATE_MAP = {
+  "alabama": "AL", "alaska": "AK", "arizona": "AZ", "arkansas": "AR", "california": "CA",
+  "colorado": "CO", "connecticut": "CT", "delaware": "DE", "florida": "FL", "georgia": "GA",
+  "hawaii": "HI", "idaho": "ID", "illinois": "IL", "indiana": "IN", "iowa": "IA",
+  "kansas": "KS", "kentucky": "KY", "louisiana": "LA", "maine": "ME", "maryland": "MD",
+  "massachusetts": "MA", "michigan": "MI", "minnesota": "MN", "mississippi": "MS", "missouri": "MO",
+  "montana": "MT", "nebraska": "NE", "nevada": "NV", "new hampshire": "NH", "new jersey": "NJ",
+  "new mexico": "NM", "new york": "NY", "north carolina": "NC", "north dakota": "ND", "ohio": "OH",
+  "oklahoma": "OK", "oregon": "OR", "pennsylvania": "PA", "rhode island": "RI", "south carolina": "SC",
+  "south dakota": "SD", "tennessee": "TN", "texas": "TX", "utah": "UT", "vermont": "VT",
+  "virginia": "VA", "washington": "WA", "west virginia": "WV", "wisconsin": "WI", "wyoming": "WY",
+  "district of columbia": "DC"
+};
+const US_CODE_SET = new Set(Object.values(US_STATE_MAP));
+
+const CA_PROVINCE_MAP = {
+  "ontario": "ON", "quebec": "QC", "british columbia": "BC", "alberta": "AB",
+  "manitoba": "MB", "saskatchewan": "SK", "nova scotia": "NS", "new brunswick": "NB",
+  "newfoundland and labrador": "NL", "prince edward island": "PE"
+};
+
+const EU_COUNTRY_MAP = {
+  "esp": "Spain", "fra": "France", "gbr": "UK", "deu": "Germany", "irl": "Ireland",
+  "ita": "Italy", "pol": "Poland", "rou": "Romania", "che": "Switzerland", "nor": "Norway",
+  "dnk": "Denmark", "swe": "Sweden", "nld": "Netherlands", "bel": "Belgium", "cze": "Czechia",
+  "aut": "Austria", "prt": "Portugal", "fin": "Finland"
+};
+
+const KNOWN_COUNTRY_NAMES = new Set([
+  "united states", "usa", "us", "u.s.a.", "u.s.", "canada", "united kingdom", "uk",
+  "great britain", "england", "scotland", "wales", "ireland", "germany", "france",
+  "poland", "spain", "italy", "switzerland", "netherlands", "sweden", "norway",
+  "denmark", "czech republic", "czechia", "romania", "belgium", "austria", "portugal",
+  "india"
+]);
+
+function toTitleCase(str) {
+  if (!str) return "";
+  return str.replace(/\b[a-z]/g, c => c.toUpperCase());
+}
+
+function cleanSingleLocation(rawLoc, country) {
+  if (!rawLoc) return "";
+  let s = String(rawLoc).trim();
+  if (/^\d+\s+Locations?$/i.test(s)) return "";
+  if (/\bmultiple locations?\b/i.test(s)) return "Multiple Locations";
+
+  s = s.replace(/^(?:US|USA|UK|India)\s*[-–—, ]\s*/i, "");
+
+  // State City Intel format: e.g. "Arizona Phoenix", "Oregon Hillsboro"
+  for (const [stName, code] of Object.entries(US_STATE_MAP)) {
+    const rx = new RegExp("^" + stName + "\\s+([A-Za-z\\s]+)$", "i");
+    const mStCity = s.match(rx);
+    if (mStCity) {
+      return `${toTitleCase(mStCity[1].toLowerCase().trim())}, ${code}`;
+    }
+  }
+
+  // Walmart: "(USA) ISD Office - DGTC AR BENTONVILLE Home Office"
+  const mWm = s.match(/\b([A-Z]{2})\s+([A-Z\s]+?)\s+Home Office/i);
+  if (mWm) {
+    return `${toTitleCase(mWm[2].trim().toLowerCase())}, ${mWm[1].toUpperCase()}`;
+  }
+
+  // Micron: "Longmont MAX Office CO"
+  const mMi = s.match(/^([A-Za-z]+).*?\b([A-Z]{2})\b$/);
+  if (mMi && US_CODE_SET.has(mMi[2].toUpperCase())) {
+    return `${toTitleCase(mMi[1].toLowerCase())}, ${mMi[2].toUpperCase()}`;
+  }
+
+  // Intel Europe: "Poland Gdansk", "Ireland Leixlip"
+  const mIntelEu = s.match(/^(Poland|Ireland|Germany|UK|France|Spain|Italy|Sweden|Romania|Czech Republic)\s+([A-Za-z]+)$/i);
+  if (mIntelEu) {
+    return `${toTitleCase(mIntelEu[2].toLowerCase())}, ${toTitleCase(mIntelEu[1].toLowerCase())}`;
+  }
+
+  // Microsoft format: "United States, Virginia, Reston"
+  const mMs = s.match(/^(?:United States|Czech Republic|Belgium|Netherlands|Poland|Germany|Ireland),\s*([^,]+),\s*([^,]+)$/i);
+  if (mMs) {
+    const p1 = mMs[1].trim();
+    const p2 = mMs[2].trim();
+    if (US_STATE_MAP[p1.toLowerCase()]) {
+      return `${toTitleCase(p2.toLowerCase())}, ${US_STATE_MAP[p1.toLowerCase()]}`;
+    }
+    return `${toTitleCase(p2.toLowerCase())}, ${toTitleCase(p1.toLowerCase())}`;
+  }
+
+  const parts = s.split(",").map(p => p.trim()).filter(Boolean);
+  const cleaned = [];
+  for (const p of parts) {
+    if (/^(?:\d{4,6}(?:-\d{4})?|[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}|H91\s*[A-Z0-9]+)$/i.test(p)) continue;
+    if (/^(?:United States(?: of America)?|USA|U\.S\.A\.|US|Canada|CAN|United Kingdom|UK|Great Britain|ESP|FRA|DEU|India)$/i.test(p)) continue;
+    if (/^(?:N\/A|NONE)$/i.test(p)) continue;
+    cleaned.push(p);
+  }
+
+  if (cleaned.length === 0) return s;
+
+  if (cleaned.length >= 2) {
+    const part0 = toTitleCase(cleaned[0].replace(/_/g, " ").toLowerCase());
+    const part1 = cleaned[1].trim();
+    if (part0.toLowerCase() === "all") {
+      return toTitleCase(part1.toLowerCase());
+    }
+
+    if (KNOWN_COUNTRY_NAMES.has(part0.toLowerCase()) && !KNOWN_COUNTRY_NAMES.has(part1.toLowerCase())) {
+      return `${toTitleCase(part1.toLowerCase())}, ${part0}`;
+    }
+
+    if (US_STATE_MAP[part0.toLowerCase()] && !US_STATE_MAP[part1.toLowerCase()]) {
+      return `${toTitleCase(part1.toLowerCase())}, ${US_STATE_MAP[part0.toLowerCase()]}`;
+    }
+
+    const city = part0;
+    const stLower = part1.toLowerCase();
+    if (US_STATE_MAP[stLower]) {
+      return `${city}, ${US_STATE_MAP[stLower]}`;
+    }
+    if (CA_PROVINCE_MAP[stLower]) {
+      return `${city}, ${CA_PROVINCE_MAP[stLower]}`;
+    }
+    if (US_CODE_SET.has(part1.toUpperCase())) {
+      return `${city}, ${part1.toUpperCase()}`;
+    }
+    if (EU_COUNTRY_MAP[stLower]) {
+      return `${city}, ${EU_COUNTRY_MAP[stLower]}`;
+    }
+    return `${city}, ${toTitleCase(stLower)}`;
+  }
+
+  if (cleaned.length === 1) {
+    const c = toTitleCase(cleaned[0].replace(/_/g, " ").toLowerCase());
+    if (US_CODE_SET.has(c.toUpperCase())) {
+      return `${c.toUpperCase()}, US`;
+    }
+    if (US_STATE_MAP[c.toLowerCase()]) {
+      return `${US_STATE_MAP[c.toLowerCase()]}, US`;
+    }
+    return c;
+  }
+
+  return s;
+}
+
 function isJobRemote(j) {
   const locText = [j.city_tag || "", ...(j.locations || []), j.title || ""].join(" ");
   return (
@@ -339,7 +483,20 @@ function jobMatchesHub(j, hub) {
   const locText = [j.city_tag || "", ...(j.locations || [])].join(" ");
 
   if (hub === "Other" || hub.toLowerCase().includes("other")) {
-    return HUB_PATTERNS["Other"].test(locText) || (j.city_tag || "").toLowerCase().includes("other");
+    if (HUB_PATTERNS["Other"].test(locText) || (j.city_tag || "").toLowerCase().includes("other")) {
+      return true;
+    }
+    const pageHubs = Array.from(document.querySelectorAll(".hub-btn"))
+      .map(b => b.dataset.hub)
+      .filter(h => h && h !== "all" && h !== "Other" && !h.toLowerCase().includes("remote"));
+    if (pageHubs.length > 0) {
+      const matchesAnyPrimary = pageHubs.some(h => {
+        const pat = HUB_PATTERNS[h];
+        return (pat && pat.test(locText)) || j.city_tag === h;
+      });
+      if (!matchesAnyPrimary && !isJobRemote(j)) return true;
+    }
+    return false;
   }
 
   const pattern = HUB_PATTERNS[hub];
@@ -350,28 +507,49 @@ function jobMatchesHub(j, hub) {
 }
 
 function formatLocationDisplay(j) {
-  if (isJobRemote(j)) return j.city_tag && j.city_tag.includes("Remote") ? j.city_tag : "Remote";
-  const locs = j.locations || [];
-  const text = (j.city_tag || "") + " " + locs.join(" ");
-  if (/multiple/i.test(text) || (j.city_tag || "").includes("Multiple")) {
+  if (isJobRemote(j)) {
+    return j.city_tag && j.city_tag.includes("Remote") ? j.city_tag : "Remote";
+  }
+
+  const tag = (j.city_tag || "").trim();
+  const isOtherOrGeneric = !tag || /other|multiple/i.test(tag);
+
+  // If already tagged with a recognized non-generic hub, display it
+  if (tag && !isOtherOrGeneric) {
+    return tag;
+  }
+
+  // Extract clean place name(s) from j.locations
+  const rawLocs = j.locations || [];
+  const cleanedLocs = [];
+  for (const raw of rawLocs) {
+    const c = cleanSingleLocation(raw, j.country);
+    if (c && !cleanedLocs.includes(c)) {
+      cleanedLocs.push(c);
+    }
+  }
+
+  if (cleanedLocs.length === 1) {
+    return cleanedLocs[0];
+  }
+  if (cleanedLocs.length === 2) {
+    return `${cleanedLocs[0]}, ${cleanedLocs[1]}`;
+  }
+  if (cleanedLocs.length > 2) {
+    return `${cleanedLocs[0]}, ${cleanedLocs[1]} (+${cleanedLocs.length - 2})`;
+  }
+
+  if (/multiple/i.test(tag) || rawLocs.some(l => /multiple/i.test(l))) {
     return "Multiple Locations";
   }
-
-  const detected = [];
-  const checkHubs = [
-    "Bengaluru", "Hyderabad", "Pune", "Delhi-NCR", "Chennai", "Mumbai",
-    "SF Bay Area", "Seattle", "New York", "Austin", "Boston"
-  ];
-  for (const h of checkHubs) {
-    if (HUB_PATTERNS[h] && HUB_PATTERNS[h].test(text)) detected.push(h);
-  }
-
-  if (detected.length > 0) {
-    if (detected.length <= 2) return detected.join(", ");
-    return `${detected[0]}, ${detected[1]} (+${detected.length - 2})`;
-  }
-
-  return j.city_tag || locs[0] || "Global";
+  const defaultByCountry = {
+    "us": "United States",
+    "ca": "Canada",
+    "uk": "United Kingdom",
+    "eu": "Europe",
+    "in": "India"
+  };
+  return defaultByCountry[j.country] || "Global";
 }
 
 function initMobileSelects() {
@@ -526,7 +704,8 @@ function filterAndSortJobs() {
   const q = state.query.toLowerCase();
   const filtered = allJobs.filter(j => {
     if (q) {
-      const hay = `${j.title} ${j.company} ${j.category || ""} ${j.city_tag || ""} ${(j.locations || []).join(" ")}`.toLowerCase();
+      const locDisplay = formatLocationDisplay(j);
+      const hay = `${j.title} ${j.company} ${j.category || ""} ${j.city_tag || ""} ${locDisplay} ${(j.locations || []).join(" ")}`.toLowerCase();
       if (!hay.includes(q)) return false;
     }
     if (state.hub && state.hub !== "all" && !jobMatchesHub(j, state.hub)) return false;

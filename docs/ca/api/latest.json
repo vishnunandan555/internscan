@@ -2,42 +2,9 @@
   "version": "2.0.0",
   "country": "ca",
   "updated_at": "2026-10-16T23:45:36Z",
-  "new_count": 1,
-  "reopened_count": 1,
+  "new_count": 0,
+  "reopened_count": 0,
   "total_active": 47,
-  "new_jobs": [
-    {
-      "company": "AMD",
-      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/91368",
-      "locations": [
-        "MARKHAM, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-01",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16"
-    }
-  ],
-  "reopened_jobs": [
-    {
-      "company": "Intel",
-      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-      "locations": [
-        "Canada Toronto",
-        "Canada, Toronto"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16"
-    }
-  ]
+  "new_jobs": [],
+  "reopened_jobs": []
 }

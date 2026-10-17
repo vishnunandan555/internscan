@@ -36,7 +36,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Short Term 2027 Software Engineering Intern/Co-Op](https://careers.amd.com/careers-home/jobs/91368) ✨ | Software | Canada (Other) | 2026-09-01 | 2026-10-16 |
+| [Short Term 2027 Software Engineering Intern/Co-Op](https://careers.amd.com/careers-home/jobs/91368) ✨ | Software | Markham | 2026-09-01 | 2026-10-16 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
 
@@ -110,12 +110,12 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Embedded C/C++ SW Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) ✨ | Backend/Infra | Canada (Other) | 2026-10-15 | 2026-10-16 |
-| [IT Network Software/AI Development - Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39487) ✨ | Backend/Infra | Canada (Other) | 2026-10-01 | 2026-10-15 |
-| [Operations Analytics Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) ✨ | Data | Canada (Other) | 2026-09-25 | 2026-10-15 |
-| [Hardware Developer Eng Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) ✨ | Hardware/Silicon | Canada (Other) | 2026-09-15 | 2026-10-15 |
-| [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) ✨ | Data | Canada (Other) | 2026-09-11 | 2026-10-15 |
-| [DSP Firmware Engineering Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237) ✨ | Backend/Infra | Canada (Other) | 2026-09-02 | 2026-10-15 |
+| [Embedded C/C++ SW Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) ✨ | Backend/Infra | Canada | 2026-10-15 | 2026-10-16 |
+| [IT Network Software/AI Development - Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39487) ✨ | Backend/Infra | Canada | 2026-10-01 | 2026-10-15 |
+| [Operations Analytics Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) ✨ | Data | Canada | 2026-09-25 | 2026-10-15 |
+| [Hardware Developer Eng Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) ✨ | Hardware/Silicon | Canada | 2026-09-15 | 2026-10-15 |
+| [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) ✨ | Data | Canada | 2026-09-11 | 2026-10-15 |
+| [DSP Firmware Engineering Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237) ✨ | Backend/Infra | Canada | 2026-09-02 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
 
@@ -123,19 +123,19 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com) ✨ | QA | Canada (Other) | 2026-09-30 | 2026-10-15 |
-| [FY27 Intern - Soft IP ASIC Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721302471?domain=qualcomm.com) ✨ | Hardware/Silicon | Canada (Other) | 2026-09-29 | 2026-10-15 |
+| [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com) ✨ | QA | Ottawa, ON | 2026-09-30 | 2026-10-15 |
+| [FY27 Intern - Soft IP ASIC Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721302471?domain=qualcomm.com) ✨ | Hardware/Silicon | Ottawa, ON | 2026-09-29 | 2026-10-15 |
 | [FY27 Intern - Silicon Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721302528?domain=qualcomm.com) ✨ | Hardware/Silicon | Toronto | 2026-09-28 | 2026-10-15 |
-| [FY27 Intern - PAL Firmware Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721229661?domain=qualcomm.com) ✨ | Backend/Infra | Canada (Other) | 2026-09-23 | 2026-10-15 |
+| [FY27 Intern - PAL Firmware Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721229661?domain=qualcomm.com) ✨ | Backend/Infra | Markham, ON | 2026-09-23 | 2026-10-15 |
 | [FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156800?domain=qualcomm.com) ✨ | Software | Toronto | 2026-09-18 | 2026-10-15 |
 | [FY27 Intern - MSIP Digital Design Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156182?domain=qualcomm.com) ✨ | Software | Toronto | 2026-09-18 | 2026-10-15 |
 | [FY27 Intern - IP Applications Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156615?domain=qualcomm.com) ✨ | Software | Toronto | 2026-09-18 | 2026-10-15 |
-| [FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064018?domain=qualcomm.com) ✨ | AI/ML | Canada (Other) | 2026-09-17 | 2026-10-15 |
-| [FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721109168?domain=qualcomm.com) ✨ | AI/ML | Canada (Other) | 2026-09-17 | 2026-10-15 |
-| [FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design / Verification/Implementation - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com) ✨ | AI/ML | Canada (Other) | 2026-09-17 | 2026-10-15 |
-| [FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com) ✨ | AI/ML | Canada (Other) | 2026-09-17 | 2026-10-15 |
-| [FY27 Intern - Display IP Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064141?domain=qualcomm.com) ✨ | Software | Canada (Other) | 2026-09-17 | 2026-10-15 |
-| [FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064094?domain=qualcomm.com) ✨ | AI/ML | Canada (Other) | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064018?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721109168?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design / Verification/Implementation - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - Display IP Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064141?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-09-17 | 2026-10-15 |
+| [FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064094?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
 

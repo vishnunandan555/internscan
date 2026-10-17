@@ -1,6 +1,25 @@
 {
   "updated_at": "2026-10-16T23:45:36Z",
   "jobs": {
+    "nvidia:JR2027826": {
+      "uid": "nvidia:JR2027826",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2027826",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Poland Warsaw",
+        "Poland, Warsaw"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "Developer Tools DevOps Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
+    },
     "nvidia:JR2027829": {
       "uid": "nvidia:JR2027829",
       "active": true,
@@ -38,25 +57,6 @@
       "region": "EMEA",
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949"
-    },
-    "nvidia:JR2027826": {
-      "uid": "nvidia:JR2027826",
-      "company": "NVIDIA",
-      "external_id": "JR2027826",
-      "title": "Developer Tools DevOps Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
-      "locations": [
-        "Poland Warsaw",
-        "Poland, Warsaw"
-      ],
-      "category": "Software",
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
     },
     "microsoft:1970393556998782": {
       "uid": "microsoft:1970393556998782",
@@ -96,22 +96,22 @@
     },
     "intel:JR0288221": {
       "uid": "intel:JR0288221",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
       "company": "Intel",
+      "country": "eu",
       "external_id": "JR0288221",
-      "title": "DevOps Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "category": "Backend/Infra",
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
       "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "region": "EMEA",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1"
     },
     "amazon:10544726": {
       "uid": "amazon:10544726",

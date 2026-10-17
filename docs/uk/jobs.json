@@ -39,40 +39,40 @@
     },
     "hpe:1216282": {
       "uid": "hpe:1216282",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "UK (Other)",
       "company": "HPE",
+      "country": "uk",
       "external_id": "1216282",
-      "title": "Networking Intern - Placement Year",
-      "url": "https://careers.hpe.com/us/en/job/1216282",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "Winnersh, N/A",
         "Winnersh, United Kingdom"
       ],
-      "category": "Backend/Infra",
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "region": "EMEA",
+      "title": "Networking Intern - Placement Year",
+      "url": "https://careers.hpe.com/us/en/job/1216282"
     },
     "apple:200689473": {
       "uid": "apple:200689473",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "Apple",
+      "country": "uk",
       "external_id": "200689473",
-      "title": "Software Engineering Intern, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "London"
       ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "region": "EMEA",
+      "title": "Software Engineering Intern, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering"
     },
     "amazon:10552039": {
       "uid": "amazon:10552039",
@@ -92,6 +92,24 @@
       "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition"
     },
+    "amazon:10581332": {
+      "uid": "amazon:10581332",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
+      "company": "Amazon",
+      "country": "uk",
+      "external_id": "10581332",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-16",
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom"
+    },
     "amazon:3201714": {
       "uid": "amazon:3201714",
       "active": true,
@@ -109,24 +127,6 @@
       "region": "EMEA",
       "title": "Network Development Engineer Intern, Core Networking",
       "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking"
-    },
-    "amazon:10581332": {
-      "uid": "amazon:10581332",
-      "company": "Amazon",
-      "external_id": "10581332",
-      "title": "2027 Software Dev Engineer Intern - United Kingdom",
-      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
     },
     "stripe:8130867": {
       "uid": "stripe:8130867",

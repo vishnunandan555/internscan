@@ -3,21 +3,21 @@
   "jobs": {
     "snowflake:26f36ea2-bc44-401f-9d01-ef724a8edb03": {
       "uid": "snowflake:26f36ea2-bc44-401f-9d01-ef724a8edb03",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "Snowflake",
+      "country": "us",
       "external_id": "26f36ea2-bc44-401f-9d01-ef724a8edb03",
-      "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
-      "url": "https://careers.snowflake.com/us/en/job/26f36ea2-bc44-401f-9d01-ef724a8edb03",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "Menlo Park, California, United States"
       ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "region": "AMER",
+      "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
+      "url": "https://careers.snowflake.com/us/en/job/26f36ea2-bc44-401f-9d01-ef724a8edb03"
     },
     "microsoft:1970393557041731": {
       "uid": "microsoft:1970393557041731",
@@ -37,43 +37,61 @@
       "title": "Research Intern - Efficient AI Software Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731"
     },
-    "microsoft:1970393557042156": {
-      "uid": "microsoft:1970393557042156",
-      "company": "Microsoft",
-      "external_id": "1970393557042156",
-      "title": "Research Intern - MSR AI Interaction and Learning",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
-      "locations": [
-        "United States, New York, New York",
-        "United States, Washington, Redmond"
-      ],
-      "category": "AI/ML",
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
-    },
     "microsoft:1970393557042145": {
       "uid": "microsoft:1970393557042145",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "New York",
       "company": "Microsoft",
+      "country": "us",
       "external_id": "1970393557042145",
-      "title": "Research Intern - Machine Learning at MSR NYC",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, New York, New York"
       ],
-      "category": "AI/ML",
-      "city_tag": "New York",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Intern - Machine Learning at MSR NYC",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145"
+    },
+    "microsoft:1970393557042156": {
+      "uid": "microsoft:1970393557042156",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Microsoft",
+      "country": "us",
+      "external_id": "1970393557042156",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "active": true
+      "locations": [
+        "United States, New York, New York",
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Intern - MSR AI Interaction and Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156"
+    },
+    "meta:1141752241867684": {
+      "uid": "meta:1141752241867684",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1141752241867684",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": "2026-10-16",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)",
+      "url": "https://www.metacareers.com/jobs/1141752241867684"
     },
     "meta:1624891432439039": {
       "uid": "meta:1624891432439039",
@@ -93,41 +111,23 @@
       "title": "Quality & Reliability Engineering Intern",
       "url": "https://www.metacareers.com/jobs/1624891432439039"
     },
-    "meta:1141752241867684": {
-      "uid": "meta:1141752241867684",
-      "company": "Meta",
-      "external_id": "1141752241867684",
-      "title": "Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)",
-      "url": "https://www.metacareers.com/jobs/1141752241867684",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
-    },
     "meta:4536253699919879": {
       "uid": "meta:4536253699919879",
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
       "company": "Meta",
+      "country": "us",
       "external_id": "4536253699919879",
-      "title": "Production Systems Engineering Intern",
-      "url": "https://www.metacareers.com/jobs/4536253699919879",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "Menlo Park, CA"
       ],
-      "category": "Software",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "region": "AMER",
+      "title": "Production Systems Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/4536253699919879"
     },
     "hpe:1212389": {
       "uid": "hpe:1212389",
@@ -225,23 +225,23 @@
     },
     "cisco:2025611": {
       "uid": "cisco:2025611",
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
       "company": "Cisco",
+      "country": "us",
       "external_id": "2025611",
-      "title": "Software Engineer Data & AI PhD (Intern) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2025611",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "Chicago, Illinois, United States of America",
         "San Jose, California, United States of America",
         "Santa Monica, California, United States of America"
       ],
-      "category": "Software",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "region": "AMER",
+      "title": "Software Engineer Data & AI PhD (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2025611"
     },
     "amazon:3145033": {
       "uid": "amazon:3145033",

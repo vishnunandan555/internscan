@@ -63,8 +63,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) | Data | India (Multiple/Other) | 2026-10-08 | 2026-09-24 |
-| [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) | AI/ML | India (Multiple/Other) | 2026-02-27 | 2026-09-17 |
+| [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) | Data | Multiple Locations | 2026-10-08 | 2026-09-24 |
+| [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) | AI/ML | Multiple Locations | 2026-02-27 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 

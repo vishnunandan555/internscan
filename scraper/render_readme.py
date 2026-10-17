@@ -1,5 +1,6 @@
 """Render root project README.md and regional regions/{code}/jobs.md files atomically."""
 import os
+import re
 from datetime import datetime, timedelta, timezone
 from typing import Dict, List
 from .countries import (
@@ -13,6 +14,42 @@ README_PATH = os.path.join(ROOT_DIR, "README.md")
 REGIONS_DIR = os.path.join(ROOT_DIR, "regions")
 NEW_BADGE_DAYS = 7
 IST = timezone(timedelta(hours=5, minutes=30))
+
+US_STATES_MAP = {
+    "alabama": "AL", "alaska": "AK", "arizona": "AZ", "arkansas": "AR", "california": "CA",
+    "colorado": "CO", "connecticut": "CT", "delaware": "DE", "florida": "FL", "georgia": "GA",
+    "hawaii": "HI", "idaho": "ID", "illinois": "IL", "indiana": "IN", "iowa": "IA",
+    "kansas": "KS", "kentucky": "KY", "louisiana": "LA", "maine": "ME", "maryland": "MD",
+    "massachusetts": "MA", "michigan": "MI", "minnesota": "MN", "mississippi": "MS", "missouri": "MO",
+    "montana": "MT", "nebraska": "NE", "nevada": "NV", "new hampshire": "NH", "new jersey": "NJ",
+    "new mexico": "NM", "new york": "NY", "north carolina": "NC", "north dakota": "ND", "ohio": "OH",
+    "oklahoma": "OK", "oregon": "OR", "pennsylvania": "PA", "rhode island": "RI", "south carolina": "SC",
+    "south dakota": "SD", "tennessee": "TN", "texas": "TX", "utah": "UT", "vermont": "VT",
+    "virginia": "VA", "washington": "WA", "west virginia": "WV", "wisconsin": "WI", "wyoming": "WY",
+    "district of columbia": "DC"
+}
+US_CODES_SET = set(US_STATES_MAP.values())
+
+CA_PROVINCES_MAP = {
+    "ontario": "ON", "quebec": "QC", "british columbia": "BC", "alberta": "AB",
+    "manitoba": "MB", "saskatchewan": "SK", "nova scotia": "NS", "new brunswick": "NB",
+    "newfoundland and labrador": "NL", "prince edward island": "PE"
+}
+
+EU_COUNTRIES_MAP = {
+    "esp": "Spain", "fra": "France", "gbr": "UK", "deu": "Germany", "irl": "Ireland",
+    "ita": "Italy", "pol": "Poland", "rou": "Romania", "che": "Switzerland", "nor": "Norway",
+    "dnk": "Denmark", "swe": "Sweden", "nld": "Netherlands", "bel": "Belgium", "cze": "Czechia",
+    "aut": "Austria", "prt": "Portugal", "fin": "Finland"
+}
+
+KNOWN_COUNTRIES = {
+    "united states", "usa", "us", "u.s.a.", "u.s.", "canada", "united kingdom", "uk",
+    "great britain", "england", "scotland", "wales", "ireland", "germany", "france",
+    "poland", "spain", "italy", "switzerland", "netherlands", "sweden", "norway",
+    "denmark", "czech republic", "czechia", "romania", "belgium", "austria", "portugal",
+    "india"
+}
 
 
 def _to_ist_str(iso_utc: str) -> str:
@@ -32,12 +69,102 @@ def _md_escape(text: str) -> str:
     return text.replace("|", "\\|").strip()
 
 
+def _clean_location(raw_loc: str) -> str:
+    if not raw_loc:
+        return ""
+    s = str(raw_loc).strip()
+    if re.match(r"^\d+\s+Locations?$", s, re.IGNORECASE):
+        return ""
+    if re.search(r"\bmultiple locations?\b", s, re.IGNORECASE):
+        return "Multiple Locations"
+
+    s = re.sub(r"^(?:US|USA|UK|India)\s*[-–—, ]\s*", "", s, flags=re.IGNORECASE)
+
+    for st_name, code in US_STATES_MAP.items():
+        m_st_city = re.match(r"^" + st_name + r"\s+([A-Za-z\s]+)$", s, re.IGNORECASE)
+        if m_st_city:
+            return f"{m_st_city.group(1).title()}, {code}"
+
+    m_wm = re.search(r"\b([A-Z]{2})\s+([A-Z\s]+?)\s+Home Office", s, re.IGNORECASE)
+    if m_wm:
+        return f"{m_wm.group(2).strip().title()}, {m_wm.group(1).upper()}"
+
+    m_mi = re.match(r"^([A-Za-z]+).*?\b([A-Z]{2})\b$", s)
+    if m_mi and m_mi.group(2).upper() in US_CODES_SET:
+        return f"{m_mi.group(1).title()}, {m_mi.group(2).upper()}"
+
+    m_intel_eu = re.match(r"^(Poland|Ireland|Germany|UK|France|Spain|Italy|Sweden|Romania|Czech Republic)\s+([A-Za-z]+)$", s, re.IGNORECASE)
+    if m_intel_eu:
+        return f"{m_intel_eu.group(2).title()}, {m_intel_eu.group(1).title()}"
+
+    m_ms = re.match(r"^(?:United States|Czech Republic|Belgium|Netherlands|Poland|Germany|Ireland),\s*([^,]+),\s*([^,]+)$", s, re.IGNORECASE)
+    if m_ms:
+        p1 = m_ms.group(1).strip()
+        p2 = m_ms.group(2).strip()
+        if p1.lower() in US_STATES_MAP:
+            return f"{p2.title()}, {US_STATES_MAP[p1.lower()]}"
+        return f"{p2.title()}, {p1.title()}"
+
+    parts = [p.strip() for p in s.split(",") if p.strip()]
+    cleaned = []
+    for p in parts:
+        if re.match(r"^(?:\d{4,6}(?:-\d{4})?|[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}|H91\s*[A-Z0-9]+)$", p, re.IGNORECASE):
+            continue
+        if re.match(r"^(?:United States(?: of America)?|USA|U\.S\.A\.|US|Canada|CAN|United Kingdom|UK|Great Britain|ESP|FRA|DEU|India)$", p, re.IGNORECASE):
+            continue
+        if re.match(r"^(?:N/A|NONE)$", p, re.IGNORECASE):
+            continue
+        cleaned.append(p)
+
+    if not cleaned:
+        return s
+
+    if len(cleaned) >= 2:
+        part0 = cleaned[0].replace("_", " ").title()
+        part1 = cleaned[1].strip()
+        if part0.lower() == "all":
+            return part1.title()
+
+        if part0.lower() in KNOWN_COUNTRIES and part1.lower() not in KNOWN_COUNTRIES:
+            return f"{part1.title()}, {part0}"
+
+        if part0.lower() in US_STATES_MAP and part1.lower() not in US_STATES_MAP:
+            return f"{part1.title()}, {US_STATES_MAP[part0.lower()]}"
+
+        city = part0
+        st_lower = part1.lower()
+        if st_lower in US_STATES_MAP:
+            return f"{city}, {US_STATES_MAP[st_lower]}"
+        if st_lower in CA_PROVINCES_MAP:
+            return f"{city}, {CA_PROVINCES_MAP[st_lower]}"
+        if part1.upper() in US_CODES_SET:
+            return f"{city}, {part1.upper()}"
+        if st_lower in EU_COUNTRIES_MAP:
+            return f"{city}, {EU_COUNTRIES_MAP[st_lower]}"
+        return f"{city}, {st_lower.title()}"
+
+    if len(cleaned) == 1:
+        c = cleaned[0].replace("_", " ").title()
+        if c.upper() in US_CODES_SET:
+            return f"{c.upper()}, US"
+        if c.lower() in US_STATES_MAP:
+            return f"{US_STATES_MAP[c.lower()]}, US"
+        return c
+
+    return s
+
+
 def _fmt_locations(locations: List[str], default_loc: str = "Regional", limit: int = 2) -> str:
-    locs = [loc for loc in locations if loc]
-    if not locs:
+    cleaned = []
+    for loc in locations:
+        if loc:
+            c = _clean_location(loc)
+            if c and c not in cleaned:
+                cleaned.append(c)
+    if not cleaned:
         return default_loc
-    shown = "; ".join(_md_escape(loc) for loc in locs[:limit])
-    extra = len(locs) - limit
+    shown = "; ".join(_md_escape(loc) for loc in cleaned[:limit])
+    extra = len(cleaned) - limit
     if extra > 0:
         shown += f" *(+{extra} more)*"
     return shown
@@ -98,7 +225,11 @@ def _render_country_jobs_md(code: str, all_jobs: List[dict], updated_iso: str, c
                 badge = " ✨" if is_new else ""
                 title = f"[{_md_escape(j.get('title', ''))}]({j.get('url', '#')}){badge}"
                 cat = j.get("category") or "Software"
-                hub = j.get("city_tag") or _fmt_locations(j.get("locations", []), default_loc=c_name)
+                tag = (j.get("city_tag") or "").strip()
+                if "other" in tag.lower() or "multiple" in tag.lower() or not tag:
+                    hub = _fmt_locations(j.get("locations", []), default_loc=c_name)
+                else:
+                    hub = tag
                 posted = j.get("posted") or "—"
                 first_seen = j.get("first_seen") or "—"
                 lines.append(f"| {title} | {cat} | {hub} | {posted} | {first_seen} |\n")

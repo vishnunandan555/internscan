@@ -40,21 +40,21 @@
     },
     "amd:91368": {
       "uid": "amd:91368",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Canada (Other)",
       "company": "AMD",
+      "country": "ca",
       "external_id": "91368",
-      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/91368",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
       "locations": [
         "MARKHAM, Canada"
       ],
-      "category": "Software",
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-09-01",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "active": true
+      "region": "AMER",
+      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91368"
     },
     "stripe:8130805": {
       "uid": "stripe:8130805",
