@@ -1,5 +1,5 @@
 # robots.txt for InternScan · The Open Source Tech Internship Directory
-# https://vishnunandan555.github.io/internscan/
+# https://internscan.vercel.app/
 
 User-agent: *
 Allow: /
@@ -18,4 +18,4 @@ User-agent: DuckDuckBot
 Allow: /
 
 # Sitemap Index
-Sitemap: https://vishnunandan555.github.io/internscan/sitemap.xml
+Sitemap: https://internscan.vercel.app/sitemap.xml

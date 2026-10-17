@@ -5,7 +5,7 @@
 > 🕐 Last updated: **2026-10-17 05:15:36 IST** · 📌 **302** open verified internships
 > · ✨ = added in the last 7 days
 
-[📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/us/) · [⚡ **REST API**](https://vishnunandan555.github.io/internscan/us/api/active.json)
+[📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/us/) · [⚡ **REST API**](https://internscan.vercel.app/us/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United States**. All postings are scraped directly from official ATS portals every 24 hours.
 
@@ -550,4 +550,4 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 ---
 
-[🌐 Global Project README](../../README.md) · [📋 Tracked Companies](companies.md) · [💻 Web Portal](https://vishnunandan555.github.io/internscan/us/)
+[🌐 Global Project README](../../README.md) · [📋 Tracked Companies](companies.md) · [💻 Web Portal](https://internscan.vercel.app/us/)

@@ -29,7 +29,7 @@ LATEST_API_PATH = os.path.join(API_DIR, "latest.json")
 ACTIVE_API_PATH = os.path.join(API_DIR, "active.json")
 METRICS_PATH = os.path.join(DOCS_DIR, "metrics.json")
 
-SITE_URL = "https://vishnunandan555.github.io/internscan/"
+SITE_URL = "https://internscan.vercel.app/"
 
 
 def _clean_job_for_api(job_dict: dict) -> dict:

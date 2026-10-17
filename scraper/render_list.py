@@ -59,7 +59,7 @@ def _render_country_companies(
         f"> 🕐 Last updated: **{updated_str}**\n\n",
         f"[💼 **View Active Openings (jobs.md)**](jobs.md) · "
         f"[🌐 **Global Project README**](../../README.md) · "
-        f"[💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/{country_code}/)\n\n",
+        f"[💻 **Live Web Portal**](https://internscan.vercel.app/{country_code}/)\n\n",
         f"This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **{c_name}**.\n\n",
         f"## 🟢 Directly Scraped Employers ({len(succeeded_list)})\n\n",
         f"Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):\n\n",

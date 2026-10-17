@@ -193,8 +193,8 @@ def _render_country_jobs_md(code: str, all_jobs: List[dict], updated_iso: str, c
         f"> · ✨ = added in the last {NEW_BADGE_DAYS} days\n\n",
         f"[📋 **Tracked Employers ({len(tracked_cos)})**](companies.md) · "
         f"[🌐 **Global Project README**](../../README.md) · "
-        f"[💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/{code}/) · "
-        f"[⚡ **REST API**](https://vishnunandan555.github.io/internscan/{code}/api/active.json)\n\n",
+        f"[💻 **Live Web Portal**](https://internscan.vercel.app/{code}/) · "
+        f"[⚡ **REST API**](https://internscan.vercel.app/{code}/api/active.json)\n\n",
         f"Verified engineering, AI/ML, data, and systems internships across premier employers in **{c_name}**. "
         f"All postings are scraped directly from official ATS portals every 24 hours.\n\n",
         f"[⬇️ **Skip directly to Open Internship Postings ({len(jobs)})**](#open-internships)\n\n",
@@ -210,7 +210,7 @@ def _render_country_jobs_md(code: str, all_jobs: List[dict], updated_iso: str, c
     lines.append("\n---\n\n<a id=\"open-internships\"></a>\n\n## 💼 Open Internship Postings\n\n")
 
     if not jobs:
-        lines.append(f"*Currently no verified openings are listed for {c_name}. Check back after the next scheduled scrape or browse our [Live Web Portal](https://vishnunandan555.github.io/internscan/{code}/).*\n\n")
+        lines.append(f"*Currently no verified openings are listed for {c_name}. Check back after the next scheduled scrape or browse our [Live Web Portal](https://internscan.vercel.app/{code}/).*\n\n")
     else:
         for c in companies_with_jobs:
             rows = sorted(
@@ -236,7 +236,7 @@ def _render_country_jobs_md(code: str, all_jobs: List[dict], updated_iso: str, c
             lines.append(f"\n[⬆️ Back to Top](#top) · [📋 View {c_name} Companies](companies.md)\n\n")
 
     lines.append("---\n\n")
-    lines.append(f"[🌐 Global Project README](../../README.md) · [📋 Tracked Companies](companies.md) · [💻 Web Portal](https://vishnunandan555.github.io/internscan/{code}/)\n")
+    lines.append(f"[🌐 Global Project README](../../README.md) · [📋 Tracked Companies](companies.md) · [💻 Web Portal](https://internscan.vercel.app/{code}/)\n")
     return "".join(lines)
 
 
@@ -255,7 +255,7 @@ def _render_global_readme(state: dict, cutoff: str) -> str:
     content = f"""\
 <a id="top"></a>
 <p align="center">
-  <a href="https://vishnunandan555.github.io/internscan/">
+  <a href="https://internscan.vercel.app/">
     <img src="docs/icon.png" width="96" height="96" alt="InternScan Logo">
   </a>
 </p>
@@ -266,14 +266,14 @@ def _render_global_readme(state: dict, cutoff: str) -> str:
 </p>
 
 <p align="center">
-  <a href="https://vishnunandan555.github.io/internscan/"><img src="https://img.shields.io/badge/Live_Dashboard-Explore_All_Regions-6366f1?style=for-the-badge&logo=globe&logoColor=white" alt="Live Dashboard"></a>
+  <a href="https://internscan.vercel.app/"><img src="https://img.shields.io/badge/Live_Dashboard-Explore_All_Regions-6366f1?style=for-the-badge&logo=globe&logoColor=white" alt="Live Dashboard"></a>
   <a href="#-regional-internship-trackers"><img src="https://img.shields.io/badge/Verified_Roles-{total_active}_Active-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Active Roles"></a>
   <a href="#-regional-internship-trackers"><img src="https://img.shields.io/badge/Tracked_Employers-65+_Global-2563eb?style=for-the-badge&logo=airplay&logoColor=white" alt="Tracked Employers"></a>
   <a href="#-regional-internship-trackers"><img src="https://img.shields.io/badge/Supported_Regions-5_Countries-f59e0b?style=for-the-badge&logo=target&logoColor=white" alt="Supported Regions"></a>
   <a href="https://github.com/vishnunandan555/internscan/actions/workflows/update.yml"><img src="https://img.shields.io/badge/Sync_Cadence-Daily_03:00_IST-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white" alt="Sync Cadence"></a>
   <a href="ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-System_Design-8b5cf6?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Architecture"></a>
   <a href="bot/README_bot.md"><img src="https://img.shields.io/badge/Telegram_Bot-Deploy_in_3_mins-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"></a>
-  <a href="https://vishnunandan555.github.io/internscan/api/active.json"><img src="https://img.shields.io/badge/Public_API-REST_&_RSS-ec4899?style=for-the-badge&logo=fastapi&logoColor=white" alt="Public API"></a>
+  <a href="https://internscan.vercel.app/api/active.json"><img src="https://img.shields.io/badge/Public_API-REST_&_RSS-ec4899?style=for-the-badge&logo=fastapi&logoColor=white" alt="Public API"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-Join_Us-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Contributing"></a>
 </p>
 
@@ -287,11 +287,11 @@ InternScan partitions verified listings into dedicated regional portals. Each re
 
 | Region | Flag | Active Roles | Markdown Job Directory | Tracked Employers | Live Web Portal |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **India** | 🇮🇳 | **{counts.get('in', 0)}** | [🇮🇳 **View India Jobs**](regions/in/jobs.md) | [Tracked Companies](regions/in/companies.md) | [Open India Dashboard](https://vishnunandan555.github.io/internscan/in/) |
-| **United States** | 🇺🇸 | **{counts.get('us', 0)}** | [🇺🇸 **View US Jobs**](regions/us/jobs.md) | [Tracked Companies](regions/us/companies.md) | [Open US Dashboard](https://vishnunandan555.github.io/internscan/us/) |
-| **Canada** | 🇨🇦 | **{counts.get('ca', 0)}** | [🇨🇦 **View Canada Jobs**](regions/ca/jobs.md) | [Tracked Companies](regions/ca/companies.md) | [Open Canada Dashboard](https://vishnunandan555.github.io/internscan/ca/) |
-| **United Kingdom** | 🇬🇧 | **{counts.get('uk', 0)}** | [🇬🇧 **View UK Jobs**](regions/uk/jobs.md) | [Tracked Companies](regions/uk/companies.md) | [Open UK Dashboard](https://vishnunandan555.github.io/internscan/uk/) |
-| **Europe** | 🇪🇺 | **{counts.get('eu', 0)}** | [🇪🇺 **View Europe Jobs**](regions/eu/jobs.md) | [Tracked Companies](regions/eu/companies.md) | [Open Europe Dashboard](https://vishnunandan555.github.io/internscan/eu/) |
+| **India** | 🇮🇳 | **{counts.get('in', 0)}** | [🇮🇳 **View India Jobs**](regions/in/jobs.md) | [Tracked Companies](regions/in/companies.md) | [Open India Dashboard](https://internscan.vercel.app/in/) |
+| **United States** | 🇺🇸 | **{counts.get('us', 0)}** | [🇺🇸 **View US Jobs**](regions/us/jobs.md) | [Tracked Companies](regions/us/companies.md) | [Open US Dashboard](https://internscan.vercel.app/us/) |
+| **Canada** | 🇨🇦 | **{counts.get('ca', 0)}** | [🇨🇦 **View Canada Jobs**](regions/ca/jobs.md) | [Tracked Companies](regions/ca/companies.md) | [Open Canada Dashboard](https://internscan.vercel.app/ca/) |
+| **United Kingdom** | 🇬🇧 | **{counts.get('uk', 0)}** | [🇬🇧 **View UK Jobs**](regions/uk/jobs.md) | [Tracked Companies](regions/uk/companies.md) | [Open UK Dashboard](https://internscan.vercel.app/uk/) |
+| **Europe** | 🇪🇺 | **{counts.get('eu', 0)}** | [🇪🇺 **View Europe Jobs**](regions/eu/jobs.md) | [Tracked Companies](regions/eu/companies.md) | [Open Europe Dashboard](https://internscan.vercel.app/eu/) |
 
 ---
 
@@ -318,17 +318,17 @@ InternScan provides free public developer APIs updated on every scrape:
 
 | Endpoint | Method | Format | Description |
 |---|---|---|---|
-| `https://vishnunandan555.github.io/internscan/api/active.json` | `GET` | JSON | All currently active verified internships worldwide. |
-| `https://vishnunandan555.github.io/internscan/api/latest.json` | `GET` | JSON | New and reopened internships discovered in today's scrape. |
-| `https://vishnunandan555.github.io/internscan/feed.xml` | `GET` | RSS 2.0 | Standard RSS feed for Slack, Discord webhooks, or Feed readers. |
-| `https://vishnunandan555.github.io/internscan/metrics.json` | `GET` | JSON | Scraper health, platform metrics, and country breakdowns. |
-| `https://vishnunandan555.github.io/internscan/{{region}}/api/active.json` | `GET` | JSON | Regional active postings (`in`, `us`, `ca`, `uk`, `eu`). |
+| `https://internscan.vercel.app/api/active.json` | `GET` | JSON | All currently active verified internships worldwide. |
+| `https://internscan.vercel.app/api/latest.json` | `GET` | JSON | New and reopened internships discovered in today's scrape. |
+| `https://internscan.vercel.app/feed.xml` | `GET` | RSS 2.0 | Standard RSS feed for Slack, Discord webhooks, or Feed readers. |
+| `https://internscan.vercel.app/metrics.json` | `GET` | JSON | Scraper health, platform metrics, and country breakdowns. |
+| `https://internscan.vercel.app/{{region}}/api/active.json` | `GET` | JSON | Regional active postings (`in`, `us`, `ca`, `uk`, `eu`). |
 
 ```python
 # Quick Python Example
 import requests
 
-data = requests.get("https://vishnunandan555.github.io/internscan/api/active.json").json()
+data = requests.get("https://internscan.vercel.app/api/active.json").json()
 print(f"Total active global roles: {{data['total_active']}}")
 for job in data.get("jobs", [])[:5]:
     print(f"• [{{job['country'].upper()}}] {{job['company']}}: {{job['title']}} ({{job['city_tag']}})")

@@ -18,23 +18,23 @@
 <meta name="description" content="Official documentation for InternScan's public REST APIs, real-time RSS 2.0 feeds, and lightweight Telegram bot for verified engineering internships worldwide.">
 <meta name="keywords" content="internscan api, internships api, tech jobs api, telegram internship bot, rss feed internships, software engineering internships api, developer platform">
 <meta name="author" content="Vishnu Nandan">
-<link rel="canonical" href="https://vishnunandan555.github.io/internscan/docs/">
+<link rel="canonical" href="https://internscan.vercel.app/docs/">
 
 <!-- Open Graph / Twitter -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://vishnunandan555.github.io/internscan/docs/">
+<meta property="og:url" content="https://internscan.vercel.app/docs/">
 <meta property="og:site_name" content="InternScan Developer Platform">
 <meta property="og:title" content="InternScan · Public APIs, RSS &amp; Telegram Bot Documentation">
 <meta property="og:description" content="Free, CORS-enabled REST endpoints, RSS 2.0 feeds, and turnkey Telegram bots for real-time verified software internships.">
-<meta property="og:image" content="https://vishnunandan555.github.io/internscan/og-image.png?v=2">
+<meta property="og:image" content="https://internscan.vercel.app/og-image.png?v=2">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://vishnunandan555.github.io/internscan/docs/">
+<meta name="twitter:url" content="https://internscan.vercel.app/docs/">
 <meta name="twitter:title" content="InternScan · Public APIs, RSS &amp; Telegram Bot Documentation">
 <meta name="twitter:description" content="Free, CORS-enabled REST endpoints, RSS 2.0 feeds, and turnkey Telegram bots for real-time verified software internships.">
-<meta name="twitter:image" content="https://vishnunandan555.github.io/internscan/og-image.png?v=2">
+<meta name="twitter:image" content="https://internscan.vercel.app/og-image.png?v=2">
 
 <meta name="theme-color" content="#07090e">
 <link rel="icon" type="image/png" sizes="32x32" href="../icon.png?v=2">
@@ -53,15 +53,15 @@
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://vishnunandan555.github.io/internscan/docs/#webpage",
-      "url": "https://vishnunandan555.github.io/internscan/docs/",
+      "@id": "https://internscan.vercel.app/docs/#webpage",
+      "url": "https://internscan.vercel.app/docs/",
       "name": "InternScan · Integrations & APIs Documentation",
       "description": "Official documentation for InternScan's public REST APIs, real-time RSS 2.0 feeds, and lightweight Telegram bot for verified engineering internships.",
       "publisher": {
         "@type": "Organization",
         "name": "InternScan",
-        "url": "https://vishnunandan555.github.io/internscan/",
-        "logo": "https://vishnunandan555.github.io/internscan/og-image.png"
+        "url": "https://internscan.vercel.app/",
+        "logo": "https://internscan.vercel.app/og-image.png"
       }
     },
     {
@@ -71,13 +71,13 @@
           "@type": "ListItem",
           "position": 1,
           "name": "InternScan Home",
-          "item": "https://vishnunandan555.github.io/internscan/"
+          "item": "https://internscan.vercel.app/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Developer APIs & Integrations",
-          "item": "https://vishnunandan555.github.io/internscan/docs/"
+          "item": "https://internscan.vercel.app/docs/"
         }
       ]
     }
@@ -203,9 +203,9 @@
         <div class="api-card-header">
           <div class="api-endpoint-wrap">
             <span class="method-badge">GET</span>
-            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/api/active.json</span>
+            <span class="endpoint-url">https://internscan.vercel.app/api/active.json</span>
           </div>
-          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/api/active.json">
+          <button class="api-copy-btn" data-copy="https://internscan.vercel.app/api/active.json">
             Copy URL
           </button>
         </div>
@@ -218,9 +218,9 @@
         <div class="api-card-header">
           <div class="api-endpoint-wrap">
             <span class="method-badge">GET</span>
-            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/api/latest.json</span>
+            <span class="endpoint-url">https://internscan.vercel.app/api/latest.json</span>
           </div>
-          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/api/latest.json">
+          <button class="api-copy-btn" data-copy="https://internscan.vercel.app/api/latest.json">
             Copy URL
           </button>
         </div>
@@ -278,9 +278,9 @@
         <div class="api-card-header">
           <div class="api-endpoint-wrap">
             <span class="method-badge" style="background: rgba(249, 115, 22, 0.15); color: var(--brand); border-color: rgba(249, 115, 22, 0.3);">RSS 2.0</span>
-            <span class="endpoint-url">https://vishnunandan555.github.io/internscan/feed.xml</span>
+            <span class="endpoint-url">https://internscan.vercel.app/feed.xml</span>
           </div>
-          <button class="api-copy-btn" data-copy="https://vishnunandan555.github.io/internscan/feed.xml">
+          <button class="api-copy-btn" data-copy="https://internscan.vercel.app/feed.xml">
             Copy URL
           </button>
         </div>
@@ -294,7 +294,7 @@
           <h4>💻 Python Example</h4>
           <div class="code-box">
             <pre><code>import requests
-data = requests.get("https://vishnunandan555.github.io/internscan/api/latest.json").json()
+data = requests.get("https://internscan.vercel.app/api/latest.json").json()
 for job in data.get("new_jobs", []):
     print(f"[{job['company']}] {job['title']} -> {job['url']}")</code></pre>
           </div>
@@ -302,7 +302,7 @@ for job in data.get("new_jobs", []):
         <div class="feature-box">
           <h4>⚡ JavaScript (Fetch)</h4>
           <div class="code-box">
-            <pre><code>const res = await fetch("https://vishnunandan555.github.io/internscan/api/latest.json");
+            <pre><code>const res = await fetch("https://internscan.vercel.app/api/latest.json");
 const { new_jobs } = await res.json();
 console.log(`Found ${new_jobs.length} new openings!`);</code></pre>
           </div>

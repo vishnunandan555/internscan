@@ -5,7 +5,7 @@
 > 🕐 Last updated: **2026-10-17 05:15:36 IST** · 📌 **27** open verified internships
 > · ✨ = added in the last 7 days
 
-[📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://vishnunandan555.github.io/internscan/uk/) · [⚡ **REST API**](https://vishnunandan555.github.io/internscan/uk/api/active.json)
+[📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
@@ -139,4 +139,4 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 ---
 
-[🌐 Global Project README](../../README.md) · [📋 Tracked Companies](companies.md) · [💻 Web Portal](https://vishnunandan555.github.io/internscan/uk/)
+[🌐 Global Project README](../../README.md) · [📋 Tracked Companies](companies.md) · [💻 Web Portal](https://internscan.vercel.app/uk/)
