@@ -5,8 +5,10 @@
 
 const DATA_URLS = [
   "./jobs.json",
-  "https://raw.githubusercontent.com/vishnunandan555/internscan/main/data/jobs.json",
-  "../data/jobs.json"
+  "../jobs.json",
+  "./metrics.json",
+  "../metrics.json",
+  "https://raw.githubusercontent.com/vishnunandan555/internscan/main/data/jobs.json"
 ];
 
 let allJobs = [];
@@ -99,7 +101,18 @@ function formatJobDate(j) {
     const mo = Math.floor(days / 30);
     rel = `${prefix} ${mo}mo ago`;
   }
-  return { text: rel, isOfficial, fullDate: dateStr };
+
+  let formattedDate = dateStr;
+  try {
+    const d = new Date(dateStr + "T00:00:00Z");
+    formattedDate = d.toLocaleDateString(undefined, {
+      month: "short",
+      day: "numeric",
+      year: "numeric"
+    });
+  } catch (_) {}
+
+  return { text: rel, isOfficial, fullDate: formattedDate };
 }
 
 function cleanDisplayTitle(title) {
@@ -159,10 +172,44 @@ async function fetchJobsData() {
   throw new Error("Unable to load jobs data from any source.");
 }
 
-function formatScanDateTime(dateObj) {
-  const dStr = dateObj.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
-  const tStr = dateObj.toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true });
-  return `${dStr}, ${tStr}`;
+function formatLocalDateTime(dateObj, includeRelative = false) {
+  if (!dateObj || isNaN(dateObj.getTime())) return "";
+
+  const formatter = new Intl.DateTimeFormat(undefined, {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    timeZoneName: "short"
+  });
+
+  const formattedStr = formatter.format(dateObj);
+  if (!includeRelative) return formattedStr;
+
+  const diffMs = Date.now() - dateObj.getTime();
+  const diffMins = Math.max(0, Math.floor(diffMs / 60000));
+  const diffHours = Math.floor(diffMins / 60);
+  const diffDays = Math.floor(diffHours / 24);
+
+  let rel = "";
+  if (diffMins < 1) rel = "just now";
+  else if (diffMins < 60) rel = `${diffMins}m ago`;
+  else if (diffHours < 24) rel = `${diffHours}h ago`;
+  else if (diffDays === 1) rel = "yesterday";
+  else rel = `${diffDays}d ago`;
+
+  return `${formattedStr} (${rel})`;
+}
+
+function getLocalScrapeSchedule() {
+  const d = new Date();
+  d.setUTCHours(21, 30, 0, 0); // Scraper cron is 03:00 AM IST = 21:30 UTC
+  return d.toLocaleTimeString(undefined, {
+    hour: "numeric",
+    minute: "2-digit",
+    timeZoneName: "short"
+  });
 }
 
 async function loadJobs() {
@@ -172,7 +219,7 @@ async function loadJobs() {
     const updated = data.updated_at ? new Date(data.updated_at) : new Date();
 
     if (footerScanEl) {
-      footerScanEl.textContent = `Last Scanned on: ${formatScanDateTime(updated)}`;
+      footerScanEl.textContent = `Last Scanned on: ${formatLocalDateTime(updated)}`;
     }
 
     if (!document.getElementById("jobs-wrapper")) return;
@@ -194,7 +241,32 @@ async function loadJobs() {
     if (metricCosEl) metricCosEl.textContent = uniqueCos.size;
     const lastCheckedEl = document.getElementById("last-updated-text");
     if (lastCheckedEl) {
-      lastCheckedEl.textContent = `Last checked: ${formatScanDateTime(updated)}`;
+      lastCheckedEl.textContent = `Last checked: ${formatLocalDateTime(updated, true)}`;
+    }
+
+    // Hero cadence metric adaptation to local timezone
+    const cadenceValEl = document.getElementById("metric-cadence-val");
+    const cadenceSubEl = document.getElementById("metric-cadence-sub");
+    const cadenceCardEl = document.getElementById("cadence-card");
+    const scheduleTime = getLocalScrapeSchedule();
+
+    if (cadenceValEl) {
+      cadenceValEl.textContent = "Updated Daily";
+    }
+    if (cadenceSubEl) {
+      const diffMs = Date.now() - updated.getTime();
+      const diffMins = Math.max(0, Math.floor(diffMs / 60000));
+      const diffHours = Math.floor(diffMins / 60);
+      const rel = diffMins < 60 ? `${diffMins}m ago` : (diffHours < 24 ? `${diffHours}h ago` : `${Math.floor(diffHours / 24)}d ago`);
+      const timeOnly = updated.toLocaleTimeString(undefined, {
+        hour: "numeric",
+        minute: "2-digit",
+        timeZoneName: "short"
+      });
+      cadenceSubEl.textContent = `Last: ${rel} (${timeOnly})`;
+    }
+    if (cadenceCardEl) {
+      cadenceCardEl.title = `Syncs daily at ~${scheduleTime} (03:00 AM IST). Last updated: ${formatLocalDateTime(updated, true)}.`;
     }
 
     initMobileSelects();
@@ -510,7 +582,7 @@ function renderCardsView(filtered, container) {
     const loc = formatLocationDisplay(j);
     const dateInfo = formatJobDate(j);
     const catClass = j.category === "AI/ML" ? "cat-ai" : (j.category === "Hardware/Silicon" ? "cat-hw" : "");
-    const dateTitle = dateInfo.isOfficial ? "Official employer posting date" : "First discovered by InternScan (employer hid original post date)";
+    const dateTitle = dateInfo.isOfficial ? `Official posting date: ${dateInfo.fullDate}` : `First discovered by InternScan: ${dateInfo.fullDate} (employer hid post date)`;
 
     return `<div class="job-card">
       <div class="job-left">
@@ -558,7 +630,7 @@ function renderCompactView(filtered, container) {
       const isSaved = savedKeys.includes(j.uid);
       const loc = formatLocationDisplay(j);
       const dateInfo = formatJobDate(j);
-      const dateTitle = dateInfo.isOfficial ? "Official employer posting date" : "First discovered by InternScan (employer hid original post date)";
+      const dateTitle = dateInfo.isOfficial ? `Official posting date: ${dateInfo.fullDate}` : `First discovered by InternScan: ${dateInfo.fullDate} (employer hid post date)`;
 
       return `<div class="compact-row">
         <div class="compact-role">

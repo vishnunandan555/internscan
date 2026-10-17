@@ -217,13 +217,13 @@
       <div class="metric-value">5</div>
       <div class="metric-sub">IN, US, CA, UK, EU</div>
     </div>
-    <div class="metric-card">
+    <div class="metric-card" id="cadence-card">
       <div class="metric-icon-wrap">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
       </div>
       <div class="metric-label">Sync Frequency</div>
-      <div class="metric-value metric-cadence-val">Every 24h</div>
-      <div class="metric-sub">Automated GitHub Actions</div>
+      <div class="metric-value metric-cadence-val" id="metric-cadence-val">Updated Daily</div>
+      <div class="metric-sub" id="metric-cadence-sub">Automated GitHub Actions</div>
     </div>
   </div>
 </header>
@@ -383,7 +383,7 @@
         <p class="footer-brand-desc">Automated global directory of verified engineering, AI/ML, and tech internships across top employers worldwide. 100% open source and direct.</p>
         <div class="footer-status-pill">
           <span class="pulse-dot"></span>
-          <span id="footer-scan-time">Last Scanned on: Oct 15, 2026, 11:05 AM IST</span>
+          <span id="footer-scan-time">Last Scanned: Syncing...</span>
         </div>
       </div>
 
@@ -504,6 +504,45 @@ if (countryWrap) {
     });
   });
 }
+
+// Localized Timezone Hydration
+(async function hydrateTime() {
+  try {
+    const res = await fetch("./metrics.json");
+    if (!res.ok) return;
+    const data = await res.json();
+    if (!data.updated_at) return;
+    const updated = new Date(data.updated_at);
+    const formatter = new Intl.DateTimeFormat(undefined, {
+      month: "short", day: "numeric", year: "numeric",
+      hour: "numeric", minute: "2-digit", timeZoneName: "short"
+    });
+    const formatted = formatter.format(updated);
+    const footerEl = document.getElementById("footer-scan-time");
+    if (footerEl) footerEl.textContent = `Last Scanned on: ${formatted}`;
+
+    const cadenceVal = document.getElementById("metric-cadence-val");
+    const cadenceSub = document.getElementById("metric-cadence-sub");
+    const cadenceCard = document.getElementById("cadence-card");
+
+    const sched = new Date();
+    sched.setUTCHours(21, 30, 0, 0);
+    const schedStr = sched.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit", timeZoneName: "short" });
+
+    if (cadenceVal) cadenceVal.textContent = "Updated Daily";
+    if (cadenceSub) {
+      const diffMs = Date.now() - updated.getTime();
+      const diffMins = Math.max(0, Math.floor(diffMs / 60000));
+      const diffHours = Math.floor(diffMins / 60);
+      const rel = diffMins < 60 ? `${diffMins}m ago` : (diffHours < 24 ? `${diffHours}h ago` : `${Math.floor(diffHours / 24)}d ago`);
+      const timeOnly = updated.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit", timeZoneName: "short" });
+      cadenceSub.textContent = `Last: ${rel} (${timeOnly})`;
+    }
+    if (cadenceCard) {
+      cadenceCard.title = `Syncs daily at ~${schedStr} (03:00 AM IST). Last updated: ${formatted}.`;
+    }
+  } catch (_) {}
+})();
 </script>
 </body>
 </html>
