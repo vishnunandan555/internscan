@@ -1,8 +1,21 @@
-# robots.txt for InternScan India
+# robots.txt for InternScan · The Open Source Tech Internship Directory
 # https://vishnunandan555.github.io/internscan/
 
 User-agent: *
 Allow: /
 
-# Direct search engine crawlers to the sitemap index
+# Dedicated Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap Index
 Sitemap: https://vishnunandan555.github.io/internscan/sitemap.xml

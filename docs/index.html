@@ -14,19 +14,27 @@
   })();
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
-<title>InternScan · The Global Directory for Tech Internships</title>
-<meta name="description" content="Automated global directory of verified engineering, AI/ML, and tech internships across top employers worldwide. 100% open source and direct.">
-<meta name="keywords" content="internscan, tech internships 2026, tech internships 2027, software engineering internships, sde intern, global tech internships, faang internships, internships in india, internships in usa">
+<title>InternScan · The Official Tech &amp; Software Internship Directory</title>
+<meta name="description" content="InternScan is the open-source, automated directory of verified software engineering, AI/ML, and tech internships across 65+ top employers worldwide. Direct ATS links, zero ghost jobs.">
+<meta name="keywords" content="InternScan, Intern Scan, internscan global, internscan tracker, tech internships 2026, tech internships 2027, software engineering internships, sde intern, global tech internships, faang internships, internships in india, internships in usa, computer science internships">
 <meta name="author" content="Vishnu Nandan">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="google-site-verification" content="">
 <link rel="canonical" href="https://vishnunandan555.github.io/internscan/">
+<link rel="alternate" hreflang="x-default" href="https://vishnunandan555.github.io/internscan/">
 <link rel="alternate" hreflang="en-IN" href="https://vishnunandan555.github.io/internscan/in/">
 <link rel="alternate" hreflang="en-US" href="https://vishnunandan555.github.io/internscan/us/">
-<link rel="alternate" hreflang="x-default" href="https://vishnunandan555.github.io/internscan/">
+<link rel="alternate" hreflang="en-CA" href="https://vishnunandan555.github.io/internscan/ca/">
+<link rel="alternate" hreflang="en-GB" href="https://vishnunandan555.github.io/internscan/uk/">
+<link rel="alternate" hreflang="en-EU" href="https://vishnunandan555.github.io/internscan/eu/">
 
 <!-- Silent Zero-Permission Auto-Redirection by Location -->
 <script>
 (function() {
+  // Search engine crawlers must NEVER be redirected!
+  var isBot = /bot|googlebot|crawler|spider|robot|crawling|lighthouse|headlesschrome|slurp|bingbot|duckduckbot|baiduspider|yandexbot|facebookexternalhit|twitterbot|linkedinbot/i.test(navigator.userAgent);
+  if (isBot) return;
+
   const params = new URLSearchParams(window.location.search);
   // If explicitly requested or user previously chose to stay on Global in this session, do not redirect!
   if (params.get("noredirect") === "1" || params.get("home") === "1" || sessionStorage.getItem("stay_global") === "1") {
@@ -103,8 +111,8 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://vishnunandan555.github.io/internscan/">
 <meta property="og:site_name" content="InternScan">
-<meta property="og:title" content="InternScan: The Global Directory for Tech Internships">
-<meta property="og:description" content="Automated global directory of verified engineering, AI/ML, and tech internships across top employers worldwide. 100% open source and direct.">
+<meta property="og:title" content="InternScan · The Official Tech &amp; Software Internship Directory">
+<meta property="og:description" content="InternScan is the open-source, automated directory of verified software engineering, AI/ML, and tech internships across top employers worldwide. 100% open source and direct.">
 <meta property="og:image" content="https://vishnunandan555.github.io/internscan/og-image.png?v=2">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -112,7 +120,7 @@
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:url" content="https://vishnunandan555.github.io/internscan/">
-<meta name="twitter:title" content="InternScan: The Global Directory for Tech Internships">
+<meta name="twitter:title" content="InternScan · The Official Tech &amp; Software Internship Directory">
 <meta name="twitter:description" content="Track verified software engineering, AI/ML, and systems roles across top tech employers in India, US, Canada, UK, and Europe. Updated daily.">
 <meta name="twitter:image" content="https://vishnunandan555.github.io/internscan/og-image.png?v=2">
 
@@ -135,10 +143,50 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "InternScan",
-  "url": "https://vishnunandan555.github.io/internscan/",
-  "description": "High-speed automated directory of verified software engineering internships across top global tech employers."
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://vishnunandan555.github.io/internscan/#website",
+      "url": "https://vishnunandan555.github.io/internscan/",
+      "name": "InternScan",
+      "alternateName": ["InternScan", "Intern Scan", "InternScan Global", "InternScan Tech Tracker", "InternScan Official"],
+      "description": "High-speed automated directory of verified engineering, AI/ML, and tech internships across top global employers.",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://vishnunandan555.github.io/internscan/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://vishnunandan555.github.io/internscan/in/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://vishnunandan555.github.io/internscan/#organization",
+      "name": "InternScan",
+      "url": "https://vishnunandan555.github.io/internscan/",
+      "logo": "https://vishnunandan555.github.io/internscan/icon.png",
+      "sameAs": [
+        "https://github.com/vishnunandan555/internscan"
+      ]
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://vishnunandan555.github.io/internscan/#app",
+      "name": "InternScan",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "All",
+      "browserRequirements": "Requires JavaScript. Requires HTML5.",
+      "url": "https://vishnunandan555.github.io/internscan/",
+      "description": "Live, automated tracker for verified software engineering and tech internships direct from official ATS career portals.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+  ]
 }
 </script>
 </head>
