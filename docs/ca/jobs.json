@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-17T23:17:43Z",
+  "updated_at": "2026-10-18T23:27:24Z",
   "jobs": {
     "qualcomm:446721615591": {
       "uid": "qualcomm:446721615591",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Canada (Other)",
       "company": "Qualcomm",
+      "country": "ca",
       "external_id": "446721615591",
-      "title": "FY27 Intern - Automotive Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721615591?domain=qualcomm.com",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Markham, Ontario, Canada"
       ],
-      "category": "Software",
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "active": true
+      "region": "AMER",
+      "title": "FY27 Intern - Automotive Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721615591?domain=qualcomm.com"
     },
     "nokia:41311": {
       "uid": "nokia:41311",
@@ -28,7 +28,7 @@
       "country": "ca",
       "external_id": "41311",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada"
       ],
@@ -46,7 +46,7 @@
       "country": "ca",
       "external_id": "JR0287934",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -65,7 +65,7 @@
       "country": "ca",
       "external_id": "91368",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "MARKHAM, Canada"
       ],
@@ -83,7 +83,7 @@
       "country": "ca",
       "external_id": "8130805",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto"
       ],
@@ -101,7 +101,7 @@
       "country": "ca",
       "external_id": "8194285",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto"
       ],
@@ -119,7 +119,7 @@
       "country": "ca",
       "external_id": "8194287",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto"
       ],
@@ -137,7 +137,7 @@
       "country": "ca",
       "external_id": "446721064018",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -155,7 +155,7 @@
       "country": "ca",
       "external_id": "446721064094",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -173,7 +173,7 @@
       "country": "ca",
       "external_id": "446721064141",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -191,7 +191,7 @@
       "country": "ca",
       "external_id": "446721109168",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -209,7 +209,7 @@
       "country": "ca",
       "external_id": "446721109229",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -227,7 +227,7 @@
       "country": "ca",
       "external_id": "446721140936",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -245,7 +245,7 @@
       "country": "ca",
       "external_id": "446721141411",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -263,7 +263,7 @@
       "country": "ca",
       "external_id": "446721142985",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -281,7 +281,7 @@
       "country": "ca",
       "external_id": "446721143274",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -299,7 +299,7 @@
       "country": "ca",
       "external_id": "446721143440",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -317,7 +317,7 @@
       "country": "ca",
       "external_id": "446721156176",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Ottawa, Ontario, Canada"
       ],
@@ -335,7 +335,7 @@
       "country": "ca",
       "external_id": "446721156182",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -353,7 +353,7 @@
       "country": "ca",
       "external_id": "446721156615",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -371,7 +371,7 @@
       "country": "ca",
       "external_id": "446721156800",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -389,7 +389,7 @@
       "country": "ca",
       "external_id": "446721229661",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -407,7 +407,7 @@
       "country": "ca",
       "external_id": "446721302471",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Ottawa, Ontario, Canada"
       ],
@@ -425,7 +425,7 @@
       "country": "ca",
       "external_id": "446721302528",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -443,7 +443,7 @@
       "country": "ca",
       "external_id": "446721349404",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Ottawa, Ontario, Canada"
       ],
@@ -461,7 +461,7 @@
       "country": "ca",
       "external_id": "39237",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada"
       ],
@@ -479,7 +479,7 @@
       "country": "ca",
       "external_id": "39487",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada"
       ],
@@ -497,7 +497,7 @@
       "country": "ca",
       "external_id": "39600",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada"
       ],
@@ -515,7 +515,7 @@
       "country": "ca",
       "external_id": "39965",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada"
       ],
@@ -533,7 +533,7 @@
       "country": "ca",
       "external_id": "40261",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada"
       ],
@@ -551,7 +551,7 @@
       "country": "ca",
       "external_id": "JR2024997",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -570,7 +570,7 @@
       "country": "ca",
       "external_id": "1970393557040927",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada, Québec, Montreal"
       ],
@@ -588,7 +588,7 @@
       "country": "ca",
       "external_id": "JR0287535",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -607,7 +607,7 @@
       "country": "ca",
       "external_id": "JR0287539",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -626,7 +626,7 @@
       "country": "ca",
       "external_id": "104405499448828614",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Montreal, QC, Canada"
       ],
@@ -644,7 +644,7 @@
       "country": "ca",
       "external_id": "112518690523488966",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -663,7 +663,7 @@
       "country": "ca",
       "external_id": "113855697199735494",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Montreal, QC, Canada",
         "Toronto, ON, Canada",
@@ -683,7 +683,7 @@
       "country": "ca",
       "external_id": "114416552819729094",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -702,7 +702,7 @@
       "country": "ca",
       "external_id": "128430823337534150",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Montreal, QC, Canada",
         "Toronto, ON, Canada",
@@ -722,7 +722,7 @@
       "country": "ca",
       "external_id": "141525012002546374",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Montreal, QC, Canada"
       ],
@@ -740,7 +740,7 @@
       "country": "ca",
       "external_id": "75043041429070534",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -759,12 +759,12 @@
       "country": "ca",
       "external_id": "26WD100398",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Montreal QC CAN",
         "Montreal, QC, CAN"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-18",
       "region": "AMER",
       "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2"
@@ -778,12 +778,12 @@
       "country": "ca",
       "external_id": "26WD100400",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Montreal QC CAN",
         "Montreal, QC, CAN"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-18",
       "region": "AMER",
       "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400"
@@ -797,12 +797,12 @@
       "country": "ca",
       "external_id": "26WD100406",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Montreal QC CAN",
         "Montreal, QC, CAN"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-18",
       "region": "AMER",
       "title": "Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"
@@ -816,53 +816,15 @@
       "country": "ca",
       "external_id": "26WD100523",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Montreal QC CAN",
         "Montreal, QC, CAN"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-18",
       "region": "AMER",
       "title": "Intern, AI Developer/ Stagiaire en développement IA",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2"
-    },
-    "autodesk:26WD101061": {
-      "uid": "autodesk:26WD101061",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "Toronto",
-      "company": "Autodesk",
-      "country": "ca",
-      "external_id": "26WD101061",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
-      "locations": [
-        "Toronto ON CAN",
-        "Toronto, ON, CAN"
-      ],
-      "posted": "2026-10-01",
-      "region": "AMER",
-      "title": "Intern, AI/ML Platform (Winter)",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1"
-    },
-    "autodesk:26WD101082": {
-      "uid": "autodesk:26WD101082",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "Toronto",
-      "company": "Autodesk",
-      "country": "ca",
-      "external_id": "26WD101082",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
-      "locations": [
-        "Toronto ON CAN",
-        "Toronto, ON, CAN"
-      ],
-      "posted": "2026-10-01",
-      "region": "AMER",
-      "title": "Intern, AI Data Developer (Winter)",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1"
     },
     "autodesk:26WD101436": {
       "uid": "autodesk:26WD101436",
@@ -873,7 +835,7 @@
       "country": "ca",
       "external_id": "26WD101436",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto ON CAN",
         "Toronto, ON, CAN"
@@ -892,7 +854,7 @@
       "country": "ca",
       "external_id": "10535280",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -910,7 +872,7 @@
       "country": "ca",
       "external_id": "10538066",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -928,7 +890,7 @@
       "country": "ca",
       "external_id": "10553947",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Vancouver, British Columbia, CAN"
       ],
@@ -946,7 +908,7 @@
       "country": "ca",
       "external_id": "10564588",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Vancouver, British Columbia, CAN"
       ],
@@ -964,7 +926,7 @@
       "country": "ca",
       "external_id": "3136815",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "locations": [
         "Toronto, Ontario, CAN"
       ],

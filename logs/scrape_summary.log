@@ -1,29 +1,22 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-17 23:16:21 UTC
+SCRAPE RUN SUMMARY — 2026-10-18 23:26:04 UTC
 ========================================================================
-Runtime:            81.4 seconds
+Runtime:            79.8 seconds
 Companies Scraped:  60 total
-  - Succeeded:      60
-  - Failed:         0
-Active India Roles: 507
+  - Succeeded:      59
+  - Failed:         1
+Active India Roles: 505
 Changes Detected:
-  - New Additions:  +2
-  - Closed Roles:   -6
-  - Reopened Roles: ~6
+  - New Additions:  +0
+  - Closed Roles:   -2
+  - Reopened Roles: ~0
 ------------------------------------------------------------------------
 
-[NEW INTERNSHIPS ADDED]
-  + Apple — AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR (Europe (Other)) [AI/ML]
-    Apply: https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear
-  + Qualcomm — FY27 Intern - Automotive Engineering Internship - Canada (16 months) (Canada (Other)) [Software]
-    Apply: https://careers.qualcomm.com/careers/job/446721615591?domain=qualcomm.com
-
 [INTERNSHIPS CLOSED]
-  - Accenture — Data & AI Internship Program (She/He/They) (Europe (Other))
-  - Accenture — AI/MLOps Internship Program (She/He/They) (Europe (Other))
-  - Dell Technologies — Product & Application Security Undergraduate Intern (Austin)
-  - Dell Technologies — Cybersecurity Undergraduate Intern (Austin)
-  - Dell Technologies — Cloud Software Security (CSS) Summer Internship, Undergraduate Intern (Austin)
-  - Microsoft — Data Science: AI Experiences PhD Internship Opportunities - Redmond (Seattle)
+  - Autodesk — Intern, AI/ML Platform (Winter) (Toronto)
+  - Autodesk — Intern, AI Data Developer (Winter) (Toronto)
+
+[FAILED SCRAPERS]
+  × Salesforce: request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/
 
 ========================================================================

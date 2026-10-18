@@ -1,5 +1,7 @@
 {
-  "failed": {},
+  "failed": {
+    "Salesforce": "request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429)"
+  },
   "succeeded": [
     "AMD",
     "Accenture",
@@ -48,7 +50,6 @@
     "Razorpay",
     "Red Hat",
     "Rubrik",
-    "Salesforce",
     "ServiceNow",
     "Snowflake",
     "Stripe",
