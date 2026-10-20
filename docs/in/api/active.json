@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-10-18T23:27:24Z",
+  "updated_at": "2026-10-20T00:30:27Z",
   "total_active": 15,
   "jobs": [
     {
@@ -17,7 +17,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Meta",
@@ -32,7 +32,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Meta",
@@ -47,7 +47,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-05",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Meta",
@@ -62,7 +62,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-05",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Microsoft",
@@ -77,7 +77,7 @@
       "category": "Data",
       "posted": "2026-10-08",
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Walmart Global Tech",
@@ -90,9 +90,9 @@
       "country": "in",
       "region": "APAC",
       "category": "Software",
-      "posted": "2026-09-18",
+      "posted": "2026-09-20",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Stripe",
@@ -107,22 +107,7 @@
       "category": "Software",
       "posted": "2026-10-07",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
-    },
-    {
-      "company": "Rubrik",
-      "title": "Software Engineer (CPD) - Winter Intern",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
-      "locations": [
-        "Bangalore"
-      ],
-      "city_tag": "Bengaluru",
-      "country": "in",
-      "region": "APAC",
-      "category": "Software",
-      "posted": "2026-10-14",
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Qualcomm",
@@ -138,7 +123,7 @@
       "category": "Software",
       "posted": "2026-09-09",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Qualcomm",
@@ -153,7 +138,7 @@
       "category": "Software",
       "posted": "2026-09-15",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "NVIDIA",
@@ -167,9 +152,9 @@
       "country": "in",
       "region": "APAC",
       "category": "AI/ML",
-      "posted": "2026-09-18",
+      "posted": "2026-09-20",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Microsoft",
@@ -184,7 +169,22 @@
       "category": "AI/ML",
       "posted": "2026-02-27",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Applied Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800",
+      "locations": [
+        "India, Multiple Locations, Multiple Locations"
+      ],
+      "city_tag": "India (Multiple/Other)",
+      "country": "in",
+      "region": "APAC",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-10-20"
     },
     {
       "company": "HPE",
@@ -200,7 +200,7 @@
       "category": "Software",
       "posted": "2026-09-01",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Google",
@@ -216,7 +216,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-07",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     },
     {
       "company": "Google",
@@ -233,7 +233,7 @@
       "category": "Software",
       "posted": "2026-09-07",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-20"
     }
   ]
 }

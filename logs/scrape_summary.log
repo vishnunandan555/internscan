@@ -1,22 +1,93 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-18 23:26:04 UTC
+SCRAPE RUN SUMMARY — 2026-10-20 00:29:06 UTC
 ========================================================================
-Runtime:            79.8 seconds
+Runtime:            80.7 seconds
 Companies Scraped:  60 total
-  - Succeeded:      59
-  - Failed:         1
-Active India Roles: 505
+  - Succeeded:      60
+  - Failed:         0
+Active India Roles: 526
 Changes Detected:
-  - New Additions:  +0
-  - Closed Roles:   -2
-  - Reopened Roles: ~0
+  - New Additions:  +31
+  - Closed Roles:   -12
+  - Reopened Roles: ~2
 ------------------------------------------------------------------------
 
-[INTERNSHIPS CLOSED]
-  - Autodesk — Intern, AI/ML Platform (Winter) (Toronto)
-  - Autodesk — Intern, AI Data Developer (Winter) (Toronto)
+[NEW INTERNSHIPS ADDED]
+  + Apple — Information Security Internship (London) [Security]
+    Apply: https://jobs.apple.com/en-us/details/200687171/information-security-internship
+  + Apple — Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test (Munich) [Software]
+    Apply: https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test
+  + Apple — Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE (Munich) [Software]
+    Apply: https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte
+  + Salesforce — Summer 2027 Intern - Software Engineer (Security/Government) (SF Bay Area) [Software]
+    Apply: https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1
+  + Netflix — Software Engineer Intern - Summer 2027 (US (Other)) [Software]
+    Apply: https://explore.jobs.netflix.net/careers/job/790318904468
+  + Adobe — 2027 Intern - AI & Architecture (SF Bay Area) [AI/ML]
+    Apply: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
+  + Adobe — 2027 Intern- Software Engineer (Europe (Other)) [Software]
+    Apply: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018
+  + Adobe — 2027 Intern - Data, AI & Innovation (SF Bay Area) [Data]
+    Apply: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997
+  + Qualcomm — FY27 Intern - QDSP Hardware Physical Design Internship - Canada (12 or 16 months) (Canada (Other)) [Hardware/Silicon]
+    Apply: https://careers.qualcomm.com/careers/job/446721636316?domain=qualcomm.com
+  + Qualcomm — FY27 Intern - Machine Learning AISW Internship - Canada (4 Months) (Canada (Other)) [AI/ML]
+    Apply: https://careers.qualcomm.com/careers/job/446721636765?domain=qualcomm.com
+  + Amazon — Business Intelligence Intern Spain (Europe (Other)) [Data]
+    Apply: https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain
+  + Microsoft — Research Intern - Algorithms Group: Generative Modeling (Seattle) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557043740
+  + Microsoft — Research Intern - Extended Perception Interaction Cognition (EPIC) (Seattle) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557043754
+  + Microsoft — Applied Science PhD Internship (UK (Other)) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557042487
+  + Meta — Research Scientist Intern, Smart Glasses in Wearables AI (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1584033410435097
+  + Meta — Research Scientist Intern, Audio User Experience (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1736386761384394
+  + Meta — Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2267351860492630
+  + Meta — Softgoods Product Design Engineering Intern (SF Bay Area) [Software]
+    Apply: https://www.metacareers.com/jobs/1111723361506997
+  + Meta — Research Scientist Intern, Robotics Hardware (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2105411693413958
+  + Meta — Research Scientist Intern, On-Device AI Model Optimization (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/4455569504707135
+  + Meta — Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/4723409617931131
+  + Meta — Optical Engineering AI and Data Analytics Intern (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1851348099357899
+  + NVIDIA — ASIC Verification Intern - Summer 2027 (Toronto) [Hardware/Silicon]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982
+  + NVIDIA — Product Manager MBA Intern, Enterprise AI - Summer 2027 (SF Bay Area) [AI/ML]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707
+  + CrowdStrike — Professional Services Red Team Intern - Summer 2027 (Remote, GBR) (London) [Security]
+    Apply: https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404
+  + Intel — Cloud Analytics - Application PhD Intern (US (Other)) [Backend/Infra]
+    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170
+  + Intel — Development Tools Software Engineer Intern (m/f/d) (Munich) [Software]
+    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205
+  + Visa — Data Science Intern (London) [Data]
+    Apply: https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1
+  + Autodesk — Intern, Software Engineer (Cambridge / Oxford) [Software]
+    Apply: https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105
+  + Autodesk — Intern, Software Engineer (UK (Other)) [Software]
+    Apply: https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1
+  + Autodesk — Intern, Research - Context and Knowledge Systems for AI (Remote (UK)) [AI/ML]
+    Apply: https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2
 
-[FAILED SCRAPERS]
-  × Salesforce: request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/
+[INTERNSHIPS CLOSED]
+  - Amazon — 2027 Software Dev Engineer Intern - United Kingdom (London)
+  - Cisco — ASIC Design Engineer I (Intern) - United States (SF Bay Area)
+  - Intel — Information Technology Intern (SF Bay Area)
+  - Intel — Silicon Architecture Undergraduate Intern (Europe (Other))
+  - Intel — Design Verification Engineering Undergraduate Intern (Europe (Other))
+  - JPMorgan Chase — Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship – United States (SF Bay Area)
+  - Meta — Research Scientist Intern, Optical System Design (PhD) (SF Bay Area)
+  - NVIDIA — NVIDIA 2027 Ignite Internships: Software Engineering (SF Bay Area)
+  - NVIDIA — NVIDIA 2027 Ignite Internships: Hardware Engineering (SF Bay Area)
+  - Rubrik — Software Engineer (CPD) - Winter Intern (Bengaluru)
+  - Visa — Staff Research Scientist, Intern - PhD Foundational AI (US (Other))
+  - Visa — Staff Research Scientist, Intern - PhD Agentic AI (Austin)
 
 ========================================================================

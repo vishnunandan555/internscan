@@ -1,10 +1,272 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-10-18T23:27:24Z",
-  "new_count": 0,
-  "reopened_count": 0,
-  "total_active": 298,
-  "new_jobs": [],
-  "reopened_jobs": []
+  "updated_at": "2026-10-20T00:30:27Z",
+  "new_count": 16,
+  "reopened_count": 1,
+  "total_active": 307,
+  "new_jobs": [
+    {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
+      "locations": [
+        "2 Locations",
+        "California, San Francisco"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Netflix",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
+      "locations": [
+        "Los Gatos,California,United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-13",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Adobe",
+      "title": "2027 Intern - AI & Architecture",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
+      "locations": [
+        "San Jose"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Adobe",
+      "title": "2027 Intern - Data, AI & Innovation",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
+      "locations": [
+        "San Jose"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Algorithms Group: Generative Modeling",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Extended Perception Interaction Cognition (EPIC)",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Smart Glasses in Wearables AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1584033410435097",
+      "locations": [
+        "Burlingame, CA",
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Audio User Experience (PhD)",
+      "url": "https://www.metacareers.com/jobs/1736386761384394",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2267351860492630",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Softgoods Product Design Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/1111723361506997",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Robotics Hardware (PhD)",
+      "url": "https://www.metacareers.com/jobs/2105411693413958",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-13",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, On-Device AI Model Optimization (PhD)",
+      "url": "https://www.metacareers.com/jobs/4455569504707135",
+      "locations": [
+        "Burlingame, CA",
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)",
+      "url": "https://www.metacareers.com/jobs/4723409617931131",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Optical Engineering AI and Data Analytics Intern",
+      "url": "https://www.metacareers.com/jobs/1851348099357899",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Product Manager MBA Intern, Enterprise AI - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
+      "locations": [
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Intel",
+      "title": "Cloud Analytics - Application PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170",
+      "locations": [
+        "US Oregon Hillsboro",
+        "US, Oregon, Hillsboro"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "Dell Technologies",
+      "title": "Cloud Software Security (CSS) Summer Internship, Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300404",
+      "locations": [
+        "Round Rock, TX, United States"
+      ],
+      "city_tag": "Austin",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-20"
+    }
+  ]
 }

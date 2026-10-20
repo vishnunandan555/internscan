@@ -1,10 +1,121 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-18T23:27:24Z",
-  "new_count": 0,
+  "updated_at": "2026-10-20T00:30:27Z",
+  "new_count": 7,
   "reopened_count": 0,
-  "total_active": 27,
-  "new_jobs": [],
+  "total_active": 33,
+  "new_jobs": [
+    {
+      "company": "Apple",
+      "title": "Information Security Internship",
+      "url": "https://jobs.apple.com/en-us/details/200687171/information-security-internship",
+      "locations": [
+        "London"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Security",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Applied Science PhD Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487",
+      "locations": [
+        "United Kingdom, Berkshire, Reading"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Professional Services Red Team Intern - Summer 2027 (Remote, GBR)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404",
+      "locations": [
+        "3 Locations",
+        "United Kingdom, London"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Security",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Visa",
+      "title": "Data Science Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
+      "locations": [
+        "GB - London, United Kingdom",
+        "GB, London United Kingdom"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Intern, Software Engineer",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105",
+      "locations": [
+        "Cambridge GBR",
+        "Cambridge, GBR"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Intern, Software Engineer",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1",
+      "locations": [
+        "Birmingham GBR",
+        "Birmingham, GBR"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Intern, Research - Context and Knowledge Systems for AI",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2",
+      "locations": [
+        "United Kingdom - Remote",
+        "United Kingdom, Remote"
+      ],
+      "city_tag": "Remote (UK)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    }
+  ],
   "reopened_jobs": []
 }

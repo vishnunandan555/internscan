@@ -1,6 +1,137 @@
 {
-  "updated_at": "2026-10-18T23:27:24Z",
+  "updated_at": "2026-10-20T00:30:27Z",
   "jobs": {
+    "visa:REF086121W": {
+      "uid": "visa:REF086121W",
+      "company": "Visa",
+      "external_id": "REF086121W",
+      "title": "Data Science Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
+      "locations": [
+        "GB - London, United Kingdom",
+        "GB, London United Kingdom"
+      ],
+      "category": "Data",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "active": true
+    },
+    "microsoft:1970393557042487": {
+      "uid": "microsoft:1970393557042487",
+      "company": "Microsoft",
+      "external_id": "1970393557042487",
+      "title": "Applied Science PhD Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487",
+      "locations": [
+        "United Kingdom, Berkshire, Reading"
+      ],
+      "category": "AI/ML",
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "active": true
+    },
+    "crowdstrike:R30404": {
+      "uid": "crowdstrike:R30404",
+      "company": "CrowdStrike",
+      "external_id": "R30404",
+      "title": "Professional Services Red Team Intern - Summer 2027 (Remote, GBR)",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404",
+      "locations": [
+        "3 Locations",
+        "United Kingdom, London"
+      ],
+      "category": "Security",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "active": true
+    },
+    "autodesk:26WD101105": {
+      "uid": "autodesk:26WD101105",
+      "company": "Autodesk",
+      "external_id": "26WD101105",
+      "title": "Intern, Software Engineer",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105",
+      "locations": [
+        "Cambridge GBR",
+        "Cambridge, GBR"
+      ],
+      "category": "Software",
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "active": true
+    },
+    "autodesk:26WD101472": {
+      "uid": "autodesk:26WD101472",
+      "company": "Autodesk",
+      "external_id": "26WD101472",
+      "title": "Intern, Software Engineer",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1",
+      "locations": [
+        "Birmingham GBR",
+        "Birmingham, GBR"
+      ],
+      "category": "Software",
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "active": true
+    },
+    "autodesk:26WD101097": {
+      "uid": "autodesk:26WD101097",
+      "company": "Autodesk",
+      "external_id": "26WD101097",
+      "title": "Intern, Research - Context and Knowledge Systems for AI",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2",
+      "locations": [
+        "United Kingdom - Remote",
+        "United Kingdom, Remote"
+      ],
+      "category": "AI/ML",
+      "city_tag": "Remote (UK)",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "active": true
+    },
+    "apple:200687171": {
+      "uid": "apple:200687171",
+      "company": "Apple",
+      "external_id": "200687171",
+      "title": "Information Security Internship",
+      "url": "https://jobs.apple.com/en-us/details/200687171/information-security-internship",
+      "locations": [
+        "London"
+      ],
+      "category": "Security",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "active": true
+    },
     "microsoft:1970393557040084": {
       "uid": "microsoft:1970393557040084",
       "active": true,
@@ -10,13 +141,13 @@
       "country": "uk",
       "external_id": "1970393557040084",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "United Kingdom, London, London"
       ],
       "posted": "2026-10-15",
       "region": "EMEA",
-      "title": "Applied Sciences Intern",
+      "title": "Applied Science Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084"
     },
     "jpmorgan-chase:210800615": {
@@ -28,7 +159,7 @@
       "country": "uk",
       "external_id": "210800615",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "LONDON, United Kingdom"
       ],
@@ -46,7 +177,7 @@
       "country": "uk",
       "external_id": "1216282",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "Winnersh, N/A",
         "Winnersh, United Kingdom"
@@ -65,7 +196,7 @@
       "country": "uk",
       "external_id": "200689473",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London"
       ],
@@ -83,7 +214,7 @@
       "country": "uk",
       "external_id": "10552039",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, England, GBR"
       ],
@@ -91,24 +222,6 @@
       "region": "EMEA",
       "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition"
-    },
-    "amazon:10581332": {
-      "uid": "amazon:10581332",
-      "active": true,
-      "category": "Software",
-      "city_tag": "London",
-      "company": "Amazon",
-      "country": "uk",
-      "external_id": "10581332",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "posted": "2026-10-16",
-      "region": "EMEA",
-      "title": "2027 Software Dev Engineer Intern - United Kingdom",
-      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom"
     },
     "amazon:3201714": {
       "uid": "amazon:3201714",
@@ -119,7 +232,7 @@
       "country": "uk",
       "external_id": "3201714",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "Sydney, New South Wales, AUS"
       ],
@@ -137,7 +250,7 @@
       "country": "uk",
       "external_id": "8130867",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London"
       ],
@@ -155,12 +268,12 @@
       "country": "uk",
       "external_id": "JR2027948",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "2 Locations",
         "UK Bristol"
       ],
-      "posted": "2026-10-14",
+      "posted": "2026-10-15",
       "region": "EMEA",
       "title": "Data Processing Developer Technology Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948"
@@ -174,7 +287,7 @@
       "country": "uk",
       "external_id": "2558941294546763",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "Dublin, Ireland",
         "London, UK"
@@ -193,7 +306,7 @@
       "country": "uk",
       "external_id": "210774716",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom",
         "LONDON, LONDON, United Kingdom"
@@ -212,7 +325,7 @@
       "country": "uk",
       "external_id": "210774745",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom",
         "LONDON, LONDON, United Kingdom"
@@ -231,7 +344,7 @@
       "country": "uk",
       "external_id": "210774813",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom"
       ],
@@ -249,7 +362,7 @@
       "country": "uk",
       "external_id": "1215804",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "Bristol, Avon, BS34 8QZ",
         "Bristol, Avon, United Kingdom"
@@ -268,7 +381,7 @@
       "country": "uk",
       "external_id": "100028133205254854",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, UK"
       ],
@@ -286,7 +399,7 @@
       "country": "uk",
       "external_id": "135156989620560582",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, UK"
       ],
@@ -304,7 +417,7 @@
       "country": "uk",
       "external_id": "73321728058499782",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, UK"
       ],
@@ -322,7 +435,7 @@
       "country": "uk",
       "external_id": "80037545080955590",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, UK"
       ],
@@ -340,7 +453,7 @@
       "country": "uk",
       "external_id": "86733690079453894",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "Accra, Ghana",
         "Amsterdam, Netherlands",
@@ -366,7 +479,7 @@
       "country": "uk",
       "external_id": "8847738002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, United Kingdom"
       ],
@@ -384,7 +497,7 @@
       "country": "uk",
       "external_id": "2023625",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "Harpenden, Herefordshire, United Kingdom"
       ],
@@ -402,7 +515,7 @@
       "country": "uk",
       "external_id": "2024351",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "North Sydney, New South Wales, Australia"
       ],
@@ -420,7 +533,7 @@
       "country": "uk",
       "external_id": "200682357",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London"
       ],
@@ -438,7 +551,7 @@
       "country": "uk",
       "external_id": "10554586",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, England, GBR"
       ],
@@ -456,7 +569,7 @@
       "country": "uk",
       "external_id": "10567687",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, England, GBR"
       ],
@@ -474,7 +587,7 @@
       "country": "uk",
       "external_id": "10567694",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, England, GBR"
       ],
@@ -492,7 +605,7 @@
       "country": "uk",
       "external_id": "10577611",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "locations": [
         "London, England, GBR"
       ],

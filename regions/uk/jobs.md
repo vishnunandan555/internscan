@@ -2,30 +2,33 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-19 04:57:24 IST** · 📌 **27** open verified internships
+> 🕐 Last updated: **2026-10-20 06:00:27 IST** · 📌 **33** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (27)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (33)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United Kingdom |
 |---|:---:|
-| [Amazon](#amazon) | **7** |
-| [Apple](#apple) | **2** |
+| [Amazon](#amazon) | **6** |
+| [Apple](#apple) | **3** |
+| [Autodesk](#autodesk) | **3** |
 | [Cisco](#cisco) | **2** |
+| [CrowdStrike](#crowdstrike) | **1** |
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **5** |
 | [HPE](#hpe) | **2** |
 | [JPMorgan Chase](#jpmorgan-chase) | **4** |
 | [Meta](#meta) | **1** |
-| [Microsoft](#microsoft) | **1** |
+| [Microsoft](#microsoft) | **2** |
 | [NVIDIA](#nvidia) | **1** |
 | [Stripe](#stripe) | **1** |
+| [Visa](#visa) | **1** |
 
 ---
 
@@ -37,7 +40,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom) ✨ | Software | London | 2026-10-16 | 2026-10-16 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) ✨ | Security | London | 2026-10-13 | 2026-10-15 |
 | [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) ✨ | Data | London | 2026-10-02 | 2026-10-15 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) ✨ | AI/ML | London | 2026-10-02 | 2026-10-15 |
@@ -51,8 +53,19 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Information Security Internship](https://jobs.apple.com/en-us/details/200687171/information-security-internship) ✨ | Security | London | 2026-10-19 | 2026-10-20 |
 | [Software Engineering Intern, Apple Services Engineering](https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering) ✨ | Software | London | 2026-10-16 | 2026-10-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) ✨ | QA | London | 2026-09-08 | 2026-10-15 |
+
+[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
+
+### Autodesk
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Intern, Software Engineer](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105) ✨ | Software | Cambridge / Oxford | 2026-10-20 | 2026-10-20 |
+| [Intern, Software Engineer](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1) ✨ | Software | Birmingham Gbr; Birmingham, UK | 2026-10-20 | 2026-10-20 |
+| [Intern, Research - Context and Knowledge Systems for AI](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2) ✨ | AI/ML | Remote (UK) | 2026-10-20 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -62,6 +75,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Network Engineer Intern, Australia](https://careers.cisco.com/global/en/job/2024351) ✨ | Backend/Infra | North Sydney, New South Wales | 2026-09-29 | 2026-10-15 |
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) ✨ | Software | Harpenden, Herefordshire | 2026-08-21 | 2026-10-15 |
+
+[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
+
+### CrowdStrike
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Professional Services Red Team Intern - Summer 2027 (Remote, GBR)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404) ✨ | Security | London | 2026-10-20 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -117,7 +138,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Applied Sciences Intern](https://apply.careers.microsoft.com/careers/job/1970393557040084) ✨ | AI/ML | London | 2026-10-15 | 2026-10-16 |
+| [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) ✨ | AI/ML | Berkshire, Reading | 2026-10-19 | 2026-10-20 |
+| [Applied Science Intern](https://apply.careers.microsoft.com/careers/job/1970393557040084) ✨ | AI/ML | London | 2026-10-15 | 2026-10-16 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -125,7 +147,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) ✨ | Data | Bristol | 2026-10-14 | 2026-10-15 |
+| [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) ✨ | Data | Bristol | 2026-10-15 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -134,6 +156,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) ✨ | Software | London | 2026-10-07 | 2026-10-15 |
+
+[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
+
+### Visa
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Data Science Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1) ✨ | Data | London | 2026-10-20 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
