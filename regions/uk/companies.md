@@ -2,18 +2,17 @@
 
 # 🇬🇧 United Kingdom — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-10-20 06:00:27 IST**
+> 🕐 Last updated: **2026-10-21 05:31:09 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/)
 
 This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **United Kingdom**.
 
-## 🟢 Directly Scraped Employers (49)
+## 🟢 Directly Scraped Employers (48)
 
 Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):
 
 - AMD
-- Accenture
 - Adobe
 - Amazon
 - Apple
