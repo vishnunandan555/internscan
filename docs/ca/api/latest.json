@@ -1,10 +1,56 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-21T00:01:09Z",
-  "new_count": 0,
+  "updated_at": "2026-10-22T00:05:51Z",
+  "new_count": 3,
   "reopened_count": 0,
-  "total_active": 49,
-  "new_jobs": [],
+  "total_active": 52,
+  "new_jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721664194?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Display Systems Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721661677?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Edge AI and Display Hardware Architecture Development Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721661830?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    }
+  ],
   "reopened_jobs": []
 }

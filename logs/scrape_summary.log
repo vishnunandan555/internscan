@@ -1,119 +1,76 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-20 23:59:39 UTC
+SCRAPE RUN SUMMARY — 2026-10-22 00:04:26 UTC
 ========================================================================
-Runtime:            90.2 seconds
+Runtime:            84.5 seconds
 Companies Scraped:  60 total
   - Succeeded:      59
   - Failed:         1
-Active India Roles: 540
+Active India Roles: 559
 Changes Detected:
-  - New Additions:  +40
-  - Closed Roles:   -19
-  - Reopened Roles: ~1
+  - New Additions:  +25
+  - Closed Roles:   -6
+  - Reopened Roles: ~0
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Salesforce — Summer 2027 Intern - AI Research (SF Bay Area) [AI/ML]
-    Apply: https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1
-  + Apple — Research Scientist Intern – Human-Centric Generative AI (Munich) [AI/ML]
-    Apply: https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai
-  + Apple — Internship - Software Engineering (Munich) [Software]
-    Apply: https://jobs.apple.com/en-us/details/200690139/internship-software-engineering
-  + Adobe — 2027 Intern - Security Engineer (SF Bay Area) [Security]
-    Apply: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001
-  + Amazon — Hardware Development Engineer Intern , Winter 2027 (Seattle) [Hardware/Silicon]
-    Apply: https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027
-  + Meta — Research Scientist Intern, Audio Quality with AI (Cambridge / Oxford) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/4556622427930384
-  + Meta — Enterprise Security Engineer, Intern (Summer 2027) (SF Bay Area) [Security]
-    Apply: https://www.metacareers.com/jobs/1079627324896327
-  + Meta — Research Scientist Intern, PhD — Meta Superintelligence Labs (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1510576574212840
+  + Apple — Internship - Machine Learning Research - Speech-to-Speech Translation (Boston) [AI/ML]
+    Apply: https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation
+  + Qualcomm — FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months) (Canada (Other)) [AI/ML]
+    Apply: https://careers.qualcomm.com/careers/job/446721664194?domain=qualcomm.com
+  + Qualcomm — FY27 Intern - Display Systems Engineering Internship - Canada (16 months) (Canada (Other)) [Software]
+    Apply: https://careers.qualcomm.com/careers/job/446721661677?domain=qualcomm.com
+  + Qualcomm — FY27 Intern - Edge AI and Display Hardware Architecture Development Engineering Internship - Canada (16 months) (Canada (Other)) [AI/ML]
+    Apply: https://careers.qualcomm.com/careers/job/446721661830?domain=qualcomm.com
+  + Amazon — 2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition (Europe (Other)) [AI/ML]
+    Apply: https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition
+  + Microsoft — Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge (Boston) [Software]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557044765
+  + HPE — Embedded Software Engineering Intern (US (Other)) [Backend/Infra]
+    Apply: https://careers.hpe.com/us/en/job/1214088
+  + Meta — Research Scientist Intern, Multimodal Learning for Robotics (PhD) (US (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1656954472496223
+  + Meta — Research Scientist Intern, Robot Foundation Models (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/27730225806654441
+  + Meta — Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1075160338670575
   + Meta — Research Scientist Intern, Audio, Numerical Acoustics (PhD) (Cambridge / Oxford) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1642811797633951
-  + Meta — Research Intern - Self-Improving Agentic Systems and AI Research Agents (London) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/994737396214791
-  + Meta — DFX Engineering Intern (SF Bay Area) [Software]
-    Apply: https://www.metacareers.com/jobs/1798345134744465
-  + Meta — Research Scientist Intern, Robotics Foundation Models Post-Training (PhD) (Zurich) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/848358355026771
-  + Meta — Security Engineer Posture Management, Intern (Summer 2027) (New York) [Security]
-    Apply: https://www.metacareers.com/jobs/1359570553913180
-  + Meta — Product Security Engineer, Intern (Summer 2027) (SF Bay Area) [Security]
-    Apply: https://www.metacareers.com/jobs/2535222523640873
-  + Meta — Detection & Response Security Engineer, Intern (Summer 2027) (New York) [Security]
-    Apply: https://www.metacareers.com/jobs/1677981003713152
-  + Meta — Research Scientist Intern, Multimodal Behavioral AI (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1428978125312655
-  + Meta — Research Scientist Intern, AI-Driven Neural Interfaces (PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1436615821934863
-  + Meta — Research Scientist Intern, Computational Imaging And Robotics (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/2857194467985784
+    Apply: https://www.metacareers.com/jobs/2188224482038078
+  + Meta — Research Scientist Intern, Robotics Foundation Models (PhD) (Zurich) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1085375117813817
+  + Meta — Research Scientist Intern – Robotics, World Models & Embodied AI (PhD) (London) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2281070982817094
+  + Meta — Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD) (Cambridge / Oxford) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/29859210493681744
+  + Meta — Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD) (Zurich) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1420325362923811
+  + Meta — Research Scientist Intern, Foundational Models for Robotics Research (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1078644001656413
+  + Meta — Research Intern, Audio Hardware (PhD) (Seattle) [Hardware/Silicon]
+    Apply: https://www.metacareers.com/jobs/1445807477756644
   + Meta — Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD) (Cambridge / Oxford) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1476285977740386
-  + HPE — ASIC Intern (US (Other)) [Hardware/Silicon]
-    Apply: https://careers.hpe.com/us/en/job/1214020
-  + HPE — Electrical Engineering Intern (US (Other)) [Software]
-    Apply: https://careers.hpe.com/us/en/job/1217551
-  + HPE — Hardware Engineering Design Intern (US (Other)) [Hardware/Silicon]
-    Apply: https://careers.hpe.com/us/en/job/1214168
-  + Microsoft — Data Science - Forward Deployed Engineer: PhD Internship Opportunities (Seattle) [Data]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557040991
-  + NVIDIA — Developer Technology Engineering Intern - Compute Performance (Munich) [Software]
-    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210
-  + NVIDIA — GenAI Algorithms Intern – Model Optimization for Inference (Europe (Other)) [AI/ML]
-    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377
-  + Intel — Middleware Software Engineering Intern (Europe (Other)) [Software]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213
-  + Intel — AI Software Development Intern (Europe (Other)) [AI/ML]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225
-  + Intel — DevOps Software Engineering Intern (Europe (Other)) [Backend/Infra]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210
-  + Intel — Design Verification Graduate Intern 2027 (US (Other)) [Software]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651
-  + Intel — AI Data Science / Software Engineering PhD Intern New 2027 (US (Other)) [AI/ML]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139
-  + Intel — AI Data Science / Software Engineering PhD Intern New 2027 (US (Other)) [AI/ML]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136
-  + Intel — AI Data Science / Software Engineering PhD Intern New 2027 (US (Other)) [AI/ML]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140
-  + Intel — AI Data Science / Software Engineering PhD Intern New 2027 (SF Bay Area) [AI/ML]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138
-  + Micron — Intern - Machine Learning Engineering (US (Other)) [AI/ML]
-    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750
-  + Micron — Intern - Semiconductor Global Category Supplier Management (SF Bay Area) [Hardware/Silicon]
-    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763
-  + Micron — Intern - SMAI Probe AI Engineer (US (Other)) [AI/ML]
-    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094
-  + Micron — Intern - SSD Firmware (SF Bay Area) [Backend/Infra]
-    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209
-  + Micron — Intern - SSD Firmware (US (Other)) [Backend/Infra]
-    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210
-  + Micron — Intern - ASIC Digital Design (US (Other)) [Hardware/Silicon]
-    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163
-  + Micron — Intern - ASIC Validation (US (Other)) [Hardware/Silicon]
-    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823
+    Apply: https://www.metacareers.com/jobs/2288012098648243
+  + NVIDIA — Systems Software Intern, Aerial PHY- Summer 2027 (SF Bay Area) [Software]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530
+  + NVIDIA — Software Intern - Embedded Systems 2027 (UK (Other)) [Software]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1
+  + NVIDIA — Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027 (SF Bay Area) [AI/ML]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962
+  + Intel — Media AI Software Intern (Europe (Other)) [AI/ML]
+    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216
+  + Intel — System Software Engineering Intern (Europe (Other)) [Software]
+    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207
+  + Intel — Intern Software QA Test Engineer (Europe (Other)) [Software]
+    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220
+  + Intel — Information Security Engineer Undergraduate Intern (US (Other)) [Security]
+    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588
 
 [INTERNSHIPS CLOSED]
-  - Autodesk — Intern Software Developer, Stagiaire en Développement Logiciel (Montreal)
-  - Autodesk — Stagiaire en Développement Cloud, Intern Cloud Developer (Montreal)
-  - Autodesk — Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP (Montreal)
-  - Autodesk — Intern, AI Developer/ Stagiaire en développement IA (Montreal)
-  - Autodesk — Intern, Research - Context and Knowledge Systems for AI (Remote (UK))
-  - Autodesk — Intern, Software Engineer (Cambridge / Oxford)
-  - Autodesk — Software Development Internship (Summer 2027) (Toronto)
-  - Autodesk — Intern, Software Engineer (UK (Other))
-  - Databricks — Software Engineering Intern (2027 Start) - Winter (SF Bay Area)
-  - HPE — Internship - Cloud Dev Engineering (Europe (Other))
-  - Intel — AI Solution Architect - Undergraduate Intern (US (Other))
-  - Intel — Cloud Analytics - Application PhD Intern (US (Other))
-  - Meta — DFX Engineering Intern (Seattle)
-  - Micron — Intern - SSD Hardware Engineering (US (Other))
-  - Microsoft — Applied Sciences INTERN (India (Multiple/Other))
-  - Microsoft — Cloud Network Engineering Internship Opportunities (Seattle)
-  - Microsoft — Applied Science Intern (London)
-  - NVIDIA — System Software Engineering Intern, GPU - 2027 (Remote (EU))
-  - Visa — Staff Research Scientist, Intern - PhD Quantum (US (Other))
+  - Amazon — Business Developer Intern - 2027 - 6 months (Munich)
+  - Apple — Internship - Software Engineering - AI-Augmented Static Code Analysis (Munich)
+  - Cisco — Software Engineer Data & AI II (Intern) – United States (SF Bay Area)
+  - Dell Technologies — CSG Hardware Engineering Intern (US (Other))
+  - Intel — Software Solutions Eng PhD Intern (Europe (Other))
+  - Meta — Research Scientist Intern, Audio, Numerical Acoustics (PhD) (Cambridge / Oxford)
 
 [FAILED SCRAPERS]
   × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/

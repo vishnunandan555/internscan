@@ -1,77 +1,107 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-10-21T00:01:09Z",
-  "new_count": 28,
-  "reopened_count": 1,
-  "total_active": 329,
+  "updated_at": "2026-10-22T00:05:51Z",
+  "new_count": 11,
+  "reopened_count": 0,
+  "total_active": 338,
   "new_jobs": [
     {
-      "company": "Salesforce",
-      "title": "Summer 2027 Intern - AI Research",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
+      "company": "Apple",
+      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+      "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation",
       "locations": [
-        "California - Palo Alto",
-        "California, Palo Alto"
+        "Cambridge"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Boston",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     },
     {
-      "company": "Adobe",
-      "title": "2027 Intern - Security Engineer",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
       "locations": [
-        "San Jose"
+        "United States, Massachusetts, Cambridge"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Boston",
       "country": "us",
       "region": "AMER",
-      "category": "Security",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "category": "Software",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     },
     {
-      "company": "Amazon",
-      "title": "Hardware Development Engineer Intern , Winter 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
+      "company": "HPE",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1214088",
       "locations": [
-        "Bellevue, Washington, USA"
+        "Roseville, California, 95747",
+        "Roseville, California, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Multimodal Learning for Robotics (PhD)",
+      "url": "https://www.metacareers.com/jobs/1656954472496223",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Robot Foundation Models (PhD)",
+      "url": "https://www.metacareers.com/jobs/27730225806654441",
+      "locations": [
+        "Redmond, WA"
       ],
       "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Meta",
-      "title": "Enterprise Security Engineer, Intern (Summer 2027)",
-      "url": "https://www.metacareers.com/jobs/1079627324896327",
+      "title": "Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR",
+      "url": "https://www.metacareers.com/jobs/1075160338670575",
       "locations": [
-        "Menlo Park, CA",
-        "New York, NY"
+        "Burlingame, CA",
+        "Redmond, WA"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "category": "Security",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, PhD — Meta Superintelligence Labs",
-      "url": "https://www.metacareers.com/jobs/1510576574212840",
+      "title": "Research Scientist Intern, Foundational Models for Robotics Research (PhD)",
+      "url": "https://www.metacareers.com/jobs/1078644001656413",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -79,391 +109,73 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Meta",
-      "title": "DFX Engineering Intern",
-      "url": "https://www.metacareers.com/jobs/1798345134744465",
-      "locations": [
-        "Seattle, WA",
-        "Sunnyvale, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Security Engineer Posture Management, Intern (Summer 2027)",
-      "url": "https://www.metacareers.com/jobs/1359570553913180",
-      "locations": [
-        "New York, NY"
-      ],
-      "city_tag": "New York",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-10-07",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Product Security Engineer, Intern (Summer 2027)",
-      "url": "https://www.metacareers.com/jobs/2535222523640873",
-      "locations": [
-        "Menlo Park, CA",
-        "New York, NY"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-10-07",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Detection & Response Security Engineer, Intern (Summer 2027)",
-      "url": "https://www.metacareers.com/jobs/1677981003713152",
-      "locations": [
-        "New York, NY"
-      ],
-      "city_tag": "New York",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-10-07",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Multimodal Behavioral AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/1428978125312655",
+      "title": "Research Intern, Audio Hardware (PhD)",
+      "url": "https://www.metacareers.com/jobs/1445807477756644",
       "locations": [
         "Redmond, WA"
       ],
       "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "category": "Hardware/Silicon",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI-Driven Neural Interfaces (PhD)",
-      "url": "https://www.metacareers.com/jobs/1436615821934863",
+      "company": "NVIDIA",
+      "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
       "locations": [
-        "Burlingame, CA",
-        "Menlo Park, CA",
-        "New York, NY"
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
       ],
       "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Computational Imaging And Robotics (PhD)",
-      "url": "https://www.metacareers.com/jobs/2857194467985784",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "HPE",
-      "title": "ASIC Intern",
-      "url": "https://careers.hpe.com/us/en/job/1214020",
-      "locations": [
-        "Roseville, California, 95747",
-        "Roseville, California, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-19",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "HPE",
-      "title": "Electrical Engineering Intern",
-      "url": "https://careers.hpe.com/us/en/job/1217551",
-      "locations": [
-        "Spring, Texas, 77389-1767",
-        "Spring, Texas, United States of America"
-      ],
-      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     },
     {
-      "company": "HPE",
-      "title": "Hardware Engineering Design Intern",
-      "url": "https://careers.hpe.com/us/en/job/1214168",
+      "company": "NVIDIA",
+      "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
       "locations": [
-        "Roseville, California, 95747",
-        "Roseville, California, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-19",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Data Science - Forward Deployed Engineer: PhD Internship Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Intel",
-      "title": "Design Verification Graduate Intern 2027",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
-      "locations": [
-        "2 Locations",
-        "US Colorado Fort Collins"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Intel",
-      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139",
-      "locations": [
-        "US Oregon Hillsboro",
-        "US, Oregon, Hillsboro"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Intel",
-      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136",
-      "locations": [
-        "US Oregon Hillsboro",
-        "US, Oregon, Hillsboro"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Intel",
-      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140",
-      "locations": [
-        "US Oregon Hillsboro",
-        "US, Oregon, Hillsboro"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Intel",
-      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138",
-      "locations": [
-        "US California Santa Clara",
-        "US, California, Santa Clara"
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     },
     {
-      "company": "Micron",
-      "title": "Intern - Machine Learning Engineering",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
+      "company": "Intel",
+      "title": "Information Security Engineer Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
       "locations": [
-        "Richardson TX",
-        "Richardson, TX"
+        "US California Folsom",
+        "US, California, Folsom"
       ],
       "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - Semiconductor Global Category Supplier Management",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763",
-      "locations": [
-        "2 Locations",
-        "San Jose CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - SMAI Probe AI Engineer",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - SSD Firmware",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
-      "locations": [
-        "2 Locations",
-        "San Jose CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - SSD Firmware",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
-      "locations": [
-        "2 Locations",
-        "Boise ID, Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - ASIC Digital Design",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163",
-      "locations": [
-        "Minneapolis MN",
-        "Minneapolis, MN"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - ASIC Validation",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823",
-      "locations": [
-        "Minneapolis MN",
-        "Minneapolis, MN"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "category": "Security",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
     }
   ],
-  "reopened_jobs": [
-    {
-      "company": "Micron",
-      "title": "Intern - IT Software Engineer",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
-    }
-  ]
+  "reopened_jobs": []
 }

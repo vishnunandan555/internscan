@@ -1,9 +1,85 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-21T00:01:09Z",
-  "total_active": 33,
+  "updated_at": "2026-10-22T00:05:51Z",
+  "total_active": 36,
   "jobs": [
+    {
+      "company": "NVIDIA",
+      "title": "Software Intern - Embedded Systems 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
+      "locations": [
+        "UK Bristol",
+        "UK, Bristol"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2188224482038078",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/2281070982817094",
+      "locations": [
+        "London, UK"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
+      "url": "https://www.metacareers.com/jobs/29859210493681744",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/2288012098648243",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
     {
       "company": "Meta",
       "title": "Research Scientist Intern, Audio Quality with AI",
@@ -17,22 +93,7 @@
       "category": "AI/ML",
       "posted": "2026-10-20",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
-      "url": "https://www.metacareers.com/jobs/1642811797633951",
-      "locations": [
-        "Cambridge, UK"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Meta",
@@ -47,23 +108,7 @@
       "category": "AI/ML",
       "posted": "2026-10-20",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
-      "url": "https://www.metacareers.com/jobs/1476285977740386",
-      "locations": [
-        "Cambridge, UK",
-        "Zurich, Switzerland"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-14",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Visa",
@@ -79,7 +124,7 @@
       "category": "Data",
       "posted": "2026-10-20",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Microsoft",
@@ -94,7 +139,7 @@
       "category": "AI/ML",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "CrowdStrike",
@@ -110,7 +155,7 @@
       "category": "Security",
       "posted": "2026-10-20",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Apple",
@@ -125,7 +170,7 @@
       "category": "Security",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "JPMorgan Chase",
@@ -140,7 +185,7 @@
       "category": "AI/ML",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "HPE",
@@ -156,7 +201,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-16",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Apple",
@@ -171,7 +216,7 @@
       "category": "Software",
       "posted": "2026-10-16",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Amazon",
@@ -186,7 +231,7 @@
       "category": "Software",
       "posted": "2026-09-17",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Amazon",
@@ -201,7 +246,7 @@
       "category": "Backend/Infra",
       "posted": "2026-03-11",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Stripe",
@@ -214,9 +259,9 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "NVIDIA",
@@ -230,9 +275,9 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-14",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Meta",
@@ -248,7 +293,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-12",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "JPMorgan Chase",
@@ -264,7 +309,7 @@
       "category": "Software",
       "posted": "2026-08-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "JPMorgan Chase",
@@ -280,7 +325,7 @@
       "category": "Data",
       "posted": "2026-08-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "JPMorgan Chase",
@@ -295,7 +340,7 @@
       "category": "Software",
       "posted": "2026-08-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "HPE",
@@ -311,7 +356,7 @@
       "category": "Software",
       "posted": "2026-09-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Google",
@@ -326,7 +371,7 @@
       "category": "Software",
       "posted": "2026-09-03",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Google",
@@ -341,7 +386,7 @@
       "category": "Software",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Google",
@@ -356,7 +401,7 @@
       "category": "Data",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Google",
@@ -371,7 +416,7 @@
       "category": "Software",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Google",
@@ -394,7 +439,7 @@
       "category": "AI/ML",
       "posted": "2026-10-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Databricks",
@@ -409,7 +454,7 @@
       "category": "Software",
       "posted": "2026-10-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Cisco",
@@ -424,7 +469,7 @@
       "category": "Software",
       "posted": "2026-08-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Cisco",
@@ -439,7 +484,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Apple",
@@ -454,7 +499,7 @@
       "category": "QA",
       "posted": "2026-09-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Amazon",
@@ -469,7 +514,7 @@
       "category": "Software",
       "posted": "2026-09-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Amazon",
@@ -484,7 +529,7 @@
       "category": "Data",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Amazon",
@@ -499,7 +544,7 @@
       "category": "AI/ML",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     {
       "company": "Amazon",
@@ -514,7 +559,7 @@
       "category": "Security",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     }
   ]
 }
