@@ -1,68 +1,68 @@
 ========================================================================
 INDIA TECH INTERNSHIPS TRACKER — DETAILED SCRAPE LOG
-Started:  2026-10-23 00:03:26 UTC
-Finished: 2026-10-23 00:04:51 UTC (85.0s)
-Result:   59 succeeded, 1 failed, 582 active India listings
+Started:  2026-10-23 23:54:25 UTC
+Finished: 2026-10-23 23:55:48 UTC (82.7s)
+Result:   60 succeeded, 0 failed, 582 active India listings
 ========================================================================
 
-[00:03:26] [INFO ] Starting scrape for 60 companies with 8 workers (country=None, dry_run=False, keyword=None)
-[00:03:30] [INFO ] [OK]   Salesforce               ( 3.3s) ->   51 postings, 22 interns, 2 matched
-[00:03:30] [INFO ] [OK]   Google                   ( 3.6s) ->   89 postings, 89 interns, 34 matched
-[00:03:31] [INFO ] [OK]   Apple                    ( 5.2s) ->  169 postings, 117 interns, 36 matched
-[00:03:32] [INFO ] [OK]   Netflix                  ( 0.4s) ->    5 postings,  3 interns, 2 matched
-[00:03:37] [INFO ] [OK]   Amazon                   (10.6s) ->  734 postings, 446 interns, 69 matched
-[00:03:37] [INFO ] [OK]   Adobe                    (10.6s) ->  134 postings, 25 interns, 6 matched
-[00:03:37] [INFO ] [OK]   Qualcomm                 ( 7.6s) ->  100 postings, 93 interns, 46 matched
-[00:03:37] [INFO ] [OK]   Cisco                    ( 0.5s) ->   53 postings, 44 interns, 18 matched
-[00:03:38] [INFO ] [OK]   AMD                      ( 0.4s) ->   10 postings, 10 interns, 7 matched
-[00:03:40] [INFO ] [OK]   Dell Technologies        ( 3.3s) ->  165 postings, 18 interns, 5 matched
-[00:03:41] [INFO ] [OK]   HPE                      ( 1.3s) ->  166 postings, 155 interns, 52 matched
-[00:03:44] [INFO ] [OK]   Microsoft                (18.0s) ->  142 postings, 90 interns, 30 matched
-[00:03:45] [INFO ] [OK]   Red Hat                  ( 7.6s) ->  112 postings, 21 interns, 2 matched
-[00:03:46] [INFO ] [OK]   Broadcom (VMware)        ( 4.6s) ->   92 postings,  0 interns, 0 matched
-[00:03:50] [INFO ] [OK]   Meta                     (20.4s) ->  560 postings, 99 interns, 88 matched
-[00:03:52] [INFO ] [OK]   ServiceNow               ( 6.7s) ->  712 postings,  6 interns, 3 matched
-[00:03:53] [INFO ] [OK]   Oracle                   (27.1s) -> 1000 postings, 16 interns, 2 matched
-[00:03:55] [INFO ] [OK]   NVIDIA                   (28.3s) ->  300 postings, 190 interns, 54 matched
-[00:04:00] [INFO ] [OK]   PayPal                   (15.4s) ->  185 postings,  0 interns, 0 matched
-[00:04:00] [INFO ] [OK]   Snowflake                ( 0.3s) ->    8 postings,  6 interns, 4 matched
-[00:04:00] [INFO ] [OK]   Intel                    (23.1s) ->  300 postings, 101 interns, 50 matched
-[00:04:01] [INFO ] [OK]   GitHub                   ( 0.7s) ->   68 postings,  0 interns, 0 matched
-[00:04:02] [INFO ] [OK]   Walmart Global Tech      (30.2s) ->  300 postings, 297 interns, 6 matched
-[00:04:03] [INFO ] [OK]   Nokia                    ( 8.2s) ->  233 postings, 44 interns, 15 matched
-[00:04:03] [INFO ] [OK]   CrowdStrike              (16.8s) ->  231 postings,  5 interns, 1 matched
-[00:04:07] [INFO ] [OK]   Palo Alto Networks       (16.8s) ->  300 postings,  1 interns, 0 matched
-[00:04:10] [INFO ] [OK]   Micron                   (16.7s) ->  300 postings, 28 interns, 8 matched
-[00:04:18] [INFO ] [OK]   JPMorgan Chase           (18.1s) -> 1000 postings, 106 interns, 8 matched
-[00:04:21] [INFO ] [OK]   Barclays                 (18.2s) ->  300 postings,  6 interns, 0 matched
-[00:04:21] [INFO ] [OK]   Jane Street              ( 0.2s) ->  220 postings, 41 interns, 8 matched
-[00:04:21] [INFO ] [OK]   Stripe                   ( 0.1s) ->  727 postings, 15 interns, 11 matched
-[00:04:21] [INFO ] [OK]   MongoDB                  ( 0.1s) ->  389 postings,  1 interns, 1 matched
-[00:04:22] [INFO ] [OK]   Rubrik                   ( 0.3s) ->  148 postings,  2 interns, 0 matched
-[00:04:22] [INFO ] [OK]   Cloudflare               ( 0.1s) ->  446 postings,  3 interns, 0 matched
-[00:04:22] [INFO ] [OK]   Datadog                  ( 0.1s) ->  439 postings,  8 interns, 5 matched
-[00:04:22] [INFO ] [OK]   Workday                  (30.4s) ->  186 postings,  1 interns, 0 matched
-[00:04:22] [INFO ] [OK]   Elastic                  ( 0.1s) ->  392 postings,  0 interns, 0 matched
-[00:04:23] [INFO ] [OK]   GitLab                   ( 0.1s) ->  232 postings,  0 interns, 0 matched
-[00:04:23] [INFO ] [OK]   Twilio                   ( 0.0s) ->  131 postings,  0 interns, 0 matched
-[00:04:23] [INFO ] [OK]   Okta                     ( 0.1s) ->  395 postings,  0 interns, 0 matched
-[00:04:23] [INFO ] [OK]   Pure Storage             ( 0.1s) ->  365 postings,  1 interns, 1 matched
-[00:04:26] [INFO ] [OK]   Databricks               ( 3.8s) ->  901 postings, 13 interns, 7 matched
-[00:04:27] [INFO ] [OK]   Wells Fargo              (24.7s) ->  300 postings,  8 interns, 0 matched
-[00:04:27] [INFO ] [OK]   Razorpay                 ( 0.0s) ->   25 postings,  0 interns, 0 matched
-[00:04:28] [INFO ] [OK]   PhonePe                  ( 2.3s) ->  120 postings,  1 interns, 0 matched
-[00:04:28] [INFO ] [OK]   Freshworks               ( 1.4s) ->  127 postings,  0 interns, 0 matched
-[00:04:28] [INFO ] [OK]   Morgan Stanley           (25.5s) ->  300 postings,  3 interns, 0 matched
-[00:04:29] [INFO ] [OK]   CRED                     ( 0.7s) ->    8 postings,  0 interns, 0 matched
-[00:04:29] [INFO ] [OK]   Groww                    ( 0.1s) ->   10 postings,  1 interns, 0 matched
-[00:04:29] [INFO ] [OK]   Meesho                   ( 1.0s) ->   59 postings,  0 interns, 0 matched
-[00:04:29] [INFO ] [OK]   InMobi                   ( 0.0s) ->   80 postings,  0 interns, 0 matched
-[00:04:29] [INFO ] [OK]   Visa                     (22.5s) ->  300 postings,  2 interns, 1 matched
-[00:04:30] [INFO ] [OK]   Zomato                   ( 0.4s) ->    3 postings,  1 interns, 0 matched
-[00:04:30] [INFO ] [OK]   Zeta                     ( 1.2s) ->   27 postings,  0 interns, 0 matched
-[00:04:31] [INFO ] [OK]   Swiggy                   ( 3.0s) ->  205 postings,  1 interns, 0 matched
-[00:04:34] [INFO ] [OK]   Autodesk                 (11.1s) ->  146 postings,  1 interns, 0 matched
-[00:04:35] [INFO ] [OK]   Target                   ( 5.4s) ->   58 postings,  0 interns, 0 matched
-[00:04:35] [INFO ] [OK]   Mastercard               (25.2s) ->  300 postings,  2 interns, 0 matched
-[00:04:39] [ERROR] [FAIL] Accenture                (38.8s) -> ERROR: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs (HTTP 429)
-[00:04:51] [INFO ] [OK]   Bloomberg                (32.8s) ->  203 postings,  0 interns, 0 matched
+[23:54:25] [INFO ] Starting scrape for 60 companies with 8 workers (country=None, dry_run=False, keyword=None)
+[23:54:29] [INFO ] [OK]   Google                   ( 3.3s) ->   89 postings, 89 interns, 34 matched
+[23:54:29] [INFO ] [OK]   Salesforce               ( 3.3s) ->   51 postings, 22 interns, 2 matched
+[23:54:31] [INFO ] [OK]   Apple                    ( 5.4s) ->  168 postings, 118 interns, 36 matched
+[23:54:31] [INFO ] [OK]   Netflix                  ( 0.3s) ->    5 postings,  3 interns, 2 matched
+[23:54:35] [INFO ] [OK]   Adobe                    ( 9.9s) ->  131 postings, 24 interns, 6 matched
+[23:54:37] [INFO ] [OK]   Qualcomm                 ( 8.3s) ->  100 postings, 93 interns, 46 matched
+[23:54:37] [INFO ] [OK]   Cisco                    ( 0.4s) ->   53 postings, 43 interns, 18 matched
+[23:54:38] [INFO ] [OK]   Amazon                   (12.3s) ->  741 postings, 456 interns, 69 matched
+[23:54:38] [INFO ] [OK]   AMD                      ( 0.5s) ->   10 postings, 10 interns, 7 matched
+[23:54:39] [INFO ] [OK]   Dell Technologies        ( 3.4s) ->  168 postings, 19 interns, 5 matched
+[23:54:40] [INFO ] [OK]   HPE                      ( 1.5s) ->  169 postings, 155 interns, 53 matched
+[23:54:42] [INFO ] [OK]   Microsoft                (16.7s) ->  144 postings, 91 interns, 29 matched
+[23:54:45] [INFO ] [OK]   Broadcom (VMware)        ( 4.8s) ->   88 postings,  0 interns, 0 matched
+[23:54:46] [INFO ] [OK]   Red Hat                  ( 7.4s) ->  111 postings, 21 interns, 2 matched
+[23:54:50] [INFO ] [OK]   Meta                     (21.1s) ->  571 postings, 105 interns, 94 matched
+[23:54:50] [INFO ] [OK]   NVIDIA                   (24.5s) ->  300 postings, 196 interns, 54 matched
+[23:54:52] [INFO ] [OK]   ServiceNow               ( 6.8s) ->  715 postings,  6 interns, 3 matched
+[23:54:56] [INFO ] [OK]   Oracle                   (30.1s) -> 1000 postings, 16 interns, 2 matched
+[23:54:58] [INFO ] [OK]   PayPal                   (15.8s) ->  185 postings,  0 interns, 0 matched
+[23:54:58] [INFO ] [OK]   Snowflake                ( 0.3s) ->    8 postings,  6 interns, 4 matched
+[23:54:59] [INFO ] [OK]   GitHub                   ( 0.8s) ->   73 postings,  0 interns, 0 matched
+[23:55:00] [INFO ] [OK]   Intel                    (22.5s) ->  300 postings, 103 interns, 51 matched
+[23:55:01] [INFO ] [OK]   Nokia                    ( 5.2s) ->  229 postings, 43 interns, 15 matched
+[23:55:02] [INFO ] [OK]   Walmart Global Tech      (30.5s) ->  300 postings, 295 interns, 6 matched
+[23:55:02] [INFO ] [OK]   CrowdStrike              (16.6s) ->  236 postings,  5 interns, 1 matched
+[23:55:07] [INFO ] [OK]   Palo Alto Networks       (17.1s) ->  300 postings,  1 interns, 0 matched
+[23:55:09] [INFO ] [OK]   Micron                   (16.8s) ->  300 postings,  2 interns, 0 matched
+[23:55:17] [INFO ] [OK]   JPMorgan Chase           (17.7s) -> 1000 postings, 108 interns, 8 matched
+[23:55:18] [INFO ] [OK]   Workday                  (28.3s) ->  191 postings,  1 interns, 0 matched
+[23:55:19] [INFO ] [OK]   Jane Street              ( 0.3s) ->  220 postings, 41 interns, 8 matched
+[23:55:19] [INFO ] [OK]   Stripe                   ( 0.2s) ->  720 postings, 15 interns, 11 matched
+[23:55:19] [INFO ] [OK]   MongoDB                  ( 0.1s) ->  383 postings,  3 interns, 3 matched
+[23:55:19] [INFO ] [OK]   Rubrik                   ( 0.1s) ->  150 postings,  2 interns, 0 matched
+[23:55:19] [INFO ] [OK]   Cloudflare               ( 0.1s) ->  453 postings,  3 interns, 0 matched
+[23:55:19] [INFO ] [OK]   Datadog                  ( 0.1s) ->  434 postings,  7 interns, 5 matched
+[23:55:19] [INFO ] [OK]   Databricks               ( 0.1s) ->  895 postings, 13 interns, 7 matched
+[23:55:20] [INFO ] [OK]   Elastic                  ( 0.1s) ->  402 postings,  0 interns, 0 matched
+[23:55:20] [INFO ] [OK]   GitLab                   ( 0.1s) ->  239 postings,  0 interns, 0 matched
+[23:55:20] [INFO ] [OK]   Twilio                   ( 0.1s) ->  134 postings,  0 interns, 0 matched
+[23:55:20] [INFO ] [OK]   Okta                     ( 0.2s) ->  389 postings,  0 interns, 0 matched
+[23:55:20] [INFO ] [OK]   Pure Storage             ( 0.1s) ->  364 postings,  1 interns, 1 matched
+[23:55:21] [INFO ] [OK]   Barclays                 (19.0s) ->  300 postings,  2 interns, 0 matched
+[23:55:24] [INFO ] [OK]   PhonePe                  ( 2.4s) ->  118 postings,  1 interns, 0 matched
+[23:55:24] [INFO ] [OK]   Razorpay                 ( 0.1s) ->   26 postings,  0 interns, 0 matched
+[23:55:25] [INFO ] [OK]   Morgan Stanley           (23.2s) ->  300 postings,  4 interns, 0 matched
+[23:55:25] [INFO ] [OK]   Freshworks               ( 1.3s) ->  126 postings,  0 interns, 0 matched
+[23:55:26] [INFO ] [OK]   Meesho                   ( 0.7s) ->   58 postings,  0 interns, 0 matched
+[23:55:26] [INFO ] [OK]   Wells Fargo              (25.2s) ->  300 postings,  8 interns, 0 matched
+[23:55:26] [INFO ] [OK]   CRED                     ( 0.4s) ->    8 postings,  0 interns, 0 matched
+[23:55:26] [INFO ] [OK]   Groww                    ( 0.1s) ->   10 postings,  1 interns, 0 matched
+[23:55:26] [INFO ] [OK]   InMobi                   ( 0.1s) ->   82 postings,  1 interns, 0 matched
+[23:55:27] [INFO ] [OK]   Zomato                   ( 0.4s) ->    3 postings,  1 interns, 0 matched
+[23:55:27] [INFO ] [OK]   Zeta                     ( 0.7s) ->   27 postings,  0 interns, 0 matched
+[23:55:28] [INFO ] [OK]   Swiggy                   ( 3.0s) ->  201 postings,  1 interns, 0 matched
+[23:55:30] [INFO ] [OK]   Visa                     (23.2s) ->  300 postings,  1 interns, 0 matched
+[23:55:32] [INFO ] [OK]   Target                   ( 5.4s) ->   58 postings,  0 interns, 0 matched
+[23:55:32] [INFO ] [OK]   Autodesk                 (12.1s) ->  145 postings,  1 interns, 0 matched
+[23:55:33] [INFO ] [OK]   Accenture                (33.5s) ->  300 postings,  2 interns, 0 matched
+[23:55:33] [INFO ] [OK]   Mastercard               (24.7s) ->  300 postings,  1 interns, 0 matched
+[23:55:48] [INFO ] [OK]   Bloomberg                (31.4s) ->  204 postings,  0 interns, 0 matched

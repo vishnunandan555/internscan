@@ -1,13 +1,28 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-10-23T00:04:51Z",
-  "total_active": 127,
+  "updated_at": "2026-10-23T23:55:48Z",
+  "total_active": 118,
   "jobs": [
     {
+      "company": "MongoDB",
+      "title": "2027 - Summer Software Engineer Intern, Dublin",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+      "locations": [
+        "Dublin"
+      ],
+      "city_tag": "Dublin",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
       "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
-      "url": "https://www.metacareers.com/jobs/1886039392386822",
+      "title": "Research Scientist Intern, Muse RL and Agents Team (MSc)",
+      "url": "https://www.metacareers.com/jobs/1647286810370437",
       "locations": [
         "Paris, France"
       ],
@@ -21,8 +36,8 @@
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, Muse RL and Agents Team (MSc)",
-      "url": "https://www.metacareers.com/jobs/1647286810370437",
+      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
+      "url": "https://www.metacareers.com/jobs/1886039392386822",
       "locations": [
         "Paris, France"
       ],
@@ -46,7 +61,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
@@ -57,6 +72,21 @@
       "locations": [
         "Germany Munich",
         "Germany, Munich"
+      ],
+      "city_tag": "Munich",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Amazon",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027",
+      "locations": [
+        "Munich, Bavaria, DEU"
       ],
       "city_tag": "Munich",
       "country": "eu",
@@ -108,7 +138,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-23"
     },
@@ -124,7 +154,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-23"
     },
@@ -140,7 +170,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-23"
     },
@@ -171,7 +201,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -187,7 +217,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -233,7 +263,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -249,7 +279,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -265,7 +295,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -311,7 +341,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-23"
     },
@@ -371,7 +401,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-23"
     },
@@ -402,7 +432,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-17",
+      "posted": "2026-10-16",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-23"
     },
@@ -418,7 +448,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-23"
     },
@@ -434,7 +464,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-23"
     },
@@ -480,7 +510,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-17",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-23"
     },
@@ -721,7 +751,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -737,7 +767,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -753,7 +783,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -769,7 +799,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-09-30",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -785,7 +815,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -801,7 +831,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -817,7 +847,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -833,7 +863,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -849,7 +879,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -865,7 +895,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -880,7 +910,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-20",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -896,51 +926,6 @@
       "region": "EMEA",
       "category": "Backend/Infra",
       "posted": "2026-09-14",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Software Engineering Internship Opportunities - CoreAI",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021513",
-      "locations": [
-        "Czech Republic, Prague, Prague"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-07",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Software Engineering Internship Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021515",
-      "locations": [
-        "Czech Republic, Multiple Locations, Multiple Locations"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-07",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Research Sciences INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557026573",
-      "locations": [
-        "Switzerland, Zürich, Zürich"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-09",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -986,7 +971,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1002,7 +987,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1018,7 +1003,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1034,7 +1019,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1050,7 +1035,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1066,7 +1051,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1082,7 +1067,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1098,7 +1083,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1114,7 +1099,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1130,7 +1115,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1146,7 +1131,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1162,7 +1147,7 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Backend/Infra",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1834,126 +1819,6 @@
       "posted": "2025-12-01",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Accenture",
-      "title": "LLM Engineer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-09-20",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20"
-    },
-    {
-      "company": "Accenture",
-      "title": "Backend Developer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20"
-    },
-    {
-      "company": "Accenture",
-      "title": "GenAI Engineering Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-14",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20"
-    },
-    {
-      "company": "Accenture",
-      "title": "Digital Engineering Internship",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505",
-      "locations": [
-        "Amsterdam"
-      ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-20",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20"
-    },
-    {
-      "company": "Accenture",
-      "title": "Adobe Experience Cloud Intern Analyst | MarTech & Digital Experience Internship Program (He/She/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-09-20",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20"
-    },
-    {
-      "company": "Accenture",
-      "title": "Angular Developer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-20",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20"
-    },
-    {
-      "company": "Accenture",
-      "title": "Health Technology Internship",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078",
-      "locations": [
-        "Amsterdam"
-      ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-26",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20"
-    },
-    {
-      "company": "Accenture",
-      "title": "Public Services Technology Internship",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088",
-      "locations": [
-        "Amsterdam"
-      ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-07",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20"
     }
   ]
 }

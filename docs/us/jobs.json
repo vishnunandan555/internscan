@@ -1,144 +1,222 @@
 {
-  "updated_at": "2026-10-23T00:04:51Z",
+  "updated_at": "2026-10-23T23:55:48Z",
   "jobs": {
     "nvidia:JR2026949": {
       "uid": "nvidia:JR2026949",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "NVIDIA",
+      "country": "us",
       "external_id": "JR2026949",
-      "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
+      "posted": "2026-10-21",
       "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
+      "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949"
     },
     "nvidia:JR2027089": {
       "uid": "nvidia:JR2027089",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
       "company": "NVIDIA",
+      "country": "us",
       "external_id": "JR2027089",
-      "title": "PhD Research Intern, Robotic Perception and Learning - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "3 Locations",
         "US WA Redmond"
       ],
-      "category": "AI/ML",
-      "city_tag": "Seattle",
-      "country": "us",
+      "posted": "2026-10-21",
       "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
+      "title": "PhD Research Intern, Robotic Perception and Learning - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089"
     },
-    "microsoft:1970393557044769": {
-      "uid": "microsoft:1970393557044769",
-      "company": "Microsoft",
-      "external_id": "1970393557044769",
-      "title": "Security Research Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+    "mongodb:8209134": {
+      "uid": "mongodb:8209134",
+      "company": "MongoDB",
+      "external_id": "8209134",
+      "title": "2027 - Software Engineering Intern, AMER",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
       "locations": [
-        "United States, Washington, Redmond"
+        "Austin",
+        "New York City",
+        "Palo Alto",
+        "San Francisco",
+        "Seattle"
       ],
-      "category": "Security",
-      "city_tag": "Seattle",
+      "category": "Software",
+      "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "active": true
     },
     "microsoft:1970393556922922": {
       "uid": "microsoft:1970393556922922",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Seattle",
       "company": "Microsoft",
+      "country": "us",
       "external_id": "1970393556922922",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "United States, Washington, Redmond"
       ],
-      "category": "Software",
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
+    },
+    "microsoft:1970393557044769": {
+      "uid": "microsoft:1970393557044769",
+      "active": true,
+      "category": "Security",
+      "city_tag": "Seattle",
+      "company": "Microsoft",
+      "country": "us",
+      "external_id": "1970393557044769",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
-      "active": true
-    },
-    "meta:2615214025585454": {
-      "uid": "meta:2615214025585454",
-      "company": "Meta",
-      "external_id": "2615214025585454",
-      "title": "Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)",
-      "url": "https://www.metacareers.com/jobs/2615214025585454",
       "locations": [
-        "Bellevue, WA",
-        "New York, NY",
-        "Seattle, WA"
+        "United States, Washington, Redmond"
       ],
-      "category": "AI/ML",
-      "city_tag": "Seattle",
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Security Research Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769"
+    },
+    "microsoft:1970393557044771": {
+      "uid": "microsoft:1970393557044771",
+      "company": "Microsoft",
+      "external_id": "1970393557044771",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "locations": [
+        "United States, Oklahoma, Tulsa"
+      ],
+      "category": "Software",
+      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-10-21",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "active": true
     },
     "meta:1081255008061721": {
       "uid": "meta:1081255008061721",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
       "company": "Meta",
+      "country": "us",
       "external_id": "1081255008061721",
-      "title": "Research Scientist Intern, FAIR - Physical Engineering AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/1081255008061721",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "New York, NY",
         "Seattle, WA"
       ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Research Scientist Intern, FAIR - Physical Engineering AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1081255008061721"
+    },
+    "meta:1097992326377524": {
+      "uid": "meta:1097992326377524",
+      "active": true,
       "category": "AI/ML",
       "city_tag": "Seattle",
+      "company": "Meta",
       "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-22",
+      "external_id": "1097992326377524",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
-      "active": true
-    },
-    "meta:3549654831867862": {
-      "uid": "meta:3549654831867862",
-      "company": "Meta",
-      "external_id": "3549654831867862",
-      "title": "Research Scientist Intern, FAIR - Video Generation (PhD)",
-      "url": "https://www.metacareers.com/jobs/3549654831867862",
       "locations": [
-        "Menlo Park, CA",
-        "Seattle, WA"
+        "Redmond, WA"
       ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Research Scientist Intern, World-Model Aware Perception & Communication (PhD)",
+      "url": "https://www.metacareers.com/jobs/1097992326377524"
+    },
+    "meta:1136354555738164": {
+      "uid": "meta:1136354555738164",
+      "active": true,
       "category": "AI/ML",
       "city_tag": "SF Bay Area",
+      "company": "Meta",
       "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-21",
+      "external_id": "1136354555738164",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
-      "active": true
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Research Scientist Intern, MSL Agents (PhD)",
+      "url": "https://www.metacareers.com/jobs/1136354555738164"
+    },
+    "meta:1582569213186235": {
+      "uid": "meta:1582569213186235",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1582569213186235",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Central Applied Science (PhD)",
+      "url": "https://www.metacareers.com/jobs/1582569213186235"
+    },
+    "meta:2162858564439476": {
+      "uid": "meta:2162858564439476",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "2162858564439476",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Research Scientist Intern, FAIR Chemistry",
+      "url": "https://www.metacareers.com/jobs/2162858564439476"
     },
     "meta:2322361288548512": {
       "uid": "meta:2322361288548512",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "Meta",
+      "country": "us",
       "external_id": "2322361288548512",
-      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
-      "url": "https://www.metacareers.com/jobs/2322361288548512",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "Bellevue, WA",
         "Boston, MA",
@@ -146,131 +224,21 @@
         "New York, NY",
         "San Francisco, CA"
       ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-20",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
-    },
-    "meta:932919123033502": {
-      "uid": "meta:932919123033502",
-      "company": "Meta",
-      "external_id": "932919123033502",
-      "title": "Research Scientist Intern, Video Recommendations (PhD)",
-      "url": "https://www.metacareers.com/jobs/932919123033502",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
       "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
-    },
-    "meta:2162858564439476": {
-      "uid": "meta:2162858564439476",
-      "company": "Meta",
-      "external_id": "2162858564439476",
-      "title": "Research Scientist Intern, FAIR Chemistry",
-      "url": "https://www.metacareers.com/jobs/2162858564439476",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
-    },
-    "meta:1097992326377524": {
-      "uid": "meta:1097992326377524",
-      "company": "Meta",
-      "external_id": "1097992326377524",
-      "title": "Research Scientist Intern, World-Model Aware Perception & Communication (PhD)",
-      "url": "https://www.metacareers.com/jobs/1097992326377524",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
-    },
-    "meta:1136354555738164": {
-      "uid": "meta:1136354555738164",
-      "company": "Meta",
-      "external_id": "1136354555738164",
-      "title": "Research Scientist Intern, MSL Agents (PhD)",
-      "url": "https://www.metacareers.com/jobs/1136354555738164",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
-    },
-    "meta:29044546168568671": {
-      "uid": "meta:29044546168568671",
-      "company": "Meta",
-      "external_id": "29044546168568671",
-      "title": "Research Scientist Intern, Feed Recommendations (PhD)",
-      "url": "https://www.metacareers.com/jobs/29044546168568671",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
-    },
-    "meta:1582569213186235": {
-      "uid": "meta:1582569213186235",
-      "company": "Meta",
-      "external_id": "1582569213186235",
-      "title": "Research Scientist Intern, Central Applied Science (PhD)",
-      "url": "https://www.metacareers.com/jobs/1582569213186235",
-      "locations": [
-        "Menlo Park, CA",
-        "New York, NY"
-      ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
+      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
+      "url": "https://www.metacareers.com/jobs/2322361288548512"
     },
     "meta:2356892281747003": {
       "uid": "meta:2356892281747003",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "Meta",
+      "country": "us",
       "external_id": "2356892281747003",
-      "title": "Research Scientist Intern, AI Alignment",
-      "url": "https://www.metacareers.com/jobs/2356892281747003",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "Boston, MA",
         "Menlo Park, CA",
@@ -278,24 +246,247 @@
         "San Francisco, CA",
         "Seattle, WA"
       ],
+      "posted": "2026-10-19",
+      "region": "AMER",
+      "title": "Research Scientist Intern, AI Alignment",
+      "url": "https://www.metacareers.com/jobs/2356892281747003"
+    },
+    "meta:2615214025585454": {
+      "uid": "meta:2615214025585454",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "2615214025585454",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Bellevue, WA",
+        "New York, NY",
+        "Seattle, WA"
+      ],
+      "posted": "2026-10-21",
+      "region": "AMER",
+      "title": "Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)",
+      "url": "https://www.metacareers.com/jobs/2615214025585454"
+    },
+    "meta:29044546168568671": {
+      "uid": "meta:29044546168568671",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "29044546168568671",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Feed Recommendations (PhD)",
+      "url": "https://www.metacareers.com/jobs/29044546168568671"
+    },
+    "meta:3549654831867862": {
+      "uid": "meta:3549654831867862",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "3549654831867862",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Menlo Park, CA",
+        "Seattle, WA"
+      ],
+      "posted": "2026-10-21",
+      "region": "AMER",
+      "title": "Research Scientist Intern, FAIR - Video Generation (PhD)",
+      "url": "https://www.metacareers.com/jobs/3549654831867862"
+    },
+    "meta:932919123033502": {
+      "uid": "meta:932919123033502",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "932919123033502",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Video Recommendations (PhD)",
+      "url": "https://www.metacareers.com/jobs/932919123033502"
+    },
+    "meta:1137225375529389": {
+      "uid": "meta:1137225375529389",
+      "company": "Meta",
+      "external_id": "1137225375529389",
+      "title": "Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
+      "url": "https://www.metacareers.com/jobs/1137225375529389",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
+    "meta:2554989011673624": {
+      "uid": "meta:2554989011673624",
+      "company": "Meta",
+      "external_id": "2554989011673624",
+      "title": "Research Scientist Intern, Policy Learning for Robotics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2554989011673624",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
+    "meta:2053489871986285": {
+      "uid": "meta:2053489871986285",
+      "company": "Meta",
+      "external_id": "2053489871986285",
+      "title": "Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD)",
+      "url": "https://www.metacareers.com/jobs/2053489871986285",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
+    "meta:1023154190171838": {
+      "uid": "meta:1023154190171838",
+      "company": "Meta",
+      "external_id": "1023154190171838",
+      "title": "Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)",
+      "url": "https://www.metacareers.com/jobs/1023154190171838",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA",
+        "Seattle, WA"
+      ],
       "category": "AI/ML",
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-10-19",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
+    "meta:1416549056773684": {
+      "uid": "meta:1416549056773684",
+      "company": "Meta",
+      "external_id": "1416549056773684",
+      "title": "Research Scientist Intern, Meta Recommendation Systems (PhD)",
+      "url": "https://www.metacareers.com/jobs/1416549056773684",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
+    "meta:1648122343381284": {
+      "uid": "meta:1648122343381284",
+      "company": "Meta",
+      "external_id": "1648122343381284",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1648122343381284",
+      "locations": [
+        "Bellevue, WA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
+    "intel:JR0287533": {
+      "uid": "intel:JR0287533",
+      "company": "Intel",
+      "external_id": "JR0287533",
+      "title": "AI Hardware Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
+      "locations": [
+        "2 Locations",
+        "US California Santa Clara"
+      ],
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "active": true
     },
     "hpe:1214234": {
       "uid": "hpe:1214234",
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "US (Other)",
       "company": "HPE",
+      "country": "us",
       "external_id": "1214234",
-      "title": "ASIC Engineering Intern",
-      "url": "https://careers.hpe.com/us/en/job/1214234",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "Durham, North Carolina, 27703",
         "Durham, North Carolina, United States of America"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "ASIC Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1214234"
+    },
+    "hpe:1213409": {
+      "uid": "hpe:1213409",
+      "company": "HPE",
+      "external_id": "1213409",
+      "title": "Electrical Hardware Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213409",
+      "locations": [
+        "Chippewa Falls, Wisconsin, 54729",
+        "Chippewa Falls, Wisconsin, United States of America"
       ],
       "category": "Hardware/Silicon",
       "city_tag": "US (Other)",
@@ -306,96 +497,151 @@
       "last_seen": "2026-10-23",
       "active": true
     },
-    "databricks:6866538002": {
-      "uid": "databricks:6866538002",
-      "company": "Databricks",
-      "external_id": "6866538002",
-      "title": "Data Science Intern (2027 Start)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+    "hpe:1216080": {
+      "uid": "hpe:1216080",
+      "company": "HPE",
+      "external_id": "1216080",
+      "title": "Cybersecurity Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1216080",
       "locations": [
-        "Mountain View, California",
-        "San Francisco, California"
-      ],
-      "category": "Data",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
-    },
-    "amazon:10587087": {
-      "uid": "amazon:10587087",
-      "company": "Amazon",
-      "external_id": "10587087",
-      "title": "System Development Engineer Intern/Co-op, ROBOTICS -  2027",
-      "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
-      "locations": [
-        "North Reading, Massachusetts, USA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
-    },
-    "amazon:10585775": {
-      "uid": "amazon:10585775",
-      "company": "Amazon",
-      "external_id": "10585775",
-      "title": "Associate Delivery Consultant Intern, National Security, AWS Professional Services",
-      "url": "https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services",
-      "locations": [
-        "Arlington, Virginia, USA"
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
       ],
       "category": "Security",
       "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
+    "dell-technologies:300900": {
+      "uid": "dell-technologies:300900",
+      "company": "Dell Technologies",
+      "external_id": "300900",
+      "title": "Capital Venture Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300900",
+      "locations": [
+        "CA, United States"
+      ],
+      "category": "Software",
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
+    "databricks:6866538002": {
+      "uid": "databricks:6866538002",
+      "active": true,
+      "category": "Data",
+      "city_tag": "SF Bay Area",
+      "company": "Databricks",
+      "country": "us",
+      "external_id": "6866538002",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Mountain View, California",
+        "San Francisco, California"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Data Science Intern (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"
+    },
+    "amazon:10585775": {
+      "uid": "amazon:10585775",
+      "active": true,
+      "category": "Security",
+      "city_tag": "US (Other)",
+      "company": "Amazon",
+      "country": "us",
+      "external_id": "10585775",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Arlington, Virginia, USA"
+      ],
       "posted": "2026-10-21",
+      "region": "AMER",
+      "title": "Associate Delivery Consultant Intern, National Security, AWS Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services"
+    },
+    "amazon:10587087": {
+      "uid": "amazon:10587087",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "US (Other)",
+      "company": "Amazon",
+      "country": "us",
+      "external_id": "10587087",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "North Reading, Massachusetts, USA"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "System Development Engineer Intern/Co-op, ROBOTICS -  2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027"
+    },
+    "amazon:10587999": {
+      "uid": "amazon:10587999",
+      "company": "Amazon",
+      "external_id": "10587999",
+      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+      "locations": [
+        "Redmond, Washington, USA"
+      ],
+      "category": "Software",
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "active": true
     },
     "amd:91019": {
       "uid": "amd:91019",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "AMD",
+      "country": "us",
       "external_id": "91019",
-      "title": "Summer 2027 PhD Technical Program Manager, AI Research Intern",
-      "url": "https://careers.amd.com/careers-home/jobs/91019",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "Santa Clara, California"
       ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-09-21",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
+      "region": "AMER",
+      "title": "Summer 2027 PhD Technical Program Manager, AI Research Intern",
+      "url": "https://careers.amd.com/careers-home/jobs/91019"
     },
     "amd:92522": {
       "uid": "amd:92522",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "AMD",
+      "country": "us",
       "external_id": "92522",
-      "title": "2027 PhD AI Model Optimization & Software Engineer Intern/Co-op",
-      "url": "https://careers.amd.com/careers-home/jobs/92522",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "San Jose, California"
       ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-21",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
+      "region": "AMER",
+      "title": "2027 PhD AI Model Optimization & Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/careers-home/jobs/92522"
     },
     "nvidia:JR2026530": {
       "uid": "nvidia:JR2026530",
@@ -411,7 +657,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "Systems Software Intern, Aerial PHY- Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
@@ -430,7 +676,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "region": "AMER",
       "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"
@@ -558,7 +804,7 @@
         "US California Folsom",
         "US, California, Folsom"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "region": "AMER",
       "title": "Information Security Engineer Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
@@ -596,7 +842,7 @@
         "California - Palo Alto",
         "California, Palo Alto"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "Summer 2027 Intern - AI Research",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1"
@@ -618,139 +864,6 @@
       "region": "AMER",
       "title": "Data Science - Forward Deployed Engineer: PhD Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991"
-    },
-    "micron:JR111823": {
-      "uid": "micron:JR111823",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "US (Other)",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR111823",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Minneapolis MN",
-        "Minneapolis, MN"
-      ],
-      "posted": "2026-10-20",
-      "region": "AMER",
-      "title": "Intern - ASIC Validation",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823"
-    },
-    "micron:JR112163": {
-      "uid": "micron:JR112163",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "US (Other)",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR112163",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Minneapolis MN",
-        "Minneapolis, MN"
-      ],
-      "posted": "2026-10-20",
-      "region": "AMER",
-      "title": "Intern - ASIC Digital Design",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163"
-    },
-    "micron:JR114094": {
-      "uid": "micron:JR114094",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR114094",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "posted": "2026-10-21",
-      "region": "AMER",
-      "title": "Intern - SMAI Probe AI Engineer",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094"
-    },
-    "micron:JR114750": {
-      "uid": "micron:JR114750",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR114750",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Richardson TX",
-        "Richardson, TX"
-      ],
-      "posted": "2026-10-21",
-      "region": "AMER",
-      "title": "Intern - Machine Learning Engineering",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750"
-    },
-    "micron:JR114763": {
-      "uid": "micron:JR114763",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "SF Bay Area",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR114763",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "2 Locations",
-        "San Jose CA"
-      ],
-      "posted": "2026-10-21",
-      "region": "AMER",
-      "title": "Intern - Semiconductor Global Category Supplier Management",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763"
-    },
-    "micron:JR115209": {
-      "uid": "micron:JR115209",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "SF Bay Area",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR115209",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "2 Locations",
-        "San Jose CA"
-      ],
-      "posted": "2026-10-21",
-      "region": "AMER",
-      "title": "Intern - SSD Firmware",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209"
-    },
-    "micron:JR115210": {
-      "uid": "micron:JR115210",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "US (Other)",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR115210",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "2 Locations",
-        "Boise ID, Main Site"
-      ],
-      "posted": "2026-10-21",
-      "region": "AMER",
-      "title": "Intern - SSD Firmware",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210"
     },
     "meta:1079627324896327": {
       "uid": "meta:1079627324896327",
@@ -933,7 +1046,7 @@
         "2 Locations",
         "US Colorado Fort Collins"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "Design Verification Graduate Intern 2027",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651"
@@ -952,7 +1065,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "AI Data Science / Software Engineering PhD Intern New 2027",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136"
@@ -971,7 +1084,7 @@
         "US California Santa Clara",
         "US, California, Santa Clara"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "AI Data Science / Software Engineering PhD Intern New 2027",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138"
@@ -990,7 +1103,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "AI Data Science / Software Engineering PhD Intern New 2027",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139"
@@ -1009,7 +1122,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "AI Data Science / Software Engineering PhD Intern New 2027",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140"
@@ -1052,25 +1165,6 @@
       "title": "Hardware Engineering Design Intern",
       "url": "https://careers.hpe.com/us/en/job/1214168"
     },
-    "hpe:1217551": {
-      "uid": "hpe:1217551",
-      "active": true,
-      "category": "Software",
-      "city_tag": "US (Other)",
-      "company": "HPE",
-      "country": "us",
-      "external_id": "1217551",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Spring, Texas, 77389-1767",
-        "Spring, Texas, United States of America"
-      ],
-      "posted": "2026-10-20",
-      "region": "AMER",
-      "title": "Electrical Engineering Intern",
-      "url": "https://careers.hpe.com/us/en/job/1217551"
-    },
     "amazon:10584121": {
       "uid": "amazon:10584121",
       "active": true,
@@ -1102,7 +1196,7 @@
       "locations": [
         "San Jose"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "2027 Intern - Security Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001"
@@ -1121,7 +1215,7 @@
         "2 Locations",
         "California, San Francisco"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "region": "AMER",
       "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
@@ -1158,7 +1252,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "region": "AMER",
       "title": "Product Manager MBA Intern, Enterprise AI - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707"
@@ -1358,7 +1452,7 @@
       "locations": [
         "San Jose"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "region": "AMER",
       "title": "2027 Intern - AI & Architecture",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
@@ -1658,7 +1752,7 @@
         "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
         "USA ISD Office, DGTC AR BENTONVILLE Home Office"
       ],
-      "posted": "2026-09-30",
+      "posted": "2026-09-29",
       "region": "AMER",
       "title": "Summer 2027 Intern:: Data Science III",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030"
@@ -1677,7 +1771,7 @@
         "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
         "USA ISD Office, DGTC AR BENTONVILLE Home Office"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "region": "AMER",
       "title": "Summer 2027 Intern: Intern: Sr Data Science",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032"
@@ -2146,24 +2240,6 @@
       "title": "CEGIU Demo Data Strategy Intern - OVIP",
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334396"
     },
-    "nokia:39978": {
-      "uid": "nokia:39978",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "company": "Nokia",
-      "country": "us",
-      "external_id": "39978",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "United States"
-      ],
-      "posted": "2026-09-04",
-      "region": "AMER",
-      "title": "AI-Agent Development Co-op",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
-    },
     "nokia:40268": {
       "uid": "nokia:40268",
       "active": true,
@@ -2322,7 +2398,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398"
@@ -2341,7 +2417,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Generative AI - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035"
@@ -2360,7 +2436,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Hardware ASIC Design",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486"
@@ -2379,7 +2455,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Hardware Design for Test (DFT)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1"
@@ -2398,7 +2474,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
@@ -2417,7 +2493,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Systems Software Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
@@ -2436,7 +2512,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Software Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
@@ -2455,7 +2531,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496"
@@ -2474,7 +2550,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Deep Learning",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1"
@@ -2493,7 +2569,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
@@ -2512,7 +2588,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Hardware Verification",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500"
@@ -2531,7 +2607,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Hardware Physical Design / VLSI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501"
@@ -2550,7 +2626,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Digital Circuit Design",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504"
@@ -2569,7 +2645,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "NVIDIA 2027 Internships: Hardware Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1"
@@ -2588,7 +2664,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171"
@@ -2607,7 +2683,7 @@
         "2 Locations",
         "US CA Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Circuits - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174"
@@ -2626,7 +2702,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Physical AI - Foundation Models - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025"
@@ -2645,7 +2721,7 @@
         "2 Locations",
         "US CA Santa Clara"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "region": "AMER",
       "title": "PhD Research Intern, Security and Privacy - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
@@ -2664,7 +2740,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Networking - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"
@@ -2683,7 +2759,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405"
@@ -2702,7 +2778,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Fundamental Generative AI - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"
@@ -2721,7 +2797,7 @@
         "2 Locations",
         "US CA Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Efficient Deep Learning - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478"
@@ -2740,7 +2816,7 @@
         "2 Locations",
         "US WA Seattle"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Robotics - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647"
@@ -2759,7 +2835,7 @@
         "2 Locations",
         "US CA Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Embodied and Agentic AI - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792"
@@ -2778,7 +2854,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Hardware and Systems Architecture - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893"
@@ -2797,7 +2873,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Quantum Simulation and AI - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004"
@@ -2816,7 +2892,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1"
@@ -2835,7 +2911,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"
@@ -2854,7 +2930,7 @@
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, AI-Aided Engineering – 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940"
@@ -3077,25 +3153,6 @@
       "region": "AMER",
       "title": "Research Intern - Machine Learning and Statistics",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502"
-    },
-    "micron:JR113941": {
-      "uid": "micron:JR113941",
-      "active": true,
-      "category": "Software",
-      "city_tag": "US (Other)",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR113941",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "posted": "2026-10-21",
-      "region": "AMER",
-      "title": "Intern - IT Software Engineer",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941"
     },
     "meta:1062032900196411": {
       "uid": "meta:1062032900196411",
@@ -3410,7 +3467,8 @@
       "last_seen": "2026-10-23",
       "locations": [
         "Menlo Park, CA",
-        "New York, NY"
+        "New York, NY",
+        "Seattle, WA"
       ],
       "posted": "2026-09-08",
       "region": "AMER",
@@ -4115,7 +4173,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "region": "AMER",
       "title": "Software Research Engineering - (PhD Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
@@ -4134,7 +4192,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-09-26",
+      "posted": "2026-09-25",
       "region": "AMER",
       "title": "Software Solutions PhD Intern New 2027",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314"
@@ -4153,7 +4211,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-09-26",
+      "posted": "2026-09-25",
       "region": "AMER",
       "title": "System Software Engineering - PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457"
@@ -4172,7 +4230,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "region": "AMER",
       "title": "Software Engineering - PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
@@ -4191,7 +4249,7 @@
         "US California Santa Clara",
         "US, California, Santa Clara"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "region": "AMER",
       "title": "AI Solution Architect - Graduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524"
@@ -4210,7 +4268,7 @@
         "US California Santa Clara",
         "US, California, Santa Clara"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "region": "AMER",
       "title": "AI Solution Architect Graduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530"
@@ -4229,7 +4287,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-09-30",
       "region": "AMER",
       "title": "AI SOC Power Delivery Pathfinding PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"
@@ -4248,7 +4306,7 @@
         "5 Locations",
         "US California Santa Clara"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "region": "AMER",
       "title": "AI-Driven Physical Design Engineering (PhD Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661"
@@ -4267,7 +4325,7 @@
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "region": "AMER",
       "title": "Data Science and Analytics - PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859"
@@ -5534,24 +5592,6 @@
       "title": "Corporate Strategy Undergraduate Intern",
       "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300226"
     },
-    "dell-technologies:300404": {
-      "uid": "dell-technologies:300404",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "Austin",
-      "company": "Dell Technologies",
-      "country": "us",
-      "external_id": "300404",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Round Rock, TX, United States"
-      ],
-      "posted": "2026-10-19",
-      "region": "AMER",
-      "title": "Cloud Software Security (CSS) Summer Internship, Undergraduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300404"
-    },
     "datadog:8052118": {
       "uid": "datadog:8052118",
       "active": true,
@@ -5606,7 +5646,7 @@
         "San Francisco, California",
         "Vancouver, Canada"
       ],
-      "posted": "2026-10-12",
+      "posted": "2026-10-23",
       "region": "AMER",
       "title": "Software Engineering Intern (2027)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
@@ -5668,24 +5708,6 @@
       "region": "AMER",
       "title": "Hardware Engineer II Intern - United States",
       "url": "https://careers.cisco.com/global/en/job/2024757"
-    },
-    "cisco:2024817": {
-      "uid": "cisco:2024817",
-      "active": true,
-      "category": "Security",
-      "city_tag": "US (Other)",
-      "company": "Cisco",
-      "country": "us",
-      "external_id": "2024817",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Research Triangle Park, North Carolina, United States of America"
-      ],
-      "posted": "2026-09-03",
-      "region": "AMER",
-      "title": "Security Consulting Engineer I (Intern) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2024817"
     },
     "cisco:2025180": {
       "uid": "cisco:2025180",
@@ -5767,6 +5789,27 @@
       "region": "AMER",
       "title": "Software Engineer Data & AI I (Intern) – United States",
       "url": "https://careers.cisco.com/global/en/job/2026306"
+    },
+    "cisco:2026798": {
+      "uid": "cisco:2026798",
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "company": "Cisco",
+      "country": "us",
+      "external_id": "2026798",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-10-23",
+      "region": "AMER",
+      "title": "Software Engineer Data & AI II (Intern) – United States",
+      "url": "https://careers.cisco.com/global/en/job/2026798"
     },
     "cisco:2026800": {
       "uid": "cisco:2026800",
@@ -6431,24 +6474,6 @@
       "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
       "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"
     },
-    "amazon:10559762": {
-      "uid": "amazon:10559762",
-      "active": true,
-      "category": "Software",
-      "city_tag": "Seattle",
-      "company": "Amazon",
-      "country": "us",
-      "external_id": "10559762",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "Redmond, Washington, USA"
-      ],
-      "posted": "2026-09-24",
-      "region": "AMER",
-      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-      "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
-    },
     "amazon:10564585": {
       "uid": "amazon:10564585",
       "active": true,
@@ -6737,24 +6762,6 @@
       "title": "Hardware Development Engineer Intern,  Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027"
     },
-    "amazon:3104589": {
-      "uid": "amazon:3104589",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "company": "Amazon",
-      "country": "us",
-      "external_id": "3104589",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "North Reading, Massachusetts, USA"
-      ],
-      "posted": "2025-10-08",
-      "region": "AMER",
-      "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-      "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more"
-    },
     "amazon:3127861": {
       "uid": "amazon:3127861",
       "active": true,
@@ -6805,7 +6812,7 @@
         "7 Locations",
         "San Jose"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "region": "AMER",
       "title": "2027 Intern - Machine Learning Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
@@ -6843,7 +6850,7 @@
         "6 Locations",
         "San Jose"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "AMER",
       "title": "2027 Intern - Applied and Research Scientist/Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"

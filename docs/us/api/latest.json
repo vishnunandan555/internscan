@@ -1,78 +1,48 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-10-23T00:04:51Z",
-  "new_count": 21,
-  "reopened_count": 0,
+  "updated_at": "2026-10-23T23:55:48Z",
+  "new_count": 13,
+  "reopened_count": 1,
   "total_active": 357,
   "new_jobs": [
     {
       "company": "Amazon",
-      "title": "System Development Engineer Intern/Co-op, ROBOTICS -  2027",
-      "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
+      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
       "locations": [
-        "North Reading, Massachusetts, USA"
+        "Redmond, Washington, USA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Dell Technologies",
+      "title": "Capital Venture Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300900",
+      "locations": [
+        "CA, United States"
       ],
       "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Amazon",
-      "title": "Associate Delivery Consultant Intern, National Security, AWS Professional Services",
-      "url": "https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services",
-      "locations": [
-        "Arlington, Virginia, USA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "AMD",
-      "title": "Summer 2027 PhD Technical Program Manager, AI Research Intern",
-      "url": "https://careers.amd.com/careers-home/jobs/91019",
-      "locations": [
-        "Santa Clara, California"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-09-21",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "AMD",
-      "title": "2027 PhD AI Model Optimization & Software Engineer Intern/Co-op",
-      "url": "https://careers.amd.com/careers-home/jobs/92522",
-      "locations": [
-        "San Jose, California"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
+      "category": "Software",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
     {
       "company": "HPE",
-      "title": "ASIC Engineering Intern",
-      "url": "https://careers.hpe.com/us/en/job/1214234",
+      "title": "Electrical Hardware Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213409",
       "locations": [
-        "Durham, North Carolina, 27703",
-        "Durham, North Carolina, United States of America"
+        "Chippewa Falls, Wisconsin, 54729",
+        "Chippewa Falls, Wisconsin, United States of America"
       ],
       "city_tag": "US (Other)",
       "country": "us",
@@ -83,138 +53,40 @@
       "last_seen": "2026-10-23"
     },
     {
-      "company": "Microsoft",
-      "title": "Security Research Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+      "company": "HPE",
+      "title": "Cybersecurity Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1216080",
       "locations": [
-        "United States, Washington, Redmond"
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
       "category": "Security",
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
     {
       "company": "Microsoft",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
       "locations": [
-        "United States, Washington, Redmond"
+        "United States, Oklahoma, Tulsa"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)",
-      "url": "https://www.metacareers.com/jobs/2615214025585454",
-      "locations": [
-        "Bellevue, WA",
-        "New York, NY",
-        "Seattle, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Physical Engineering AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/1081255008061721",
-      "locations": [
-        "New York, NY",
-        "Seattle, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Video Generation (PhD)",
-      "url": "https://www.metacareers.com/jobs/3549654831867862",
-      "locations": [
-        "Menlo Park, CA",
-        "Seattle, WA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
-      "url": "https://www.metacareers.com/jobs/2322361288548512",
-      "locations": [
-        "Bellevue, WA",
-        "Boston, MA",
-        "Menlo Park, CA",
-        "New York, NY",
-        "San Francisco, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Video Recommendations (PhD)",
-      "url": "https://www.metacareers.com/jobs/932919123033502",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR Chemistry",
-      "url": "https://www.metacareers.com/jobs/2162858564439476",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, World-Model Aware Perception & Communication (PhD)",
-      "url": "https://www.metacareers.com/jobs/1097992326377524",
+      "title": "Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
+      "url": "https://www.metacareers.com/jobs/1137225375529389",
       "locations": [
         "Redmond, WA"
       ],
@@ -222,14 +94,61 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, MSL Agents (PhD)",
-      "url": "https://www.metacareers.com/jobs/1136354555738164",
+      "title": "Research Scientist Intern, Policy Learning for Robotics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2554989011673624",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD)",
+      "url": "https://www.metacareers.com/jobs/2053489871986285",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)",
+      "url": "https://www.metacareers.com/jobs/1023154190171838",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA",
+        "Seattle, WA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Meta Recommendation Systems (PhD)",
+      "url": "https://www.metacareers.com/jobs/1416549056773684",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -237,32 +156,18 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, Feed Recommendations (PhD)",
-      "url": "https://www.metacareers.com/jobs/29044546168568671",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1648122343381284",
       "locations": [
-        "Bellevue, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Central Applied Science (PhD)",
-      "url": "https://www.metacareers.com/jobs/1582569213186235",
-      "locations": [
-        "Menlo Park, CA",
-        "New York, NY"
+        "Bellevue, WA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
@@ -273,72 +178,59 @@
       "last_seen": "2026-10-23"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI Alignment",
-      "url": "https://www.metacareers.com/jobs/2356892281747003",
+      "company": "Intel",
+      "title": "AI Hardware Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
       "locations": [
-        "Boston, MA",
-        "Menlo Park, CA",
-        "New York, NY",
-        "San Francisco, CA",
-        "Seattle, WA"
+        "2 Locations",
+        "US California Santa Clara"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-19",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
     {
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+      "company": "MongoDB",
+      "title": "2027 - Software Engineering Intern, AMER",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
       "locations": [
-        "US CA Santa Clara",
-        "US, CA, Santa Clara"
+        "Austin",
+        "New York City",
+        "Palo Alto",
+        "San Francisco",
+        "Seattle"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, Robotic Perception and Learning - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089",
-      "locations": [
-        "3 Locations",
-        "US WA Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Databricks",
-      "title": "Data Science Intern (2027 Start)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
-      "locations": [
-        "Mountain View, California",
-        "San Francisco, California"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-22",
+      "category": "Software",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     }
   ],
-  "reopened_jobs": []
+  "reopened_jobs": [
+    {
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI II (Intern) – United States",
+      "url": "https://careers.cisco.com/global/en/job/2026798",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-23"
+    }
+  ]
 }

@@ -1,66 +1,19 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-23T00:04:51Z",
-  "new_count": 4,
+  "updated_at": "2026-10-23T23:55:48Z",
+  "new_count": 1,
   "reopened_count": 0,
-  "total_active": 53,
+  "total_active": 54,
   "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721678733?domain=qualcomm.com",
+      "company": "Nokia",
+      "title": "Network Systems Engineer Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672",
       "locations": [
-        "Vancouver, British Columbia, Canada"
-      ],
-      "city_tag": "Vancouver",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - AI and DSP Applications Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721686396?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
+        "Canada"
       ],
       "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "HPE",
-      "title": "Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Hiver  2027)",
-      "url": "https://careers.hpe.com/us/en/job/1214294",
-      "locations": [
-        "St. Laurent, Quebec, Canada",
-        "St. Laurent, Quebec, H4S 0A4"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Intel",
-      "title": "Compiler Engineering Graduate Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
-      "locations": [
-        "Canada Toronto",
-        "Canada, Toronto"
-      ],
-      "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
       "category": "Backend/Infra",

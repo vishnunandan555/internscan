@@ -1,20 +1,38 @@
 {
-  "updated_at": "2026-10-23T00:04:51Z",
+  "updated_at": "2026-10-23T23:55:48Z",
   "jobs": {
     "apple:200690044": {
       "uid": "apple:200690044",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "Apple",
+      "country": "uk",
       "external_id": "200690044",
-      "title": "Software Engineer Intern, iCloud Platform",
-      "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "London"
+      ],
+      "posted": "2026-10-22",
+      "region": "EMEA",
+      "title": "Software Engineer Intern, iCloud Platform",
+      "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform"
+    },
+    "amazon:10587701": {
+      "uid": "amazon:10587701",
+      "company": "Amazon",
+      "external_id": "10587701",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027",
+      "locations": [
+        "London, England, GBR"
       ],
       "category": "Software",
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "active": true
@@ -33,7 +51,7 @@
         "UK Bristol",
         "UK, Bristol"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "region": "EMEA",
       "title": "Software Intern - Embedded Systems 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1"
@@ -146,25 +164,6 @@
       "title": "Research Intern - Self-Improving Agentic Systems and AI Research Agents",
       "url": "https://www.metacareers.com/jobs/994737396214791"
     },
-    "visa:REF086121W": {
-      "uid": "visa:REF086121W",
-      "active": true,
-      "category": "Data",
-      "city_tag": "London",
-      "company": "Visa",
-      "country": "uk",
-      "external_id": "REF086121W",
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "GB - London, United Kingdom",
-        "GB, London United Kingdom"
-      ],
-      "posted": "2026-10-20",
-      "region": "EMEA",
-      "title": "Data Science Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1"
-    },
     "microsoft:1970393557042487": {
       "uid": "microsoft:1970393557042487",
       "active": true,
@@ -197,7 +196,7 @@
         "3 Locations",
         "United Kingdom, London"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "region": "EMEA",
       "title": "Professional Services Red Team Intern - Summer 2027 (Remote, GBR)",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404"
@@ -275,24 +274,6 @@
       "title": "Software Engineering Intern, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering"
     },
-    "amazon:10552039": {
-      "uid": "amazon:10552039",
-      "active": true,
-      "category": "Software",
-      "city_tag": "London",
-      "company": "Amazon",
-      "country": "uk",
-      "external_id": "10552039",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-23",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "posted": "2026-09-17",
-      "region": "EMEA",
-      "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition"
-    },
     "amazon:3201714": {
       "uid": "amazon:3201714",
       "active": true,
@@ -343,7 +324,7 @@
         "2 Locations",
         "UK Bristol"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "region": "EMEA",
       "title": "Data Processing Developer Technology Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948"
@@ -569,7 +550,7 @@
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23",
       "locations": [
-        "Harpenden, Herefordshire, United Kingdom"
+        "Harpenden, Hertfordshire, United Kingdom"
       ],
       "posted": "2026-08-21",
       "region": "EMEA",

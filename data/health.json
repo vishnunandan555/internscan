@@ -1,9 +1,8 @@
 {
-  "failed": {
-    "Accenture": "request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs (HTTP 429)"
-  },
+  "failed": {},
   "succeeded": [
     "AMD",
+    "Accenture",
     "Adobe",
     "Amazon",
     "Apple",

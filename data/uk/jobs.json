@@ -19,9 +19,10 @@
       "url": "https://www.amazon.jobs/en/jobs/10541467/operations-engineering-intern-3-months-start-date-q2-2027"
     },
     "amazon:10552039": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "London",
+      "closed": "2026-10-23",
       "company": "Amazon",
       "country": "uk",
       "external_id": "10552039",
@@ -120,6 +121,23 @@
       "region": "EMEA",
       "title": "2027 Software Dev Engineer Intern - United Kingdom",
       "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom"
+    },
+    "amazon:10587701": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
+      "company": "Amazon",
+      "country": "uk",
+      "external_id": "10587701",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-23",
+      "region": "EMEA",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027"
     },
     "amazon:3201714": {
       "active": true,
@@ -273,7 +291,7 @@
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23",
       "locations": [
-        "Harpenden, Herefordshire, United Kingdom"
+        "Harpenden, Hertfordshire, United Kingdom"
       ],
       "posted": "2026-08-21",
       "region": "EMEA",
@@ -310,7 +328,7 @@
         "3 Locations",
         "United Kingdom, London"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "region": "EMEA",
       "title": "Professional Services Red Team Intern - Summer 2027 (Remote, GBR)",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404"
@@ -717,7 +735,7 @@
         "2 Locations",
         "UK Bristol"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "region": "EMEA",
       "title": "Data Processing Developer Technology Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948"
@@ -735,7 +753,7 @@
         "UK Bristol",
         "UK, Bristol"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "region": "EMEA",
       "title": "Software Intern - Embedded Systems 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1"
@@ -758,9 +776,10 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     },
     "visa:REF086121W": {
-      "active": true,
+      "active": false,
       "category": "Data",
       "city_tag": "London",
+      "closed": "2026-10-23",
       "company": "Visa",
       "country": "uk",
       "external_id": "REF086121W",
@@ -776,5 +795,5 @@
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1"
     }
   },
-  "updated_at": "2026-10-23T00:04:51Z"
+  "updated_at": "2026-10-23T23:55:48Z"
 }

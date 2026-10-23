@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-10-23T00:04:51Z",
+  "updated_at": "2026-10-23T23:55:48Z",
   "total_active": 357,
   "jobs": [
     {
@@ -16,7 +16,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
@@ -32,6 +32,40 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "MongoDB",
+      "title": "2027 - Software Engineering Intern, AMER",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+      "locations": [
+        "Austin",
+        "New York City",
+        "Palo Alto",
+        "San Francisco",
+        "Seattle"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
@@ -53,33 +87,16 @@
     },
     {
       "company": "Microsoft",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
       "locations": [
-        "United States, Washington, Redmond"
+        "United States, Oklahoma, Tulsa"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)",
-      "url": "https://www.metacareers.com/jobs/2615214025585454",
-      "locations": [
-        "Bellevue, WA",
-        "New York, NY",
-        "Seattle, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
@@ -92,72 +109,6 @@
         "Seattle, WA"
       ],
       "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Video Generation (PhD)",
-      "url": "https://www.metacareers.com/jobs/3549654831867862",
-      "locations": [
-        "Menlo Park, CA",
-        "Seattle, WA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
-      "url": "https://www.metacareers.com/jobs/2322361288548512",
-      "locations": [
-        "Bellevue, WA",
-        "Boston, MA",
-        "Menlo Park, CA",
-        "New York, NY",
-        "San Francisco, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Video Recommendations (PhD)",
-      "url": "https://www.metacareers.com/jobs/932919123033502",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR Chemistry",
-      "url": "https://www.metacareers.com/jobs/2162858564439476",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
@@ -197,21 +148,6 @@
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, Feed Recommendations (PhD)",
-      "url": "https://www.metacareers.com/jobs/29044546168568671",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
       "title": "Research Scientist Intern, Central Applied Science (PhD)",
       "url": "https://www.metacareers.com/jobs/1582569213186235",
       "locations": [
@@ -223,6 +159,40 @@
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR Chemistry",
+      "url": "https://www.metacareers.com/jobs/2162858564439476",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
+      "url": "https://www.metacareers.com/jobs/2322361288548512",
+      "locations": [
+        "Bellevue, WA",
+        "Boston, MA",
+        "Menlo Park, CA",
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
@@ -246,6 +216,181 @@
       "last_seen": "2026-10-23"
     },
     {
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)",
+      "url": "https://www.metacareers.com/jobs/2615214025585454",
+      "locations": [
+        "Bellevue, WA",
+        "New York, NY",
+        "Seattle, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Feed Recommendations (PhD)",
+      "url": "https://www.metacareers.com/jobs/29044546168568671",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR - Video Generation (PhD)",
+      "url": "https://www.metacareers.com/jobs/3549654831867862",
+      "locations": [
+        "Menlo Park, CA",
+        "Seattle, WA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Video Recommendations (PhD)",
+      "url": "https://www.metacareers.com/jobs/932919123033502",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
+      "url": "https://www.metacareers.com/jobs/1137225375529389",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Policy Learning for Robotics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2554989011673624",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD)",
+      "url": "https://www.metacareers.com/jobs/2053489871986285",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)",
+      "url": "https://www.metacareers.com/jobs/1023154190171838",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA",
+        "Seattle, WA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Meta Recommendation Systems (PhD)",
+      "url": "https://www.metacareers.com/jobs/1416549056773684",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1648122343381284",
+      "locations": [
+        "Bellevue, WA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Intel",
+      "title": "AI Hardware Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
+      "locations": [
+        "2 Locations",
+        "US California Santa Clara"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
       "company": "HPE",
       "title": "ASIC Engineering Intern",
       "url": "https://careers.hpe.com/us/en/job/1214234",
@@ -258,6 +403,53 @@
       "region": "AMER",
       "category": "Hardware/Silicon",
       "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "HPE",
+      "title": "Electrical Hardware Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213409",
+      "locations": [
+        "Chippewa Falls, Wisconsin, 54729",
+        "Chippewa Falls, Wisconsin, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "HPE",
+      "title": "Cybersecurity Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1216080",
+      "locations": [
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Dell Technologies",
+      "title": "Capital Venture Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300900",
+      "locations": [
+        "CA, United States"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
@@ -279,6 +471,21 @@
     },
     {
       "company": "Amazon",
+      "title": "Associate Delivery Consultant Intern, National Security, AWS Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services",
+      "locations": [
+        "Arlington, Virginia, USA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-10-21",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Amazon",
       "title": "System Development Engineer Intern/Co-op, ROBOTICS -  2027",
       "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
       "locations": [
@@ -294,16 +501,16 @@
     },
     {
       "company": "Amazon",
-      "title": "Associate Delivery Consultant Intern, National Security, AWS Professional Services",
-      "url": "https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services",
+      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
       "locations": [
-        "Arlington, Virginia, USA"
+        "Redmond, Washington, USA"
       ],
-      "city_tag": "US (Other)",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "category": "Security",
-      "posted": "2026-10-21",
+      "category": "Software",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
@@ -349,7 +556,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-23"
     },
@@ -365,7 +572,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-23"
     },
@@ -472,7 +679,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Security",
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-23"
     },
@@ -504,7 +711,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -520,118 +727,6 @@
       "region": "AMER",
       "category": "Data",
       "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - ASIC Validation",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823",
-      "locations": [
-        "Minneapolis MN",
-        "Minneapolis, MN"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - ASIC Digital Design",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163",
-      "locations": [
-        "Minneapolis MN",
-        "Minneapolis, MN"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - SMAI Probe AI Engineer",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - Machine Learning Engineering",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
-      "locations": [
-        "Richardson TX",
-        "Richardson, TX"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - Semiconductor Global Category Supplier Management",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763",
-      "locations": [
-        "2 Locations",
-        "San Jose CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - SSD Firmware",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
-      "locations": [
-        "2 Locations",
-        "San Jose CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - SSD Firmware",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
-      "locations": [
-        "2 Locations",
-        "Boise ID, Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-21",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -787,7 +882,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -803,7 +898,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -819,7 +914,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -835,7 +930,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -851,7 +946,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -888,22 +983,6 @@
       "last_seen": "2026-10-23"
     },
     {
-      "company": "HPE",
-      "title": "Electrical Engineering Intern",
-      "url": "https://careers.hpe.com/us/en/job/1217551",
-      "locations": [
-        "Spring, Texas, 77389-1767",
-        "Spring, Texas, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23"
-    },
-    {
       "company": "Amazon",
       "title": "Hardware Development Engineer Intern , Winter 2027",
       "url": "https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
@@ -929,7 +1008,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Security",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-23"
     },
@@ -945,7 +1024,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-23"
     },
@@ -976,7 +1055,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-23"
     },
@@ -1143,7 +1222,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-23"
     },
@@ -1395,7 +1474,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-09-30",
+      "posted": "2026-09-29",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1411,7 +1490,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1809,21 +1888,6 @@
     },
     {
       "company": "Nokia",
-      "title": "AI-Agent Development Co-op",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978",
-      "locations": [
-        "United States"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-09-04",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Nokia",
       "title": "Hardware Development Co-Op",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268",
       "locations": [
@@ -1954,7 +2018,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1970,7 +2034,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -1986,7 +2050,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2002,7 +2066,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2018,7 +2082,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2034,7 +2098,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2050,7 +2114,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2066,7 +2130,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2082,7 +2146,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2098,7 +2162,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2114,7 +2178,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2130,7 +2194,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2146,7 +2210,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2162,7 +2226,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2178,7 +2242,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2194,7 +2258,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2210,7 +2274,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2226,7 +2290,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Security",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2242,7 +2306,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Backend/Infra",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2258,7 +2322,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2274,7 +2338,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2290,7 +2354,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2306,7 +2370,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2322,7 +2386,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2338,7 +2402,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2354,7 +2418,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2370,7 +2434,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2386,7 +2450,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2402,7 +2466,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2586,22 +2650,6 @@
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-10-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - IT Software Engineer",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-21",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -2864,7 +2912,8 @@
       "url": "https://www.metacareers.com/jobs/1952991802037374",
       "locations": [
         "Menlo Park, CA",
-        "New York, NY"
+        "New York, NY",
+        "Seattle, WA"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
@@ -3462,7 +3511,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -3478,7 +3527,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-26",
+      "posted": "2026-09-25",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -3494,7 +3543,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-26",
+      "posted": "2026-09-25",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -3510,7 +3559,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -3526,7 +3575,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -3542,7 +3591,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -3558,7 +3607,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-01",
+      "posted": "2026-09-30",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -3574,7 +3623,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -3590,7 +3639,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -4695,21 +4744,6 @@
       "last_seen": "2026-10-23"
     },
     {
-      "company": "Dell Technologies",
-      "title": "Cloud Software Security (CSS) Summer Internship, Undergraduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300404",
-      "locations": [
-        "Round Rock, TX, United States"
-      ],
-      "city_tag": "Austin",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-19",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
       "company": "Datadog",
       "title": "Software Engineering Intern (Summer)",
       "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
@@ -4755,7 +4789,7 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-12",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -4805,21 +4839,6 @@
       "region": "AMER",
       "category": "Hardware/Silicon",
       "posted": "2026-09-22",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Cisco",
-      "title": "Security Consulting Engineer I (Intern) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2024817",
-      "locations": [
-        "Research Triangle Park, North Carolina, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-09-03",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -4889,6 +4908,24 @@
       "region": "AMER",
       "category": "Software",
       "posted": "2026-10-21",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI II (Intern) – United States",
+      "url": "https://careers.cisco.com/global/en/job/2026798",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -5449,21 +5486,6 @@
     },
     {
       "company": "Amazon",
-      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-      "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
-      "locations": [
-        "Redmond, Washington, USA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-24",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Amazon",
       "title": "2027 Summer Applied Science Internship - Information & Knowledge Management (Machine Learning)- United States, PhD Student Science Recruiting",
       "url": "https://www.amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
       "locations": [
@@ -5704,21 +5726,6 @@
     },
     {
       "company": "Amazon",
-      "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-      "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-      "locations": [
-        "North Reading, Massachusetts, USA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2025-10-08",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Amazon",
       "title": "2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
       "url": "https://www.amazon.jobs/en/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics",
       "locations": [
@@ -5759,7 +5766,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -5791,7 +5798,7 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },

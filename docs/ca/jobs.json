@@ -1,54 +1,53 @@
 {
-  "updated_at": "2026-10-23T00:04:51Z",
+  "updated_at": "2026-10-23T23:55:48Z",
   "jobs": {
     "qualcomm:446721678733": {
       "uid": "qualcomm:446721678733",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Vancouver",
       "company": "Qualcomm",
+      "country": "ca",
       "external_id": "446721678733",
-      "title": "FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721678733?domain=qualcomm.com",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
-      "category": "AI/ML",
-      "city_tag": "Vancouver",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
+      "region": "AMER",
+      "title": "FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721678733?domain=qualcomm.com"
     },
     "qualcomm:446721686396": {
       "uid": "qualcomm:446721686396",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Canada (Other)",
       "company": "Qualcomm",
+      "country": "ca",
       "external_id": "446721686396",
-      "title": "FY27 Intern - AI and DSP Applications Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721686396?domain=qualcomm.com",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "Markham, Ontario, Canada"
       ],
-      "category": "AI/ML",
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
+      "region": "AMER",
+      "title": "FY27 Intern - AI and DSP Applications Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721686396?domain=qualcomm.com"
     },
-    "intel:JR0287933": {
-      "uid": "intel:JR0287933",
-      "company": "Intel",
-      "external_id": "JR0287933",
-      "title": "Compiler Engineering Graduate Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
+    "nokia:41672": {
+      "uid": "nokia:41672",
+      "company": "Nokia",
+      "external_id": "41672",
+      "title": "Network Systems Engineer Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672",
       "locations": [
-        "Canada Toronto",
-        "Canada, Toronto"
+        "Canada"
       ],
       "category": "Backend/Infra",
-      "city_tag": "Toronto",
+      "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
       "posted": "2026-10-23",
@@ -56,24 +55,43 @@
       "last_seen": "2026-10-23",
       "active": true
     },
+    "intel:JR0287933": {
+      "uid": "intel:JR0287933",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Toronto",
+      "company": "Intel",
+      "country": "ca",
+      "external_id": "JR0287933",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "posted": "2026-10-22",
+      "region": "AMER",
+      "title": "Compiler Engineering Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933"
+    },
     "hpe:1214294": {
       "uid": "hpe:1214294",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Canada (Other)",
       "company": "HPE",
+      "country": "ca",
       "external_id": "1214294",
-      "title": "Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Hiver  2027)",
-      "url": "https://careers.hpe.com/us/en/job/1214294",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "locations": [
         "St. Laurent, Quebec, Canada",
         "St. Laurent, Quebec, H4S 0A4"
       ],
-      "category": "Software",
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "active": true
+      "region": "AMER",
+      "title": "Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Hiver  2027)",
+      "url": "https://careers.hpe.com/us/en/job/1214294"
     },
     "qualcomm:446721661677": {
       "uid": "qualcomm:446721661677",
@@ -161,7 +179,7 @@
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "region": "AMER",
       "title": "ASIC Verification Intern - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982"
@@ -216,7 +234,7 @@
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
       "region": "AMER",
       "title": "Compiler Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934"
@@ -685,7 +703,7 @@
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997"
@@ -722,7 +740,7 @@
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "region": "AMER",
       "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535"
@@ -741,7 +759,7 @@
         "Canada Toronto",
         "Canada, Toronto"
       ],
-      "posted": "2026-10-17",
+      "posted": "2026-10-16",
       "region": "AMER",
       "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"

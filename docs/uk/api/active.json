@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-23T00:04:51Z",
-  "total_active": 37,
+  "updated_at": "2026-10-23T23:55:48Z",
+  "total_active": 36,
   "jobs": [
     {
       "company": "Apple",
@@ -20,6 +20,21 @@
       "last_seen": "2026-10-23"
     },
     {
+      "company": "Amazon",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
       "company": "NVIDIA",
       "title": "Software Intern - Embedded Systems 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
@@ -31,7 +46,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-23"
     },
@@ -126,22 +141,6 @@
       "last_seen": "2026-10-23"
     },
     {
-      "company": "Visa",
-      "title": "Data Science Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
-      "locations": [
-        "GB - London, United Kingdom",
-        "GB, London United Kingdom"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-23"
-    },
-    {
       "company": "Microsoft",
       "title": "Applied Science PhD Internship",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487",
@@ -168,7 +167,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Security",
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-23"
     },
@@ -235,21 +234,6 @@
     },
     {
       "company": "Amazon",
-      "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Amazon",
       "title": "Network Development Engineer Intern, Core Networking",
       "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
       "locations": [
@@ -290,7 +274,7 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-23"
     },
@@ -476,7 +460,7 @@
       "title": "Software Engineer - Intern",
       "url": "https://careers.cisco.com/global/en/job/2023625",
       "locations": [
-        "Harpenden, Herefordshire, United Kingdom"
+        "Harpenden, Hertfordshire, United Kingdom"
       ],
       "city_tag": "UK (Other)",
       "country": "uk",

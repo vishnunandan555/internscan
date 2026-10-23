@@ -1,9 +1,10 @@
 {
   "jobs": {
     "accenture:R00271343": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
       "city_tag": "Europe (Other)",
+      "closed": "2026-10-23",
       "company": "Accenture",
       "country": "eu",
       "external_id": "R00271343",
@@ -18,9 +19,10 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343"
     },
     "accenture:R00280950": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "city_tag": "Europe (Other)",
+      "closed": "2026-10-23",
       "company": "Accenture",
       "country": "eu",
       "external_id": "R00280950",
@@ -53,9 +55,10 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786"
     },
     "accenture:R00319522": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
       "city_tag": "Europe (Other)",
+      "closed": "2026-10-23",
       "company": "Accenture",
       "country": "eu",
       "external_id": "R00319522",
@@ -70,9 +73,10 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522"
     },
     "accenture:R00327505": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Amsterdam",
+      "closed": "2026-10-23",
       "company": "Accenture",
       "country": "eu",
       "external_id": "R00327505",
@@ -87,9 +91,10 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505"
     },
     "accenture:R00335218": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "city_tag": "Europe (Other)",
+      "closed": "2026-10-23",
       "company": "Accenture",
       "country": "eu",
       "external_id": "R00335218",
@@ -122,9 +127,10 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434"
     },
     "accenture:R00355473": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Europe (Other)",
+      "closed": "2026-10-23",
       "company": "Accenture",
       "country": "eu",
       "external_id": "R00355473",
@@ -139,9 +145,10 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473"
     },
     "accenture:R00358078": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Amsterdam",
+      "closed": "2026-10-23",
       "company": "Accenture",
       "country": "eu",
       "external_id": "R00358078",
@@ -156,9 +163,10 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078"
     },
     "accenture:R00358088": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Amsterdam",
+      "closed": "2026-10-23",
       "company": "Accenture",
       "country": "eu",
       "external_id": "R00358088",
@@ -184,7 +192,7 @@
       "locations": [
         "Bucharest"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "region": "EMEA",
       "title": "2027 Intern- Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018"
@@ -513,6 +521,23 @@
       "region": "EMEA",
       "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+    },
+    "amazon:10587696": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Munich",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10587696",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Munich, Bavaria, DEU"
+      ],
+      "posted": "2026-10-23",
+      "region": "EMEA",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027"
     },
     "amazon:3120058": {
       "active": true,
@@ -1243,7 +1268,7 @@
         "Germany Munich",
         "Germany, Munich"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "region": "EMEA",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
@@ -1261,7 +1286,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "GPU Software Performance Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884"
@@ -1279,7 +1304,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "region": "EMEA",
       "title": "AI Frameworks Engineer - Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885"
@@ -1297,7 +1322,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886"
@@ -1315,7 +1340,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "region": "EMEA",
       "title": "AI Software Engineering - Workloads Validation Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890"
@@ -1333,7 +1358,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "region": "EMEA",
       "title": "GPU Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893"
@@ -1351,7 +1376,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "region": "EMEA",
       "title": "GPU Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894"
@@ -1369,7 +1394,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "region": "EMEA",
       "title": "AI Frameworks Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
@@ -1387,7 +1412,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "region": "EMEA",
       "title": "Compiler Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"
@@ -1405,7 +1430,7 @@
         "Germany Munich",
         "Germany, Munich"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "region": "EMEA",
       "title": "Software Engineering Undergraduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923"
@@ -1423,7 +1448,7 @@
         "Germany Munich",
         "Germany, Munich"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "region": "EMEA",
       "title": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942"
@@ -1441,7 +1466,7 @@
         "Germany Munich",
         "Germany, Munich"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "region": "EMEA",
       "title": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"
@@ -1497,7 +1522,7 @@
         "Germany Munich",
         "Germany, Munich"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "region": "EMEA",
       "title": "Development Tools Software Engineer Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205"
@@ -1515,7 +1540,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "region": "EMEA",
       "title": "System Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207"
@@ -1533,7 +1558,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "EMEA",
       "title": "DevOps Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209"
@@ -1551,7 +1576,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "EMEA",
       "title": "DevOps Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210"
@@ -1569,7 +1594,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "EMEA",
       "title": "Middleware Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213"
@@ -1587,7 +1612,7 @@
         "Germany Munich",
         "Germany, Munich"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "region": "EMEA",
       "title": "Software Development Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215"
@@ -1605,7 +1630,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "region": "EMEA",
       "title": "Media AI Software Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216"
@@ -1623,7 +1648,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "region": "EMEA",
       "title": "Intern Software QA Test Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220"
@@ -1641,7 +1666,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-17",
+      "posted": "2026-10-23",
       "region": "EMEA",
       "title": "DevOps Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1"
@@ -1659,7 +1684,7 @@
         "Poland Gdansk",
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "EMEA",
       "title": "AI Software Development Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225"
@@ -1835,9 +1860,10 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998782"
     },
     "microsoft:1970393557021513": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Europe (Other)",
+      "closed": "2026-10-23",
       "company": "Microsoft",
       "country": "eu",
       "external_id": "1970393557021513",
@@ -1852,9 +1878,10 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557021513"
     },
     "microsoft:1970393557021515": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Europe (Other)",
+      "closed": "2026-10-23",
       "company": "Microsoft",
       "country": "eu",
       "external_id": "1970393557021515",
@@ -1869,9 +1896,10 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557021515"
     },
     "microsoft:1970393557026573": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
       "city_tag": "Zurich",
+      "closed": "2026-10-23",
       "company": "Microsoft",
       "country": "eu",
       "external_id": "1970393557026573",
@@ -1932,10 +1960,27 @@
       "locations": [
         "Dublin"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-23",
       "region": "EMEA",
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279"
+    },
+    "mongodb:8267099": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Dublin",
+      "company": "MongoDB",
+      "country": "eu",
+      "external_id": "8267099",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-10-23",
+      "region": "EMEA",
+      "title": "2027 - Summer Software Engineer Intern, Dublin",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099"
     },
     "nokia:39653": {
       "active": false,
@@ -2002,7 +2047,7 @@
         "2 Locations",
         "Poland Remote"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "region": "EMEA",
       "title": "Software Engineering Intern, Nsight Systems - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248"
@@ -2020,7 +2065,7 @@
         "Switzerland Zurich",
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "region": "EMEA",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
@@ -2038,7 +2083,7 @@
         "4 Locations",
         "Germany Munich"
       ],
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "region": "EMEA",
       "title": "Data Processing Developer Technology Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
@@ -2075,7 +2120,7 @@
         "2 Locations",
         "Poland Warsaw"
       ],
-      "posted": "2026-09-30",
+      "posted": "2026-09-29",
       "region": "EMEA",
       "title": "Image and Data Processing Libraries Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
@@ -2093,7 +2138,7 @@
         "2 Locations",
         "Poland Warsaw"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "EMEA",
       "title": "Image and Data Processing Libraries Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569"
@@ -2111,7 +2156,7 @@
         "3 Locations",
         "Germany Munich"
       ],
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "region": "EMEA",
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775"
@@ -2129,7 +2174,7 @@
         "Switzerland Zurich",
         "Switzerland, Zurich"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "EMEA",
       "title": "AI Compiler Formal Verification Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025"
@@ -2147,7 +2192,7 @@
         "Switzerland Zurich",
         "Switzerland, Zurich"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "region": "EMEA",
       "title": "PhD Research Intern, Robotics - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294"
@@ -2165,7 +2210,7 @@
         "2 Locations",
         "Poland Warsaw"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "EMEA",
       "title": "GenAI Algorithms Intern \u2013 Model Optimization for Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377"
@@ -2183,7 +2228,7 @@
         "Germany Munich",
         "Germany, Munich"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "EMEA",
       "title": "AI Developer Technology Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497"
@@ -2201,7 +2246,7 @@
         "Switzerland Zurich",
         "Switzerland, Zurich"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "region": "EMEA",
       "title": "Robotics Simulation and Evaluation PhD Intern - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531"
@@ -2219,7 +2264,7 @@
         "Poland Warsaw",
         "Poland, Warsaw"
       ],
-      "posted": "2026-10-17",
+      "posted": "2026-10-16",
       "region": "EMEA",
       "title": "Developer Tools DevOps Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
@@ -2237,7 +2282,7 @@
         "2 Locations",
         "Germany Remote"
       ],
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
       "region": "EMEA",
       "title": "Relational Foundation Model Intern, Modern Data Stack \u2013 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829"
@@ -2255,7 +2300,7 @@
         "2 Locations",
         "Switzerland Zurich"
       ],
-      "posted": "2026-10-16",
+      "posted": "2026-10-15",
       "region": "EMEA",
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949"
@@ -2273,7 +2318,7 @@
         "3 Locations",
         "Germany Munich"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "region": "EMEA",
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210"
@@ -2483,5 +2528,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130807"
     }
   },
-  "updated_at": "2026-10-23T00:04:51Z"
+  "updated_at": "2026-10-23T23:55:48Z"
 }

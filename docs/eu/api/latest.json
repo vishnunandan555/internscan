@@ -1,66 +1,34 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-10-23T00:04:51Z",
-  "new_count": 4,
+  "updated_at": "2026-10-23T23:55:48Z",
+  "new_count": 2,
   "reopened_count": 0,
-  "total_active": 127,
+  "total_active": 118,
   "new_jobs": [
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
-      "url": "https://www.metacareers.com/jobs/1886039392386822",
+      "company": "Amazon",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027",
       "locations": [
-        "Paris, France"
+        "Munich, Bavaria, DEU"
       ],
-      "city_tag": "Europe (Other)",
+      "city_tag": "Munich",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Muse RL and Agents Team (MSc)",
-      "url": "https://www.metacareers.com/jobs/1647286810370437",
-      "locations": [
-        "Paris, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "company": "Intel",
-      "title": "DevOps Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209",
-      "locations": [
-        "Poland Gdansk",
-        "Poland, Gdansk"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
+      "category": "Software",
       "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
     {
-      "company": "Intel",
-      "title": "Software Development Intern (m/f/d)",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215",
+      "company": "MongoDB",
+      "title": "2027 - Summer Software Engineer Intern, Dublin",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
       "locations": [
-        "Germany Munich",
-        "Germany, Munich"
+        "Dublin"
       ],
-      "city_tag": "Munich",
+      "city_tag": "Dublin",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",

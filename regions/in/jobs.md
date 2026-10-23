@@ -2,14 +2,14 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-23 05:34:51 IST** · 📌 **13** open verified internships
+> 🕐 Last updated: **2026-10-24 05:25:48 IST** · 📌 **14** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (65)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **India**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (13)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (14)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -18,7 +18,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Google](#google) | **2** |
 | [HPE](#hpe) | **1** |
 | [Meta](#meta) | **4** |
-| [Microsoft](#microsoft) | **1** |
+| [Microsoft](#microsoft) | **2** |
 | [NVIDIA](#nvidia) | **1** |
 | [Qualcomm](#qualcomm) | **2** |
 | [Stripe](#stripe) | **1** |
@@ -62,6 +62,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Security Research INTERN](https://apply.careers.microsoft.com/careers/job/1970393557043380) ✨ | Security | Multiple Locations | 2026-10-23 | 2026-10-23 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) | AI/ML | Multiple Locations | 2026-02-27 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
