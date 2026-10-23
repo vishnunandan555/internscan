@@ -1,86 +1,25 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-22T00:05:51Z",
-  "new_count": 5,
+  "updated_at": "2026-10-23T00:04:51Z",
+  "new_count": 1,
   "reopened_count": 0,
-  "total_active": 36,
+  "total_active": 37,
   "new_jobs": [
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
-      "url": "https://www.metacareers.com/jobs/2188224482038078",
+      "company": "Apple",
+      "title": "Software Engineer Intern, iCloud Platform",
+      "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform",
       "locations": [
-        "Cambridge, UK"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/2281070982817094",
-      "locations": [
-        "London, UK"
+        "London"
       ],
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
-      "url": "https://www.metacareers.com/jobs/29859210493681744",
-      "locations": [
-        "Cambridge, UK"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
-      "url": "https://www.metacareers.com/jobs/2288012098648243",
-      "locations": [
-        "Cambridge, UK"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Software Intern - Embedded Systems 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
-      "locations": [
-        "UK Bristol",
-        "UK, Bristol"
-      ],
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
       "category": "Software",
       "posted": "2026-10-22",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
     }
   ],
   "reopened_jobs": []

@@ -1,13 +1,28 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-22T00:05:51Z",
-  "total_active": 52,
+  "updated_at": "2026-10-23T00:04:51Z",
+  "total_active": 53,
   "jobs": [
     {
       "company": "Qualcomm",
       "title": "FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721664194?domain=qualcomm.com",
+      "url": "https://careers.qualcomm.com/careers/job/446721678733?domain=qualcomm.com",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - AI and DSP Applications Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721686396?domain=qualcomm.com",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -15,9 +30,41 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Intel",
+      "title": "Compiler Engineering Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "HPE",
+      "title": "Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Hiver  2027)",
+      "url": "https://careers.hpe.com/us/en/job/1214294",
+      "locations": [
+        "St. Laurent, Quebec, Canada",
+        "St. Laurent, Quebec, H4S 0A4"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -32,7 +79,7 @@
       "category": "Software",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -47,7 +94,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -62,7 +109,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -77,7 +124,7 @@
       "category": "AI/ML",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "NVIDIA",
@@ -93,7 +140,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-20",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -108,7 +155,7 @@
       "category": "Software",
       "posted": "2026-10-16",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Nokia",
@@ -123,7 +170,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Intel",
@@ -139,22 +186,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-16",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-22"
-    },
-    {
-      "company": "AMD",
-      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/91368",
-      "locations": [
-        "MARKHAM, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-01",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Stripe",
@@ -167,9 +199,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Stripe",
@@ -182,9 +214,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Stripe",
@@ -197,9 +229,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -214,7 +246,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -229,7 +261,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -244,7 +276,7 @@
       "category": "Software",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -259,7 +291,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -274,7 +306,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -289,7 +321,7 @@
       "category": "Software",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -304,7 +336,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -319,7 +351,7 @@
       "category": "Software",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -334,7 +366,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -349,7 +381,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -364,7 +396,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -379,7 +411,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -394,7 +426,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -409,7 +441,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -424,7 +456,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -439,7 +471,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -454,7 +486,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-28",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Qualcomm",
@@ -469,7 +501,7 @@
       "category": "QA",
       "posted": "2026-09-30",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Nokia",
@@ -484,22 +516,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
-    },
-    {
-      "company": "Nokia",
-      "title": "IT Network Software/AI Development - Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39487",
-      "locations": [
-        "Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-01",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Nokia",
@@ -514,7 +531,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Nokia",
@@ -529,7 +546,7 @@
       "category": "Data",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Nokia",
@@ -544,7 +561,7 @@
       "category": "Data",
       "posted": "2026-09-25",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "NVIDIA",
@@ -560,7 +577,7 @@
       "category": "AI/ML",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Microsoft",
@@ -575,7 +592,7 @@
       "category": "AI/ML",
       "posted": "2026-10-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Intel",
@@ -591,7 +608,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Intel",
@@ -607,7 +624,7 @@
       "category": "AI/ML",
       "posted": "2026-10-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Google",
@@ -622,7 +639,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Google",
@@ -638,7 +655,7 @@
       "category": "Software",
       "posted": "2026-08-24",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Google",
@@ -655,7 +672,7 @@
       "category": "AI/ML",
       "posted": "2026-07-20",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Google",
@@ -671,7 +688,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Google",
@@ -688,7 +705,7 @@
       "category": "AI/ML",
       "posted": "2026-07-20",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Google",
@@ -703,7 +720,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Google",
@@ -719,7 +736,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Amazon",
@@ -734,7 +751,7 @@
       "category": "Software",
       "posted": "2026-09-09",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Amazon",
@@ -749,7 +766,7 @@
       "category": "AI/ML",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Amazon",
@@ -764,7 +781,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Amazon",
@@ -779,7 +796,7 @@
       "category": "AI/ML",
       "posted": "2026-09-30",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     {
       "company": "Amazon",
@@ -794,7 +811,7 @@
       "category": "AI/ML",
       "posted": "2025-12-03",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     }
   ]
 }

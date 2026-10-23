@@ -1,96 +1,114 @@
 {
-  "updated_at": "2026-10-22T00:05:51Z",
+  "updated_at": "2026-10-23T00:04:51Z",
   "jobs": {
+    "apple:200690044": {
+      "uid": "apple:200690044",
+      "company": "Apple",
+      "external_id": "200690044",
+      "title": "Software Engineer Intern, iCloud Platform",
+      "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform",
+      "locations": [
+        "London"
+      ],
+      "category": "Software",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "active": true
+    },
     "nvidia:JR2028274": {
       "uid": "nvidia:JR2028274",
+      "active": true,
+      "category": "Software",
+      "city_tag": "UK (Other)",
       "company": "NVIDIA",
+      "country": "uk",
       "external_id": "JR2028274",
-      "title": "Software Intern - Embedded Systems 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "UK Bristol",
         "UK, Bristol"
       ],
-      "category": "Software",
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-22",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "active": true
+      "region": "EMEA",
+      "title": "Software Intern - Embedded Systems 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1"
     },
     "meta:2188224482038078": {
       "uid": "meta:2188224482038078",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Cambridge / Oxford",
       "company": "Meta",
+      "country": "uk",
       "external_id": "2188224482038078",
-      "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
-      "url": "https://www.metacareers.com/jobs/2188224482038078",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Cambridge, UK"
       ],
-      "category": "AI/ML",
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "active": true
+      "region": "EMEA",
+      "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2188224482038078"
     },
     "meta:2281070982817094": {
       "uid": "meta:2281070982817094",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "London",
       "company": "Meta",
+      "country": "uk",
       "external_id": "2281070982817094",
-      "title": "Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/2281070982817094",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, UK"
       ],
-      "category": "AI/ML",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "active": true
-    },
-    "meta:29859210493681744": {
-      "uid": "meta:29859210493681744",
-      "company": "Meta",
-      "external_id": "29859210493681744",
-      "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
-      "url": "https://www.metacareers.com/jobs/29859210493681744",
-      "locations": [
-        "Cambridge, UK"
-      ],
-      "category": "AI/ML",
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
       "region": "EMEA",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "active": true
+      "title": "Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/2281070982817094"
     },
     "meta:2288012098648243": {
       "uid": "meta:2288012098648243",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Cambridge / Oxford",
       "company": "Meta",
+      "country": "uk",
       "external_id": "2288012098648243",
-      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
-      "url": "https://www.metacareers.com/jobs/2288012098648243",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Cambridge, UK"
       ],
+      "posted": "2026-10-21",
+      "region": "EMEA",
+      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/2288012098648243"
+    },
+    "meta:29859210493681744": {
+      "uid": "meta:29859210493681744",
+      "active": true,
       "category": "AI/ML",
       "city_tag": "Cambridge / Oxford",
+      "company": "Meta",
       "country": "uk",
-      "region": "EMEA",
-      "posted": "2026-10-21",
+      "external_id": "29859210493681744",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "active": true
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "posted": "2026-10-21",
+      "region": "EMEA",
+      "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
+      "url": "https://www.metacareers.com/jobs/29859210493681744"
     },
     "meta:4556622427930384": {
       "uid": "meta:4556622427930384",
@@ -101,7 +119,7 @@
       "country": "uk",
       "external_id": "4556622427930384",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Cambridge, UK"
       ],
@@ -119,7 +137,7 @@
       "country": "uk",
       "external_id": "994737396214791",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, UK"
       ],
@@ -137,7 +155,7 @@
       "country": "uk",
       "external_id": "REF086121W",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "GB - London, United Kingdom",
         "GB, London United Kingdom"
@@ -156,7 +174,7 @@
       "country": "uk",
       "external_id": "1970393557042487",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "United Kingdom, Berkshire, Reading"
       ],
@@ -174,7 +192,7 @@
       "country": "uk",
       "external_id": "R30404",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "3 Locations",
         "United Kingdom, London"
@@ -193,7 +211,7 @@
       "country": "uk",
       "external_id": "200687171",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London"
       ],
@@ -211,7 +229,7 @@
       "country": "uk",
       "external_id": "210800615",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "LONDON, United Kingdom"
       ],
@@ -229,7 +247,7 @@
       "country": "uk",
       "external_id": "1216282",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Winnersh, N/A",
         "Winnersh, United Kingdom"
@@ -248,7 +266,7 @@
       "country": "uk",
       "external_id": "200689473",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London"
       ],
@@ -266,7 +284,7 @@
       "country": "uk",
       "external_id": "10552039",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, England, GBR"
       ],
@@ -284,7 +302,7 @@
       "country": "uk",
       "external_id": "3201714",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Sydney, New South Wales, AUS"
       ],
@@ -302,11 +320,11 @@
       "country": "uk",
       "external_id": "8130867",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "region": "EMEA",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
@@ -320,7 +338,7 @@
       "country": "uk",
       "external_id": "JR2027948",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "2 Locations",
         "UK Bristol"
@@ -339,7 +357,7 @@
       "country": "uk",
       "external_id": "2558941294546763",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Dublin, Ireland",
         "London, UK"
@@ -358,7 +376,7 @@
       "country": "uk",
       "external_id": "210774716",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom",
         "LONDON, LONDON, United Kingdom"
@@ -377,7 +395,7 @@
       "country": "uk",
       "external_id": "210774745",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom",
         "LONDON, LONDON, United Kingdom"
@@ -396,7 +414,7 @@
       "country": "uk",
       "external_id": "210774813",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "GLASGOW, LANARKSHIRE, United Kingdom"
       ],
@@ -414,7 +432,7 @@
       "country": "uk",
       "external_id": "1215804",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Bristol, Avon, BS34 8QZ",
         "Bristol, Avon, United Kingdom"
@@ -433,7 +451,7 @@
       "country": "uk",
       "external_id": "100028133205254854",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, UK"
       ],
@@ -451,7 +469,7 @@
       "country": "uk",
       "external_id": "135156989620560582",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, UK"
       ],
@@ -469,7 +487,7 @@
       "country": "uk",
       "external_id": "73321728058499782",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, UK"
       ],
@@ -487,7 +505,7 @@
       "country": "uk",
       "external_id": "80037545080955590",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, UK"
       ],
@@ -505,7 +523,7 @@
       "country": "uk",
       "external_id": "86733690079453894",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Accra, Ghana",
         "Amsterdam, Netherlands",
@@ -531,7 +549,7 @@
       "country": "uk",
       "external_id": "8847738002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, United Kingdom"
       ],
@@ -549,7 +567,7 @@
       "country": "uk",
       "external_id": "2023625",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Harpenden, Herefordshire, United Kingdom"
       ],
@@ -567,7 +585,7 @@
       "country": "uk",
       "external_id": "2024351",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "North Sydney, New South Wales, Australia"
       ],
@@ -585,7 +603,7 @@
       "country": "uk",
       "external_id": "200682357",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London"
       ],
@@ -603,7 +621,7 @@
       "country": "uk",
       "external_id": "10554586",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, England, GBR"
       ],
@@ -621,7 +639,7 @@
       "country": "uk",
       "external_id": "10567687",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, England, GBR"
       ],
@@ -639,7 +657,7 @@
       "country": "uk",
       "external_id": "10567694",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, England, GBR"
       ],
@@ -657,7 +675,7 @@
       "country": "uk",
       "external_id": "10577611",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "London, England, GBR"
       ],

@@ -1,15 +1,30 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-22T00:05:51Z",
-  "new_count": 3,
+  "updated_at": "2026-10-23T00:04:51Z",
+  "new_count": 4,
   "reopened_count": 0,
-  "total_active": 52,
+  "total_active": 53,
   "new_jobs": [
     {
       "company": "Qualcomm",
       "title": "FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721664194?domain=qualcomm.com",
+      "url": "https://careers.qualcomm.com/careers/job/446721678733?domain=qualcomm.com",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - AI and DSP Applications Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721686396?domain=qualcomm.com",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -17,39 +32,41 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
     },
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Display Systems Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721661677?domain=qualcomm.com",
+      "company": "HPE",
+      "title": "Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Hiver  2027)",
+      "url": "https://careers.hpe.com/us/en/job/1214294",
       "locations": [
-        "Markham, Ontario, Canada"
+        "St. Laurent, Quebec, Canada",
+        "St. Laurent, Quebec, H4S 0A4"
       ],
       "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
     },
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Edge AI and Display Hardware Architecture Development Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721661830?domain=qualcomm.com",
+      "company": "Intel",
+      "title": "Compiler Engineering Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
       "locations": [
-        "Markham, Ontario, Canada"
+        "Canada Toronto",
+        "Canada, Toronto"
       ],
-      "city_tag": "Canada (Other)",
+      "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22"
+      "category": "Backend/Infra",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
     }
   ],
   "reopened_jobs": []
