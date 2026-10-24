@@ -1,82 +1,34 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-23 23:54:25 UTC
+SCRAPE RUN SUMMARY — 2026-10-24 23:29:41 UTC
 ========================================================================
-Runtime:            82.7 seconds
+Runtime:            82.2 seconds
 Companies Scraped:  60 total
   - Succeeded:      60
   - Failed:         0
-Active India Roles: 582
+Active India Roles: 590
 Changes Detected:
-  - New Additions:  +18
-  - Closed Roles:   -27
-  - Reopened Roles: ~1
+  - New Additions:  +4
+  - Closed Roles:   -7
+  - Reopened Roles: ~6
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Amazon — Business Developer Intern, Early Careers 2027 (Munich) [Software]
-    Apply: https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027
-  + Amazon — Business Developer Intern, Early Careers 2027 (London) [Software]
-    Apply: https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027
-  + Amazon — Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) (Seattle) [Software]
-    Apply: https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa
-  + Dell Technologies — Capital Venture Undergraduate Intern (US (Other)) [Software]
-    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300900
-  + HPE — Electrical Hardware Engineering Intern (US (Other)) [Hardware/Silicon]
-    Apply: https://careers.hpe.com/us/en/job/1213409
-  + HPE — Cybersecurity Engineering Intern (US (Other)) [Security]
-    Apply: https://careers.hpe.com/us/en/job/1216080
-  + Microsoft — Software Engineering Intern (US (Other)) [Software]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557044771
-  + Microsoft — Security Research INTERN (India (Multiple/Other)) [Security]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557043380
-  + Meta — Research Scientist Intern, Wearable Sensing & Human Motion Analysis (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1137225375529389
-  + Meta — Research Scientist Intern, Policy Learning for Robotics (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/2554989011673624
-  + Meta — Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/2053489871986285
-  + Meta — Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1023154190171838
-  + Meta — Research Scientist Intern, Meta Recommendation Systems (PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1416549056773684
-  + Meta — Research Scientist Intern, AI Core Machine Learning (PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1648122343381284
-  + Intel — AI Hardware Engineering Intern (SF Bay Area) [AI/ML]
-    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533
-  + Nokia — Network Systems Engineer Co-op/Intern (Canada (Other)) [Backend/Infra]
-    Apply: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672
-  + MongoDB — 2027 - Software Engineering Intern, AMER (SF Bay Area) [Software]
-    Apply: https://www.mongodb.com/careers/job/?gh_jid=8209134
-  + MongoDB — 2027 - Summer Software Engineer Intern, Dublin (Dublin) [Software]
-    Apply: https://www.mongodb.com/careers/job/?gh_jid=8267099
+  + Meta — Research Scientist Intern, Neuro-AI - Brain & AI Team (PhD) (Europe (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1463189352436520
+  + Meta — Research Scientist Intern - Omnilingual - FAIR (Europe (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1464655882214150
+  + Meta — Research Scientist Intern - Content Seal - FAIR (Europe (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1775227420261809
+  + Accenture — Data Engineer Intern (Europe (Other)) [Data]
+    Apply: https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471
 
 [INTERNSHIPS CLOSED]
-  - Accenture — LLM Engineer Internship Program (She/He/They) (Europe (Other))
-  - Accenture — Backend Developer Internship Program (She/He/They) (Europe (Other))
-  - Accenture — GenAI Engineering Internship Program (She/He/They) (Europe (Other))
-  - Accenture — Digital Engineering Internship (Amsterdam)
-  - Accenture — Adobe Experience Cloud Intern Analyst | MarTech & Digital Experience Internship Program (He/She/They) (Europe (Other))
-  - Accenture — Angular Developer Internship Program (She/He/They) (Europe (Other))
-  - Accenture — Health Technology Internship (Amsterdam)
-  - Accenture — Public Services Technology Internship (Amsterdam)
-  - Amazon — Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition (London)
-  - Amazon — Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) (Seattle)
-  - Amazon — Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more) (US (Other))
-  - Cisco — Security Consulting Engineer I (Intern) - United States (US (Other))
-  - Dell Technologies — Cloud Software Security (CSS) Summer Internship, Undergraduate Intern (Austin)
-  - HPE — Electrical Engineering Intern (US (Other))
-  - Micron — Intern - ASIC Validation (US (Other))
-  - Micron — Intern - ASIC Digital Design (US (Other))
-  - Micron — Intern - IT Software Engineer (US (Other))
-  - Micron — Intern - SMAI Probe AI Engineer (US (Other))
-  - Micron — Intern - Machine Learning Engineering (US (Other))
-  - Micron — Intern - Semiconductor Global Category Supplier Management (SF Bay Area)
-  - Micron — Intern - SSD Firmware (SF Bay Area)
-  - Micron — Intern - SSD Firmware (US (Other))
-  - Microsoft — Software Engineering Internship Opportunities - CoreAI (Europe (Other))
-  - Microsoft — Software Engineering Internship Opportunities (Europe (Other))
-  - Microsoft — Research Sciences INTERN (Zurich)
-  - Nokia — AI-Agent Development Co-op (US (Other))
-  - Visa — Data Science Intern (London)
+  - Intel — GPU & AI Accelerator Hardware Design Undergraduate Intern (Toronto)
+  - Microsoft — Applied Science: PhD Microsoft AI Internship Opportunities (SF Bay Area)
+  - Qualcomm — FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months) (Toronto)
+  - Qualcomm — FY27 Intern - Silicon Validation Internship - Canada (16 months) (Toronto)
+  - Qualcomm — FY27 Intern - Low Power AI Software Development Internship - Canada (16 months) (Canada (Other))
+  - Qualcomm — FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months) (Canada (Other))
+  - Qualcomm — FY27 Intern - MSIP Digital Design Engineering Internship - Canada (16 months) (Toronto)
 
 ========================================================================

@@ -2,7 +2,7 @@
 
 # 🇺🇸 United States — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-10-24 05:25:48 IST**
+> 🕐 Last updated: **2026-10-25 05:01:03 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/us/)
 

@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-24 05:25:48 IST** · 📌 **36** open verified internships
+> 🕐 Last updated: **2026-10-25 05:01:03 IST** · 📌 **36** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -43,7 +43,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) | Data | London | 2026-10-02 | 2026-10-15 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | London | 2026-10-02 | 2026-10-15 |
 | [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) | Software | London | 2026-09-21 | 2026-10-15 |
-| [Network Development Engineer Intern, Core Networking](https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking) ✨ | Backend/Infra | Sydney, New South Wales | 2026-03-11 | 2026-10-16 |
+| [Network Development Engineer Intern, Core Networking](https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking) | Backend/Infra | Sydney, New South Wales | 2026-03-11 | 2026-10-16 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -53,7 +53,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Software Engineer Intern, iCloud Platform](https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform) ✨ | Software | London | 2026-10-22 | 2026-10-23 |
 | [Information Security Internship](https://jobs.apple.com/en-us/details/200687171/information-security-internship) ✨ | Security | London | 2026-10-19 | 2026-10-20 |
-| [Software Engineering Intern, Apple Services Engineering](https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering) ✨ | Software | London | 2026-10-16 | 2026-10-16 |
+| [Software Engineering Intern, Apple Services Engineering](https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering) | Software | London | 2026-10-16 | 2026-10-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -99,7 +99,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) ✨ | Backend/Infra | Winnersh | 2026-10-16 | 2026-10-16 |
+| [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) | Backend/Infra | Winnersh | 2026-10-16 | 2026-10-16 |
 | [Software Engineering Internship (Placement Year)](https://careers.hpe.com/us/en/job/1215804) | Software | Bristol, Avon | 2026-09-23 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -108,7 +108,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) ✨ | AI/ML | London | 2026-10-15 | 2026-10-16 |
+| [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) | AI/ML | London | 2026-10-15 | 2026-10-16 |
 | [2027 Software Engineer Program - Summer Internship - Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) | Software | London | 2026-08-31 | 2026-10-15 |
 | [2027 Software Engineer Immersion Program - Summer Internship - Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) | Software | Glasgow, Lanarkshire | 2026-08-31 | 2026-10-15 |
 | [2027 Data & AI - Summer Internship -  Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | Data | London | 2026-08-31 | 2026-10-15 |

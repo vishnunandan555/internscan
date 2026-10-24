@@ -2,19 +2,20 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-24 05:25:48 IST** · 📌 **118** open verified internships
+> 🕐 Last updated: **2026-10-25 05:01:03 IST** · 📌 **128** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Europe**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (118)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (128)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in Europe |
 |---|:---:|
+| [Accenture](#accenture) | **7** |
 | [Adobe](#adobe) | **1** |
 | [Amazon](#amazon) | **20** |
 | [Apple](#apple) | **14** |
@@ -25,7 +26,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [HPE](#hpe) | **1** |
 | [Intel](#intel) | **22** |
 | [JPMorgan Chase](#jpmorgan-chase) | **1** |
-| [Meta](#meta) | **7** |
+| [Meta](#meta) | **10** |
 | [Microsoft](#microsoft) | **3** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **15** |
@@ -39,6 +40,20 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 <a id="open-internships"></a>
 
 ## 💼 Open Internship Postings
+
+### Accenture
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Data Engineer Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471) ✨ | Data | Prague | 2026-10-19 | 2026-10-24 |
+| [GenAI Engineering Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522) | AI/ML | Warsaw | 2026-10-13 | 2026-10-15 |
+| [Public Services Technology Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088) | Software | Amsterdam | 2026-10-06 | 2026-10-15 |
+| [Health Technology Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078) | Software | Amsterdam | 2026-09-25 | 2026-10-15 |
+| [LLM Engineer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343) | AI/ML | Warsaw | 2026-09-24 | 2026-10-15 |
+| [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | Software | Amsterdam | 2026-09-24 | 2026-10-15 |
+| [Angular Developer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473) | Software | Warsaw | 2026-09-24 | 2026-10-15 |
+
+[⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
 ### Adobe
 
@@ -55,7 +70,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027) ✨ | Software | Munich | 2026-10-23 | 2026-10-23 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) ✨ | AI/ML | Bucharest, Romania | 2026-10-21 | 2026-10-22 |
 | [Business Intelligence Intern Spain](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) ✨ | Data | Madrid, Community Of Madrid | 2026-10-19 | 2026-10-20 |
-| [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) ✨ | Data | Clichy, Ile-De-France | 2026-10-15 | 2026-10-16 |
+| [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) | Data | Clichy, Ile-De-France | 2026-10-15 | 2026-10-16 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | Security | Dublin | 2026-10-13 | 2026-10-15 |
 | [Network Development Engineer Intern](https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern) | Backend/Infra | Dublin | 2026-10-06 | 2026-10-15 |
 | [2027 Software Dev Engineer Intern - Netherlands](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) | Software | Amsterdam | 2026-10-05 | 2026-10-15 |
@@ -154,7 +169,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1) ✨ | Backend/Infra | Gdansk, Poland | 2026-10-23 | 2026-10-16 |
+| [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1) | Backend/Infra | Gdansk, Poland | 2026-10-23 | 2026-10-16 |
 | [Software Development Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215) ✨ | Software | Munich | 2026-10-22 | 2026-10-23 |
 | [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209) ✨ | Backend/Infra | Gdansk, Poland | 2026-10-22 | 2026-10-23 |
 | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207) ✨ | Software | Gdansk, Poland | 2026-10-21 | 2026-10-22 |
@@ -191,10 +206,13 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Neuro-AI - Brain & AI Team (PhD)](https://www.metacareers.com/jobs/1463189352436520) ✨ | AI/ML | Paris, France | 2026-10-24 | 2026-10-24 |
+| [Research Scientist Intern - Omnilingual - FAIR](https://www.metacareers.com/jobs/1464655882214150) ✨ | AI/ML | Paris, France | 2026-10-24 | 2026-10-24 |
+| [Research Scientist Intern - Content Seal - FAIR](https://www.metacareers.com/jobs/1775227420261809) ✨ | AI/ML | Paris, France | 2026-10-24 | 2026-10-24 |
 | [Research Scientist Intern, Muse RL and Agents Team (MSc)](https://www.metacareers.com/jobs/1647286810370437) ✨ | AI/ML | Paris, France | 2026-10-22 | 2026-10-23 |
 | [Research Scientist Intern, FAIR - Multimodal Foundations (PhD)](https://www.metacareers.com/jobs/1886039392386822) ✨ | AI/ML | Paris, France | 2026-10-22 | 2026-10-23 |
 | [Research Scientist Intern, Robotics Foundation Models (PhD)](https://www.metacareers.com/jobs/1085375117813817) ✨ | AI/ML | Zurich | 2026-10-21 | 2026-10-22 |
-| [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/1050177734644029) ✨ | AI/ML | Paris, France | 2026-10-15 | 2026-10-16 |
+| [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/1050177734644029) | AI/ML | Paris, France | 2026-10-15 | 2026-10-16 |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/1476285977740386) ✨ | AI/ML | Zurich | 2026-10-14 | 2026-10-21 |
 | [Research Scientist Intern, Robotics Foundation Models Post-Training (PhD)](https://www.metacareers.com/jobs/848358355026771) ✨ | AI/ML | Zurich | 2026-10-13 | 2026-10-21 |
 | [Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)](https://www.metacareers.com/jobs/1420325362923811) ✨ | AI/ML | Zurich | 2026-10-13 | 2026-10-22 |
@@ -206,7 +224,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Solution Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557027235) | Software | Schiphol, Noord-Holland | 2026-10-13 | 2026-10-15 |
-| [Copilot & AI Solution Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556998782) ✨ | AI/ML | Brussels, Brussels Region | 2026-09-15 | 2026-10-16 |
+| [Copilot & AI Solution Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556998782) | AI/ML | Brussels, Brussels Region | 2026-09-15 | 2026-10-16 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | Brussels, Brussels Region | 2026-09-14 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
@@ -229,9 +247,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210) ✨ | Software | Munich | 2026-10-20 | 2026-10-21 |
 | [AI Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) | AI/ML | Munich | 2026-10-20 | 2026-10-15 |
 | [AI Compiler Formal Verification Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025) | AI/ML | Zurich | 2026-10-20 | 2026-10-15 |
-| [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) ✨ | Software | Warsaw, Poland | 2026-10-16 | 2026-10-16 |
-| [Relational Foundation Model Intern, Modern Data Stack – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829) ✨ | Data | Remote (EU) | 2026-10-15 | 2026-10-16 |
-| [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949) ✨ | Software | Zurich | 2026-10-15 | 2026-10-16 |
+| [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) | Software | Warsaw, Poland | 2026-10-16 | 2026-10-16 |
+| [Relational Foundation Model Intern, Modern Data Stack – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829) | Data | Remote (EU) | 2026-10-15 | 2026-10-16 |
+| [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949) | Software | Zurich | 2026-10-15 | 2026-10-16 |
 | [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775) | Software | Munich | 2026-10-13 | 2026-10-15 |
 | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) | Data | Munich | 2026-10-13 | 2026-10-15 |
 | [Robotics Simulation and Evaluation PhD Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531) | AI/ML | Zurich | 2026-10-09 | 2026-10-15 |

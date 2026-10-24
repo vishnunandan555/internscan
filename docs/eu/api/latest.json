@@ -1,41 +1,162 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-10-23T23:55:48Z",
-  "new_count": 2,
-  "reopened_count": 0,
-  "total_active": 118,
+  "updated_at": "2026-10-24T23:31:03Z",
+  "new_count": 4,
+  "reopened_count": 6,
+  "total_active": 128,
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "Business Developer Intern, Early Careers 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Neuro-AI - Brain & AI Team (PhD)",
+      "url": "https://www.metacareers.com/jobs/1463189352436520",
       "locations": [
-        "Munich, Bavaria, DEU"
+        "Paris, France"
       ],
-      "city_tag": "Munich",
+      "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-23",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
+      "category": "AI/ML",
+      "posted": "2026-10-24",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24"
     },
     {
-      "company": "MongoDB",
-      "title": "2027 - Summer Software Engineer Intern, Dublin",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Omnilingual - FAIR",
+      "url": "https://www.metacareers.com/jobs/1464655882214150",
       "locations": [
-        "Dublin"
+        "Paris, France"
       ],
-      "city_tag": "Dublin",
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-24",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern - Content Seal - FAIR",
+      "url": "https://www.metacareers.com/jobs/1775227420261809",
+      "locations": [
+        "Paris, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-24",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24"
+    },
+    {
+      "company": "Accenture",
+      "title": "Data Engineer Intern",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471",
+      "locations": [
+        "Prague"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-10-19",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "Accenture",
+      "title": "Digital Engineering Internship",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505",
+      "locations": [
+        "Amsterdam"
+      ],
+      "city_tag": "Amsterdam",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-23",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23"
+      "posted": "2026-09-24",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-24"
+    },
+    {
+      "company": "Accenture",
+      "title": "Health Technology Internship",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078",
+      "locations": [
+        "Amsterdam"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-09-25",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-24"
+    },
+    {
+      "company": "Accenture",
+      "title": "Public Services Technology Internship",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088",
+      "locations": [
+        "Amsterdam"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-06",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-24"
+    },
+    {
+      "company": "Accenture",
+      "title": "GenAI Engineering Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522",
+      "locations": [
+        "Warsaw"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-13",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-24"
+    },
+    {
+      "company": "Accenture",
+      "title": "Angular Developer Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473",
+      "locations": [
+        "Warsaw"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-09-24",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-24"
+    },
+    {
+      "company": "Accenture",
+      "title": "LLM Engineer Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343",
+      "locations": [
+        "Warsaw"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-09-24",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-24"
     }
-  ],
-  "reopened_jobs": []
+  ]
 }
