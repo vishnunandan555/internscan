@@ -1,10 +1,41 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-10-24T23:31:03Z",
-  "new_count": 0,
+  "updated_at": "2026-10-25T23:25:53Z",
+  "new_count": 2,
   "reopened_count": 0,
-  "total_active": 356,
-  "new_jobs": [],
+  "total_active": 358,
+  "new_jobs": [
+    {
+      "company": "Dell Technologies",
+      "title": "Services Analytics Graduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301412",
+      "locations": [
+        "TX, United States"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "company": "Dell Technologies",
+      "title": "Services Data Science Graduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301413",
+      "locations": [
+        "TX, United States"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25"
+    }
+  ],
   "reopened_jobs": []
 }

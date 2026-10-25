@@ -2,7 +2,7 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-25 05:01:03 IST** · 📌 **128** open verified internships
+> 🕐 Last updated: **2026-10-26 04:55:53 IST** · 📌 **128** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
@@ -48,10 +48,10 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Data Engineer Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471) ✨ | Data | Prague | 2026-10-19 | 2026-10-24 |
 | [GenAI Engineering Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522) | AI/ML | Warsaw | 2026-10-13 | 2026-10-15 |
 | [Public Services Technology Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088) | Software | Amsterdam | 2026-10-06 | 2026-10-15 |
+| [LLM Engineer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343) | AI/ML | Warsaw | 2026-09-25 | 2026-10-15 |
 | [Health Technology Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078) | Software | Amsterdam | 2026-09-25 | 2026-10-15 |
-| [LLM Engineer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343) | AI/ML | Warsaw | 2026-09-24 | 2026-10-15 |
-| [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | Software | Amsterdam | 2026-09-24 | 2026-10-15 |
-| [Angular Developer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473) | Software | Warsaw | 2026-09-24 | 2026-10-15 |
+| [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | Software | Amsterdam | 2026-09-25 | 2026-10-15 |
+| [Angular Developer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473) | Software | Warsaw | 2026-09-25 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
@@ -98,7 +98,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Internship - Software Engineering](https://jobs.apple.com/en-us/details/200690139/internship-software-engineering) ✨ | Software | Munich | 2026-10-20 | 2026-10-21 |
 | [Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test](https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test) ✨ | Software | Munich | 2026-10-19 | 2026-10-20 |
 | [Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE](https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte) ✨ | Software | Munich | 2026-10-19 | 2026-10-20 |
-| [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) ✨ | AI/ML | Paris | 2026-10-17 | 2026-10-17 |
+| [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) | AI/ML | Paris | 2026-10-17 | 2026-10-17 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | Zurich | 2026-10-13 | 2026-10-15 |
 | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) | Backend/Infra | Munich | 2026-10-07 | 2026-10-15 |
 | [AMS Lab Validation Intern](https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern) | QA | Munich | 2026-10-01 | 2026-10-15 |

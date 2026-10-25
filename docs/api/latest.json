@@ -1,161 +1,116 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-10-24T23:31:03Z",
-  "new_count": 4,
-  "reopened_count": 6,
-  "total_active": 583,
+  "updated_at": "2026-10-25T23:25:53Z",
+  "new_count": 2,
+  "reopened_count": 5,
+  "total_active": 590,
   "new_jobs": [
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Neuro-AI - Brain & AI Team (PhD)",
-      "url": "https://www.metacareers.com/jobs/1463189352436520",
+      "company": "Dell Technologies",
+      "title": "Services Analytics Graduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301412",
       "locations": [
-        "Paris, France"
+        "TX, United States"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-24",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern - Omnilingual - FAIR",
-      "url": "https://www.metacareers.com/jobs/1464655882214150",
-      "locations": [
-        "Paris, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-24",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern - Content Seal - FAIR",
-      "url": "https://www.metacareers.com/jobs/1775227420261809",
-      "locations": [
-        "Paris, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-24",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24"
-    },
-    {
-      "company": "Accenture",
-      "title": "Data Engineer Intern",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471",
-      "locations": [
-        "Prague"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-19",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24"
+      "posted": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "company": "Dell Technologies",
+      "title": "Services Data Science Graduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301413",
+      "locations": [
+        "TX, United States"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Accenture",
-      "title": "Digital Engineering Internship",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com",
       "locations": [
-        "Amsterdam"
+        "Toronto, Ontario, Canada"
       ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-24",
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
-      "company": "Accenture",
-      "title": "Health Technology Internship",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Silicon Validation Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com",
       "locations": [
-        "Amsterdam"
+        "Toronto, Ontario, Canada"
       ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-25",
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
-      "company": "Accenture",
-      "title": "Public Services Technology Internship",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com",
       "locations": [
-        "Amsterdam"
+        "Markham, Ontario, Canada"
       ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-06",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-24"
-    },
-    {
-      "company": "Accenture",
-      "title": "GenAI Engineering Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
-      "company": "Accenture",
-      "title": "Angular Developer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156176?domain=qualcomm.com",
       "locations": [
-        "Warsaw"
+        "Ottawa, Ontario, Canada"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-18",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - MSIP Digital Design Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156182?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-24",
+      "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-24"
-    },
-    {
-      "company": "Accenture",
-      "title": "LLM Engineer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-09-24",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     }
   ]
 }

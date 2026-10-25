@@ -1,10 +1,86 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-24T23:31:03Z",
+  "updated_at": "2026-10-25T23:25:53Z",
   "new_count": 0,
-  "reopened_count": 0,
-  "total_active": 48,
+  "reopened_count": 5,
+  "total_active": 53,
   "new_jobs": [],
-  "reopened_jobs": []
+  "reopened_jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Silicon Validation Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Silicon Validation Engineer, Electrical and Optical Systems Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156176?domain=qualcomm.com",
+      "locations": [
+        "Ottawa, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-18",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - MSIP Digital Design Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156182?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-18",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-25"
+    }
+  ]
 }
