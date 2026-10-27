@@ -1,23 +1,187 @@
 {
-  "updated_at": "2026-10-27T00:40:49Z",
+  "updated_at": "2026-10-27T20:41:31Z",
   "jobs": {
+    "wells-fargo:R-557386": {
+      "uid": "wells-fargo:R-557386",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Wells Fargo",
+      "country": "in",
+      "external_id": "R-557386",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "2 Locations",
+        "Bengaluru India"
+      ],
+      "posted": "2026-10-27",
+      "region": "APAC",
+      "title": "2027 Technology Program Intern",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386"
+    },
     "microsoft:1970393556917519": {
       "uid": "microsoft:1970393556917519",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "India (Multiple/Other)",
       "company": "Microsoft",
+      "country": "in",
       "external_id": "1970393556917519",
-      "title": "Applied Sciences INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
-      "category": "AI/ML",
-      "city_tag": "India (Multiple/Other)",
-      "country": "in",
-      "region": "APAC",
       "posted": "2026-10-26",
+      "region": "APAC",
+      "title": "Applied Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519"
+    },
+    "hackerrank:8229735": {
+      "uid": "hackerrank:8229735",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "HackerRank",
+      "country": "in",
+      "external_id": "8229735",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "active": true
+      "locations": [
+        "Onsite in Bangalore"
+      ],
+      "posted": "2026-10-15",
+      "region": "APAC",
+      "title": "Software Development Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735"
+    },
+    "discover-dollar:125740": {
+      "uid": "discover-dollar:125740",
+      "active": true,
+      "category": "Data",
+      "city_tag": "Bengaluru",
+      "company": "Discover Dollar",
+      "country": "in",
+      "external_id": "125740",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Bangalore, India",
+        "Mangaluru, India"
+      ],
+      "posted": "2026-09-17",
+      "region": "APAC",
+      "title": "Data Analysis Intern",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/125740"
+    },
+    "discover-dollar:138385": {
+      "uid": "discover-dollar:138385",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Discover Dollar",
+      "country": "in",
+      "external_id": "138385",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Bengaluru, India"
+      ],
+      "posted": "2026-09-10",
+      "region": "APAC",
+      "title": "Software Development Intern (Full Stack)",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/138385"
+    },
+    "discover-dollar:154642": {
+      "uid": "discover-dollar:154642",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Discover Dollar",
+      "country": "in",
+      "external_id": "154642",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": "2026-09-14",
+      "region": "APAC",
+      "title": "Software Development Intern (Full Stack)",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/154642"
+    },
+    "discover-dollar:155175": {
+      "uid": "discover-dollar:155175",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Bengaluru",
+      "company": "Discover Dollar",
+      "country": "in",
+      "external_id": "155175",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": "2026-08-06",
+      "region": "APAC",
+      "title": "AI Engineer Intern",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/155175"
+    },
+    "discover-dollar:164757": {
+      "uid": "discover-dollar:164757",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Bengaluru",
+      "company": "Discover Dollar",
+      "country": "in",
+      "external_id": "164757",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": "2026-10-08",
+      "region": "APAC",
+      "title": "AI Engineer Intern",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/164757"
+    },
+    "discover-dollar:91847": {
+      "uid": "discover-dollar:91847",
+      "active": true,
+      "category": "Data",
+      "city_tag": "Bengaluru",
+      "company": "Discover Dollar",
+      "country": "in",
+      "external_id": "91847",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Bangalore"
+      ],
+      "posted": "2026-07-21",
+      "region": "APAC",
+      "title": "Analytics/AI Engineer Intern",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/91847"
+    },
+    "cloudsek:6115382004": {
+      "uid": "cloudsek:6115382004",
+      "active": true,
+      "category": "Security",
+      "city_tag": "Bengaluru",
+      "company": "CloudSEK",
+      "country": "in",
+      "external_id": "6115382004",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "posted": "2026-07-14",
+      "region": "APAC",
+      "title": "Security Consultant Intern",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6115382004"
     },
     "microsoft:1970393557043380": {
       "uid": "microsoft:1970393557043380",

@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-10-27T00:40:49Z",
+  "updated_at": "2026-10-27T20:41:31Z",
   "jobs": {
     "meta:1418948513778654": {
       "uid": "meta:1418948513778654",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "London",
       "company": "Meta",
+      "country": "uk",
       "external_id": "1418948513778654",
-      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/1418948513778654",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "London, UK"
       ],
-      "category": "AI/ML",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "region": "EMEA",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1418948513778654"
     },
     "meta:1694337262064234": {
       "uid": "meta:1694337262064234",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "London",
       "company": "Meta",
+      "country": "uk",
       "external_id": "1694337262064234",
-      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
-      "url": "https://www.metacareers.com/jobs/1694337262064234",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "London, UK",
         "Zurich, Switzerland"
       ],
-      "category": "AI/ML",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "region": "EMEA",
+      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+      "url": "https://www.metacareers.com/jobs/1694337262064234"
     },
     "amazon:10588762": {
       "uid": "amazon:10588762",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "Amazon",
+      "country": "uk",
       "external_id": "10588762",
-      "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
-      "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "London, England, GBR"
       ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk"
     },
     "amazon:10588998": {
       "uid": "amazon:10588998",
+      "active": true,
+      "category": "Software",
+      "city_tag": "London",
       "company": "Amazon",
+      "country": "uk",
       "external_id": "10588998",
-      "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
-      "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "London, England, GBR"
       ],
-      "category": "Software",
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "region": "EMEA",
+      "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk"
     },
     "apple:200690044": {
       "uid": "apple:200690044",

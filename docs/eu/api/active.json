@@ -1,25 +1,9 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-10-27T00:40:49Z",
+  "updated_at": "2026-10-27T20:41:31Z",
   "total_active": 127,
   "jobs": [
-    {
-      "company": "NVIDIA",
-      "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
-      "locations": [
-        "Switzerland Zurich",
-        "Switzerland, Zurich"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
     {
       "company": "NVIDIA",
       "title": "Software Engineering Intern, Developer Tools - 2027",
@@ -32,6 +16,22 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "GenAI Algorithms Intern – Model Optimization for Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
+      "locations": [
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
+      ],
+      "city_tag": "Zurich",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
       "posted": "2026-10-27",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27"

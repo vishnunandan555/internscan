@@ -1,5 +1,5 @@
 """India-specific company registry (unicorns, domestic product leaders, GCCs)."""
-from ...adapters import greenhouse, lever, smartrecruiters, workday, serp_jobs
+from ...adapters import greenhouse, keka, lever, serp_jobs, smartrecruiters, workday
 
 INDIA_COMPANIES = [
     {"name": "PhonePe", "fetch": smartrecruiters.fetch, "company": "PHONEPELIMITED", "scope": ["in"]},
@@ -12,6 +12,11 @@ INDIA_COMPANIES = [
     {"name": "Zeta", "fetch": lever.fetch, "site": "zeta", "scope": ["in"]},
     {"name": "InMobi", "fetch": greenhouse.fetch, "token": "inmobi", "scope": ["in"]},
     {"name": "Zomato", "fetch": smartrecruiters.fetch, "company": "Zomato1", "scope": ["in"]},
+    {"name": "HackerRank", "fetch": greenhouse.fetch, "token": "hackerrank", "scope": ["in"]},
+    {"name": "CloudSEK", "fetch": greenhouse.fetch, "token": "cloudsek", "scope": ["in"]},
+    {"name": "Micoworks", "fetch": greenhouse.fetch, "token": "micoworks", "scope": ["in"]},
+    {"name": "Teachmint", "fetch": keka.fetch, "subdomain": "teachmint", "scope": ["in"]},
+    {"name": "Discover Dollar", "fetch": keka.fetch, "subdomain": "discoverdollar", "scope": ["in"]},
     {"name": "Target", "fetch": workday.fetch,
      "host": "target.wd5.myworkdayjobs.com", "site": "targetcareers",
      "search_text": "",

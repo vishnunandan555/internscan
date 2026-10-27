@@ -23,7 +23,7 @@ HARD_INCLUDE_RE = _rx(
     r"full[- ]?stack|front[- ]?end|back[- ]?end|\bios\b|android|\bsdet\b|"
     r"security engineer|cybersecurity|\bnlp\b|\bllm\b|compiler|kernel|"
     r"\bsde\b|\bmts\b|\bswe\b|\bsw\b|_sw\b|_sw_|\bhw\b|_hw\b|_hw_|"
-    r"graduate engineer trainee|\bget\b|technology intern|technical intern|"
+    r"graduate engineer trainee|\bget\b|technology\s+(program\s+)?intern|technical intern|"
     r"grad(uate)? intern|college intern|engineering intern|"
     r"firmware|embedded|systems engineer|silicon|asic|vlsi|fpga"
 )
@@ -62,7 +62,7 @@ _CATEGORY_DEFS = [
     ("Mobile", "Mobile", r"mobile|\bios\b|android|flutter|react native"),
     ("Frontend", "Frontend", r"front[- ]?end|web develop|web engineer|\bui engineer\b|javascript|typescript|\breact\b"),
     ("BackendInfra", "Backend/Infra", r"back[- ]?end|distributed|infrastructure|platform|cloud|devops|site reliability|\bsre\b|\bapi\b|database|storage|network|linux|kernel|embedded|firmware|compiler|operating system|virtualization"),
-    ("Software", "Software", r"software|\bswe\b|\bsde\b|\bmts\b|\bsw\b|_sw\b|_sw_|developer|full[- ]?stack|programmer|application develop|computer science|solution develop|game develop|\bdev\b|\bjava\b|\bpython\b|c\+\+|\bgolang\b|\brust\b|graduate engineer trainee|\bget\b|technical intern|technology intern|engineering intern"),
+    ("Software", "Software", r"software|\bswe\b|\bsde\b|\bmts\b|\bsw\b|_sw\b|_sw_|developer|full[- ]?stack|programmer|application develop|computer science|solution develop|game develop|\bdev\b|\bjava\b|\bpython\b|c\+\+|\bgolang\b|\brust\b|graduate engineer trainee|\bget\b|technical intern|technology\s+(program\s+)?intern|engineering intern"),
 ]
 
 GROUP_TO_CATEGORY = {grp: cat for grp, cat, _ in _CATEGORY_DEFS}

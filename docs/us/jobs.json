@@ -1,300 +1,300 @@
 {
-  "updated_at": "2026-10-27T00:40:49Z",
+  "updated_at": "2026-10-27T20:41:31Z",
   "jobs": {
-    "wells-fargo:R-583417": {
-      "uid": "wells-fargo:R-583417",
-      "company": "Wells Fargo",
-      "external_id": "R-583417",
-      "title": "2027 Technology Summer Internship - Early Careers (Cybersecurity)",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417",
-      "locations": [
-        "3 Locations",
-        "CHARLOTTE NC"
-      ],
-      "category": "Security",
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
-    },
     "wells-fargo:R-583066": {
       "uid": "wells-fargo:R-583066",
+      "active": true,
+      "category": "Data",
+      "city_tag": "US (Other)",
       "company": "Wells Fargo",
+      "country": "us",
       "external_id": "R-583066",
-      "title": "2027 Technology Summer Internship – Early Careers (Data Engineering)",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "3 Locations",
         "CHARLOTTE NC"
       ],
-      "category": "Data",
-      "city_tag": "US (Other)",
-      "country": "us",
+      "posted": "2026-10-26",
       "region": "AMER",
-      "posted": "2026-10-27",
+      "title": "2027 Technology Summer Internship – Early Careers (Data Engineering)",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066"
+    },
+    "wells-fargo:R-583417": {
+      "uid": "wells-fargo:R-583417",
+      "active": true,
+      "category": "Security",
+      "city_tag": "US (Other)",
+      "company": "Wells Fargo",
+      "country": "us",
+      "external_id": "R-583417",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "active": true
+      "locations": [
+        "3 Locations",
+        "CHARLOTTE NC"
+      ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "2027 Technology Summer Internship - Early Careers (Cybersecurity)",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
     },
     "nvidia:JR2028642": {
       "uid": "nvidia:JR2028642",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "NVIDIA",
+      "country": "us",
       "external_id": "JR2028642",
-      "title": "Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
       ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
-    },
-    "meta:1435245618154892": {
-      "uid": "meta:1435245618154892",
-      "company": "Meta",
-      "external_id": "1435245618154892",
-      "title": "Research Scientist Intern, Foundation Model Optimization (PhD)",
-      "url": "https://www.metacareers.com/jobs/1435245618154892",
-      "locations": [
-        "Burlingame, CA",
-        "Menlo Park, CA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
       "region": "AMER",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "title": "Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642"
     },
     "meta:1160814043168431": {
       "uid": "meta:1160814043168431",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "Meta",
+      "country": "us",
       "external_id": "1160814043168431",
-      "title": "Research Scientist Intern, Audio AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/1160814043168431",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA"
       ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
-    },
-    "meta:1653804269586821": {
-      "uid": "meta:1653804269586821",
-      "company": "Meta",
-      "external_id": "1653804269586821",
-      "title": "Business Analytics Intern, RL Devices Operations",
-      "url": "https://www.metacareers.com/jobs/1653804269586821",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "category": "Data",
-      "city_tag": "SF Bay Area",
-      "country": "us",
       "region": "AMER",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
-    },
-    "meta:1471718241508516": {
-      "uid": "meta:1471718241508516",
-      "company": "Meta",
-      "external_id": "1471718241508516",
-      "title": "Research Scientist Intern, Robotics",
-      "url": "https://www.metacareers.com/jobs/1471718241508516",
-      "locations": [
-        "Burlingame, CA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
-    },
-    "meta:938682979075854": {
-      "uid": "meta:938682979075854",
-      "company": "Meta",
-      "external_id": "938682979075854",
-      "title": "Battery Engineering Intern, Cell Engineering (PhD)",
-      "url": "https://www.metacareers.com/jobs/938682979075854",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "category": "Software",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
-    },
-    "meta:4070678619908522": {
-      "uid": "meta:4070678619908522",
-      "company": "Meta",
-      "external_id": "4070678619908522",
-      "title": "Research Intern, Embedded AI on Wearables (PhD)",
-      "url": "https://www.metacareers.com/jobs/4070678619908522",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "category": "Backend/Infra",
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "title": "Research Scientist Intern, Audio AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1160814043168431"
     },
     "meta:1163507972671947": {
       "uid": "meta:1163507972671947",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "US (Other)",
       "company": "Meta",
+      "country": "us",
       "external_id": "1163507972671947",
-      "title": "Research Scientist Intern,  Generative AI & Computational Photography (PhD)",
-      "url": "https://www.metacareers.com/jobs/1163507972671947",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "Burlingame, CA"
       ],
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-23",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
-    },
-    "meta:2171476533578976": {
-      "uid": "meta:2171476533578976",
-      "company": "Meta",
-      "external_id": "2171476533578976",
-      "title": "Research Scientist Intern, Search (PhD)",
-      "url": "https://www.metacareers.com/jobs/2171476533578976",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
       "region": "AMER",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "title": "Research Scientist Intern,  Generative AI & Computational Photography (PhD)",
+      "url": "https://www.metacareers.com/jobs/1163507972671947"
     },
     "meta:1423049949381658": {
       "uid": "meta:1423049949381658",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "US (Other)",
       "company": "Meta",
+      "country": "us",
       "external_id": "1423049949381658",
-      "title": "Research Scientist Intern, Efficient World Foundation Models (PhD)",
-      "url": "https://www.metacareers.com/jobs/1423049949381658",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "Burlingame, CA"
       ],
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Efficient World Foundation Models (PhD)",
+      "url": "https://www.metacareers.com/jobs/1423049949381658"
+    },
+    "meta:1435245618154892": {
+      "uid": "meta:1435245618154892",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1435245618154892",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "active": true
+      "locations": [
+        "Burlingame, CA",
+        "Menlo Park, CA"
+      ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Foundation Model Optimization (PhD)",
+      "url": "https://www.metacareers.com/jobs/1435245618154892"
+    },
+    "meta:1471718241508516": {
+      "uid": "meta:1471718241508516",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "US (Other)",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1471718241508516",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Robotics",
+      "url": "https://www.metacareers.com/jobs/1471718241508516"
+    },
+    "meta:1653804269586821": {
+      "uid": "meta:1653804269586821",
+      "active": true,
+      "category": "Data",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1653804269586821",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Business Analytics Intern, RL Devices Operations",
+      "url": "https://www.metacareers.com/jobs/1653804269586821"
     },
     "meta:1831104024740439": {
       "uid": "meta:1831104024740439",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
       "company": "Meta",
+      "country": "us",
       "external_id": "1831104024740439",
-      "title": "Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/1831104024740439",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "Redmond, WA"
       ],
-      "category": "AI/ML",
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1831104024740439"
+    },
+    "meta:2171476533578976": {
+      "uid": "meta:2171476533578976",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "2171476533578976",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "active": true
-    },
-    "meta:3265378000517806": {
-      "uid": "meta:3265378000517806",
-      "company": "Meta",
-      "external_id": "3265378000517806",
-      "title": "Research Scientist Intern, Generative Recommendation Systems (PhD)",
-      "url": "https://www.metacareers.com/jobs/3265378000517806",
       "locations": [
         "Menlo Park, CA"
       ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Search (PhD)",
+      "url": "https://www.metacareers.com/jobs/2171476533578976"
+    },
+    "meta:3265378000517806": {
+      "uid": "meta:3265378000517806",
+      "active": true,
       "category": "AI/ML",
       "city_tag": "SF Bay Area",
+      "company": "Meta",
       "country": "us",
-      "region": "AMER",
-      "posted": "2026-10-26",
+      "external_id": "3265378000517806",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "active": true
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Generative Recommendation Systems (PhD)",
+      "url": "https://www.metacareers.com/jobs/3265378000517806"
+    },
+    "meta:4070678619908522": {
+      "uid": "meta:4070678619908522",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Seattle",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "4070678619908522",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Research Intern, Embedded AI on Wearables (PhD)",
+      "url": "https://www.metacareers.com/jobs/4070678619908522"
+    },
+    "meta:938682979075854": {
+      "uid": "meta:938682979075854",
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "938682979075854",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Battery Engineering Intern, Cell Engineering (PhD)",
+      "url": "https://www.metacareers.com/jobs/938682979075854"
     },
     "hpe:1217413": {
       "uid": "hpe:1217413",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
       "company": "HPE",
+      "country": "us",
       "external_id": "1217413",
-      "title": "AI/ML Developer Intern",
-      "url": "https://careers.hpe.com/us/en/job/1217413",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "San Jose, California, N/A",
         "San Jose, California, United States of America"
       ],
-      "category": "AI/ML",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-25",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "region": "AMER",
+      "title": "AI/ML Developer Intern",
+      "url": "https://careers.hpe.com/us/en/job/1217413"
     },
     "cisco:2024991": {
       "uid": "cisco:2024991",
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "SF Bay Area",
       "company": "Cisco",
+      "country": "us",
       "external_id": "2024991",
-      "title": "Hardware Engineer PhD (Intern) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2024991",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "Carlsbad, California, United States of America",
         "San Jose, California, United States of America"
       ],
-      "category": "Hardware/Silicon",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "region": "AMER",
+      "title": "Hardware Engineer PhD (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024991"
     },
     "dell-technologies:301412": {
       "uid": "dell-technologies:301412",

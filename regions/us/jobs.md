@@ -2,7 +2,7 @@
 
 # 🇺🇸 United States — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-27 06:10:49 IST** · 📌 **363** open verified internships
+> 🕐 Last updated: **2026-10-28 02:11:31 IST** · 📌 **363** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/us/) · [⚡ **REST API**](https://internscan.vercel.app/us/api/active.json)
@@ -612,8 +612,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Technology Summer Internship – Early Careers (Data Engineering)](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) ✨ | Data | Charlotte, NC | 2026-10-27 | 2026-10-27 |
-| [2027 Technology Summer Internship - Early Careers (Cybersecurity)](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417) ✨ | Security | Charlotte, NC | 2026-10-27 | 2026-10-27 |
+| [2027 Technology Summer Internship – Early Careers (Data Engineering)](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) ✨ | Data | Charlotte, NC | 2026-10-26 | 2026-10-27 |
+| [2027 Technology Summer Internship - Early Careers (Cybersecurity)](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417) ✨ | Security | Charlotte, NC | 2026-10-26 | 2026-10-27 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 

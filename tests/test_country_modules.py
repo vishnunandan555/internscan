@@ -30,12 +30,17 @@ class TestCountryModules(unittest.TestCase):
 
     def test_india_companies_count(self):
         direct = get_companies_for_country("in", include_fallback=False)
-        self.assertEqual(len(direct), 60)
+        self.assertEqual(len(direct), 65)
         names = {c["name"] for c in direct}
         self.assertIn("Google", names)
         self.assertIn("Swiggy", names)
         self.assertIn("Razorpay", names)
         self.assertIn("Target", names)
+        self.assertIn("HackerRank", names)
+        self.assertIn("CloudSEK", names)
+        self.assertIn("Micoworks", names)
+        self.assertIn("Teachmint", names)
+        self.assertIn("Discover Dollar", names)
 
         unsupported = get_unsupported_for_country("in")
         self.assertEqual(len(unsupported), 32)

@@ -22,6 +22,7 @@ The `scraper/adapters/` directory contains modular fetchers tailored to specific
 | [`phenom.py`](phenom.py) | **Phenom People** (Mastercard, Thermo Fisher...) | JSON feed endpoints |
 | [`janestreet.py`](janestreet.py) | **Jane Street** | Public careers listing JSON |
 | [`ashby.py`](ashby.py) | **Ashby HQ** | High-growth startup ATS API |
+| [`keka.py`](keka.py) | **Keka Hire API** (Teachmint, Discover Dollar...) | `subdomain`, `portal` |
 | [`github_careers.py`](github_careers.py) | **GitHub Careers** | GitHub jobs portal |
 | [`bloomberg.py`](bloomberg.py) | **Bloomberg Careers** | Bloomberg careers query endpoint |
 | [`qualcomm.py`](qualcomm.py) | **Qualcomm Workday Adapter** | Tailored Workday facet scraper |

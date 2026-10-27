@@ -2,33 +2,58 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-27 06:10:49 IST** · 📌 **15** open verified internships
+> 🕐 Last updated: **2026-10-28 02:11:31 IST** · 📌 **24** open verified internships
 > · ✨ = added in the last 7 days
 
-[📋 **Tracked Employers (65)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
+[📋 **Tracked Employers (70)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **India**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (15)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (24)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in India |
 |---|:---:|
+| [CloudSEK](#cloudsek) | **1** |
+| [Discover Dollar](#discover-dollar) | **6** |
 | [Google](#google) | **2** |
 | [HPE](#hpe) | **1** |
+| [HackerRank](#hackerrank) | **1** |
 | [Meta](#meta) | **4** |
 | [Microsoft](#microsoft) | **3** |
 | [NVIDIA](#nvidia) | **1** |
 | [Qualcomm](#qualcomm) | **2** |
 | [Stripe](#stripe) | **1** |
 | [Walmart Global Tech](#walmart-global-tech) | **1** |
+| [Wells Fargo](#wells-fargo) | **1** |
 
 ---
 
 <a id="open-internships"></a>
 
 ## 💼 Open Internship Postings
+
+### CloudSEK
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Security Consultant Intern](https://job-boards.greenhouse.io/cloudsek/jobs/6115382004) ✨ | Security | Bengaluru | 2026-07-14 | 2026-10-27 |
+
+[⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
+
+### Discover Dollar
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [AI Engineer Intern](https://discoverdollar.keka.com/careers/jobdetails/164757) ✨ | AI/ML | Bengaluru | 2026-10-08 | 2026-10-27 |
+| [Data Analysis Intern](https://discoverdollar.keka.com/careers/jobdetails/125740) ✨ | Data | Bengaluru | 2026-09-17 | 2026-10-27 |
+| [Software Development Intern (Full Stack)](https://discoverdollar.keka.com/careers/jobdetails/154642) ✨ | Software | Bengaluru | 2026-09-14 | 2026-10-27 |
+| [Software Development Intern (Full Stack)](https://discoverdollar.keka.com/careers/jobdetails/138385) ✨ | Software | Bengaluru | 2026-09-10 | 2026-10-27 |
+| [AI Engineer Intern](https://discoverdollar.keka.com/careers/jobdetails/155175) ✨ | AI/ML | Bengaluru | 2026-08-06 | 2026-10-27 |
+| [Analytics/AI Engineer Intern](https://discoverdollar.keka.com/careers/jobdetails/91847) ✨ | Data | Bengaluru | 2026-07-21 | 2026-10-27 |
+
+[⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
 ### Google
 
@@ -44,6 +69,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [College Intern](https://careers.hpe.com/us/en/job/1211843) | Software | Bengaluru | 2026-09-01 | 2026-09-17 |
+
+[⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
+
+### HackerRank
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Development Engineer Intern](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) ✨ | Software | Bengaluru | 2026-10-15 | 2026-10-27 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
@@ -98,6 +131,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-09-27 | 2026-09-17 |
+
+[⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
+
+### Wells Fargo
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [2027 Technology Program Intern](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386) ✨ | Software | Bengaluru | 2026-10-27 | 2026-10-27 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 

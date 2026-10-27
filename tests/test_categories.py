@@ -10,6 +10,7 @@ class TestCategories(unittest.TestCase):
             ("SDE Intern - Summer 2027", "Software"),
             ("MTS 1 Intern", "Software"),
             ("Full Stack Developer Intern", "Software"),
+            ("2027 Technology Program Intern", "Software"),
             ("Graduate Engineer Trainee - SWE", "Software"),
             ("Machine Learning Research Intern", "AI/ML"),
             ("AI Engineer Intern - GenAI", "AI/ML"),

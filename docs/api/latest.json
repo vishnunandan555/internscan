@@ -1,10 +1,487 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-10-27T00:40:49Z",
-  "new_count": 25,
-  "reopened_count": 1,
-  "total_active": 597,
+  "updated_at": "2026-10-27T20:41:31Z",
+  "new_count": 34,
+  "reopened_count": 0,
+  "total_active": 606,
   "new_jobs": [
+    {
+      "company": "Wells Fargo",
+      "title": "2027 Technology Program Intern",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386",
+      "locations": [
+        "2 Locations",
+        "Bengaluru India"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Software",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "2027 Technology Summer Internship – Early Careers (Data Engineering)",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
+      "locations": [
+        "3 Locations",
+        "CHARLOTTE NC"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "2027 Technology Summer Internship - Early Careers (Cybersecurity)",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417",
+      "locations": [
+        "3 Locations",
+        "CHARLOTTE NC"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, Developer Tools - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
+      "locations": [
+        "France Courbevoie",
+        "France, Courbevoie"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "GenAI Algorithms Intern – Model Optimization for Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
+      "locations": [
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
+      ],
+      "city_tag": "Zurich",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642",
+      "locations": [
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Applied Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519",
+      "locations": [
+        "India, Multiple Locations, Multiple Locations"
+      ],
+      "city_tag": "India (Multiple/Other)",
+      "country": "in",
+      "region": "APAC",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Audio AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1160814043168431",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern,  Generative AI & Computational Photography (PhD)",
+      "url": "https://www.metacareers.com/jobs/1163507972671947",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1418948513778654",
+      "locations": [
+        "London, UK"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Efficient World Foundation Models (PhD)",
+      "url": "https://www.metacareers.com/jobs/1423049949381658",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Foundation Model Optimization (PhD)",
+      "url": "https://www.metacareers.com/jobs/1435245618154892",
+      "locations": [
+        "Burlingame, CA",
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Robotics",
+      "url": "https://www.metacareers.com/jobs/1471718241508516",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Business Analytics Intern, RL Devices Operations",
+      "url": "https://www.metacareers.com/jobs/1653804269586821",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+      "url": "https://www.metacareers.com/jobs/1694337262064234",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1831104024740439",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Search (PhD)",
+      "url": "https://www.metacareers.com/jobs/2171476533578976",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative Recommendation Systems (PhD)",
+      "url": "https://www.metacareers.com/jobs/3265378000517806",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Intern, Embedded AI on Wearables (PhD)",
+      "url": "https://www.metacareers.com/jobs/4070678619908522",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Battery Engineering Intern, Cell Engineering (PhD)",
+      "url": "https://www.metacareers.com/jobs/938682979075854",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "HackerRank",
+      "title": "Software Development Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+      "locations": [
+        "Onsite in Bangalore"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Software",
+      "posted": "2026-10-15",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "HPE",
+      "title": "AI/ML Developer Intern",
+      "url": "https://careers.hpe.com/us/en/job/1217413",
+      "locations": [
+        "San Jose, California, N/A",
+        "San Jose, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-25",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Discover Dollar",
+      "title": "Data Analysis Intern",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/125740",
+      "locations": [
+        "Bangalore, India",
+        "Mangaluru, India"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Data",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Discover Dollar",
+      "title": "Software Development Intern (Full Stack)",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/138385",
+      "locations": [
+        "Bengaluru, India"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Software",
+      "posted": "2026-09-10",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Discover Dollar",
+      "title": "Software Development Intern (Full Stack)",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/154642",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Software",
+      "posted": "2026-09-14",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Discover Dollar",
+      "title": "AI Engineer Intern",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/155175",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "AI/ML",
+      "posted": "2026-08-06",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Discover Dollar",
+      "title": "AI Engineer Intern",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/164757",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "AI/ML",
+      "posted": "2026-10-08",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Discover Dollar",
+      "title": "Analytics/AI Engineer Intern",
+      "url": "https://discoverdollar.keka.com/careers/jobdetails/91847",
+      "locations": [
+        "Bangalore"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Data",
+      "posted": "2026-07-21",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "CloudSEK",
+      "title": "Security Consultant Intern",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6115382004",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Security",
+      "posted": "2026-07-14",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Cisco",
+      "title": "Hardware Engineer PhD (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024991",
+      "locations": [
+        "Carlsbad, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Amazon",
+      "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "city_tag": "Berlin",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-09",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
     {
       "company": "Amazon",
       "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
@@ -36,346 +513,6 @@
       "last_seen": "2026-10-27"
     },
     {
-      "company": "Amazon",
-      "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
-      "locations": [
-        "Berlin, Berlin, DEU"
-      ],
-      "city_tag": "Berlin",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-09",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Cisco",
-      "title": "Hardware Engineer PhD (Intern) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2024991",
-      "locations": [
-        "Carlsbad, California, United States of America",
-        "San Jose, California, United States of America"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Applied Sciences INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519",
-      "locations": [
-        "India, Multiple Locations, Multiple Locations"
-      ],
-      "city_tag": "India (Multiple/Other)",
-      "country": "in",
-      "region": "APAC",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "HPE",
-      "title": "AI/ML Developer Intern",
-      "url": "https://careers.hpe.com/us/en/job/1217413",
-      "locations": [
-        "San Jose, California, N/A",
-        "San Jose, California, United States of America"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-25",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Foundation Model Optimization (PhD)",
-      "url": "https://www.metacareers.com/jobs/1435245618154892",
-      "locations": [
-        "Burlingame, CA",
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Audio AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/1160814043168431",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Business Analytics Intern, RL Devices Operations",
-      "url": "https://www.metacareers.com/jobs/1653804269586821",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Robotics",
-      "url": "https://www.metacareers.com/jobs/1471718241508516",
-      "locations": [
-        "Burlingame, CA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Battery Engineering Intern, Cell Engineering (PhD)",
-      "url": "https://www.metacareers.com/jobs/938682979075854",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Intern, Embedded AI on Wearables (PhD)",
-      "url": "https://www.metacareers.com/jobs/4070678619908522",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern,  Generative AI & Computational Photography (PhD)",
-      "url": "https://www.metacareers.com/jobs/1163507972671947",
-      "locations": [
-        "Burlingame, CA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-23",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Search (PhD)",
-      "url": "https://www.metacareers.com/jobs/2171476533578976",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Efficient World Foundation Models (PhD)",
-      "url": "https://www.metacareers.com/jobs/1423049949381658",
-      "locations": [
-        "Burlingame, CA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/1831104024740439",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/1418948513778654",
-      "locations": [
-        "London, UK"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
-      "url": "https://www.metacareers.com/jobs/1694337262064234",
-      "locations": [
-        "London, UK",
-        "Zurich, Switzerland"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Generative Recommendation Systems (PhD)",
-      "url": "https://www.metacareers.com/jobs/3265378000517806",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
-      "locations": [
-        "Switzerland Zurich",
-        "Switzerland, Zurich"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Developer Tools - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
-      "locations": [
-        "France Courbevoie",
-        "France, Courbevoie"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642",
-      "locations": [
-        "US CA Santa Clara",
-        "US, CA, Santa Clara"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "2027 Technology Summer Internship - Early Careers (Cybersecurity)",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417",
-      "locations": [
-        "3 Locations",
-        "CHARLOTTE NC"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "2027 Technology Summer Internship – Early Careers (Data Engineering)",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
-      "locations": [
-        "3 Locations",
-        "CHARLOTTE NC"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
       "company": "Accenture",
       "title": "Cloud Infrastructure & DevOps Internship Program (He/She/They)",
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Cloud-Infrastructure---DevOps-Internship-Program--He-She-They-_R00365816",
@@ -391,21 +528,5 @@
       "last_seen": "2026-10-27"
     }
   ],
-  "reopened_jobs": [
-    {
-      "company": "Apple",
-      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
-      "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation",
-      "locations": [
-        "Cambridge"
-      ],
-      "city_tag": "Boston",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-27"
-    }
-  ]
+  "reopened_jobs": []
 }

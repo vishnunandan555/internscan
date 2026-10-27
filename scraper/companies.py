@@ -34,6 +34,8 @@ class CompanyConfig(TypedDict, total=False):
     scope: Any
     applied_facets: Any
     query: str
+    subdomain: str
+    portal: str
 
 
 # Backward-compatible India direct and fallback registries

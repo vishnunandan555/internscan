@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-27T00:40:49Z",
+  "updated_at": "2026-10-27T20:41:31Z",
   "jobs": {
-    "nvidia:JR2028597": {
-      "uid": "nvidia:JR2028597",
-      "company": "NVIDIA",
-      "external_id": "JR2028597",
-      "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
-      "locations": [
-        "Switzerland Zurich",
-        "Switzerland, Zurich"
-      ],
-      "category": "AI/ML",
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
-    },
     "nvidia:JR2028209": {
       "uid": "nvidia:JR2028209",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Europe (Other)",
       "company": "NVIDIA",
+      "country": "eu",
       "external_id": "JR2028209",
-      "title": "Software Engineering Intern, Developer Tools - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "France Courbevoie",
         "France, Courbevoie"
       ],
-      "category": "Software",
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
       "posted": "2026-10-27",
+      "region": "EMEA",
+      "title": "Software Engineering Intern, Developer Tools - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209"
+    },
+    "nvidia:JR2028597": {
+      "uid": "nvidia:JR2028597",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Zurich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2028597",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "active": true
+      "locations": [
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
+      ],
+      "posted": "2026-10-27",
+      "region": "EMEA",
+      "title": "GenAI Algorithms Intern – Model Optimization for Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597"
     },
     "amazon:10574996": {
       "uid": "amazon:10574996",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Berlin",
       "company": "Amazon",
+      "country": "eu",
       "external_id": "10574996",
-      "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
-      "category": "AI/ML",
-      "city_tag": "Berlin",
-      "country": "eu",
-      "region": "EMEA",
       "posted": "2026-10-09",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "region": "EMEA",
+      "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
     },
     "accenture:R00365816": {
       "uid": "accenture:R00365816",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Europe (Other)",
       "company": "Accenture",
+      "country": "eu",
       "external_id": "R00365816",
-      "title": "Cloud Infrastructure & DevOps Internship Program (He/She/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Cloud-Infrastructure---DevOps-Internship-Program--He-She-They-_R00365816",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "locations": [
         "Warsaw"
       ],
-      "category": "Backend/Infra",
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
       "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "active": true
+      "region": "EMEA",
+      "title": "Cloud Infrastructure & DevOps Internship Program (He/She/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Cloud-Infrastructure---DevOps-Internship-Program--He-She-They-_R00365816"
     },
     "meta:1463189352436520": {
       "uid": "meta:1463189352436520",
