@@ -1,10 +1,26 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-10-25T23:25:53Z",
-  "new_count": 0,
+  "updated_at": "2026-10-27T00:40:49Z",
+  "new_count": 1,
   "reopened_count": 0,
-  "total_active": 14,
-  "new_jobs": [],
+  "total_active": 15,
+  "new_jobs": [
+    {
+      "company": "Microsoft",
+      "title": "Applied Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519",
+      "locations": [
+        "India, Multiple Locations, Multiple Locations"
+      ],
+      "city_tag": "India (Multiple/Other)",
+      "country": "in",
+      "region": "APAC",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    }
+  ],
   "reopened_jobs": []
 }

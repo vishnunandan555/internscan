@@ -1,21 +1,88 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-25 23:24:33 UTC
+SCRAPE RUN SUMMARY — 2026-10-27 00:39:23 UTC
 ========================================================================
-Runtime:            80.0 seconds
+Runtime:            85.2 seconds
 Companies Scraped:  60 total
   - Succeeded:      60
   - Failed:         0
-Active India Roles: 592
+Active India Roles: 600
 Changes Detected:
-  - New Additions:  +2
-  - Closed Roles:   -0
-  - Reopened Roles: ~5
+  - New Additions:  +25
+  - Closed Roles:   -19
+  - Reopened Roles: ~1
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Dell Technologies — Services Analytics Graduate Intern (US (Other)) [Data]
-    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301412
-  + Dell Technologies — Services Data Science Graduate Intern (US (Other)) [Data]
-    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301413
+  + Amazon — 2027 Software Dev Engineer Intern (Machine Learning) - UK (London) [Software]
+    Apply: https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk
+  + Amazon — 2027 Software Dev Engineer Intern (Embedded Systems) - UK (London) [Software]
+    Apply: https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk
+  + Amazon — 2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition (Berlin) [AI/ML]
+    Apply: https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition
+  + Cisco — Hardware Engineer PhD (Intern) - United States (SF Bay Area) [Hardware/Silicon]
+    Apply: https://careers.cisco.com/global/en/job/2024991
+  + Microsoft — Applied Sciences INTERN (India (Multiple/Other)) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393556917519
+  + HPE — AI/ML Developer Intern (SF Bay Area) [AI/ML]
+    Apply: https://careers.hpe.com/us/en/job/1217413
+  + Meta — Research Scientist Intern, Foundation Model Optimization (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1435245618154892
+  + Meta — Research Scientist Intern, Audio AI (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1160814043168431
+  + Meta — Business Analytics Intern, RL Devices Operations (SF Bay Area) [Data]
+    Apply: https://www.metacareers.com/jobs/1653804269586821
+  + Meta — Research Scientist Intern, Robotics (US (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1471718241508516
+  + Meta — Battery Engineering Intern, Cell Engineering (PhD) (SF Bay Area) [Software]
+    Apply: https://www.metacareers.com/jobs/938682979075854
+  + Meta — Research Intern, Embedded AI on Wearables (PhD) (Seattle) [Backend/Infra]
+    Apply: https://www.metacareers.com/jobs/4070678619908522
+  + Meta — Research Scientist Intern,  Generative AI & Computational Photography (PhD) (US (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1163507972671947
+  + Meta — Research Scientist Intern, Search (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2171476533578976
+  + Meta — Research Scientist Intern, Efficient World Foundation Models (PhD) (US (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1423049949381658
+  + Meta — Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1831104024740439
+  + Meta — Research Scientist Intern, AI Core Machine Learning (PhD) (London) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1418948513778654
+  + Meta — Research Scientist Intern, Generative AI (PhD) (multiple locations) (London) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1694337262064234
+  + Meta — Research Scientist Intern, Generative Recommendation Systems (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/3265378000517806
+  + NVIDIA — GenAI Algorithms Intern – Model Optimization for Inference (Zurich) [AI/ML]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597
+  + NVIDIA — Software Engineering Intern, Developer Tools - 2027 (Europe (Other)) [Software]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209
+  + NVIDIA — Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027 (SF Bay Area) [AI/ML]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642
+  + Wells Fargo — 2027 Technology Summer Internship - Early Careers (Cybersecurity) (US (Other)) [Security]
+    Apply: https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417
+  + Wells Fargo — 2027 Technology Summer Internship – Early Careers (Data Engineering) (US (Other)) [Data]
+    Apply: https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066
+  + Accenture — Cloud Infrastructure & DevOps Internship Program (He/She/They) (Europe (Other)) [Backend/Infra]
+    Apply: https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Cloud-Infrastructure---DevOps-Internship-Program--He-She-They-_R00365816
+
+[INTERNSHIPS CLOSED]
+  - Accenture — LLM Engineer Internship Program (She/He/They) (Europe (Other))
+  - Accenture — GenAI Engineering Internship Program (She/He/They) (Europe (Other))
+  - Apple — Software Engineering Intern, Apple Services Engineering (London)
+  - Cisco — Software Engineer Full Stack / Backend I (Intern) – United States (SF Bay Area)
+  - Cisco — Software Engineer Embedded Systems I (Intern) – United States (SF Bay Area)
+  - Cisco — Software Engineer Data & AI I (Intern) – United States (SF Bay Area)
+  - Cisco — Software Engineer Data & AI II (Intern) – United States (SF Bay Area)
+  - Cisco — Software Engineer Full Stack / Backend II (Intern) – United States (SF Bay Area)
+  - Cisco — Machine Learning Engineer II (Intern) – United States (SF Bay Area)
+  - Cisco — Machine Learning Engineer I (Intern) – United States (SF Bay Area)
+  - Cisco — AI Operations Engineer I (Intern) – United States (SF Bay Area)
+  - Cisco — Software Engineer Embedded Systems II (Intern) – United States (SF Bay Area)
+  - Dell Technologies — Data Science Undergraduate Intern (US (Other))
+  - Dell Technologies — Corporate Strategy Undergraduate Intern (US (Other))
+  - Dell Technologies — Capital Venture Undergraduate Intern (US (Other))
+  - Google — Software Engineering, Site Reliability Engineering BS/MS Intern, 2027 (London)
+  - Google — Software Engineering, Site Reliability Engineering BS/MS Intern, 2027 (Europe (Other))
+  - Google — Software Engineering, Site Reliability Engineering BS/MS Intern, 2027 (Dublin)
+  - Google — Software Engineering BS/MS Intern, 2027 (Europe (Other))
 
 ========================================================================

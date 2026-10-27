@@ -2,14 +2,14 @@
 
 # 🇺🇸 United States — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-26 04:55:53 IST** · 📌 **358** open verified internships
+> 🕐 Last updated: **2026-10-27 06:10:49 IST** · 📌 **363** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/us/) · [⚡ **REST API**](https://internscan.vercel.app/us/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United States**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (358)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (363)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -18,20 +18,20 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [AMD](#amd) | **7** |
 | [Adobe](#adobe) | **5** |
 | [Amazon](#amazon) | **38** |
-| [Apple](#apple) | **16** |
-| [Cisco](#cisco) | **13** |
+| [Apple](#apple) | **17** |
+| [Cisco](#cisco) | **5** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **2** |
-| [Dell Technologies](#dell-technologies) | **7** |
+| [Dell Technologies](#dell-technologies) | **4** |
 | [Google](#google) | **11** |
-| [HPE](#hpe) | **48** |
+| [HPE](#hpe) | **49** |
 | [Intel](#intel) | **24** |
 | [JPMorgan Chase](#jpmorgan-chase) | **3** |
 | [Jane Street](#jane-street) | **8** |
-| [Meta](#meta) | **76** |
+| [Meta](#meta) | **87** |
 | [Microsoft](#microsoft) | **21** |
 | [MongoDB](#mongodb) | **1** |
-| [NVIDIA](#nvidia) | **34** |
+| [NVIDIA](#nvidia) | **35** |
 | [Netflix](#netflix) | **2** |
 | [Nokia](#nokia) | **7** |
 | [Oracle](#oracle) | **2** |
@@ -43,6 +43,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Snowflake](#snowflake) | **1** |
 | [Stripe](#stripe) | **4** |
 | [Walmart Global Tech](#walmart-global-tech) | **5** |
+| [Wells Fargo](#wells-fargo) | **2** |
 
 ---
 
@@ -68,11 +69,11 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Intern - Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) ✨ | Security | SF Bay Area | 2026-10-20 | 2026-10-21 |
-| [2027 Intern - Applied and Research Scientist/Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064) | AI/ML | SF Bay Area | 2026-10-20 | 2026-10-15 |
-| [2027 Intern - AI & Architecture](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) ✨ | AI/ML | SF Bay Area | 2026-10-19 | 2026-10-20 |
-| [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | AI/ML | SF Bay Area | 2026-10-01 | 2026-10-15 |
-| [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Software | SF Bay Area | 2026-09-25 | 2026-10-15 |
+| [2027 Intern - Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) ✨ | Security | SF Bay Area | 2026-10-21 | 2026-10-21 |
+| [2027 Intern - Applied and Research Scientist/Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064) | AI/ML | SF Bay Area | 2026-10-21 | 2026-10-15 |
+| [2027 Intern - AI & Architecture](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) ✨ | AI/ML | SF Bay Area | 2026-10-20 | 2026-10-20 |
+| [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | AI/ML | SF Bay Area | 2026-10-02 | 2026-10-15 |
+| [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Software | SF Bay Area | 2026-09-27 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
@@ -125,6 +126,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation) ✨ | AI/ML | Boston | 2026-10-26 | 2026-10-22 |
 | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612/applied-data-solutions-program-internships-summer-2027) | Data | SF Bay Area | 2026-08-27 | 2026-10-15 |
 | [Machine Learning and Artificial Intelligence PhD Internships](https://jobs.apple.com/en-us/details/200664223/machine-learning-and-artificial-intelligence-phd-internships) | AI/ML | United States | 2026-05-22 | 2026-10-15 |
 | [Machine Learning and Artificial Intelligence Masters Internships](https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships) | AI/ML | United States | 2026-05-22 | 2026-10-15 |
@@ -148,19 +150,11 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer Data & AI II (Intern) – United States](https://careers.cisco.com/global/en/job/2026798) | Software | SF Bay Area | 2026-10-23 | 2026-10-15 |
-| [Software Engineer Full Stack / Backend II (Intern) – United States](https://careers.cisco.com/global/en/job/2026800) | Software | SF Bay Area | 2026-10-21 | 2026-10-15 |
-| [Software Engineer Full Stack / Backend I (Intern) – United States](https://careers.cisco.com/global/en/job/2025924) | Software | SF Bay Area | 2026-10-21 | 2026-10-15 |
-| [Software Engineer Embedded Systems II (Intern) – United States](https://careers.cisco.com/global/en/job/2026805) | Software | SF Bay Area | 2026-10-21 | 2026-10-15 |
-| [Software Engineer Embedded Systems I (Intern) – United States](https://careers.cisco.com/global/en/job/2025926) | Software | SF Bay Area | 2026-10-21 | 2026-10-15 |
-| [Software Engineer Data & AI I (Intern) – United States](https://careers.cisco.com/global/en/job/2026306) | Software | SF Bay Area | 2026-10-21 | 2026-10-15 |
-| [Machine Learning Engineer II (Intern) – United States](https://careers.cisco.com/global/en/job/2026802) | AI/ML | SF Bay Area | 2026-10-21 | 2026-10-15 |
-| [Machine Learning Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2026803) | AI/ML | SF Bay Area | 2026-10-21 | 2026-10-15 |
-| [AI Operations Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2026804) | AI/ML | SF Bay Area | 2026-10-21 | 2026-10-15 |
+| [Hardware Engineer PhD (Intern) - United States](https://careers.cisco.com/global/en/job/2024991) ✨ | Hardware/Silicon | SF Bay Area | 2026-10-26 | 2026-10-27 |
+| [Hardware Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2024756) | Hardware/Silicon | SF Bay Area | 2026-10-26 | 2026-10-15 |
 | [Software Engineer Data & AI PhD (Intern) - United States](https://careers.cisco.com/global/en/job/2025611) | Software | SF Bay Area | 2026-10-16 | 2026-10-16 |
 | [Software Consulting Engineer I (Intern) United States](https://careers.cisco.com/global/en/job/2025180) | Software | Research Triangle Park, NC | 2026-10-01 | 2026-10-15 |
 | [Hardware Engineer II Intern - United States](https://careers.cisco.com/global/en/job/2024757) | Hardware/Silicon | SF Bay Area | 2026-09-22 | 2026-10-15 |
-| [Hardware Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2024756) | Hardware/Silicon | SF Bay Area | 2026-09-14 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
@@ -189,9 +183,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Services Data Science Graduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301413) ✨ | Data | TX, US | 2026-10-25 | 2026-10-25 |
 | [Services Analytics Graduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301412) ✨ | Data | TX, US | 2026-10-25 | 2026-10-25 |
-| [Capital Venture Undergraduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300900) ✨ | Software | CA, US | 2026-10-23 | 2026-10-23 |
-| [Data Science Undergraduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299978) | Data | TX, US | 2026-10-08 | 2026-10-15 |
-| [Corporate Strategy Undergraduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300226) | Software | TX, US | 2026-10-02 | 2026-10-15 |
 | [Dell Technologies Services Undergraduate Analytics Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299074) | Data | TX, US | 2026-09-15 | 2026-10-15 |
 | [Dell Technologies Services General Business Undergraduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299089) | Software | Hopkinton, MA; TX, US | 2026-09-15 | 2026-10-15 |
 
@@ -219,6 +210,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI/ML Developer Intern](https://careers.hpe.com/us/en/job/1217413) ✨ | AI/ML | SF Bay Area | 2026-10-25 | 2026-10-27 |
 | [Cybersecurity Engineering Intern](https://careers.hpe.com/us/en/job/1216080) ✨ | Security | Spring, TX | 2026-10-23 | 2026-10-23 |
 | [Electrical Hardware Engineering Intern](https://careers.hpe.com/us/en/job/1213409) ✨ | Hardware/Silicon | Chippewa Falls, WI | 2026-10-22 | 2026-10-23 |
 | [ASIC Engineering Intern](https://careers.hpe.com/us/en/job/1214234) ✨ | Hardware/Silicon | Durham, NC | 2026-10-22 | 2026-10-23 |
@@ -274,30 +266,30 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [AI Hardware Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) ✨ | AI/ML | SF Bay Area | 2026-10-23 | 2026-10-23 |
-| [Information Security Engineer Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588) ✨ | Security | Folsom, CA | 2026-10-21 | 2026-10-22 |
-| [Design Verification Graduate Intern 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651) ✨ | Software | Fort Collins, CO | 2026-10-20 | 2026-10-21 |
-| [AI Data Science / Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) ✨ | AI/ML | Hillsboro, OR | 2026-10-20 | 2026-10-21 |
-| [AI Data Science / Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) ✨ | AI/ML | SF Bay Area | 2026-10-20 | 2026-10-21 |
-| [AI Data Science / Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) ✨ | AI/ML | Hillsboro, OR | 2026-10-20 | 2026-10-21 |
-| [AI Data Science / Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140) ✨ | AI/ML | Hillsboro, OR | 2026-10-20 | 2026-10-21 |
-| [AI-Driven Physical Design Engineering (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661) | AI/ML | SF Bay Area | 2026-10-09 | 2026-10-15 |
-| [Software Research Engineering - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) | Software | Hillsboro, OR | 2026-10-08 | 2026-10-15 |
-| [Data Science and Analytics - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) | Data | Hillsboro, OR | 2026-10-07 | 2026-10-15 |
-| [AI Solution Architect Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) | AI/ML | SF Bay Area | 2026-10-05 | 2026-10-15 |
-| [AI Solution Architect - Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) | AI/ML | SF Bay Area | 2026-10-05 | 2026-10-15 |
-| [Software Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) | Software | Hillsboro, OR | 2026-10-02 | 2026-10-15 |
-| [AI SOC Power Delivery Pathfinding PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538) | AI/ML | Hillsboro, OR | 2026-09-30 | 2026-10-15 |
-| [System Technology Research Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) | AI/ML | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [System Software Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457) | Software | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [Software Solutions PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) | Software | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | Software | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [Software Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) | Software | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [Silicon Hardware Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) | Hardware/Silicon | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [Silicon Hardware Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) | Hardware/Silicon | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [Platform Hardware and Systems Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) | Backend/Infra | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [Platform Hardware and Systems Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) | Backend/Infra | Hillsboro, OR | 2026-09-25 | 2026-10-15 |
-| [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) | Data | Phoenix, AZ | 2026-09-25 | 2026-10-15 |
+| [AI Hardware Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) ✨ | AI/ML | SF Bay Area | 2026-10-24 | 2026-10-23 |
+| [Information Security Engineer Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588) ✨ | Security | Folsom, CA | 2026-10-22 | 2026-10-22 |
+| [Design Verification Graduate Intern 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651) ✨ | Software | Fort Collins, CO | 2026-10-21 | 2026-10-21 |
+| [AI Data Science / Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) ✨ | AI/ML | Hillsboro, OR | 2026-10-21 | 2026-10-21 |
+| [AI Data Science / Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) ✨ | AI/ML | SF Bay Area | 2026-10-21 | 2026-10-21 |
+| [AI Data Science / Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) ✨ | AI/ML | Hillsboro, OR | 2026-10-21 | 2026-10-21 |
+| [AI Data Science / Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140) ✨ | AI/ML | Hillsboro, OR | 2026-10-21 | 2026-10-21 |
+| [AI-Driven Physical Design Engineering (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661) | AI/ML | SF Bay Area | 2026-10-10 | 2026-10-15 |
+| [Software Research Engineering - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) | Software | Hillsboro, OR | 2026-10-09 | 2026-10-15 |
+| [Data Science and Analytics - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) | Data | Hillsboro, OR | 2026-10-08 | 2026-10-15 |
+| [AI Solution Architect Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) | AI/ML | SF Bay Area | 2026-10-06 | 2026-10-15 |
+| [AI Solution Architect - Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) | AI/ML | SF Bay Area | 2026-10-06 | 2026-10-15 |
+| [Software Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) | Software | Hillsboro, OR | 2026-10-03 | 2026-10-15 |
+| [AI SOC Power Delivery Pathfinding PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538) | AI/ML | Hillsboro, OR | 2026-10-01 | 2026-10-15 |
+| [System Technology Research Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) | AI/ML | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [System Software Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457) | Software | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [Software Solutions PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) | Software | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | Software | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [Software Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) | Software | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [Silicon Hardware Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) | Hardware/Silicon | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [Silicon Hardware Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) | Hardware/Silicon | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [Platform Hardware and Systems Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) | Backend/Infra | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [Platform Hardware and Systems Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) | Backend/Infra | Hillsboro, OR | 2026-09-27 | 2026-10-15 |
+| [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) | Data | Phoenix, AZ | 2026-09-27 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
@@ -330,11 +322,22 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Search (PhD)](https://www.metacareers.com/jobs/2171476533578976) ✨ | AI/ML | SF Bay Area | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, Robotics](https://www.metacareers.com/jobs/1471718241508516) ✨ | AI/ML | Burlingame, CA | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)](https://www.metacareers.com/jobs/1831104024740439) ✨ | AI/ML | Seattle | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, Generative Recommendation Systems (PhD)](https://www.metacareers.com/jobs/3265378000517806) ✨ | AI/ML | SF Bay Area | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, Foundation Model Optimization (PhD)](https://www.metacareers.com/jobs/1435245618154892) ✨ | AI/ML | SF Bay Area | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, Efficient World Foundation Models (PhD)](https://www.metacareers.com/jobs/1423049949381658) ✨ | AI/ML | Burlingame, CA | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, Audio AI (PhD)](https://www.metacareers.com/jobs/1160814043168431) ✨ | AI/ML | SF Bay Area | 2026-10-26 | 2026-10-27 |
+| [Research Intern, Embedded AI on Wearables (PhD)](https://www.metacareers.com/jobs/4070678619908522) ✨ | Backend/Infra | Seattle | 2026-10-26 | 2026-10-27 |
+| [Business Analytics Intern, RL Devices Operations](https://www.metacareers.com/jobs/1653804269586821) ✨ | Data | SF Bay Area | 2026-10-26 | 2026-10-27 |
+| [Battery Engineering Intern, Cell Engineering (PhD)](https://www.metacareers.com/jobs/938682979075854) ✨ | Software | SF Bay Area | 2026-10-26 | 2026-10-27 |
 | [Research Scientist Intern, Wearable Sensing & Human Motion Analysis](https://www.metacareers.com/jobs/1137225375529389) ✨ | AI/ML | Seattle | 2026-10-23 | 2026-10-23 |
 | [Research Scientist Intern, Policy Learning for Robotics (PhD)](https://www.metacareers.com/jobs/2554989011673624) ✨ | AI/ML | Seattle | 2026-10-23 | 2026-10-23 |
 | [Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)](https://www.metacareers.com/jobs/1023154190171838) ✨ | AI/ML | SF Bay Area | 2026-10-23 | 2026-10-23 |
 | [Research Scientist Intern, Meta Recommendation Systems (PhD)](https://www.metacareers.com/jobs/1416549056773684) ✨ | AI/ML | SF Bay Area | 2026-10-23 | 2026-10-23 |
 | [Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD)](https://www.metacareers.com/jobs/2053489871986285) ✨ | AI/ML | Seattle | 2026-10-23 | 2026-10-23 |
+| [Research Scientist Intern,  Generative AI & Computational Photography (PhD)](https://www.metacareers.com/jobs/1163507972671947) ✨ | AI/ML | Burlingame, CA | 2026-10-23 | 2026-10-27 |
 | [Research Scientist Intern, World-Model Aware Perception & Communication (PhD)](https://www.metacareers.com/jobs/1097992326377524) ✨ | AI/ML | Seattle | 2026-10-22 | 2026-10-23 |
 | [Research Scientist Intern, Video Recommendations (PhD)](https://www.metacareers.com/jobs/932919123033502) ✨ | AI/ML | SF Bay Area | 2026-10-22 | 2026-10-23 |
 | [Research Scientist Intern, MSL Agents (PhD)](https://www.metacareers.com/jobs/1136354555738164) ✨ | AI/ML | SF Bay Area | 2026-10-22 | 2026-10-23 |
@@ -354,7 +357,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, Multimodal Behavioral AI (PhD)](https://www.metacareers.com/jobs/1428978125312655) ✨ | AI/ML | Seattle | 2026-10-20 | 2026-10-21 |
 | [Research Scientist Intern, FAIR - Multimodal Foundations (PhD)](https://www.metacareers.com/jobs/2322361288548512) ✨ | AI/ML | SF Bay Area | 2026-10-20 | 2026-10-23 |
 | [Research Scientist Intern, Computational Imaging And Robotics (PhD)](https://www.metacareers.com/jobs/2857194467985784) ✨ | AI/ML | Seattle | 2026-10-20 | 2026-10-21 |
-| [Research Scientist Intern, AI-Driven Neural Interfaces (PhD)](https://www.metacareers.com/jobs/1436615821934863) ✨ | AI/ML | SF Bay Area | 2026-10-20 | 2026-10-21 |
+| [Research Scientist Intern, AI-Driven Neural Interfaces (PhD)](https://www.metacareers.com/jobs/1436615821934863) ✨ | AI/ML | Seattle | 2026-10-20 | 2026-10-21 |
 | [Enterprise Security Engineer, Intern (Summer 2027)](https://www.metacareers.com/jobs/1079627324896327) ✨ | Security | SF Bay Area | 2026-10-20 | 2026-10-21 |
 | [DFX Engineering Intern](https://www.metacareers.com/jobs/1798345134744465) ✨ | Software | SF Bay Area | 2026-10-20 | 2026-10-21 |
 | [Softgoods Product Design Engineering Intern](https://www.metacareers.com/jobs/1111723361506997) ✨ | Software | SF Bay Area | 2026-10-19 | 2026-10-20 |
@@ -441,7 +444,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) ✨ | Software | SF Bay Area | 2026-10-23 | 2026-10-23 |
+| [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) ✨ | Software | SF Bay Area | 2026-10-26 | 2026-10-23 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
@@ -449,40 +452,41 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Software | SF Bay Area | 2026-10-22 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Hardware Verification](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) | Hardware/Silicon | SF Bay Area | 2026-10-22 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Hardware Physical Design / VLSI](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | Hardware/Silicon | SF Bay Area | 2026-10-22 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Hardware Design for Test (DFT)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | Hardware/Silicon | SF Bay Area | 2026-10-22 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Hardware ASIC Design](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | Hardware/Silicon | SF Bay Area | 2026-10-22 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Digital Circuit Design](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504) | Hardware/Silicon | SF Bay Area | 2026-10-22 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | AI/ML | SF Bay Area | 2026-10-22 | 2026-10-15 |
-| [Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) ✨ | AI/ML | SF Bay Area | 2026-10-21 | 2026-10-22 |
-| [PhD Research Intern, Robotic Perception and Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) ✨ | AI/ML | Seattle | 2026-10-21 | 2026-10-23 |
-| [PhD Research Intern, AI for Climate and Weather Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) ✨ | AI/ML | SF Bay Area | 2026-10-21 | 2026-10-23 |
-| [Systems Software Intern, Aerial PHY- Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530) ✨ | Software | SF Bay Area | 2026-10-20 | 2026-10-22 |
-| [Product Manager MBA Intern, Enterprise AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) ✨ | AI/ML | SF Bay Area | 2026-10-19 | 2026-10-20 |
-| [PhD Research Intern, Security and Privacy - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096) | Security | SF Bay Area | 2026-10-14 | 2026-10-15 |
-| [Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) | Data | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) | AI/ML | Seattle | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Quantum Simulation and AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Physical AI - Foundation Models - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Networking - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) | Backend/Infra | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Learning Embodied Skills from Human Data - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405) | Data | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Hardware and Systems Architecture - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893) | Hardware/Silicon | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Generative AI - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Fundamental Generative AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Embodied and Agentic AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Efficient Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Circuits - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) | Hardware/Silicon | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, AI-Aided Engineering – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [PhD Research Intern, AI Accelerator Design and VLSI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [NVIDIA Spring 2027 Internships: Developer and Performance Technology](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | Software | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Software | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Hardware Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | Hardware/Silicon | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [NVIDIA 2027 Internships: Autonomous Vehicles and Robotics](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
-| [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
+| [Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642) ✨ | AI/ML | SF Bay Area | 2026-10-27 | 2026-10-27 |
+| [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Software | SF Bay Area | 2026-10-23 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Hardware Verification](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) | Hardware/Silicon | SF Bay Area | 2026-10-23 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Hardware Physical Design / VLSI](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | Hardware/Silicon | SF Bay Area | 2026-10-23 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Hardware Design for Test (DFT)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | Hardware/Silicon | SF Bay Area | 2026-10-23 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Hardware ASIC Design](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | Hardware/Silicon | SF Bay Area | 2026-10-23 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Digital Circuit Design](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504) | Hardware/Silicon | SF Bay Area | 2026-10-23 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | AI/ML | SF Bay Area | 2026-10-23 | 2026-10-15 |
+| [Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) ✨ | AI/ML | SF Bay Area | 2026-10-22 | 2026-10-22 |
+| [PhD Research Intern, Robotic Perception and Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) ✨ | AI/ML | Seattle | 2026-10-22 | 2026-10-23 |
+| [PhD Research Intern, AI for Climate and Weather Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) ✨ | AI/ML | SF Bay Area | 2026-10-22 | 2026-10-23 |
+| [Systems Software Intern, Aerial PHY- Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530) ✨ | Software | SF Bay Area | 2026-10-21 | 2026-10-22 |
+| [Product Manager MBA Intern, Enterprise AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) ✨ | AI/ML | SF Bay Area | 2026-10-20 | 2026-10-20 |
+| [PhD Research Intern, Security and Privacy - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096) | Security | SF Bay Area | 2026-10-15 | 2026-10-15 |
+| [Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) | Data | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) | AI/ML | Seattle | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Quantum Simulation and AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Physical AI - Foundation Models - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Networking - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) | Backend/Infra | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Learning Embodied Skills from Human Data - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405) | Data | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Hardware and Systems Architecture - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893) | Hardware/Silicon | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Generative AI - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Fundamental Generative AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Embodied and Agentic AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Efficient Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Circuits - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) | Hardware/Silicon | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, AI-Aided Engineering – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [PhD Research Intern, AI Accelerator Design and VLSI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [NVIDIA Spring 2027 Internships: Developer and Performance Technology](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | Software | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Software | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Hardware Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | Hardware/Silicon | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [NVIDIA 2027 Internships: Autonomous Vehicles and Robotics](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
+| [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
@@ -549,8 +553,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [AI Ecosystem Intern](https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1) | AI/ML | Boston | 2026-09-25 | 2026-10-15 |
-| [AI Ecosystem Intern](https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276) | AI/ML | Boston | 2026-09-25 | 2026-10-15 |
+| [AI Ecosystem Intern](https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1) | AI/ML | Boston | 2026-09-27 | 2026-10-15 |
+| [AI Ecosystem Intern](https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276) | AI/ML | Boston | 2026-09-27 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
@@ -558,8 +562,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Summer 2027 Intern - AI Research](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) ✨ | AI/ML | SF Bay Area | 2026-10-20 | 2026-10-21 |
-| [Summer 2027 Intern - Software Engineer (Security/Government)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) ✨ | Software | SF Bay Area | 2026-10-19 | 2026-10-20 |
+| [Summer 2027 Intern - AI Research](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) ✨ | AI/ML | SF Bay Area | 2026-10-21 | 2026-10-21 |
+| [Summer 2027 Intern - Software Engineer (Security/Government)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) ✨ | Software | SF Bay Area | 2026-10-20 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
@@ -596,11 +600,20 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Summer 2027 Intern:: Data Science III](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Data | Bentonville, AR | 2026-09-29 | 2026-10-15 |
-| [Summer 2027 Intern: Intern: Sr Data Science](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Data | Bentonville, AR | 2026-09-28 | 2026-10-15 |
-| [Summer 2027 Intern:: Software Engineer II](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) | Software | Bentonville, AR | 2026-09-25 | 2026-10-15 |
-| [Summer 2027 Intern: Cybersecurity Undergrad](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025) | Security | Bentonville, AR | 2026-09-25 | 2026-10-15 |
-| [Summer 2027 Intern: Cybersecurity Masters](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Masters_R-2630026) | Security | Bentonville, AR | 2026-09-25 | 2026-10-15 |
+| [Summer 2027 Intern:: Data Science III](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Data | Bentonville, AR | 2026-09-30 | 2026-10-15 |
+| [Summer 2027 Intern: Intern: Sr Data Science](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Data | Bentonville, AR | 2026-09-29 | 2026-10-15 |
+| [Summer 2027 Intern:: Software Engineer II](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) | Software | Bentonville, AR | 2026-09-27 | 2026-10-15 |
+| [Summer 2027 Intern: Cybersecurity Undergrad](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025) | Security | Bentonville, AR | 2026-09-27 | 2026-10-15 |
+| [Summer 2027 Intern: Cybersecurity Masters](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Masters_R-2630026) | Security | Bentonville, AR | 2026-09-27 | 2026-10-15 |
+
+[⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
+
+### Wells Fargo
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [2027 Technology Summer Internship – Early Careers (Data Engineering)](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) ✨ | Data | Charlotte, NC | 2026-10-27 | 2026-10-27 |
+| [2027 Technology Summer Internship - Early Careers (Cybersecurity)](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417) ✨ | Security | Charlotte, NC | 2026-10-27 | 2026-10-27 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 

@@ -1,9 +1,70 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-25T23:25:53Z",
-  "total_active": 36,
+  "updated_at": "2026-10-27T00:40:49Z",
+  "total_active": 38,
   "jobs": [
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1418948513778654",
+      "locations": [
+        "London, UK"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+      "url": "https://www.metacareers.com/jobs/1694337262064234",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
     {
       "company": "Apple",
       "title": "Software Engineer Intern, iCloud Platform",
@@ -17,7 +78,7 @@
       "category": "Software",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Amazon",
@@ -32,7 +93,7 @@
       "category": "Software",
       "posted": "2026-10-23",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "NVIDIA",
@@ -46,9 +107,9 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Meta",
@@ -63,7 +124,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Meta",
@@ -78,7 +139,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Meta",
@@ -93,7 +154,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Meta",
@@ -108,7 +169,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Meta",
@@ -123,7 +184,7 @@
       "category": "AI/ML",
       "posted": "2026-10-20",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Meta",
@@ -138,7 +199,7 @@
       "category": "AI/ML",
       "posted": "2026-10-20",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Microsoft",
@@ -153,7 +214,7 @@
       "category": "AI/ML",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "CrowdStrike",
@@ -167,9 +228,9 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Security",
-      "posted": "2026-10-19",
+      "posted": "2026-10-20",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Apple",
@@ -184,7 +245,7 @@
       "category": "Security",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "JPMorgan Chase",
@@ -199,7 +260,7 @@
       "category": "AI/ML",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "HPE",
@@ -215,22 +276,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-16",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-25"
-    },
-    {
-      "company": "Apple",
-      "title": "Software Engineering Intern, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering",
-      "locations": [
-        "London"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Amazon",
@@ -245,7 +291,7 @@
       "category": "Backend/Infra",
       "posted": "2026-03-11",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Stripe",
@@ -260,7 +306,7 @@
       "category": "Software",
       "posted": "2026-10-22",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "NVIDIA",
@@ -274,9 +320,9 @@
       "country": "uk",
       "region": "EMEA",
       "category": "Data",
-      "posted": "2026-10-14",
+      "posted": "2026-10-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Meta",
@@ -292,7 +338,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-12",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "JPMorgan Chase",
@@ -308,7 +354,7 @@
       "category": "Software",
       "posted": "2026-08-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "JPMorgan Chase",
@@ -324,7 +370,7 @@
       "category": "Data",
       "posted": "2026-08-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "JPMorgan Chase",
@@ -339,7 +385,7 @@
       "category": "Software",
       "posted": "2026-08-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "HPE",
@@ -355,22 +401,7 @@
       "category": "Software",
       "posted": "2026-09-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854",
-      "locations": [
-        "London, UK"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-09-03",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Google",
@@ -385,7 +416,7 @@
       "category": "Software",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Google",
@@ -400,7 +431,7 @@
       "category": "Data",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Google",
@@ -415,7 +446,7 @@
       "category": "Software",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Google",
@@ -438,7 +469,7 @@
       "category": "AI/ML",
       "posted": "2026-10-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Databricks",
@@ -453,7 +484,7 @@
       "category": "Software",
       "posted": "2026-10-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Cisco",
@@ -468,7 +499,7 @@
       "category": "Software",
       "posted": "2026-08-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Cisco",
@@ -483,7 +514,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Apple",
@@ -498,7 +529,7 @@
       "category": "QA",
       "posted": "2026-09-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Amazon",
@@ -513,7 +544,7 @@
       "category": "Software",
       "posted": "2026-09-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Amazon",
@@ -528,7 +559,7 @@
       "category": "Data",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Amazon",
@@ -543,7 +574,7 @@
       "category": "AI/ML",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     {
       "company": "Amazon",
@@ -558,7 +589,7 @@
       "category": "Security",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     }
   ]
 }

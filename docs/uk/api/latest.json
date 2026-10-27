@@ -1,10 +1,72 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-25T23:25:53Z",
-  "new_count": 0,
+  "updated_at": "2026-10-27T00:40:49Z",
+  "new_count": 4,
   "reopened_count": 0,
-  "total_active": 36,
-  "new_jobs": [],
+  "total_active": 38,
+  "new_jobs": [
+    {
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1418948513778654",
+      "locations": [
+        "London, UK"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+      "url": "https://www.metacareers.com/jobs/1694337262064234",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    }
+  ],
   "reopened_jobs": []
 }
