@@ -2,7 +2,7 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-28 02:11:31 IST** · 📌 **24** open verified internships
+> 🕐 Last updated: **2026-10-28 06:08:49 IST** · 📌 **24** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (70)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
@@ -105,7 +105,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-09-27 | 2026-09-17 |
+| [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-09-28 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
@@ -130,7 +130,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-09-27 | 2026-09-17 |
+| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-09-28 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
@@ -138,7 +138,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Technology Program Intern](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386) ✨ | Software | Bengaluru | 2026-10-27 | 2026-10-27 |
+| [2027 Technology Program Intern](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386) ✨ | Software | Bengaluru | 2026-10-28 | 2026-10-27 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 

@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-28 02:11:31 IST** · 📌 **38** open verified internships
+> 🕐 Last updated: **2026-10-28 06:08:49 IST** · 📌 **40** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (38)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (40)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -23,9 +23,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Google](#google) | **4** |
 | [HPE](#hpe) | **2** |
 | [JPMorgan Chase](#jpmorgan-chase) | **4** |
-| [Meta](#meta) | **9** |
+| [Meta](#meta) | **10** |
 | [Microsoft](#microsoft) | **1** |
-| [NVIDIA](#nvidia) | **2** |
+| [NVIDIA](#nvidia) | **3** |
 | [Stripe](#stripe) | **1** |
 
 ---
@@ -54,7 +54,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer Intern, iCloud Platform](https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform) ✨ | Software | London | 2026-10-22 | 2026-10-23 |
-| [Information Security Internship](https://jobs.apple.com/en-us/details/200687171/information-security-internship) ✨ | Security | London | 2026-10-19 | 2026-10-20 |
+| [Information Security Internship](https://jobs.apple.com/en-us/details/200687171/information-security-internship) | Security | London | 2026-10-19 | 2026-10-20 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -72,7 +72,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Professional Services Red Team Intern - Summer 2027 (Remote, GBR)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404) ✨ | Security | London | 2026-10-20 | 2026-10-20 |
+| [Professional Services Red Team Intern - Summer 2027 (Remote, GBR)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404) | Security | London | 2026-10-20 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -119,6 +119,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1811645993254851) ✨ | AI/ML | London | 2026-10-27 | 2026-10-28 |
 | [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1694337262064234) ✨ | AI/ML | London | 2026-10-26 | 2026-10-27 |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1418948513778654) ✨ | AI/ML | London | 2026-10-26 | 2026-10-27 |
 | [Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)](https://www.metacareers.com/jobs/29859210493681744) ✨ | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |
@@ -135,7 +136,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) ✨ | AI/ML | Berkshire, Reading | 2026-10-19 | 2026-10-20 |
+| [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | AI/ML | Berkshire, Reading | 2026-10-19 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -143,6 +144,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern, AI Agents and Backend Infrastructure – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) ✨ | Software | Remote (UK) | 2026-10-28 | 2026-10-28 |
 | [Software Intern - Embedded Systems 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1) ✨ | Software | Bristol | 2026-10-22 | 2026-10-22 |
 | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) | Data | Bristol | 2026-10-15 | 2026-10-15 |
 

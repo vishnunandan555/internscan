@@ -1,10 +1,27 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-27T20:41:31Z",
+  "updated_at": "2026-10-28T00:38:49Z",
   "new_count": 0,
-  "reopened_count": 0,
-  "total_active": 53,
+  "reopened_count": 1,
+  "total_active": 54,
   "new_jobs": [],
-  "reopened_jobs": []
+  "reopened_jobs": [
+    {
+      "company": "Intel",
+      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-28"
+    }
+  ]
 }

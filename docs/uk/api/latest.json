@@ -1,15 +1,15 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-27T20:41:31Z",
-  "new_count": 4,
+  "updated_at": "2026-10-28T00:38:49Z",
+  "new_count": 2,
   "reopened_count": 0,
-  "total_active": 38,
+  "total_active": 40,
   "new_jobs": [
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/1418948513778654",
+      "title": "Research Scientist Intern, AI Research - Speech & Audio (PhD)",
+      "url": "https://www.metacareers.com/jobs/1811645993254851",
       "locations": [
         "London, UK"
       ],
@@ -17,55 +17,25 @@
       "country": "uk",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
-      "url": "https://www.metacareers.com/jobs/1694337262064234",
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, AI Agents and Backend Infrastructure – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
       "locations": [
-        "London, UK",
-        "Zurich, Switzerland"
+        "4 Locations",
+        "UK Remote"
       ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Amazon",
-      "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
-      "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "city_tag": "London",
+      "city_tag": "Remote (UK)",
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "Amazon",
-      "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
-      "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
     }
   ],
   "reopened_jobs": []

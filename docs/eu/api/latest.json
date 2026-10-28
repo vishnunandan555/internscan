@@ -1,73 +1,149 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-10-27T20:41:31Z",
-  "new_count": 4,
-  "reopened_count": 0,
-  "total_active": 127,
+  "updated_at": "2026-10-28T00:38:49Z",
+  "new_count": 6,
+  "reopened_count": 3,
+  "total_active": 135,
   "new_jobs": [
     {
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Developer Tools - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
+      "company": "Amazon",
+      "title": "Applied Scientist Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern",
       "locations": [
-        "France Courbevoie",
-        "France, Courbevoie"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
-      "locations": [
-        "Switzerland Zurich",
-        "Switzerland, Zurich"
+        "Zurich, Zurich, CHE"
       ],
       "city_tag": "Zurich",
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
     },
     {
       "company": "Amazon",
-      "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
+      "title": "Applied Scientist Intern, RIVR",
+      "url": "https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr",
       "locations": [
-        "Berlin, Berlin, DEU"
+        "Zurich, Zurich, CHE"
       ],
-      "city_tag": "Berlin",
+      "city_tag": "Zurich",
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-09",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, AI Agents & Backend Infrastructure – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942",
+      "locations": [
+        "6 Locations",
+        "Germany Remote"
+      ],
+      "city_tag": "Remote (EU)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
+      "url": "https://careers.snowflake.com/us/en/job/e11c70eb-0800-4363-b609-264610878dce",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-10-12",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "company": "Visa",
+      "title": "Consulting & Analytics Summer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1",
+      "locations": [
+        "ES - Madrid, Spain",
+        "ES, Madrid Spain"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
     },
     {
       "company": "Accenture",
-      "title": "Cloud Infrastructure & DevOps Internship Program (He/She/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Cloud-Infrastructure---DevOps-Internship-Program--He-She-They-_R00365816",
+      "title": "Thesis Internship AI & Data",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Thesis-Internship-AI---Data_R00366919",
+      "locations": [
+        "Amsterdam"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "Accenture",
+      "title": "AI/MLOps Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434",
       "locations": [
         "Warsaw"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Backend/Infra",
+      "category": "AI/ML",
       "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27"
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "company": "Accenture",
+      "title": "LLM Engineer Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343",
+      "locations": [
+        "Warsaw"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-09-28",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-28"
+    },
+    {
+      "company": "Accenture",
+      "title": "Data & AI Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786",
+      "locations": [
+        "Krakow"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-28"
     }
-  ],
-  "reopened_jobs": []
+  ]
 }
