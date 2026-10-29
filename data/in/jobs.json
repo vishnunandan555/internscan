@@ -8,7 +8,7 @@
       "country": "in",
       "external_id": "6115382004",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bengaluru, Karnataka, India"
       ],
@@ -43,7 +43,7 @@
       "country": "in",
       "external_id": "125740",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bangalore, India",
         "Mangaluru, India"
@@ -61,7 +61,7 @@
       "country": "in",
       "external_id": "138385",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bengaluru, India"
       ],
@@ -71,9 +71,10 @@
       "url": "https://discoverdollar.keka.com/careers/jobdetails/138385"
     },
     "discover-dollar:154642": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Bengaluru",
+      "closed": "2026-10-29",
       "company": "Discover Dollar",
       "country": "in",
       "external_id": "154642",
@@ -95,7 +96,7 @@
       "country": "in",
       "external_id": "155175",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bangalore, India"
       ],
@@ -112,7 +113,7 @@
       "country": "in",
       "external_id": "164757",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bangalore, India"
       ],
@@ -129,7 +130,7 @@
       "country": "in",
       "external_id": "91847",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bangalore"
       ],
@@ -146,7 +147,7 @@
       "country": "in",
       "external_id": "109375266236572358",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bengaluru, Karnataka, India",
         "Hyderabad, Telangana, India"
@@ -164,7 +165,7 @@
       "country": "in",
       "external_id": "109976286780105414",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bengaluru, Karnataka, India",
         "Hyderabad, Telangana, India",
@@ -175,6 +176,23 @@
       "title": "Software Engineering PhD Intern, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414"
     },
+    "google:87534302853505734": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Hyderabad",
+      "company": "Google",
+      "country": "in",
+      "external_id": "87534302853505734",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "posted": "2026-10-28",
+      "region": "APAC",
+      "title": "Research Scientist PhD Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/87534302853505734"
+    },
     "hackerrank:8229735": {
       "active": true,
       "category": "Software",
@@ -183,7 +201,7 @@
       "country": "in",
       "external_id": "8229735",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Onsite in Bangalore"
       ],
@@ -191,6 +209,23 @@
       "region": "APAC",
       "title": "Software Development Engineer Intern",
       "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735"
+    },
+    "hackerrank:8281055": {
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Bengaluru",
+      "company": "HackerRank",
+      "country": "in",
+      "external_id": "8281055",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "locations": [
+        "Onsite in Bangalore"
+      ],
+      "posted": "2026-10-28",
+      "region": "APAC",
+      "title": "AI Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055"
     },
     "hpe:1211843": {
       "active": true,
@@ -200,7 +235,7 @@
       "country": "in",
       "external_id": "1211843",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bengaluru, Karn\u0101taka, 560048",
         "Bengaluru, Karn\u0101taka, India"
@@ -286,7 +321,7 @@
       "country": "in",
       "external_id": "1970393556641091",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -321,7 +356,7 @@
       "country": "in",
       "external_id": "1970393556917519",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -428,7 +463,7 @@
       "country": "in",
       "external_id": "1970393557043380",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -445,12 +480,12 @@
       "country": "in",
       "external_id": "JR2024423",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "India Bengaluru",
         "India, Bengaluru"
       ],
-      "posted": "2026-09-28",
+      "posted": "2026-09-29",
       "region": "APAC",
       "title": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423"
@@ -500,7 +535,7 @@
       "country": "in",
       "external_id": "446719784824",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bangalore, India",
         "Hyderabad, Telang\u0101na, India"
@@ -518,7 +553,7 @@
       "country": "in",
       "external_id": "446719785836",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Hyderabad, Telang\u0101na, India"
       ],
@@ -609,7 +644,7 @@
       "country": "in",
       "external_id": "8031833",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "Bengaluru"
       ],
@@ -662,19 +697,20 @@
       "country": "in",
       "external_id": "R-2557935",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "locations": [
         "IN KA BANGALORE Home Office Building 10"
       ],
-      "posted": "2026-09-28",
+      "posted": "2026-09-29",
       "region": "APAC",
       "title": "(IND) Grad Intern - No Work Experience",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935"
     },
     "wells-fargo:R-557386": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Bengaluru",
+      "closed": "2026-10-29",
       "company": "Wells Fargo",
       "country": "in",
       "external_id": "R-557386",
@@ -690,5 +726,5 @@
       "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386"
     }
   },
-  "updated_at": "2026-10-28T00:38:49Z"
+  "updated_at": "2026-10-29T01:08:11Z"
 }

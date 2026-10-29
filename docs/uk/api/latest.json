@@ -1,41 +1,25 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-28T00:38:49Z",
-  "new_count": 2,
+  "updated_at": "2026-10-29T01:08:11Z",
+  "new_count": 1,
   "reopened_count": 0,
-  "total_active": 40,
+  "total_active": 41,
   "new_jobs": [
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI Research - Speech & Audio (PhD)",
-      "url": "https://www.metacareers.com/jobs/1811645993254851",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge",
+      "url": "https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com",
       "locations": [
-        "London, UK"
+        "Cambridge, United Kingdom"
       ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, AI Agents and Backend Infrastructure – 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
-      "locations": [
-        "4 Locations",
-        "UK Remote"
-      ],
-      "city_tag": "Remote (UK)",
+      "city_tag": "Cambridge / Oxford",
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     }
   ],
   "reopened_jobs": []

@@ -1,717 +1,147 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-10-28T00:38:49Z",
-  "new_count": 41,
-  "reopened_count": 4,
-  "total_active": 635,
+  "updated_at": "2026-10-29T01:08:11Z",
+  "new_count": 9,
+  "reopened_count": 0,
+  "total_active": 634,
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "Applied Scientist Intern",
-      "url": "https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern",
+      "company": "Google",
+      "title": "Research Scientist PhD Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/87534302853505734",
       "locations": [
-        "Zurich, Zurich, CHE"
+        "Hyderabad, Telangana, India"
       ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "Hyderabad",
+      "country": "in",
+      "region": "APAC",
       "category": "AI/ML",
-      "posted": "2026-10-23",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist Intern, RIVR",
-      "url": "https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr",
-      "locations": [
-        "Zurich, Zurich, CHE"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-23",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Amazon",
-      "title": "Database Engineer Intern - Summer 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027",
-      "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Amazon",
-      "title": "Network Development Engineer Intern, 2027 Summer",
-      "url": "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer",
-      "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "HPE",
-      "title": "Hardware Engineering Intern",
-      "url": "https://careers.hpe.com/us/en/job/1214067",
-      "locations": [
-        "Sunnyvale, California, 94089",
-        "Sunnyvale, California, United States of America"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/1751935042548465",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern - Neural Representations Compression",
-      "url": "https://www.metacareers.com/jobs/2368433610564528",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Computer Vision - Video Intelligence (PhD)",
-      "url": "https://www.metacareers.com/jobs/1789380188995838",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Product Design Engineering Intern — AI Glasses",
-      "url": "https://www.metacareers.com/jobs/1714201770266311",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI Research - Speech & Audio (PhD)",
-      "url": "https://www.metacareers.com/jobs/1567168005156007",
-      "locations": [
-        "Menlo Park, CA",
-        "New York, NY"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI Research - Speech & Audio (PhD)",
-      "url": "https://www.metacareers.com/jobs/1811645993254851",
-      "locations": [
-        "London, UK"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Video Generation Self-Improvement (PhD)",
-      "url": "https://www.metacareers.com/jobs/29358420983776961",
-      "locations": [
-        "Menlo Park, CA",
-        "Seattle, WA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Ads Recommendations (PhD)",
-      "url": "https://www.metacareers.com/jobs/1691709792593561",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Youth Safety (PhD)",
-      "url": "https://www.metacareers.com/jobs/984204394727196",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Ranking & Recommendations (PhD)",
-      "url": "https://www.metacareers.com/jobs/1625515955324134",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA",
-        "New York, NY"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Wireless Engineering Intern",
-      "url": "https://www.metacareers.com/jobs/1881250979530334",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, AI Agents & Backend Infrastructure – 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942",
-      "locations": [
-        "6 Locations",
-        "Germany Remote"
-      ],
-      "city_tag": "Remote (EU)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
       "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     },
     {
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, AI Agents and Backend Infrastructure – 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge",
+      "url": "https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com",
       "locations": [
-        "4 Locations",
-        "UK Remote"
+        "Cambridge, United Kingdom"
       ],
-      "city_tag": "Remote (UK)",
+      "city_tag": "Cambridge / Oxford",
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     },
     {
-      "company": "Intel",
-      "title": "AI Software Engineering PhD Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721828828?domain=qualcomm.com",
       "locations": [
-        "2 Locations",
-        "US Arizona Phoenix"
+        "Markham, Ontario, Canada"
       ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
-      "url": "https://careers.snowflake.com/us/en/job/e11c70eb-0800-4363-b609-264610878dce",
-      "locations": [
-        "Warsaw, Poland"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-12",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - NAND Storage Strategic Roadmap Planning",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern – AI & Product Management, Mobile Memory (LPDRAM)",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
-      "locations": [
-        "San Jose CA",
-        "San Jose, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern -  AI Engineer Platform",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - HBM Data Scientist",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127",
-      "locations": [
-        "Richardson TX",
-        "Richardson, TX"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Micron",
-      "title": "Intern - Product Yield Software Engineer",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Data Science Intern, Data and AI Team – Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
-      "locations": [
-        "US - Foster City, CA",
-        "US, Foster City CA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1",
-      "locations": [
-        "US - Ashburn, VA",
-        "US, Ashburn VA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1",
-      "locations": [
-        "US - Denver, CO",
-        "US, Denver CO"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
-      "locations": [
-        "US - Austin, TX",
-        "US, Austin TX"
-      ],
-      "city_tag": "Austin",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2",
-      "locations": [
-        "US - Bellevue, WA",
-        "US, Bellevue WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
-      "locations": [
-        "US - Foster City, CA",
-        "US, Foster City CA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Software Engineer, Intern - 2027 Ashburn, VA",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
-      "locations": [
-        "US - Ashburn, VA",
-        "US, Ashburn VA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Software Engineer, Intern - Foster City 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1",
-      "locations": [
-        "US - Foster City, CA",
-        "US, Foster City CA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Network and Security Engineering Intern - 2027, Highlands Ranch, CO",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1",
-      "locations": [
-        "US - Denver, CO",
-        "US, Denver CO"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Network and Security Engineering Intern - 2027, Ashburn, VA",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W",
-      "locations": [
-        "US - Ashburn, VA",
-        "US, Ashburn VA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Software Engineer, Intern - 2027 Austin, TX",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
-      "locations": [
-        "US - Austin, TX",
-        "US, Austin TX"
-      ],
-      "city_tag": "Austin",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Consulting & Analytics Summer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1",
-      "locations": [
-        "ES - Madrid, Spain",
-        "ES, Madrid Spain"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Business Strategy Intern, Data and AI Team - Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2",
-      "locations": [
-        "US - Foster City, CA",
-        "US, Foster City CA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Product Management Intern, Data and AI Team - Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
-      "locations": [
-        "US - Foster City, CA",
-        "US, Foster City CA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Visa",
-      "title": "Consulting & Analytics Intern - Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W",
-      "locations": [
-        "US - Atlanta, GA",
-        "US, Atlanta GA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    },
-    {
-      "company": "Accenture",
-      "title": "Thesis Internship AI & Data",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Thesis-Internship-AI---Data_R00366919",
-      "locations": [
-        "Amsterdam"
-      ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28"
-    }
-  ],
-  "reopened_jobs": [
-    {
-      "company": "Intel",
-      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-      "locations": [
-        "Canada Toronto",
-        "Canada, Toronto"
-      ],
-      "city_tag": "Toronto",
+      "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-10-28",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-28"
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     },
     {
-      "company": "Accenture",
-      "title": "AI/MLOps Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Camera Design Engineering Internship - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721829439?domain=qualcomm.com",
       "locations": [
-        "Warsaw"
+        "Vancouver, British Columbia, Canada"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
+    },
+    {
+      "company": "Amazon",
+      "title": "2027 Applied Science Internship - Robotics - United States",
+      "url": "https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
+      "locations": [
+        "North Reading, Massachusetts, USA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-28"
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     },
     {
-      "company": "Accenture",
-      "title": "LLM Engineer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343",
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning and Optimization - Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
       "locations": [
-        "Warsaw"
+        "United States, Washington, Redmond"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-09-28",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-28"
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     },
     {
-      "company": "Accenture",
-      "title": "Data & AI Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786",
+      "company": "Micron",
+      "title": "Intern - Embedded Software Engineer",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959",
       "locations": [
-        "Krakow"
+        "Boise ID, SIG Building",
+        "Boise, ID - SIG Building"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
+    },
+    {
+      "company": "Micron",
+      "title": "Intern - Data Science",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
+      "locations": [
+        "2 Locations",
+        "San Jose CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
       "category": "Data",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-28"
+      "posted": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
+    },
+    {
+      "company": "HackerRank",
+      "title": "AI Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
+      "locations": [
+        "Onsite in Bangalore"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "AI/ML",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     }
-  ]
+  ],
+  "reopened_jobs": []
 }

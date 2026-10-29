@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-28 06:08:49 IST** · 📌 **54** open verified internships
+> 🕐 Last updated: **2026-10-29 06:38:11 IST** · 📌 **56** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (54)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (56)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -22,7 +22,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **2** |
 | [Nokia](#nokia) | **6** |
-| [Qualcomm](#qualcomm) | **25** |
+| [Qualcomm](#qualcomm) | **27** |
 | [Stripe](#stripe) | **3** |
 
 ---
@@ -110,6 +110,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com) | QA | Toronto | 2026-10-28 | 2026-10-15 |
+| [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721828828?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-10-28 | 2026-10-29 |
+| [FY27 Intern - Camera Design Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829439?domain=qualcomm.com) ✨ | Software | Vancouver | 2026-10-28 | 2026-10-29 |
 | [FY27 Intern - Machine Learning AISW Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721636765?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-10-26 | 2026-10-20 |
 | [FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721678733?domain=qualcomm.com) ✨ | AI/ML | Vancouver | 2026-10-22 | 2026-10-23 |
 | [FY27 Intern - AI and DSP Applications Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721686396?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-10-22 | 2026-10-23 |
@@ -117,7 +120,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Display Systems Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721661677?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-10-21 | 2026-10-22 |
 | [FY27 Intern - QDSP Hardware Physical Design Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721636316?domain=qualcomm.com) | Hardware/Silicon | Markham, ON | 2026-10-19 | 2026-10-20 |
 | [FY27 Intern - Automotive Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721615591?domain=qualcomm.com) | Software | Markham, ON | 2026-10-16 | 2026-10-17 |
-| [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com) | QA | Ottawa, ON | 2026-09-30 | 2026-10-15 |
 | [FY27 Intern - Soft IP ASIC Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721302471?domain=qualcomm.com) | Hardware/Silicon | Ottawa, ON | 2026-09-29 | 2026-10-15 |
 | [FY27 Intern - Silicon Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721302528?domain=qualcomm.com) | Hardware/Silicon | Toronto | 2026-09-28 | 2026-10-15 |
 | [FY27 Intern - PAL Firmware Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721229661?domain=qualcomm.com) | Backend/Infra | Markham, ON | 2026-09-23 | 2026-10-15 |

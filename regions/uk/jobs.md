@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-28 06:08:49 IST** · 📌 **40** open verified internships
+> 🕐 Last updated: **2026-10-29 06:38:11 IST** · 📌 **41** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (40)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (41)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -26,6 +26,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Meta](#meta) | **10** |
 | [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **3** |
+| [Qualcomm](#qualcomm) | **1** |
 | [Stripe](#stripe) | **1** |
 
 ---
@@ -99,7 +100,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) | Backend/Infra | Winnersh | 2026-10-16 | 2026-10-16 |
+| [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) | Backend/Infra | Winnersh | 2026-10-28 | 2026-10-16 |
 | [Software Engineering Internship (Placement Year)](https://careers.hpe.com/us/en/job/1215804) | Software | Bristol, Avon | 2026-09-23 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -126,8 +127,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, Audio, Numerical Acoustics (PhD)](https://www.metacareers.com/jobs/2188224482038078) ✨ | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2288012098648243) ✨ | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |
 | [Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)](https://www.metacareers.com/jobs/2281070982817094) ✨ | AI/ML | London | 2026-10-21 | 2026-10-22 |
-| [Research Scientist Intern, Audio Quality with AI](https://www.metacareers.com/jobs/4556622427930384) ✨ | AI/ML | Cambridge / Oxford | 2026-10-20 | 2026-10-21 |
-| [Research Intern - Self-Improving Agentic Systems and AI Research Agents](https://www.metacareers.com/jobs/994737396214791) ✨ | AI/ML | London | 2026-10-20 | 2026-10-21 |
+| [Research Scientist Intern, Audio Quality with AI](https://www.metacareers.com/jobs/4556622427930384) | AI/ML | Cambridge / Oxford | 2026-10-20 | 2026-10-21 |
+| [Research Intern - Self-Improving Agentic Systems and AI Research Agents](https://www.metacareers.com/jobs/994737396214791) | AI/ML | London | 2026-10-20 | 2026-10-21 |
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/2558941294546763) | Backend/Infra | London | 2026-09-12 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -147,6 +148,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Software Engineering Intern, AI Agents and Backend Infrastructure – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) ✨ | Software | Remote (UK) | 2026-10-28 | 2026-10-28 |
 | [Software Intern - Embedded Systems 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1) ✨ | Software | Bristol | 2026-10-22 | 2026-10-22 |
 | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) | Data | Bristol | 2026-10-15 | 2026-10-15 |
+
+[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
+
+### Qualcomm
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com) ✨ | Software | Cambridge / Oxford | 2026-10-28 | 2026-10-29 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

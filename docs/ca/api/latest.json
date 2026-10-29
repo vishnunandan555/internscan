@@ -1,27 +1,41 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-28T00:38:49Z",
-  "new_count": 0,
-  "reopened_count": 1,
-  "total_active": 54,
-  "new_jobs": [],
-  "reopened_jobs": [
+  "updated_at": "2026-10-29T01:08:11Z",
+  "new_count": 2,
+  "reopened_count": 0,
+  "total_active": 56,
+  "new_jobs": [
     {
-      "company": "Intel",
-      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721828828?domain=qualcomm.com",
       "locations": [
-        "Canada Toronto",
-        "Canada, Toronto"
+        "Markham, Ontario, Canada"
       ],
-      "city_tag": "Toronto",
+      "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-10-28",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-28"
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Camera Design Engineering Internship - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721829439?domain=qualcomm.com",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     }
-  ]
+  ],
+  "reopened_jobs": []
 }
