@@ -1,40 +1,25 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-10-29T01:08:11Z",
-  "new_count": 2,
+  "updated_at": "2026-10-30T01:13:48Z",
+  "new_count": 1,
   "reopened_count": 0,
-  "total_active": 24,
+  "total_active": 25,
   "new_jobs": [
     {
-      "company": "Google",
-      "title": "Research Scientist PhD Intern, Summer 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/87534302853505734",
+      "company": "Meta",
+      "title": "ASIC Engineer Intern, Physical Design",
+      "url": "https://www.metacareers.com/jobs/1823027662342331",
       "locations": [
-        "Hyderabad, Telangana, India"
-      ],
-      "city_tag": "Hyderabad",
-      "country": "in",
-      "region": "APAC",
-      "category": "AI/ML",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29"
-    },
-    {
-      "company": "HackerRank",
-      "title": "AI Researcher Intern",
-      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
-      "locations": [
-        "Onsite in Bangalore"
+        "Bangalore, India"
       ],
       "city_tag": "Bengaluru",
       "country": "in",
       "region": "APAC",
-      "category": "AI/ML",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29"
+      "category": "Hardware/Silicon",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
     }
   ],
   "reopened_jobs": []

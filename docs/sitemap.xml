@@ -8,7 +8,7 @@
   <!-- Primary Global Application -->
   <url>
     <loc>https://internscan.vercel.app/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://internscan.vercel.app/" />
@@ -22,7 +22,7 @@
   <!-- India Tracker -->
   <url>
     <loc>https://internscan.vercel.app/in/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
     <xhtml:link rel="alternate" hreflang="en-IN" href="https://internscan.vercel.app/in/" />
@@ -36,7 +36,7 @@
   <!-- United States Tracker -->
   <url>
     <loc>https://internscan.vercel.app/us/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
     <xhtml:link rel="alternate" hreflang="en-US" href="https://internscan.vercel.app/us/" />
@@ -50,7 +50,7 @@
   <!-- Canada Tracker -->
   <url>
     <loc>https://internscan.vercel.app/ca/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="en-CA" href="https://internscan.vercel.app/ca/" />
@@ -64,7 +64,7 @@
   <!-- United Kingdom Tracker -->
   <url>
     <loc>https://internscan.vercel.app/uk/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="en-GB" href="https://internscan.vercel.app/uk/" />
@@ -78,7 +78,7 @@
   <!-- Europe Tracker -->
   <url>
     <loc>https://internscan.vercel.app/eu/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="en-EU" href="https://internscan.vercel.app/eu/" />
@@ -92,7 +92,7 @@
   <!-- Developer & Bot Documentation Hub -->
   <url>
     <loc>https://internscan.vercel.app/docs/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
@@ -100,19 +100,19 @@
   <!-- Direct Public Feeds -->
   <url>
     <loc>https://internscan.vercel.app/feed.xml</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://internscan.vercel.app/jobs.json</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://internscan.vercel.app/metrics.json</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.70</priority>
   </url>

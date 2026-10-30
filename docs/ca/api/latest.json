@@ -1,15 +1,15 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-29T01:08:11Z",
-  "new_count": 2,
+  "updated_at": "2026-10-30T01:13:48Z",
+  "new_count": 3,
   "reopened_count": 0,
-  "total_active": 56,
+  "total_active": 57,
   "new_jobs": [
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721828828?domain=qualcomm.com",
+      "title": "FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -17,24 +17,39 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29"
+      "posted": "2026-10-29",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
     },
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Camera Design Engineering Internship - Canada (12 or 16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721829439?domain=qualcomm.com",
+      "title": "FY27 Intern - AI Software Engineering Co-op  - Canada (4 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721862429?domain=qualcomm.com",
       "locations": [
-        "Vancouver, British Columbia, Canada"
+        "Toronto, Ontario, Canada"
       ],
-      "city_tag": "Vancouver",
+      "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29"
+      "category": "AI/ML",
+      "posted": "2026-10-29",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - AI Software Systems Co-op - Canada (4 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721862430?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-29",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
     }
   ],
   "reopened_jobs": []

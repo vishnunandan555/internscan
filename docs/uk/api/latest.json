@@ -1,25 +1,41 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-10-29T01:08:11Z",
-  "new_count": 1,
+  "updated_at": "2026-10-30T01:13:48Z",
+  "new_count": 2,
   "reopened_count": 0,
   "total_active": 41,
   "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge",
-      "url": "https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com",
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1847186939636437",
       "locations": [
-        "Cambridge, United Kingdom"
+        "London, UK"
       ],
-      "city_tag": "Cambridge / Oxford",
+      "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-10-28",
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29"
+      "category": "AI/ML",
+      "posted": "2026-10-29",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
+      "url": "https://www.metacareers.com/jobs/2082008865811696",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-29",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
     }
   ],
   "reopened_jobs": []
