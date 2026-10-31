@@ -2,30 +2,31 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-10-30 06:43:48 IST** · 📌 **41** open verified internships
+> 🕐 Last updated: **2026-10-31 06:26:33 IST** · 📌 **43** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (41)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (43)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United Kingdom |
 |---|:---:|
 | [Amazon](#amazon) | **8** |
-| [Apple](#apple) | **3** |
+| [Apple](#apple) | **5** |
+| [Barclays](#barclays) | **1** |
 | [Cisco](#cisco) | **2** |
 | [CrowdStrike](#crowdstrike) | **1** |
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **4** |
 | [HPE](#hpe) | **1** |
-| [JPMorgan Chase](#jpmorgan-chase) | **4** |
+| [JPMorgan Chase](#jpmorgan-chase) | **3** |
 | [Meta](#meta) | **12** |
-| [Microsoft](#microsoft) | **1** |
-| [NVIDIA](#nvidia) | **2** |
+| [Microsoft](#microsoft) | **2** |
+| [NVIDIA](#nvidia) | **1** |
 | [Qualcomm](#qualcomm) | **1** |
 | [Stripe](#stripe) | **1** |
 
@@ -39,9 +40,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) ✨ | Software | London | 2026-10-30 | 2026-10-31 |
 | [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) ✨ | Software | London | 2026-10-26 | 2026-10-27 |
 | [2027 Software Dev Engineer Intern (Embedded Systems) - UK](https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) ✨ | Software | London | 2026-10-26 | 2026-10-27 |
-| [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027) ✨ | Software | London | 2026-10-23 | 2026-10-23 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) | Security | London | 2026-10-13 | 2026-10-15 |
 | [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) | Data | London | 2026-10-02 | 2026-10-15 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | London | 2026-10-02 | 2026-10-15 |
@@ -54,9 +55,19 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer Intern, iCloud Platform](https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform) ✨ | Software | London | 2026-10-22 | 2026-10-23 |
+| [Technical Internship - Apple Wallet, Payments & Commerce](https://jobs.apple.com/en-us/details/200692619/technical-internship-apple-wallet-payments-commerce) ✨ | Software | London | 2026-10-30 | 2026-10-31 |
+| [Intern, Site Reliability Engineer, iCloud](https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud) ✨ | Backend/Infra | London | 2026-10-30 | 2026-10-31 |
+| [Software Engineer Intern, iCloud Platform](https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform) | Software | London | 2026-10-22 | 2026-10-23 |
 | [Information Security Internship](https://jobs.apple.com/en-us/details/200687171/information-security-internship) | Security | London | 2026-10-19 | 2026-10-20 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
+
+[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
+
+### Barclays
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) ✨ | Data | Glasgow Campus | 2026-10-31 | 2026-10-31 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -111,7 +122,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) | AI/ML | London | 2026-10-15 | 2026-10-16 |
 | [2027 Software Engineer Program - Summer Internship - Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) | Software | London | 2026-08-31 | 2026-10-15 |
 | [2027 Software Engineer Immersion Program - Summer Internship - Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) | Software | Glasgow, Lanarkshire | 2026-08-31 | 2026-10-15 |
-| [2027 Data & AI - Summer Internship -  Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | Data | London | 2026-08-31 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -138,6 +148,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) ✨ | Security | Cambridge / Oxford | 2026-10-30 | 2026-10-31 |
 | [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | AI/ML | Berkshire, Reading | 2026-10-19 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -146,7 +157,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Intern - Embedded Systems 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1) | Software | Bristol | 2026-10-22 | 2026-10-22 |
 | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) | Data | Bristol | 2026-10-15 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)

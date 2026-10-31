@@ -1,9 +1,69 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-30T01:13:48Z",
-  "total_active": 57,
+  "updated_at": "2026-10-31T00:56:33Z",
+  "total_active": 51,
   "jobs": [
+    {
+      "company": "Stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+      "locations": [
+        "Toronto"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "company": "Stripe",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+      "locations": [
+        "Toronto"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com",
+      "locations": [
+        "Ottawa, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "QA",
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
     {
       "company": "Qualcomm",
       "title": "FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)",
@@ -17,7 +77,7 @@
       "category": "AI/ML",
       "posted": "2026-10-29",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -30,9 +90,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-29",
+      "posted": "2026-10-30",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -45,9 +105,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-29",
+      "posted": "2026-10-30",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -62,7 +122,7 @@
       "category": "AI/ML",
       "posted": "2026-10-28",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -77,7 +137,7 @@
       "category": "Software",
       "posted": "2026-10-28",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -92,7 +152,7 @@
       "category": "AI/ML",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -107,7 +167,7 @@
       "category": "AI/ML",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Nokia",
@@ -122,7 +182,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-23",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Intel",
@@ -138,23 +198,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-23",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "HPE",
-      "title": "Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Hiver  2027)",
-      "url": "https://careers.hpe.com/us/en/job/1214294",
-      "locations": [
-        "St. Laurent, Quebec, Canada",
-        "St. Laurent, Quebec, H4S 0A4"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -169,7 +213,7 @@
       "category": "Software",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -184,7 +228,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -199,7 +243,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -214,7 +258,7 @@
       "category": "AI/ML",
       "posted": "2026-10-26",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "NVIDIA",
@@ -228,9 +272,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-10-20",
+      "posted": "2026-10-31",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -245,7 +289,7 @@
       "category": "Software",
       "posted": "2026-10-16",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Nokia",
@@ -260,7 +304,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Intel",
@@ -276,7 +320,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-16",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Stripe",
@@ -291,7 +335,7 @@
       "category": "Software",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Stripe",
@@ -306,7 +350,7 @@
       "category": "Data",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Stripe",
@@ -321,7 +365,7 @@
       "category": "Data",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -336,7 +380,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -351,112 +395,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Display IP Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721064141?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12 or 16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721109168?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design / Verification/Implementation - Canada (12 or 16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Silicon Validation Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-09-17",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -471,7 +410,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -486,22 +425,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721156800?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-18",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -516,7 +440,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -531,22 +455,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Silicon Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721302528?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-09-28",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Qualcomm",
@@ -561,7 +470,7 @@
       "category": "QA",
       "posted": "2026-10-28",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Nokia",
@@ -576,7 +485,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Nokia",
@@ -591,7 +500,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Nokia",
@@ -606,7 +515,7 @@
       "category": "Data",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Nokia",
@@ -621,7 +530,7 @@
       "category": "Data",
       "posted": "2026-09-25",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "NVIDIA",
@@ -635,9 +544,9 @@
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-13",
+      "posted": "2026-10-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Microsoft",
@@ -652,7 +561,7 @@
       "category": "AI/ML",
       "posted": "2026-10-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Intel",
@@ -668,7 +577,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Intel",
@@ -684,7 +593,7 @@
       "category": "AI/ML",
       "posted": "2026-10-28",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Google",
@@ -699,7 +608,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Google",
@@ -715,7 +624,7 @@
       "category": "Software",
       "posted": "2026-08-24",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Google",
@@ -732,7 +641,7 @@
       "category": "AI/ML",
       "posted": "2026-07-20",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Google",
@@ -748,7 +657,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Google",
@@ -765,7 +674,7 @@
       "category": "AI/ML",
       "posted": "2026-07-20",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Google",
@@ -780,7 +689,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Google",
@@ -796,7 +705,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Amazon",
@@ -811,7 +720,7 @@
       "category": "Software",
       "posted": "2026-09-09",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Amazon",
@@ -826,7 +735,7 @@
       "category": "AI/ML",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Amazon",
@@ -841,7 +750,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Amazon",
@@ -856,7 +765,7 @@
       "category": "AI/ML",
       "posted": "2026-09-30",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "company": "Amazon",
@@ -871,7 +780,7 @@
       "category": "AI/ML",
       "posted": "2025-12-03",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     }
   ]
 }

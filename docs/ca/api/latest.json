@@ -1,55 +1,70 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-30T01:13:48Z",
-  "new_count": 3,
+  "updated_at": "2026-10-31T00:56:33Z",
+  "new_count": 4,
   "reopened_count": 0,
-  "total_active": 57,
+  "total_active": 51,
   "new_jobs": [
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com",
+      "title": "FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com",
       "locations": [
-        "Markham, Ontario, Canada"
+        "Vancouver, British Columbia, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com",
+      "locations": [
+        "Ottawa, Ontario, Canada"
       ],
       "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "category": "QA",
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
     },
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - AI Software Engineering Co-op  - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721862429?domain=qualcomm.com",
+      "company": "Stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333122",
       "locations": [
-        "Toronto, Ontario, Canada"
+        "Toronto"
       ],
       "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
     },
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - AI Software Systems Co-op - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721862430?domain=qualcomm.com",
+      "company": "Stripe",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328664",
       "locations": [
-        "Toronto, Ontario, Canada"
+        "Toronto"
       ],
       "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
     }
   ],
   "reopened_jobs": []

@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-10-30 06:43:48 IST**
+> 🕐 Last updated: **2026-10-31 06:26:33 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/)
 

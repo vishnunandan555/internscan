@@ -1,102 +1,25 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-10-30T01:13:48Z",
-  "new_count": 6,
+  "updated_at": "2026-10-31T00:56:33Z",
+  "new_count": 1,
   "reopened_count": 0,
-  "total_active": 134,
+  "total_active": 122,
   "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern- Integration of a RISC-V CPU into a Cache-Coherent Emulation Platform - Sophia, 6 months",
-      "url": "https://careers.qualcomm.com/careers/job/446721817760?domain=qualcomm.com",
-      "locations": [
-        "Bainbridge, Alpes-de-Haute-Provence, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern- AI-Driven Power Modeling for Evaluating Power Management Mechanisms in NoC Architectures  - Guyancourt, 6 months",
-      "url": "https://careers.qualcomm.com/careers/job/446721854346?domain=qualcomm.com",
-      "locations": [
-        "Guyancourt, Yvelines, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
-    },
-    {
       "company": "Amazon",
-      "title": "Robotics Wireless & Network Engineer Intern, RIVR",
-      "url": "https://www.amazon.jobs/en/jobs/10592306/robotics-wireless-network-engineer-intern-rivr",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027",
       "locations": [
-        "Zurich, Zurich, CHE"
+        "Munich, Bavaria, DEU"
       ],
-      "city_tag": "Zurich",
+      "city_tag": "Munich",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "HPE",
-      "title": "Technical Support Engineer Intern – Networking / TAC",
-      "url": "https://careers.hpe.com/us/en/job/1213971",
-      "locations": [
-        "Bucharest, N/A",
-        "Bucharest, Romania"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "HPE",
-      "title": "AI & Automation Intern – Product Engineering / NPI",
-      "url": "https://careers.hpe.com/us/en/job/1216274",
-      "locations": [
-        "Kutna Hora, Czechia",
-        "Kutna Hora, N/A"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/969100159096154",
-      "locations": [
-        "Paris, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "category": "Software",
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
     }
   ],
   "reopened_jobs": []
