@@ -2,7 +2,7 @@
 
 # 🇮🇳 India — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-10-31 06:26:33 IST**
+> 🕐 Last updated: **2026-11-01 05:46:43 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/)
 

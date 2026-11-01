@@ -1,71 +1,146 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-10-31T00:56:33Z",
-  "new_count": 4,
-  "reopened_count": 0,
-  "total_active": 51,
-  "new_jobs": [
+  "updated_at": "2026-11-01T00:16:43Z",
+  "new_count": 0,
+  "reopened_count": 9,
+  "total_active": 58,
+  "new_jobs": [],
+  "reopened_jobs": [
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com",
+      "title": "FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com",
       "locations": [
-        "Vancouver, British Columbia, Canada"
+        "Toronto, Ontario, Canada"
       ],
-      "city_tag": "Vancouver",
+      "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-30",
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "category": "Backend/Infra",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-01"
     },
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com",
+      "title": "FY27 Intern - Display IP Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721064141?domain=qualcomm.com",
       "locations": [
-        "Ottawa, Ontario, Canada"
+        "Markham, Ontario, Canada"
       ],
       "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
-      "category": "QA",
-      "posted": "2026-10-30",
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "category": "Software",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-01"
     },
     {
-      "company": "Stripe",
-      "title": "Master's Machine Learning Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com",
       "locations": [
-        "Toronto"
+        "Toronto, Ontario, Canada"
       ],
       "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-30",
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "category": "Software",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-01"
     },
     {
-      "company": "Stripe",
-      "title": "PhD Machine Learning Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Silicon Validation Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com",
       "locations": [
-        "Toronto"
+        "Toronto, Ontario, Canada"
       ],
       "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-10-30",
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721109168?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design / Verification/Implementation - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721109229?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-09-17",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721156800?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-18",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "company": "AMD",
+      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91368",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-01",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-11-01"
     }
-  ],
-  "reopened_jobs": []
+  ]
 }
