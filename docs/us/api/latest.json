@@ -1,43 +1,26 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-01T00:16:43Z",
-  "new_count": 0,
-  "reopened_count": 2,
+  "updated_at": "2026-11-02T00:57:30Z",
+  "new_count": 1,
+  "reopened_count": 0,
   "total_active": 401,
-  "new_jobs": [],
-  "reopened_jobs": [
+  "new_jobs": [
     {
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
       "locations": [
-        "US CA Santa Clara",
-        "US, CA, Santa Clara"
+        "United States, Washington, Redmond"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-31",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-01"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
-      "locations": [
-        "US CA Santa Clara",
-        "US, CA, Santa Clara"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-31",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-01"
+      "category": "Software",
+      "posted": "2026-11-01",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02"
     }
-  ]
+  ],
+  "reopened_jobs": []
 }

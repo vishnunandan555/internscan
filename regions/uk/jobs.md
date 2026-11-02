@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-01 05:46:43 IST** · 📌 **44** open verified internships
+> 🕐 Last updated: **2026-11-02 06:27:30 IST** · 📌 **41** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (44)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (41)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -23,7 +23,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **4** |
 | [HPE](#hpe) | **1** |
-| [JPMorgan Chase](#jpmorgan-chase) | **4** |
+| [JPMorgan Chase](#jpmorgan-chase) | **1** |
 | [Meta](#meta) | **12** |
 | [Microsoft](#microsoft) | **2** |
 | [NVIDIA](#nvidia) | **1** |
@@ -120,9 +120,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) | AI/ML | London | 2026-10-15 | 2026-10-16 |
-| [2027 Software Engineer Program - Summer Internship - Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) | Software | London | 2026-08-31 | 2026-10-15 |
-| [2027 Software Engineer Immersion Program - Summer Internship - Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) | Software | Glasgow, Lanarkshire | 2026-08-31 | 2026-10-15 |
-| [2027 Data & AI - Summer Internship -  Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | Data | London | 2026-08-31 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

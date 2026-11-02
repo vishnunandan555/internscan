@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-01 05:46:43 IST** · 📌 **58** open verified internships
+> 🕐 Last updated: **2026-11-02 06:27:30 IST** · 📌 **55** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (58)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (55)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -21,7 +21,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Intel](#intel) | **2** |
 | [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **2** |
-| [Nokia](#nokia) | **6** |
+| [Nokia](#nokia) | **3** |
 | [Qualcomm](#qualcomm) | **29** |
 | [Stripe](#stripe) | **5** |
 
@@ -97,9 +97,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Network Systems Engineer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672) | Backend/Infra | Canada | 2026-10-23 | 2026-10-23 |
 | [Embedded C/C++ SW Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | Backend/Infra | Canada | 2026-10-15 | 2026-10-16 |
-| [Operations Analytics Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) | Data | Canada | 2026-09-25 | 2026-10-15 |
-| [Hardware Developer Eng Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) | Hardware/Silicon | Canada | 2026-09-15 | 2026-10-15 |
-| [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) | Data | Canada | 2026-09-11 | 2026-10-15 |
 | [DSP Firmware Engineering Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237) | Backend/Infra | Canada | 2026-09-02 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)

@@ -1,27 +1,10 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-01T00:16:43Z",
+  "updated_at": "2026-11-02T00:57:30Z",
   "new_count": 0,
-  "reopened_count": 1,
-  "total_active": 44,
+  "reopened_count": 0,
+  "total_active": 41,
   "new_jobs": [],
-  "reopened_jobs": [
-    {
-      "company": "JPMorgan Chase",
-      "title": "2027 Data & AI - Summer Internship -  Glasgow, London",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
-      "locations": [
-        "GLASGOW, LANARKSHIRE, United Kingdom",
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-08-31",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-01"
-    }
-  ]
+  "reopened_jobs": []
 }

@@ -1,28 +1,29 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-01 00:15:23 UTC
+SCRAPE RUN SUMMARY — 2026-11-02 00:56:10 UTC
 ========================================================================
-Runtime:            79.8 seconds
+Runtime:            80.5 seconds
 Companies Scraped:  65 total
   - Succeeded:      65
   - Failed:         0
-Active India Roles: 663
+Active India Roles: 656
 Changes Detected:
-  - New Additions:  +0
-  - Closed Roles:   -11
-  - Reopened Roles: ~22
+  - New Additions:  +1
+  - Closed Roles:   -8
+  - Reopened Roles: ~0
 ------------------------------------------------------------------------
 
+[NEW INTERNSHIPS ADDED]
+  + Microsoft — Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond (Seattle) [Software]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393556922930
+
 [INTERNSHIPS CLOSED]
-  - AMD — Summer 2027 PhD Technical Program Manager, AI Research Intern (SF Bay Area)
-  - Dell Technologies — Dell Technologies Services Undergraduate Analytics Intern (US (Other))
-  - Dell Technologies — Dell Technologies Services General Business Undergraduate Intern (US (Other))
-  - Intel — AI Software Engineering PhD Intern (US (Other))
-  - Intel — Graphics Hardware Validation Undergraduate Engineering Intern (Toronto)
-  - Intel — GPU & AI Accelerator Hardware Design Undergraduate Intern (Toronto)
-  - Microsoft — Data Science: PhD Internship Opportunities - Redmond (Seattle)
-  - Microsoft — Applied Science: PhD Internship Opportunities - Multiple Locations (SF Bay Area)
-  - Microsoft — Applied Science: Internship Opportunities - Redmond (Seattle)
-  - Microsoft — Software Engineering Intern (US (Other))
-  - NVIDIA — Systems Software Intern, Aerial PHY- Summer 2027 (SF Bay Area)
+  - Cisco — Hardware Engineer I (Intern) - United States (SF Bay Area)
+  - JPMorgan Chase — 2027 Software Engineer Program - Summer Internship - Glasgow, London (London)
+  - JPMorgan Chase — 2027 Data & AI - Summer Internship -  Glasgow, London (London)
+  - JPMorgan Chase — 2027 Software Engineer Immersion Program - Summer Internship - Glasgow (UK (Other))
+  - JPMorgan Chase — 2027 Software Engineer Program - Summer Internship - Dublin (Dublin)
+  - Nokia — Hardware Developer Eng Co-op/Intern (Canada (Other))
+  - Nokia — Data Science Co-op/Intern (Canada (Other))
+  - Nokia — Operations Analytics Co-op/Intern (Canada (Other))
 
 ========================================================================
