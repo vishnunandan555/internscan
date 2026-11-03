@@ -1,15 +1,30 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-02T00:57:30Z",
-  "new_count": 1,
-  "reopened_count": 0,
-  "total_active": 401,
+  "updated_at": "2026-11-03T03:00:06Z",
+  "new_count": 14,
+  "reopened_count": 1,
+  "total_active": 398,
   "new_jobs": [
     {
+      "company": "Amazon",
+      "title": "Associate Engagement Manager Intern- National Security, AWS Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services",
+      "locations": [
+        "Arlington, Virginia, USA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
       "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -17,10 +32,216 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-11-01",
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02"
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Software Engineer: Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
+      "locations": [
+        "United States, California, Aliso Viejo"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Product Marketing MBA Intern, AI Infrastructure — Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028699",
+      "locations": [
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028995",
+      "locations": [
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "AI Compiler and Kernel Intern – Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+      "locations": [
+        "US TX Austin",
+        "US, TX, Austin"
+      ],
+      "city_tag": "Austin",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Robotic Control Policy (PhD)",
+      "url": "https://www.metacareers.com/jobs/1872420890835857",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Interactive Physics Simulation for Robotics (PhD)",
+      "url": "https://www.metacareers.com/jobs/1143164681833409",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern PhD, PAR Safety Evals and Red Teaming",
+      "url": "https://www.metacareers.com/jobs/1903232531024141",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern PhD, PAR Safety Evals and Red Teaming",
+      "url": "https://www.metacareers.com/jobs/1272664685039241",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-29",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Micron",
+      "title": "Intern - Front End Materials Category Supplier Manager (CSM)",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161",
+      "locations": [
+        "Boise ID, North Office",
+        "Boise, ID - North Office"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Frontend",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Barclays",
+      "title": "2027 Technology Developer Summer Internship Programme Knutsford",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
+      "locations": [
+        "Knutsford Radbroke Hall",
+        "Knutsford, Radbroke Hall"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Barclays",
+      "title": "2027 Technology Cyber and Security Summer Internship Programme Knutsford",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173",
+      "locations": [
+        "Knutsford Radbroke Hall",
+        "Knutsford, Radbroke Hall"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
     }
   ],
-  "reopened_jobs": []
+  "reopened_jobs": [
+    {
+      "company": "Cisco",
+      "title": "Hardware Engineer II Intern - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024757",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Carlsbad, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-02",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-03"
+    }
+  ]
 }

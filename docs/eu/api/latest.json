@@ -1,10 +1,165 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-02T00:57:30Z",
-  "new_count": 0,
-  "reopened_count": 0,
-  "total_active": 131,
-  "new_jobs": [],
-  "reopened_jobs": []
+  "updated_at": "2026-11-03T03:00:06Z",
+  "new_count": 9,
+  "reopened_count": 1,
+  "total_active": 133,
+  "new_jobs": [
+    {
+      "company": "Apple",
+      "title": "AI Research Intern - Foundation Models & Multimodal Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence",
+      "locations": [
+        "Zurich"
+      ],
+      "city_tag": "Zurich",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)",
+      "url": "https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability",
+      "locations": [
+        "Barcelona"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France",
+      "url": "https://careers.qualcomm.com/careers/job/446721901932?domain=qualcomm.com",
+      "locations": [
+        "Strasbourg, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France",
+      "url": "https://careers.qualcomm.com/careers/job/446721911135?domain=qualcomm.com",
+      "locations": [
+        "Issy Les Moulineaux, France",
+        "Lannion, Cotes-d'Armor, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Core Machine Learning (MSc)",
+      "url": "https://www.metacareers.com/jobs/1126525590244595",
+      "locations": [
+        "Paris, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)",
+      "url": "https://www.metacareers.com/jobs/1886852912490515",
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "city_tag": "Zurich",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-29",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Intel",
+      "title": "DevOps Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633",
+      "locations": [
+        "Poland Gdansk",
+        "Poland, Gdansk"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Accenture",
+      "title": "Data & AI – Strategy Internship",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Data---AI---Strategy-Internship-_R00368382",
+      "locations": [
+        "Amsterdam"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Accenture",
+      "title": "­­Data & AI – Data Science/ML Engineering Graduation Internship",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686",
+      "locations": [
+        "Amsterdam"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "NVIDIA",
+      "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
+      "locations": [
+        "2 Locations",
+        "Germany Remote"
+      ],
+      "city_tag": "Remote (EU)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-11-03",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-11-03"
+    }
+  ]
 }

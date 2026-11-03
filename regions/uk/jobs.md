@@ -2,29 +2,28 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-02 06:27:30 IST** · 📌 **41** open verified internships
+> 🕐 Last updated: **2026-11-03 08:30:06 IST** · 📌 **37** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (41)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (37)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United Kingdom |
 |---|:---:|
 | [Amazon](#amazon) | **8** |
-| [Apple](#apple) | **5** |
-| [Barclays](#barclays) | **1** |
+| [Apple](#apple) | **4** |
+| [Barclays](#barclays) | **2** |
 | [Cisco](#cisco) | **2** |
-| [CrowdStrike](#crowdstrike) | **1** |
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **4** |
 | [HPE](#hpe) | **1** |
 | [JPMorgan Chase](#jpmorgan-chase) | **1** |
-| [Meta](#meta) | **12** |
+| [Meta](#meta) | **9** |
 | [Microsoft](#microsoft) | **2** |
 | [NVIDIA](#nvidia) | **1** |
 | [Qualcomm](#qualcomm) | **1** |
@@ -57,7 +56,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Technical Internship - Apple Wallet, Payments & Commerce](https://jobs.apple.com/en-us/details/200692619/technical-internship-apple-wallet-payments-commerce) ✨ | Software | London | 2026-10-30 | 2026-10-31 |
 | [Intern, Site Reliability Engineer, iCloud](https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud) ✨ | Backend/Infra | London | 2026-10-30 | 2026-10-31 |
-| [Software Engineer Intern, iCloud Platform](https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform) | Software | London | 2026-10-22 | 2026-10-23 |
 | [Information Security Internship](https://jobs.apple.com/en-us/details/200687171/information-security-internship) | Security | London | 2026-10-19 | 2026-10-20 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
@@ -67,7 +65,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) ✨ | Data | Glasgow Campus | 2026-10-31 | 2026-10-31 |
+| [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) ✨ | Software | Glasgow Campus | 2026-11-03 | 2026-11-03 |
+| [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) ✨ | Data | Glasgow Campus | 2026-11-03 | 2026-10-31 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -77,14 +76,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Network Engineer Intern, Australia](https://careers.cisco.com/global/en/job/2024351) | Backend/Infra | North Sydney, New South Wales | 2026-09-29 | 2026-10-15 |
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) | Software | Harpenden, Hertfordshire | 2026-08-21 | 2026-10-15 |
-
-[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
-
-### CrowdStrike
-
-| Role | Category | Hub / Location | Posted | First seen |
-|---|---|---|---|---|
-| [Professional Services Red Team Intern - Summer 2027 (Remote, GBR)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404) | Security | London | 2026-10-20 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -132,11 +123,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1811645993254851) ✨ | AI/ML | London | 2026-10-27 | 2026-10-28 |
 | [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1694337262064234) ✨ | AI/ML | London | 2026-10-26 | 2026-10-27 |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1418948513778654) ✨ | AI/ML | London | 2026-10-26 | 2026-10-27 |
-| [Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)](https://www.metacareers.com/jobs/29859210493681744) | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |
-| [Research Scientist Intern, Audio, Numerical Acoustics (PhD)](https://www.metacareers.com/jobs/2188224482038078) | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2288012098648243) | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |
 | [Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)](https://www.metacareers.com/jobs/2281070982817094) | AI/ML | London | 2026-10-21 | 2026-10-22 |
-| [Research Scientist Intern, Audio Quality with AI](https://www.metacareers.com/jobs/4556622427930384) | AI/ML | Cambridge / Oxford | 2026-10-20 | 2026-10-21 |
 | [Research Intern - Self-Improving Agentic Systems and AI Research Agents](https://www.metacareers.com/jobs/994737396214791) | AI/ML | London | 2026-10-20 | 2026-10-21 |
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/2558941294546763) | Backend/Infra | London | 2026-09-12 | 2026-10-15 |
 

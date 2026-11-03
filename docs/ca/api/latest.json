@@ -1,10 +1,103 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-02T00:57:30Z",
-  "new_count": 0,
-  "reopened_count": 0,
-  "total_active": 55,
-  "new_jobs": [],
-  "reopened_jobs": []
+  "updated_at": "2026-11-03T03:00:06Z",
+  "new_count": 5,
+  "reopened_count": 1,
+  "total_active": 61,
+  "new_jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Digital Design Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913672?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Design Verification Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913898?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Qualcomm SoC Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721914045?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur·se scientifique, FAIR - World Model Foundations (Doctorat)",
+      "url": "https://www.metacareers.com/jobs/1406585275871250",
+      "locations": [
+        "Montreal, Canada"
+      ],
+      "city_tag": "Montreal",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-20",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "Intel",
+      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-03",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-03"
+    }
+  ]
 }

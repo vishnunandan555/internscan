@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-02 06:27:30 IST** · 📌 **55** open verified internships
+> 🕐 Last updated: **2026-11-03 08:30:06 IST** · 📌 **61** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (55)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (61)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -18,11 +18,12 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [AMD](#amd) | **1** |
 | [Amazon](#amazon) | **5** |
 | [Google](#google) | **7** |
-| [Intel](#intel) | **2** |
+| [Intel](#intel) | **3** |
+| [Meta](#meta) | **1** |
 | [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **2** |
 | [Nokia](#nokia) | **3** |
-| [Qualcomm](#qualcomm) | **29** |
+| [Qualcomm](#qualcomm) | **33** |
 | [Stripe](#stripe) | **5** |
 
 ---
@@ -69,8 +70,17 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | AI/ML | Toronto | 2026-11-03 | 2026-10-15 |
 | [Compiler Engineering Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) | Backend/Infra | Toronto | 2026-10-23 | 2026-10-23 |
 | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | Backend/Infra | Toronto | 2026-10-16 | 2026-10-16 |
+
+[⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
+
+### Meta
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Research Scientist Intern, FAIR - World Model Foundations (PhD) \| Stagiaire chercheur·se scientifique, FAIR - World Model Foundations (Doctorat)](https://www.metacareers.com/jobs/1406585275871250) ✨ | AI/ML | Montreal | 2026-10-20 | 2026-11-03 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
 
@@ -105,6 +115,10 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern - Qualcomm SoC Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721914045?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-11-02 | 2026-11-03 |
+| [FY27 Intern - Digital Design Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721913672?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-02 | 2026-11-03 |
+| [FY27 Intern - Design Verification Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-02 | 2026-11-03 |
+| [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721913898?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com) ✨ | QA | Ottawa, ON | 2026-10-30 | 2026-10-31 |
 | [FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com) ✨ | Hardware/Silicon | Vancouver | 2026-10-30 | 2026-10-31 |
 | [FY27 Intern - AI Software Systems Co-op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721862430?domain=qualcomm.com) ✨ | AI/ML | Toronto | 2026-10-30 | 2026-10-30 |

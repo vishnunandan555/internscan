@@ -1,9 +1,84 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-02T00:57:30Z",
-  "total_active": 55,
+  "updated_at": "2026-11-03T03:00:06Z",
+  "total_active": 61,
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Digital Design Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913672?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Design Verification Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913898?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Qualcomm SoC Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721914045?domain=qualcomm.com",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur·se scientifique, FAIR - World Model Foundations (Doctorat)",
+      "url": "https://www.metacareers.com/jobs/1406585275871250",
+      "locations": [
+        "Montreal, Canada"
+      ],
+      "city_tag": "Montreal",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-20",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
     {
       "company": "Stripe",
       "title": "PhD Machine Learning Engineer, Intern",
@@ -17,7 +92,7 @@
       "category": "AI/ML",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Stripe",
@@ -32,7 +107,7 @@
       "category": "AI/ML",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -47,7 +122,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -62,7 +137,7 @@
       "category": "QA",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -77,7 +152,7 @@
       "category": "AI/ML",
       "posted": "2026-10-29",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -92,7 +167,7 @@
       "category": "AI/ML",
       "posted": "2026-10-30",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -107,7 +182,7 @@
       "category": "AI/ML",
       "posted": "2026-10-30",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -122,7 +197,7 @@
       "category": "AI/ML",
       "posted": "2026-10-28",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -137,7 +212,7 @@
       "category": "Software",
       "posted": "2026-10-28",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -152,7 +227,7 @@
       "category": "AI/ML",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -167,7 +242,7 @@
       "category": "AI/ML",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Nokia",
@@ -182,7 +257,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-23",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Intel",
@@ -198,7 +273,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-23",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -213,7 +288,7 @@
       "category": "Software",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -228,7 +303,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -243,7 +318,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -258,7 +333,7 @@
       "category": "AI/ML",
       "posted": "2026-10-26",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "NVIDIA",
@@ -274,7 +349,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-31",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -289,7 +364,7 @@
       "category": "Software",
       "posted": "2026-10-16",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Nokia",
@@ -304,7 +379,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Intel",
@@ -320,7 +395,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-16",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "AMD",
@@ -335,7 +410,7 @@
       "category": "Software",
       "posted": "2026-09-01",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Stripe",
@@ -350,7 +425,7 @@
       "category": "Software",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Stripe",
@@ -365,7 +440,7 @@
       "category": "Data",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Stripe",
@@ -380,7 +455,7 @@
       "category": "Data",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -395,7 +470,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -410,7 +485,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -425,7 +500,7 @@
       "category": "Software",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -440,7 +515,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -455,7 +530,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -470,7 +545,7 @@
       "category": "Software",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -485,7 +560,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -500,7 +575,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -515,7 +590,7 @@
       "category": "AI/ML",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -530,7 +605,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -545,7 +620,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -560,7 +635,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -575,7 +650,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -590,7 +665,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Qualcomm",
@@ -605,7 +680,7 @@
       "category": "QA",
       "posted": "2026-10-28",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Nokia",
@@ -620,7 +695,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "NVIDIA",
@@ -636,7 +711,7 @@
       "category": "AI/ML",
       "posted": "2026-10-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Microsoft",
@@ -651,7 +726,23 @@
       "category": "AI/ML",
       "posted": "2026-10-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
+    },
+    {
+      "company": "Intel",
+      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-03",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Google",
@@ -666,7 +757,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Google",
@@ -682,7 +773,7 @@
       "category": "Software",
       "posted": "2026-08-24",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Google",
@@ -699,7 +790,7 @@
       "category": "AI/ML",
       "posted": "2026-07-20",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Google",
@@ -715,7 +806,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Google",
@@ -732,7 +823,7 @@
       "category": "AI/ML",
       "posted": "2026-07-20",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Google",
@@ -747,7 +838,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Google",
@@ -763,7 +854,7 @@
       "category": "AI/ML",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Amazon",
@@ -778,7 +869,7 @@
       "category": "Software",
       "posted": "2026-09-09",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Amazon",
@@ -793,7 +884,7 @@
       "category": "AI/ML",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Amazon",
@@ -808,7 +899,7 @@
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Amazon",
@@ -823,7 +914,7 @@
       "category": "AI/ML",
       "posted": "2026-09-30",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     {
       "company": "Amazon",
@@ -838,7 +929,7 @@
       "category": "AI/ML",
       "posted": "2025-12-03",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 # 🇪🇺 Europe — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-11-02 06:27:30 IST**
+> 🕐 Last updated: **2026-11-03 08:30:06 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/)
 
