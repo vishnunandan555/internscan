@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-03 08:30:06 IST** · 📌 **37** open verified internships
+> 🕐 Last updated: **2026-11-04 07:03:37 IST** · 📌 **36** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (37)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (36)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -24,7 +24,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [HPE](#hpe) | **1** |
 | [JPMorgan Chase](#jpmorgan-chase) | **1** |
 | [Meta](#meta) | **9** |
-| [Microsoft](#microsoft) | **2** |
+| [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **1** |
 | [Qualcomm](#qualcomm) | **1** |
 | [Stripe](#stripe) | **1** |
@@ -40,8 +40,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) ✨ | Software | London | 2026-10-30 | 2026-10-31 |
-| [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) ✨ | Software | London | 2026-10-26 | 2026-10-27 |
-| [2027 Software Dev Engineer Intern (Embedded Systems) - UK](https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) ✨ | Software | London | 2026-10-26 | 2026-10-27 |
+| [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) | Software | London | 2026-10-26 | 2026-10-27 |
+| [2027 Software Dev Engineer Intern (Embedded Systems) - UK](https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) | Software | London | 2026-10-26 | 2026-10-27 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) | Security | London | 2026-10-13 | 2026-10-15 |
 | [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) | Data | London | 2026-10-02 | 2026-10-15 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | London | 2026-10-02 | 2026-10-15 |
@@ -121,8 +121,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/2082008865811696) ✨ | AI/ML | London | 2026-10-29 | 2026-10-30 |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1847186939636437) ✨ | AI/ML | London | 2026-10-29 | 2026-10-30 |
 | [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1811645993254851) ✨ | AI/ML | London | 2026-10-27 | 2026-10-28 |
-| [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1694337262064234) ✨ | AI/ML | London | 2026-10-26 | 2026-10-27 |
-| [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1418948513778654) ✨ | AI/ML | London | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1694337262064234) | AI/ML | London | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1418948513778654) | AI/ML | London | 2026-10-26 | 2026-10-27 |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2288012098648243) | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |
 | [Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)](https://www.metacareers.com/jobs/2281070982817094) | AI/ML | London | 2026-10-21 | 2026-10-22 |
 | [Research Intern - Self-Improving Agentic Systems and AI Research Agents](https://www.metacareers.com/jobs/994737396214791) | AI/ML | London | 2026-10-20 | 2026-10-21 |
@@ -135,7 +135,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) ✨ | Security | Cambridge / Oxford | 2026-10-30 | 2026-10-31 |
-| [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | AI/ML | Berkshire, Reading | 2026-10-19 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

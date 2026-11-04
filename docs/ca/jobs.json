@@ -1,95 +1,95 @@
 {
-  "updated_at": "2026-11-03T03:00:06Z",
+  "updated_at": "2026-11-04T01:33:37Z",
   "jobs": {
     "qualcomm:446721913672": {
       "uid": "qualcomm:446721913672",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
       "company": "Qualcomm",
+      "country": "ca",
       "external_id": "446721913672",
-      "title": "FY27 Intern - Digital Design Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721913672?domain=qualcomm.com",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
-      "category": "Software",
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-11-02",
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "active": true
+      "region": "AMER",
+      "title": "FY27 Intern - Digital Design Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913672?domain=qualcomm.com"
     },
     "qualcomm:446721913769": {
       "uid": "qualcomm:446721913769",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Toronto",
       "company": "Qualcomm",
+      "country": "ca",
       "external_id": "446721913769",
-      "title": "FY27 Intern - Design Verification Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
-      "category": "Software",
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-11-02",
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "active": true
+      "region": "AMER",
+      "title": "FY27 Intern - Design Verification Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com"
     },
     "qualcomm:446721913898": {
       "uid": "qualcomm:446721913898",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Canada (Other)",
       "company": "Qualcomm",
+      "country": "ca",
       "external_id": "446721913898",
-      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721913898?domain=qualcomm.com",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
-      "category": "AI/ML",
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-11-02",
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "active": true
+      "region": "AMER",
+      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913898?domain=qualcomm.com"
     },
     "qualcomm:446721914045": {
       "uid": "qualcomm:446721914045",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Canada (Other)",
       "company": "Qualcomm",
+      "country": "ca",
       "external_id": "446721914045",
-      "title": "FY27 Intern - Qualcomm SoC Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721914045?domain=qualcomm.com",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
-      "category": "Software",
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-11-02",
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "active": true
+      "region": "AMER",
+      "title": "FY27 Intern - Qualcomm SoC Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721914045?domain=qualcomm.com"
     },
     "meta:1406585275871250": {
       "uid": "meta:1406585275871250",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Montreal",
       "company": "Meta",
+      "country": "ca",
       "external_id": "1406585275871250",
-      "title": "Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur·se scientifique, FAIR - World Model Foundations (Doctorat)",
-      "url": "https://www.metacareers.com/jobs/1406585275871250",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Montreal, Canada"
       ],
-      "category": "AI/ML",
-      "city_tag": "Montreal",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-10-20",
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "active": true
+      "region": "AMER",
+      "title": "Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur·se scientifique, FAIR - World Model Foundations (Doctorat)",
+      "url": "https://www.metacareers.com/jobs/1406585275871250"
     },
     "stripe:8328664": {
       "uid": "stripe:8328664",
@@ -100,7 +100,7 @@
       "country": "ca",
       "external_id": "8328664",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto"
       ],
@@ -118,7 +118,7 @@
       "country": "ca",
       "external_id": "8333122",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto"
       ],
@@ -136,7 +136,7 @@
       "country": "ca",
       "external_id": "446721829462",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -154,7 +154,7 @@
       "country": "ca",
       "external_id": "446721874877",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Ottawa, Ontario, Canada"
       ],
@@ -162,24 +162,6 @@
       "region": "AMER",
       "title": "FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)",
       "url": "https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com"
-    },
-    "qualcomm:446721858024": {
-      "uid": "qualcomm:446721858024",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "Canada (Other)",
-      "company": "Qualcomm",
-      "country": "ca",
-      "external_id": "446721858024",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-03",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "posted": "2026-10-29",
-      "region": "AMER",
-      "title": "FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com"
     },
     "qualcomm:446721862429": {
       "uid": "qualcomm:446721862429",
@@ -190,11 +172,11 @@
       "country": "ca",
       "external_id": "446721862429",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
-      "posted": "2026-10-30",
+      "posted": "2026-11-03",
       "region": "AMER",
       "title": "FY27 Intern - AI Software Engineering Co-op  - Canada (4 months)",
       "url": "https://careers.qualcomm.com/careers/job/446721862429?domain=qualcomm.com"
@@ -208,11 +190,11 @@
       "country": "ca",
       "external_id": "446721862430",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
-      "posted": "2026-10-30",
+      "posted": "2026-11-03",
       "region": "AMER",
       "title": "FY27 Intern - AI Software Systems Co-op - Canada (4 months)",
       "url": "https://careers.qualcomm.com/careers/job/446721862430?domain=qualcomm.com"
@@ -226,7 +208,7 @@
       "country": "ca",
       "external_id": "446721828828",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -244,7 +226,7 @@
       "country": "ca",
       "external_id": "446721829439",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -262,7 +244,7 @@
       "country": "ca",
       "external_id": "446721678733",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -280,7 +262,7 @@
       "country": "ca",
       "external_id": "446721686396",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -298,7 +280,7 @@
       "country": "ca",
       "external_id": "41672",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Canada"
       ],
@@ -316,7 +298,7 @@
       "country": "ca",
       "external_id": "JR0287933",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -335,7 +317,7 @@
       "country": "ca",
       "external_id": "446721661677",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -353,7 +335,7 @@
       "country": "ca",
       "external_id": "446721661830",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -371,7 +353,7 @@
       "country": "ca",
       "external_id": "446721636316",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -389,7 +371,7 @@
       "country": "ca",
       "external_id": "446721636765",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -407,7 +389,7 @@
       "country": "ca",
       "external_id": "JR2027982",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -426,7 +408,7 @@
       "country": "ca",
       "external_id": "446721615591",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -444,7 +426,7 @@
       "country": "ca",
       "external_id": "41311",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Canada"
       ],
@@ -462,7 +444,7 @@
       "country": "ca",
       "external_id": "JR0287934",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -481,7 +463,7 @@
       "country": "ca",
       "external_id": "91368",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "MARKHAM, Canada"
       ],
@@ -499,7 +481,7 @@
       "country": "ca",
       "external_id": "8130805",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto"
       ],
@@ -517,7 +499,7 @@
       "country": "ca",
       "external_id": "8194285",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto"
       ],
@@ -535,7 +517,7 @@
       "country": "ca",
       "external_id": "8194287",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto"
       ],
@@ -553,7 +535,7 @@
       "country": "ca",
       "external_id": "446721064018",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -571,7 +553,7 @@
       "country": "ca",
       "external_id": "446721064094",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -589,7 +571,7 @@
       "country": "ca",
       "external_id": "446721064141",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -607,7 +589,7 @@
       "country": "ca",
       "external_id": "446721109168",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -625,7 +607,7 @@
       "country": "ca",
       "external_id": "446721109229",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -643,7 +625,7 @@
       "country": "ca",
       "external_id": "446721140936",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -661,7 +643,7 @@
       "country": "ca",
       "external_id": "446721141411",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -679,7 +661,7 @@
       "country": "ca",
       "external_id": "446721143274",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -697,7 +679,7 @@
       "country": "ca",
       "external_id": "446721143440",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -715,7 +697,7 @@
       "country": "ca",
       "external_id": "446721156182",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -733,7 +715,7 @@
       "country": "ca",
       "external_id": "446721156615",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -751,7 +733,7 @@
       "country": "ca",
       "external_id": "446721156800",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -769,7 +751,7 @@
       "country": "ca",
       "external_id": "446721229661",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -787,7 +769,7 @@
       "country": "ca",
       "external_id": "446721302471",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Ottawa, Ontario, Canada"
       ],
@@ -805,7 +787,7 @@
       "country": "ca",
       "external_id": "446721349404",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -813,24 +795,6 @@
       "region": "AMER",
       "title": "FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)",
       "url": "https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com"
-    },
-    "nokia:39237": {
-      "uid": "nokia:39237",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "Canada (Other)",
-      "company": "Nokia",
-      "country": "ca",
-      "external_id": "39237",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
-      "locations": [
-        "Canada"
-      ],
-      "posted": "2026-09-02",
-      "region": "AMER",
-      "title": "DSP Firmware Engineering Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237"
     },
     "nvidia:JR2024997": {
       "uid": "nvidia:JR2024997",
@@ -841,7 +805,7 @@
       "country": "ca",
       "external_id": "JR2024997",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -860,7 +824,7 @@
       "country": "ca",
       "external_id": "1970393557040927",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Canada, Québec, Montreal"
       ],
@@ -878,7 +842,7 @@
       "country": "ca",
       "external_id": "JR0287539",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -897,7 +861,7 @@
       "country": "ca",
       "external_id": "104405499448828614",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Montreal, QC, Canada"
       ],
@@ -915,7 +879,7 @@
       "country": "ca",
       "external_id": "112518690523488966",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -934,7 +898,7 @@
       "country": "ca",
       "external_id": "113855697199735494",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Montreal, QC, Canada",
         "Toronto, ON, Canada",
@@ -954,7 +918,7 @@
       "country": "ca",
       "external_id": "114416552819729094",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -973,7 +937,7 @@
       "country": "ca",
       "external_id": "128430823337534150",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Montreal, QC, Canada",
         "Toronto, ON, Canada",
@@ -993,7 +957,7 @@
       "country": "ca",
       "external_id": "141525012002546374",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Montreal, QC, Canada"
       ],
@@ -1011,7 +975,7 @@
       "country": "ca",
       "external_id": "75043041429070534",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -1030,7 +994,7 @@
       "country": "ca",
       "external_id": "10535280",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -1048,7 +1012,7 @@
       "country": "ca",
       "external_id": "10538066",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -1066,7 +1030,7 @@
       "country": "ca",
       "external_id": "10553947",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Vancouver, British Columbia, CAN"
       ],
@@ -1084,7 +1048,7 @@
       "country": "ca",
       "external_id": "10564588",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Vancouver, British Columbia, CAN"
       ],
@@ -1102,7 +1066,7 @@
       "country": "ca",
       "external_id": "3136815",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
