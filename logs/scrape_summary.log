@@ -1,75 +1,79 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-04 01:32:16 UTC
+SCRAPE RUN SUMMARY — 2026-11-05 01:35:06 UTC
 ========================================================================
-Runtime:            80.9 seconds
+Runtime:            84.3 seconds
 Companies Scraped:  65 total
   - Succeeded:      65
   - Failed:         0
-Active India Roles: 666
+Active India Roles: 680
 Changes Detected:
-  - New Additions:  +19
-  - Closed Roles:   -18
-  - Reopened Roles: ~8
+  - New Additions:  +22
+  - Closed Roles:   -16
+  - Reopened Roles: ~6
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Amazon — Applied Scientist Intern (Zurich) [AI/ML]
-    Apply: https://www.amazon.jobs/en/jobs/10581052/applied-scientist-intern
-  + Amazon — SLAM / Computer Vision Intern, RIVR (Zurich) [AI/ML]
-    Apply: https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr
-  + Qualcomm — FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam (Amsterdam) [AI/ML]
-    Apply: https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com
-  + Dell Technologies — Global Marketing Graduate AI & Data Intern (Austin) [AI/ML]
-    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299054
-  + Dell Technologies — CSG Software Engineering Undergraduate Intern (US (Other)) [Software]
-    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298217
-  + Dell Technologies — AI Solutions Undergraduate Intern – Product & Content Management (Austin) [AI/ML]
-    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299057
-  + HPE — Hardware Engineering Intern (US (Other)) [Hardware/Silicon]
-    Apply: https://careers.hpe.com/us/en/job/1214170
-  + HPE — DevOps Intern (Undergraduate) (Europe (Other)) [Backend/Infra]
-    Apply: https://careers.hpe.com/us/en/job/1213976
-  + HPE — Technical Support Engineer Intern – Networking / TAC (Europe (Other)) [Backend/Infra]
-    Apply: https://careers.hpe.com/us/en/job/1213981
-  + Microsoft — Software Engineer, Teamwork Experiences Internship Opportunities (Seattle) [Software]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557037859
-  + Meta — ASIC Engineering Intern, Formal Verification (SF Bay Area) [Hardware/Silicon]
-    Apply: https://www.metacareers.com/jobs/1450222650641899
-  + Meta — Research Scientist Intern, GenAI Safety (PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/993713283787464
-  + Meta — Research Scientist Intern, Ads Quality (PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1838454487574865
-  + Meta — Research Scientist Intern, FM Quality ML (PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1125383989877928
-  + NVIDIA — AI Compiler Intern, CUDA Tile IR - Summer 2027 (Zurich) [AI/ML]
-    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069
-  + Nokia — AI R&D Engineer Co-op (US (Other)) [AI/ML]
-    Apply: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40699
-  + Rubrik — Software Engineering Winter Internship (SF Bay Area) [Software]
-    Apply: https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088
-  + Accenture — AI Engineering Internship (Amsterdam) [AI/ML]
-    Apply: https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/AI-Engineering-Internship_R00367336
-  + Accenture — Linux Administrator Internship Program (She/He/They) (Europe (Other)) [Backend/Infra]
-    Apply: https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Linux-Administrator-Internship-Program--She-He-They-_R00333373-1
+  + Google — Student Researcher, 2027 (India (Multiple/Other)) [AI/ML]
+    Apply: https://www.google.com/about/careers/applications/jobs/results/125423735539671750
+  + Amazon — 2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition (Europe (Other)) [AI/ML]
+    Apply: https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition
+  + Qualcomm — FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months) (Canada (Other)) [Hardware/Silicon]
+    Apply: https://careers.qualcomm.com/careers/job/446721972361?domain=qualcomm.com
+  + Qualcomm — FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork (Europe (Other)) [Software]
+    Apply: https://careers.qualcomm.com/careers/job/446720271079?domain=qualcomm.com
+  + Qualcomm — FY27 Intern - Machine Learning Engineering Internship - Canada (4 months) (Canada (Other)) [AI/ML]
+    Apply: https://careers.qualcomm.com/careers/job/446721969461?domain=qualcomm.com
+  + Microsoft — Research Intern - Research in Software Engineering, ML Systems, Agents (Seattle) [Software]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557054069
+  + Meta — ASIC EDA Infrastructure Engineer Intern (SF Bay Area) [Hardware/Silicon]
+    Apply: https://www.metacareers.com/jobs/1883872846321140
+  + Meta — Research Scientist Intern, Foundation Model Optimization (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2111078129773109
+  + Meta — Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD) (Zurich) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1165781989214784
+  + Meta — Research Scientist Intern, Spatial Reasoning & Localization (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1218542847568705
+  + Meta — Hardware Systems Architecture Intern, Performance & Workload Analysis (Seattle) [Hardware/Silicon]
+    Apply: https://www.metacareers.com/jobs/1296272445973940
+  + Meta — Research Scientist Intern, Generative AI & Computational Photography (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2572072169967580
+  + Meta — Research Scientist Intern, Generative AI & Computational Photography (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2862704290847533
+  + Meta — Research Scientist Intern, AI Maps (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2439439363131036
+  + Meta — Research Scientist Intern, Humanoid Control & Dexterous Manipulation (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1832390484751700
+  + Meta — Research Scientist Intern, Monetization Ranking & AI Foundations (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1920724172670221
+  + Meta — Research Scientist Intern, Generative AI (PhD) (multiple locations) (London) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1139996808441103
+  + NVIDIA — Software Engineering Intern - 2027 (Munich) [Software]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184
+  + NVIDIA — Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 (SF Bay Area) [AI/ML]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548
+  + NVIDIA — VLSI Timing Methodology Intern - Summer 2027 (SF Bay Area) [Hardware/Silicon]
+    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798
+  + Intel — Robotics PhD Intern (US (Other)) [AI/ML]
+    Apply: https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833
+  + Wells Fargo — Technology Internship Program (London) [Software]
+    Apply: https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607
 
 [INTERNSHIPS CLOSED]
-  - Amazon — Operations Engineering Intern -  start date Q1 2027 (Berlin)
-  - Amazon — 2026 Applied Scientist Intern, Amazon University Talent Acquisition (Europe (Other))
-  - Meta — Research Scientist Intern,  Generative AI & Computational Photography (PhD) (US (Other))
-  - Micron — Intern - HBM Data Scientist (US (Other))
-  - Micron — Intern - NAND Storage Strategic Roadmap Planning (US (Other))
-  - Micron — Intern – AI & Product Management, Mobile Memory (LPDRAM) (SF Bay Area)
-  - Microsoft — Applied Science PhD Internship (UK (Other))
-  - Nokia — DSP Firmware Engineering Co-op/Intern (Canada (Other))
-  - Nokia — Software Engineer Co-op (US (Other))
-  - NVIDIA — Software Engineering Intern, Nsight Systems - 2026 (Remote (EU))
-  - NVIDIA — Data Processing Developer Technology Intern - 2027 (Munich)
-  - NVIDIA — AI Systems Software Engineering Intern – Summer 2027 (Austin)
-  - NVIDIA — AI Developer Technology Intern - 2027 (Munich)
-  - NVIDIA — Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027 (SF Bay Area)
-  - Qualcomm — FY27 Intern - Engineering Internship 2027 - 6 months, Cork (Europe (Other))
-  - Qualcomm — Embedded Engineering Internship - Summer 2027 (SF Bay Area)
-  - Qualcomm — Software Engineering Internship - Summer 2027 (New York)
-  - Qualcomm — FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months) (Canada (Other))
+  - Amazon — Applied Scientist Intern (Zurich)
+  - Apple — Information Security Internship (London)
+  - Dell Technologies — CSG Software Engineering Undergraduate Intern (US (Other))
+  - Intel — AI Frameworks Engineer - Intern (Europe (Other))
+  - Meta — Research Scientist Intern, Robotics Foundation Models (PhD) (Zurich)
+  - Meta — Research Scientist Intern, Foundation Model Optimization (PhD) (SF Bay Area)
+  - Meta — Research Scientist Intern, Generative AI (PhD) (multiple locations) (London)
+  - Meta — Network Production Engineer Intern (London)
+  - Micron — Intern - Data Science (SF Bay Area)
+  - Nokia — AI R&D Engineer Co-op (US (Other))
+  - Qualcomm — Security (Product, Systems, Cyber) Engineering Internship - Summer 2027 (US (Other))
+  - Qualcomm — FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design / Verification/Implementation - Canada (12 or 16 months) (Canada (Other))
+  - Qualcomm — FY27 Intern - IP Applications Engineering Internship - Canada (16 months) (Toronto)
+  - Qualcomm — Modular Engineering Internship – Summer 2027 (US (Other))
+  - Qualcomm — FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France (Europe (Other))
+  - Qualcomm — FY27 Intern - Design Verification Engineering Internship - Canada (16 months) (Toronto)
 
 ========================================================================

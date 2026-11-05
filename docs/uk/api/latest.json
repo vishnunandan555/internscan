@@ -1,10 +1,59 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-04T01:33:37Z",
-  "new_count": 0,
-  "reopened_count": 0,
+  "updated_at": "2026-11-05T01:36:30Z",
+  "new_count": 2,
+  "reopened_count": 1,
   "total_active": 36,
-  "new_jobs": [],
-  "reopened_jobs": []
+  "new_jobs": [
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+      "url": "https://www.metacareers.com/jobs/1139996808441103",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Technology Internship Program",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607",
+      "locations": [
+        "CITY OF LONDON",
+        "CITY OF LONDON,"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "Microsoft",
+      "title": "Applied Science PhD Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487",
+      "locations": [
+        "United Kingdom, Berkshire, Reading"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-04",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-11-05"
+    }
+  ]
 }

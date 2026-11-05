@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-11-04T01:33:37Z",
+  "updated_at": "2026-11-05T01:36:30Z",
   "jobs": {
+    "wells-fargo:R-581607": {
+      "uid": "wells-fargo:R-581607",
+      "company": "Wells Fargo",
+      "external_id": "R-581607",
+      "title": "Technology Internship Program",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607",
+      "locations": [
+        "CITY OF LONDON",
+        "CITY OF LONDON,"
+      ],
+      "category": "Software",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "active": true
+    },
+    "meta:1139996808441103": {
+      "uid": "meta:1139996808441103",
+      "company": "Meta",
+      "external_id": "1139996808441103",
+      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+      "url": "https://www.metacareers.com/jobs/1139996808441103",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "category": "AI/ML",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "active": true
+    },
     "barclays:JR-0000129387": {
       "uid": "barclays:JR-0000129387",
       "active": true,
@@ -10,7 +48,7 @@
       "country": "uk",
       "external_id": "JR-0000129387",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Glasgow Campus"
       ],
@@ -28,7 +66,7 @@
       "country": "uk",
       "external_id": "1970393557050102",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -46,7 +84,7 @@
       "country": "uk",
       "external_id": "JR-0000129278",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Glasgow Campus"
       ],
@@ -64,7 +102,7 @@
       "country": "uk",
       "external_id": "200691892",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London"
       ],
@@ -82,7 +120,7 @@
       "country": "uk",
       "external_id": "200692619",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London"
       ],
@@ -100,7 +138,7 @@
       "country": "uk",
       "external_id": "10593322",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, England, GBR"
       ],
@@ -118,7 +156,7 @@
       "country": "uk",
       "external_id": "1847186939636437",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK"
       ],
@@ -136,7 +174,7 @@
       "country": "uk",
       "external_id": "2082008865811696",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK",
         "Zurich, Switzerland"
@@ -155,7 +193,7 @@
       "country": "uk",
       "external_id": "446721822125",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Cambridge, United Kingdom"
       ],
@@ -173,7 +211,7 @@
       "country": "uk",
       "external_id": "1811645993254851",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK"
       ],
@@ -191,7 +229,7 @@
       "country": "uk",
       "external_id": "1418948513778654",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK"
       ],
@@ -199,25 +237,6 @@
       "region": "EMEA",
       "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
       "url": "https://www.metacareers.com/jobs/1418948513778654"
-    },
-    "meta:1694337262064234": {
-      "uid": "meta:1694337262064234",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "London",
-      "company": "Meta",
-      "country": "uk",
-      "external_id": "1694337262064234",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-11-04",
-      "locations": [
-        "London, UK",
-        "Zurich, Switzerland"
-      ],
-      "posted": "2026-10-26",
-      "region": "EMEA",
-      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
-      "url": "https://www.metacareers.com/jobs/1694337262064234"
     },
     "amazon:10588762": {
       "uid": "amazon:10588762",
@@ -228,7 +247,7 @@
       "country": "uk",
       "external_id": "10588762",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, England, GBR"
       ],
@@ -246,7 +265,7 @@
       "country": "uk",
       "external_id": "10588998",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, England, GBR"
       ],
@@ -264,7 +283,7 @@
       "country": "uk",
       "external_id": "2281070982817094",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK"
       ],
@@ -282,7 +301,7 @@
       "country": "uk",
       "external_id": "2288012098648243",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Cambridge, UK"
       ],
@@ -300,7 +319,7 @@
       "country": "uk",
       "external_id": "994737396214791",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK"
       ],
@@ -309,23 +328,23 @@
       "title": "Research Intern - Self-Improving Agentic Systems and AI Research Agents",
       "url": "https://www.metacareers.com/jobs/994737396214791"
     },
-    "apple:200687171": {
-      "uid": "apple:200687171",
+    "microsoft:1970393557042487": {
+      "uid": "microsoft:1970393557042487",
       "active": true,
-      "category": "Security",
-      "city_tag": "London",
-      "company": "Apple",
+      "category": "AI/ML",
+      "city_tag": "UK (Other)",
+      "company": "Microsoft",
       "country": "uk",
-      "external_id": "200687171",
+      "external_id": "1970393557042487",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
-        "London"
+        "United Kingdom, Berkshire, Reading"
       ],
-      "posted": "2026-10-19",
+      "posted": "2026-11-04",
       "region": "EMEA",
-      "title": "Information Security Internship",
-      "url": "https://jobs.apple.com/en-us/details/200687171/information-security-internship"
+      "title": "Applied Science PhD Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487"
     },
     "jpmorgan-chase:210800615": {
       "uid": "jpmorgan-chase:210800615",
@@ -336,7 +355,7 @@
       "country": "uk",
       "external_id": "210800615",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "LONDON, United Kingdom"
       ],
@@ -354,7 +373,7 @@
       "country": "uk",
       "external_id": "1216282",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Winnersh, N/A",
         "Winnersh, United Kingdom"
@@ -373,7 +392,7 @@
       "country": "uk",
       "external_id": "3201714",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Sydney, New South Wales, AUS"
       ],
@@ -391,7 +410,7 @@
       "country": "uk",
       "external_id": "8130867",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London"
       ],
@@ -409,7 +428,7 @@
       "country": "uk",
       "external_id": "JR2027948",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "2 Locations",
         "UK Bristol"
@@ -418,25 +437,6 @@
       "region": "EMEA",
       "title": "Data Processing Developer Technology Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948"
-    },
-    "meta:2558941294546763": {
-      "uid": "meta:2558941294546763",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "London",
-      "company": "Meta",
-      "country": "uk",
-      "external_id": "2558941294546763",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
-      "locations": [
-        "Dublin, Ireland",
-        "London, UK"
-      ],
-      "posted": "2026-09-12",
-      "region": "EMEA",
-      "title": "Network Production Engineer Intern",
-      "url": "https://www.metacareers.com/jobs/2558941294546763"
     },
     "google:135156989620560582": {
       "uid": "google:135156989620560582",
@@ -447,7 +447,7 @@
       "country": "uk",
       "external_id": "135156989620560582",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK"
       ],
@@ -465,7 +465,7 @@
       "country": "uk",
       "external_id": "73321728058499782",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK"
       ],
@@ -483,7 +483,7 @@
       "country": "uk",
       "external_id": "80037545080955590",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, UK"
       ],
@@ -501,7 +501,7 @@
       "country": "uk",
       "external_id": "86733690079453894",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Accra, Ghana",
         "Amsterdam, Netherlands",
@@ -527,7 +527,7 @@
       "country": "uk",
       "external_id": "8847738002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, United Kingdom"
       ],
@@ -545,7 +545,7 @@
       "country": "uk",
       "external_id": "2023625",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Harpenden, Hertfordshire, United Kingdom"
       ],
@@ -563,7 +563,7 @@
       "country": "uk",
       "external_id": "2024351",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "North Sydney, New South Wales, Australia"
       ],
@@ -581,7 +581,7 @@
       "country": "uk",
       "external_id": "200682357",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London"
       ],
@@ -599,7 +599,7 @@
       "country": "uk",
       "external_id": "10554586",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, England, GBR"
       ],
@@ -617,7 +617,7 @@
       "country": "uk",
       "external_id": "10567687",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, England, GBR"
       ],
@@ -635,7 +635,7 @@
       "country": "uk",
       "external_id": "10567694",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, England, GBR"
       ],
@@ -653,7 +653,7 @@
       "country": "uk",
       "external_id": "10577611",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "London, England, GBR"
       ],

@@ -1,76 +1,15 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-04T01:33:37Z",
-  "new_count": 11,
-  "reopened_count": 5,
-  "total_active": 405,
+  "updated_at": "2026-11-05T01:36:30Z",
+  "new_count": 13,
+  "reopened_count": 3,
+  "total_active": 415,
   "new_jobs": [
     {
-      "company": "Dell Technologies",
-      "title": "Global Marketing Graduate AI & Data Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299054",
-      "locations": [
-        "Round Rock, TX, United States"
-      ],
-      "city_tag": "Austin",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "CSG Software Engineering Undergraduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298217",
-      "locations": [
-        "TX, United States"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "AI Solutions Undergraduate Intern – Product & Content Management",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299057",
-      "locations": [
-        "Round Rock, TX, United States"
-      ],
-      "city_tag": "Austin",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "HPE",
-      "title": "Hardware Engineering Intern",
-      "url": "https://careers.hpe.com/us/en/job/1214170",
-      "locations": [
-        "Westford, Massachusetts, 01886",
-        "Westford, Massachusetts, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
       "company": "Microsoft",
-      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -78,14 +17,14 @@
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     {
       "company": "Meta",
-      "title": "ASIC Engineering Intern, Formal Verification",
-      "url": "https://www.metacareers.com/jobs/1450222650641899",
+      "title": "ASIC EDA Infrastructure Engineer Intern",
+      "url": "https://www.metacareers.com/jobs/1883872846321140",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -93,164 +32,229 @@
       "country": "us",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, GenAI Safety (PhD)",
-      "url": "https://www.metacareers.com/jobs/993713283787464",
+      "title": "Research Scientist Intern, Foundation Model Optimization (PhD)",
+      "url": "https://www.metacareers.com/jobs/2111078129773109",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Spatial Reasoning & Localization (PhD)",
+      "url": "https://www.metacareers.com/jobs/1218542847568705",
+      "locations": [
+        "Boston, MA",
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Hardware Systems Architecture Intern, Performance & Workload Analysis",
+      "url": "https://www.metacareers.com/jobs/1296272445973940",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI & Computational Photography (PhD)",
+      "url": "https://www.metacareers.com/jobs/2572072169967580",
+      "locations": [
+        "Burlingame, CA",
+        "Cambridge, MA",
+        "Redmond, WA",
+        "Sunnyvale, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI & Computational Photography (PhD)",
+      "url": "https://www.metacareers.com/jobs/2862704290847533",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Maps (PhD)",
+      "url": "https://www.metacareers.com/jobs/2439439363131036",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Humanoid Control & Dexterous Manipulation (PhD)",
+      "url": "https://www.metacareers.com/jobs/1832390484751700",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)",
+      "url": "https://www.metacareers.com/jobs/1920724172670221",
       "locations": [
         "Menlo Park, CA",
-        "San Francisco, CA"
+        "Sunnyvale, CA"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Ads Quality (PhD)",
-      "url": "https://www.metacareers.com/jobs/1838454487574865",
+      "company": "NVIDIA",
+      "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
       "locations": [
-        "Menlo Park, CA"
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, FM Quality ML (PhD)",
-      "url": "https://www.metacareers.com/jobs/1125383989877928",
+      "company": "NVIDIA",
+      "title": "VLSI Timing Methodology Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798",
       "locations": [
-        "Menlo Park, CA"
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     {
-      "company": "Nokia",
-      "title": "AI R&D Engineer Co-op",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40699",
+      "company": "Intel",
+      "title": "Robotics PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833",
       "locations": [
-        "United States"
+        "2 Locations",
+        "US Oregon Hillsboro"
       ],
       "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "Rubrik",
-      "title": "Software Engineering Winter Internship",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "Multimedia Engineering Internship – Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446720740640?domain=qualcomm.com",
+      "company": "Dell Technologies",
+      "title": "ISG Product Management Graduate Internship",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/297775",
       "locations": [
-        "San Diego, California, United States of America",
-        "Santa Clara, California, United States of America"
+        "Round Rock, TX, United States"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Austin",
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-09-18",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04"
+      "posted": "2026-11-04",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-11-05"
     },
     {
-      "company": "Dell Technologies",
-      "title": "CSG Hardware Engineering Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298216",
+      "company": "Microsoft",
+      "title": "Data Science: PhD Internship Opportunities - Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
       "locations": [
-        "TX, United States"
+        "United States, Washington, Redmond"
       ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-03",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "Corporate Strategy Undergraduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300226",
-      "locations": [
-        "TX, United States"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-03",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "Dell Technologies Services Undergraduate Analytics Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299074",
-      "locations": [
-        "TX, United States"
-      ],
-      "city_tag": "US (Other)",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "Data",
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04"
+      "last_seen": "2026-11-05"
     },
     {
-      "company": "Dell Technologies",
-      "title": "Dell Technologies Services General Business Undergraduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299089",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Multimodal Behavioral AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1428978125312655",
       "locations": [
-        "Hopkinton, MA, United States",
-        "TX, United States"
+        "Redmond, WA"
       ],
-      "city_tag": "US (Other)",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-03",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04"
+      "category": "AI/ML",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-11-05"
     }
   ]
 }

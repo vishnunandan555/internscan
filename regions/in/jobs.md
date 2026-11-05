@@ -2,14 +2,14 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-04 07:03:37 IST** · 📌 **26** open verified internships
+> 🕐 Last updated: **2026-11-05 07:06:30 IST** · 📌 **27** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (70)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **India**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (26)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (27)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -17,7 +17,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|:---:|
 | [CloudSEK](#cloudsek) | **1** |
 | [Discover Dollar](#discover-dollar) | **5** |
-| [Google](#google) | **3** |
+| [Google](#google) | **4** |
 | [HPE](#hpe) | **1** |
 | [HackerRank](#hackerrank) | **2** |
 | [Meta](#meta) | **5** |
@@ -58,6 +58,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Student Researcher, 2027](https://www.google.com/about/careers/applications/jobs/results/125423735539671750) ✨ | AI/ML | India | 2026-11-04 | 2026-11-05 |
 | [Research Scientist PhD Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/87534302853505734) ✨ | AI/ML | Hyderabad | 2026-10-28 | 2026-10-29 |
 | [Software Engineering PhD Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | Software | Bengaluru | 2026-09-07 | 2026-09-17 |
 | [Silicon Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | Hardware/Silicon | Bengaluru | 2026-09-07 | 2026-09-17 |
@@ -107,7 +108,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-10-05 | 2026-09-17 |
+| [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-10-06 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
@@ -140,7 +141,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-10-05 | 2026-09-17 |
+| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-10-06 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 

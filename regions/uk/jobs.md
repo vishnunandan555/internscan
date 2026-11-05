@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-04 07:03:37 IST** · 📌 **36** open verified internships
+> 🕐 Last updated: **2026-11-05 07:06:30 IST** · 📌 **36** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -16,18 +16,19 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Company | Open Internships in United Kingdom |
 |---|:---:|
 | [Amazon](#amazon) | **8** |
-| [Apple](#apple) | **4** |
+| [Apple](#apple) | **3** |
 | [Barclays](#barclays) | **2** |
 | [Cisco](#cisco) | **2** |
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **4** |
 | [HPE](#hpe) | **1** |
 | [JPMorgan Chase](#jpmorgan-chase) | **1** |
-| [Meta](#meta) | **9** |
-| [Microsoft](#microsoft) | **1** |
+| [Meta](#meta) | **8** |
+| [Microsoft](#microsoft) | **2** |
 | [NVIDIA](#nvidia) | **1** |
 | [Qualcomm](#qualcomm) | **1** |
 | [Stripe](#stripe) | **1** |
+| [Wells Fargo](#wells-fargo) | **1** |
 
 ---
 
@@ -56,7 +57,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Technical Internship - Apple Wallet, Payments & Commerce](https://jobs.apple.com/en-us/details/200692619/technical-internship-apple-wallet-payments-commerce) ✨ | Software | London | 2026-10-30 | 2026-10-31 |
 | [Intern, Site Reliability Engineer, iCloud](https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud) ✨ | Backend/Infra | London | 2026-10-30 | 2026-10-31 |
-| [Information Security Internship](https://jobs.apple.com/en-us/details/200687171/information-security-internship) | Security | London | 2026-10-19 | 2026-10-20 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -118,15 +118,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1139996808441103) ✨ | AI/ML | London | 2026-11-04 | 2026-11-05 |
 | [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/2082008865811696) ✨ | AI/ML | London | 2026-10-29 | 2026-10-30 |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1847186939636437) ✨ | AI/ML | London | 2026-10-29 | 2026-10-30 |
-| [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1811645993254851) ✨ | AI/ML | London | 2026-10-27 | 2026-10-28 |
-| [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1694337262064234) | AI/ML | London | 2026-10-26 | 2026-10-27 |
+| [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1811645993254851) | AI/ML | London | 2026-10-27 | 2026-10-28 |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1418948513778654) | AI/ML | London | 2026-10-26 | 2026-10-27 |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2288012098648243) | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |
 | [Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)](https://www.metacareers.com/jobs/2281070982817094) | AI/ML | London | 2026-10-21 | 2026-10-22 |
 | [Research Intern - Self-Improving Agentic Systems and AI Research Agents](https://www.metacareers.com/jobs/994737396214791) | AI/ML | London | 2026-10-20 | 2026-10-21 |
-| [Network Production Engineer Intern](https://www.metacareers.com/jobs/2558941294546763) | Backend/Infra | London | 2026-09-12 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -134,6 +133,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | AI/ML | Berkshire, Reading | 2026-11-04 | 2026-10-20 |
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) ✨ | Security | Cambridge / Oxford | 2026-10-30 | 2026-10-31 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -159,6 +159,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) | Software | London | 2026-10-29 | 2026-10-15 |
+
+[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
+
+### Wells Fargo
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Technology Internship Program](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607) ✨ | Software | London | 2026-11-05 | 2026-11-05 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

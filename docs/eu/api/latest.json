@@ -1,165 +1,88 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-04T01:33:37Z",
-  "new_count": 8,
-  "reopened_count": 2,
-  "total_active": 137,
+  "updated_at": "2026-11-05T01:36:30Z",
+  "new_count": 4,
+  "reopened_count": 1,
+  "total_active": 138,
   "new_jobs": [
     {
       "company": "Amazon",
-      "title": "Applied Scientist Intern",
-      "url": "https://www.amazon.jobs/en/jobs/10581052/applied-scientist-intern",
+      "title": "2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition",
       "locations": [
-        "Zurich, Zurich, CHE"
+        "Bucharest, ROU"
       ],
-      "city_tag": "Zurich",
+      "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "Amazon",
-      "title": "SLAM / Computer Vision Intern, RIVR",
-      "url": "https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr",
-      "locations": [
-        "Zurich, Zurich, CHE"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
-      "url": "https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com",
+      "title": "FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork",
+      "url": "https://careers.qualcomm.com/careers/job/446720271079?domain=qualcomm.com",
       "locations": [
-        "Amsterdam Drenthe, North Holland, Netherlands"
-      ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "HPE",
-      "title": "DevOps Intern (Undergraduate)",
-      "url": "https://careers.hpe.com/us/en/job/1213976",
-      "locations": [
-        "Bolzano Vicentino, Vicenza, 36050",
-        "Bolzano Vicentino, Vicenza, Italy"
+        "Cork, Ireland"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "category": "Software",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     {
-      "company": "HPE",
-      "title": "Technical Support Engineer Intern – Networking / TAC",
-      "url": "https://careers.hpe.com/us/en/job/1213981",
+      "company": "Meta",
+      "title": "Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)",
+      "url": "https://www.metacareers.com/jobs/1165781989214784",
       "locations": [
-        "Bucharest, Ilfov, 020331",
-        "Bucharest, Ilfov, Romania"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Compiler Intern, CUDA Tile IR - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069",
-      "locations": [
-        "Switzerland Zurich",
-        "Switzerland, Zurich"
+        "Zurich, Switzerland"
       ],
       "city_tag": "Zurich",
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
       "posted": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     {
-      "company": "Accenture",
-      "title": "AI Engineering Internship",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/AI-Engineering-Internship_R00367336",
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
       "locations": [
-        "Amsterdam"
+        "Germany Munich",
+        "Germany, Munich"
       ],
-      "city_tag": "Amsterdam",
+      "city_tag": "Munich",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "Accenture",
-      "title": "Linux Administrator Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Linux-Administrator-Internship-Program--She-He-They-_R00333373-1",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "category": "Software",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Accenture",
-      "title": "Thesis Internship AI & Data",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Thesis-Internship-AI---Data_R00366919",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Engineering Internship 2027 - 6 months, Cork",
+      "url": "https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com",
       "locations": [
-        "Amsterdam"
-      ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-11-04"
-    },
-    {
-      "company": "Accenture",
-      "title": "AI/MLOps Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434",
-      "locations": [
-        "Warsaw"
+        "Cork, Ireland"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
+      "category": "Software",
+      "posted": "2026-05-07",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04"
+      "last_seen": "2026-11-05"
     }
   ]
 }
