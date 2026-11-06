@@ -1,26 +1,27 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-11-05T01:36:30Z",
-  "new_count": 1,
-  "reopened_count": 0,
+  "updated_at": "2026-11-06T01:42:54Z",
+  "new_count": 0,
+  "reopened_count": 1,
   "total_active": 27,
-  "new_jobs": [
+  "new_jobs": [],
+  "reopened_jobs": [
     {
-      "company": "Google",
-      "title": "Student Researcher, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/125423735539671750",
+      "company": "Wells Fargo",
+      "title": "2027 Technology Program Intern",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386",
       "locations": [
-        "India"
+        "2 Locations",
+        "Bengaluru India"
       ],
-      "city_tag": "India (Multiple/Other)",
+      "city_tag": "Bengaluru",
       "country": "in",
       "region": "APAC",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Software",
+      "posted": "2026-11-06",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-11-06"
     }
-  ],
-  "reopened_jobs": []
+  ]
 }

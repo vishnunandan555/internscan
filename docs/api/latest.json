@@ -1,59 +1,29 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-05T01:36:30Z",
-  "new_count": 22,
-  "reopened_count": 6,
-  "total_active": 676,
+  "updated_at": "2026-11-06T01:42:54Z",
+  "new_count": 18,
+  "reopened_count": 5,
+  "total_active": 679,
   "new_jobs": [
     {
-      "company": "Google",
-      "title": "Student Researcher, 2027",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/125423735539671750",
+      "company": "Apple",
+      "title": "Cellular Baseband Security Research Intern",
+      "url": "https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern",
       "locations": [
-        "India"
-      ],
-      "city_tag": "India (Multiple/Other)",
-      "country": "in",
-      "region": "APAC",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Amazon",
-      "title": "2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition",
-      "locations": [
-        "Bucharest, ROU"
+        "Paris"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721972361?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Security",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
       "company": "Qualcomm",
       "title": "FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork",
-      "url": "https://careers.qualcomm.com/careers/job/446720271079?domain=qualcomm.com",
+      "url": "https://careers.qualcomm.com/careers/job/446721979476?domain=qualcomm.com",
       "locations": [
         "Cork, Ireland"
       ],
@@ -61,215 +31,219 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Machine Learning Engineering Internship - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721969461?domain=qualcomm.com",
+      "title": "FY27 Intern - CHERI-Based Prototype for Root of Trust Security -  6 months, Sophia",
+      "url": "https://careers.qualcomm.com/careers/job/446721986397?domain=qualcomm.com",
+      "locations": [
+        "Bainbridge, Alpes-de-Haute-Provence, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Security",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - HW/FW Architecture for Post-Quantum Cryptography - 6 months, Sophia",
+      "url": "https://careers.qualcomm.com/careers/job/446721986592?domain=qualcomm.com",
+      "locations": [
+        "Bainbridge, Alpes-de-Haute-Provence, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Telemetry Firmware, Driver and Tools Developer Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721989047?domain=qualcomm.com",
       "locations": [
         "Markham, Ontario, Canada"
       ],
       "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Backend/Infra",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Microsoft",
-      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+      "company": "HPE",
+      "title": "Electrical Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213393",
       "locations": [
-        "United States, Washington, Redmond"
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
       "category": "Software",
       "posted": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "ASIC EDA Infrastructure Engineer Intern",
-      "url": "https://www.metacareers.com/jobs/1883872846321140",
+      "company": "NVIDIA",
+      "title": "Technical Learning Content Development Intern, Physical AI — Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Learning-Content-Development-Intern--Physical-AI---Summer-2027_JR2028148",
       "locations": [
-        "Sunnyvale, CA"
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Foundation Model Optimization (PhD)",
-      "url": "https://www.metacareers.com/jobs/2111078129773109",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)",
-      "url": "https://www.metacareers.com/jobs/1165781989214784",
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, Physics Simulation - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066",
       "locations": [
-        "Zurich, Switzerland"
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
       ],
       "city_tag": "Zurich",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Software",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Spatial Reasoning & Localization (PhD)",
-      "url": "https://www.metacareers.com/jobs/1218542847568705",
+      "company": "PayPal",
+      "title": "Machine Learning Engineer PhD Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern---Summer-2027_R0138579",
       "locations": [
-        "Boston, MA",
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Meta",
-      "title": "Hardware Systems Architecture Intern, Performance & Workload Analysis",
-      "url": "https://www.metacareers.com/jobs/1296272445973940",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Generative AI & Computational Photography (PhD)",
-      "url": "https://www.metacareers.com/jobs/2572072169967580",
-      "locations": [
-        "Burlingame, CA",
-        "Cambridge, MA",
-        "Redmond, WA",
-        "Sunnyvale, CA"
+        "San Jose California United States of America",
+        "San Jose, California, United States of America"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Generative AI & Computational Photography (PhD)",
-      "url": "https://www.metacareers.com/jobs/2862704290847533",
+      "company": "PayPal",
+      "title": "Data Scientist Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582",
       "locations": [
-        "Redmond, WA"
+        "San Jose California United States of America",
+        "San Jose, California, United States of America"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Data",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI Maps (PhD)",
-      "url": "https://www.metacareers.com/jobs/2439439363131036",
+      "company": "PayPal",
+      "title": "Mobile Engineer Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583",
       "locations": [
-        "Seattle, WA"
+        "5 Locations",
+        "San Jose California United States of America"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Mobile",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Humanoid Control & Dexterous Manipulation (PhD)",
-      "url": "https://www.metacareers.com/jobs/1832390484751700",
+      "company": "PayPal",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586",
       "locations": [
-        "Redmond, WA"
+        "5 Locations",
+        "San Jose California United States of America"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Software",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)",
-      "url": "https://www.metacareers.com/jobs/1920724172670221",
+      "company": "PayPal",
+      "title": "Machine Learning Engineer Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581",
       "locations": [
-        "Menlo Park, CA",
-        "Sunnyvale, CA"
+        "San Jose California United States of America",
+        "San Jose, California, United States of America"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
-      "url": "https://www.metacareers.com/jobs/1139996808441103",
+      "company": "PayPal",
+      "title": "Cybersecurity Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Cybersecurity-Intern---Summer-2027_R0138587",
       "locations": [
-        "London, UK",
-        "Zurich, Switzerland"
+        "4 Locations",
+        "San Jose California United States of America"
       ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
+      "company": "Intel",
+      "title": "GPU Architecture Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Architecture-Graduate-Intern_JR0287529",
+      "locations": [
+        "US California Folsom",
+        "US, California, Folsom"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
+    },
+    {
+      "company": "Intel",
+      "title": "Middleware Software Engineering Intern (m/f/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635",
       "locations": [
         "Germany Munich",
         "Germany, Munich"
@@ -278,165 +252,120 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "NVIDIA",
-      "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+      "company": "Walmart Global Tech",
+      "title": "(USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data Science Intern",
+      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828",
       "locations": [
-        "US CA Santa Clara",
-        "US, CA, Santa Clara"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "VLSI Timing Methodology Intern - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798",
-      "locations": [
-        "US CA Santa Clara",
-        "US, CA, Santa Clara"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Intel",
-      "title": "Robotics PhD Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833",
-      "locations": [
-        "2 Locations",
-        "US Oregon Hillsboro"
+        "(USA) J Street Offices, Suite #2 AR BENTONVILLE Home Office",
+        "USA J Street Offices Suite 2 AR BENTONVILLE Home Office"
       ],
       "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Data",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Wells Fargo",
-      "title": "Technology Internship Program",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607",
+      "company": "JPMorgan Chase",
+      "title": "2027 Machine Learning Center of Excellence (NLP) - Internship",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793",
       "locations": [
-        "CITY OF LONDON",
-        "CITY OF LONDON,"
+        "LONDON, United Kingdom"
       ],
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Software",
+      "category": "AI/ML",
       "posted": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Engineering Internship 2027 - 6 months, Cork",
-      "url": "https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com",
+      "company": "Apple",
+      "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
+      "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis",
       "locations": [
-        "Cork, Ireland"
+        "Munich"
+      ],
+      "city_tag": "Munich",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-05",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-06"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France",
+      "url": "https://careers.qualcomm.com/careers/job/446721911135?domain=qualcomm.com",
+      "locations": [
+        "Issy Les Moulineaux, France",
+        "Lannion, Cotes-d'Armor, France"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-05-07",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05"
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-06"
     },
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com",
+      "title": "FY27 Intern - Design Verification Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com",
       "locations": [
-        "Markham, Ontario, Canada"
+        "Toronto, Ontario, Canada"
       ],
-      "city_tag": "Canada (Other)",
+      "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "ISG Product Management Graduate Internship",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/297775",
-      "locations": [
-        "Round Rock, TX, United States"
-      ],
-      "city_tag": "Austin",
-      "country": "us",
-      "region": "AMER",
       "category": "Software",
-      "posted": "2026-11-04",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-05"
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Microsoft",
-      "title": "Applied Science PhD Internship",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487",
+      "company": "Intel",
+      "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
       "locations": [
-        "United Kingdom, Berkshire, Reading"
+        "Canada Toronto",
+        "Canada, Toronto"
       ],
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Data Science: PhD Internship Opportunities - Redmond",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
+      "city_tag": "Toronto",
+      "country": "ca",
       "region": "AMER",
-      "category": "Data",
-      "posted": "2026-11-04",
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-06",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05"
+      "last_seen": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Multimodal Behavioral AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/1428978125312655",
+      "company": "Wells Fargo",
+      "title": "2027 Technology Program Intern",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386",
       "locations": [
-        "Redmond, WA"
+        "2 Locations",
+        "Bengaluru India"
       ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05"
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Software",
+      "posted": "2026-11-06",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-11-06"
     }
   ]
 }

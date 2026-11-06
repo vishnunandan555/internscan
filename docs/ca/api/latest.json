@@ -1,57 +1,58 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-05T01:36:30Z",
-  "new_count": 2,
-  "reopened_count": 1,
-  "total_active": 59,
+  "updated_at": "2026-11-06T01:42:54Z",
+  "new_count": 1,
+  "reopened_count": 2,
+  "total_active": 61,
   "new_jobs": [
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721972361?domain=qualcomm.com",
+      "title": "FY27 Intern - Telemetry Firmware, Driver and Tools Developer Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721989047?domain=qualcomm.com",
       "locations": [
         "Markham, Ontario, Canada"
       ],
       "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Machine Learning Engineering Internship - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721969461?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05"
+      "category": "Backend/Infra",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     }
   ],
   "reopened_jobs": [
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com",
+      "title": "FY27 Intern - Design Verification Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com",
       "locations": [
-        "Markham, Ontario, Canada"
+        "Toronto, Ontario, Canada"
       ],
-      "city_tag": "Canada (Other)",
+      "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-05"
+      "category": "Software",
+      "posted": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-06"
+    },
+    {
+      "company": "Intel",
+      "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+      "locations": [
+        "Canada Toronto",
+        "Canada, Toronto"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-06",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-06"
     }
   ]
 }

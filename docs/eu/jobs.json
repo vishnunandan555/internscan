@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-05T01:36:30Z",
+  "updated_at": "2026-11-06T01:42:54Z",
   "jobs": {
-    "qualcomm:446720271079": {
-      "uid": "qualcomm:446720271079",
+    "qualcomm:446721979476": {
+      "uid": "qualcomm:446721979476",
       "company": "Qualcomm",
-      "external_id": "446720271079",
+      "external_id": "446721979476",
       "title": "FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork",
-      "url": "https://careers.qualcomm.com/careers/job/446720271079?domain=qualcomm.com",
+      "url": "https://careers.qualcomm.com/careers/job/446721979476?domain=qualcomm.com",
       "locations": [
         "Cork, Ireland"
       ],
@@ -14,17 +14,72 @@
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
       "active": true
     },
-    "nvidia:JR2029184": {
-      "uid": "nvidia:JR2029184",
+    "qualcomm:446721986397": {
+      "uid": "qualcomm:446721986397",
+      "company": "Qualcomm",
+      "external_id": "446721986397",
+      "title": "FY27 Intern - CHERI-Based Prototype for Root of Trust Security -  6 months, Sophia",
+      "url": "https://careers.qualcomm.com/careers/job/446721986397?domain=qualcomm.com",
+      "locations": [
+        "Bainbridge, Alpes-de-Haute-Provence, France"
+      ],
+      "category": "Security",
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "active": true
+    },
+    "qualcomm:446721986592": {
+      "uid": "qualcomm:446721986592",
+      "company": "Qualcomm",
+      "external_id": "446721986592",
+      "title": "FY27 Intern - HW/FW Architecture for Post-Quantum Cryptography - 6 months, Sophia",
+      "url": "https://careers.qualcomm.com/careers/job/446721986592?domain=qualcomm.com",
+      "locations": [
+        "Bainbridge, Alpes-de-Haute-Provence, France"
+      ],
+      "category": "Hardware/Silicon",
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "active": true
+    },
+    "nvidia:JR2029066": {
+      "uid": "nvidia:JR2029066",
       "company": "NVIDIA",
-      "external_id": "JR2029184",
-      "title": "Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
+      "external_id": "JR2029066",
+      "title": "Software Engineering Intern, Physics Simulation - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066",
+      "locations": [
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
+      ],
+      "category": "Software",
+      "city_tag": "Zurich",
+      "country": "eu",
+      "region": "EMEA",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "active": true
+    },
+    "intel:JR0288635": {
+      "uid": "intel:JR0288635",
+      "company": "Intel",
+      "external_id": "JR0288635",
+      "title": "Middleware Software Engineering Intern (m/f/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635",
       "locations": [
         "Germany Munich",
         "Germany, Munich"
@@ -33,64 +88,83 @@
       "city_tag": "Munich",
       "country": "eu",
       "region": "EMEA",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
       "active": true
     },
-    "meta:1165781989214784": {
-      "uid": "meta:1165781989214784",
-      "company": "Meta",
-      "external_id": "1165781989214784",
-      "title": "Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)",
-      "url": "https://www.metacareers.com/jobs/1165781989214784",
+    "apple:200693660": {
+      "uid": "apple:200693660",
+      "company": "Apple",
+      "external_id": "200693660",
+      "title": "Cellular Baseband Security Research Intern",
+      "url": "https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern",
       "locations": [
-        "Zurich, Switzerland"
+        "Paris"
       ],
-      "category": "AI/ML",
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "active": true
-    },
-    "amazon:10596377": {
-      "uid": "amazon:10596377",
-      "company": "Amazon",
-      "external_id": "10596377",
-      "title": "2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition",
-      "locations": [
-        "Bucharest, ROU"
-      ],
-      "category": "AI/ML",
+      "category": "Security",
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
       "active": true
     },
-    "qualcomm:446721932621": {
-      "uid": "qualcomm:446721932621",
+    "nvidia:JR2029184": {
+      "uid": "nvidia:JR2029184",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Munich",
+      "company": "NVIDIA",
+      "country": "eu",
+      "external_id": "JR2029184",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
+      "locations": [
+        "Germany Munich",
+        "Germany, Munich"
+      ],
+      "posted": "2026-11-05",
+      "region": "EMEA",
+      "title": "Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"
+    },
+    "meta:1165781989214784": {
+      "uid": "meta:1165781989214784",
       "active": true,
       "category": "AI/ML",
-      "city_tag": "Amsterdam",
-      "company": "Qualcomm",
+      "city_tag": "Zurich",
+      "company": "Meta",
       "country": "eu",
-      "external_id": "446721932621",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-05",
+      "external_id": "1165781989214784",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
-        "Amsterdam Drenthe, North Holland, Netherlands"
+        "Zurich, Switzerland"
       ],
       "posted": "2026-11-04",
       "region": "EMEA",
-      "title": "FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
-      "url": "https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com"
+      "title": "Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)",
+      "url": "https://www.metacareers.com/jobs/1165781989214784"
+    },
+    "amazon:10596377": {
+      "uid": "amazon:10596377",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Europe (Other)",
+      "company": "Amazon",
+      "country": "eu",
+      "external_id": "10596377",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
+      "locations": [
+        "Bucharest, ROU"
+      ],
+      "posted": "2026-11-04",
+      "region": "EMEA",
+      "title": "2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition"
     },
     "nvidia:JR2029069": {
       "uid": "nvidia:JR2029069",
@@ -101,7 +175,7 @@
       "country": "eu",
       "external_id": "JR2029069",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Switzerland Zurich",
         "Switzerland, Zurich"
@@ -120,7 +194,7 @@
       "country": "eu",
       "external_id": "1213976",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Bolzano Vicentino, Vicenza, 36050",
         "Bolzano Vicentino, Vicenza, Italy"
@@ -129,25 +203,6 @@
       "region": "EMEA",
       "title": "DevOps Intern (Undergraduate)",
       "url": "https://careers.hpe.com/us/en/job/1213976"
-    },
-    "hpe:1213981": {
-      "uid": "hpe:1213981",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "Europe (Other)",
-      "company": "HPE",
-      "country": "eu",
-      "external_id": "1213981",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-05",
-      "locations": [
-        "Bucharest, Ilfov, 020331",
-        "Bucharest, Ilfov, Romania"
-      ],
-      "posted": "2026-11-04",
-      "region": "EMEA",
-      "title": "Technical Support Engineer Intern – Networking / TAC",
-      "url": "https://careers.hpe.com/us/en/job/1213981"
     },
     "amazon:10595274": {
       "uid": "amazon:10595274",
@@ -158,7 +213,7 @@
       "country": "eu",
       "external_id": "10595274",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zurich, Zurich, CHE"
       ],
@@ -176,7 +231,7 @@
       "country": "eu",
       "external_id": "R00333373",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Warsaw"
       ],
@@ -194,7 +249,7 @@
       "country": "eu",
       "external_id": "R00367336",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam"
       ],
@@ -203,23 +258,24 @@
       "title": "AI Engineering Internship",
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/AI-Engineering-Internship_R00367336"
     },
-    "qualcomm:446721901932": {
-      "uid": "qualcomm:446721901932",
+    "qualcomm:446721911135": {
+      "uid": "qualcomm:446721911135",
       "active": true,
-      "category": "AI/ML",
+      "category": "Software",
       "city_tag": "Europe (Other)",
       "company": "Qualcomm",
       "country": "eu",
-      "external_id": "446721901932",
+      "external_id": "446721911135",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
-        "Strasbourg, France"
+        "Issy Les Moulineaux, France",
+        "Lannion, Cotes-d'Armor, France"
       ],
       "posted": "2026-11-02",
       "region": "EMEA",
-      "title": "FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France",
-      "url": "https://careers.qualcomm.com/careers/job/446721901932?domain=qualcomm.com"
+      "title": "FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France",
+      "url": "https://careers.qualcomm.com/careers/job/446721911135?domain=qualcomm.com"
     },
     "meta:1126525590244595": {
       "uid": "meta:1126525590244595",
@@ -230,7 +286,7 @@
       "country": "eu",
       "external_id": "1126525590244595",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
@@ -248,7 +304,7 @@
       "country": "eu",
       "external_id": "1886852912490515",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zurich, Switzerland"
       ],
@@ -266,7 +322,7 @@
       "country": "eu",
       "external_id": "JR0288633",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -285,7 +341,7 @@
       "country": "eu",
       "external_id": "200692642",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Barcelona"
       ],
@@ -303,7 +359,7 @@
       "country": "eu",
       "external_id": "200692868",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zurich"
       ],
@@ -321,7 +377,7 @@
       "country": "eu",
       "external_id": "R00368382",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam"
       ],
@@ -339,7 +395,7 @@
       "country": "eu",
       "external_id": "R00368686",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam"
       ],
@@ -357,7 +413,7 @@
       "country": "eu",
       "external_id": "10593299",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich, Bavaria, DEU"
       ],
@@ -375,13 +431,13 @@
       "country": "eu",
       "external_id": "446721817760",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Bainbridge, Alpes-de-Haute-Provence, France"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-11-05",
       "region": "EMEA",
-      "title": "FY27 Intern- Integration of a RISC-V CPU into a Cache-Coherent Emulation Platform - Sophia, 6 months",
+      "title": "FY27 Intern- Integration of a RISC-V CPU into a Cache-Coherent Emulation Platform - 6 months, Sophia",
       "url": "https://careers.qualcomm.com/careers/job/446721817760?domain=qualcomm.com"
     },
     "qualcomm:446721854346": {
@@ -393,13 +449,13 @@
       "country": "eu",
       "external_id": "446721854346",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Guyancourt, Yvelines, France"
       ],
-      "posted": "2026-11-02",
+      "posted": "2026-11-05",
       "region": "EMEA",
-      "title": "FY27 Intern- AI-Driven Power Modeling for Evaluating Power Consumption in NoC IP Architectures - Guyancourt, 6 months",
+      "title": "FY27 Intern- AI-Driven Power Modeling for Evaluating Power Consumption in NoC IP Architectures -  6 months, Guyancourt",
       "url": "https://careers.qualcomm.com/careers/job/446721854346?domain=qualcomm.com"
     },
     "meta:969100159096154": {
@@ -411,7 +467,7 @@
       "country": "eu",
       "external_id": "969100159096154",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
@@ -419,25 +475,6 @@
       "region": "EMEA",
       "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
       "url": "https://www.metacareers.com/jobs/969100159096154"
-    },
-    "hpe:1213971": {
-      "uid": "hpe:1213971",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "Europe (Other)",
-      "company": "HPE",
-      "country": "eu",
-      "external_id": "1213971",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-05",
-      "locations": [
-        "Bucharest, N/A",
-        "Bucharest, Romania"
-      ],
-      "posted": "2026-10-29",
-      "region": "EMEA",
-      "title": "Technical Support Engineer Intern – Networking / TAC",
-      "url": "https://careers.hpe.com/us/en/job/1213971"
     },
     "hpe:1216274": {
       "uid": "hpe:1216274",
@@ -448,7 +485,7 @@
       "country": "eu",
       "external_id": "1216274",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Kutna Hora, Czechia",
         "Kutna Hora, N/A"
@@ -467,7 +504,7 @@
       "country": "eu",
       "external_id": "REF089917W",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "ES - Madrid, Spain",
         "ES, Madrid Spain"
@@ -486,7 +523,7 @@
       "country": "eu",
       "external_id": "e11c70eb-0800-4363-b609-264610878dce",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Warsaw, Poland"
       ],
@@ -504,7 +541,7 @@
       "country": "eu",
       "external_id": "R00366919",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam"
       ],
@@ -522,7 +559,7 @@
       "country": "eu",
       "external_id": "JR2028597",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Switzerland Zurich",
         "Switzerland, Zurich"
@@ -541,7 +578,7 @@
       "country": "eu",
       "external_id": "10574996",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -559,7 +596,7 @@
       "country": "eu",
       "external_id": "R00365816",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Warsaw"
       ],
@@ -577,7 +614,7 @@
       "country": "eu",
       "external_id": "1463189352436520",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
@@ -595,7 +632,7 @@
       "country": "eu",
       "external_id": "1464655882214150",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
@@ -613,7 +650,7 @@
       "country": "eu",
       "external_id": "1775227420261809",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
@@ -631,7 +668,7 @@
       "country": "eu",
       "external_id": "R00329471",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Prague"
       ],
@@ -649,11 +686,11 @@
       "country": "eu",
       "external_id": "8267099",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Dublin"
       ],
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "region": "EMEA",
       "title": "2027 - Summer Software Engineer Intern, Dublin",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099"
@@ -667,7 +704,7 @@
       "country": "eu",
       "external_id": "1647286810370437",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
@@ -685,7 +722,7 @@
       "country": "eu",
       "external_id": "1886039392386822",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
@@ -703,7 +740,7 @@
       "country": "eu",
       "external_id": "JR0288209",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -722,7 +759,7 @@
       "country": "eu",
       "external_id": "JR0288215",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Germany Munich",
         "Germany, Munich"
@@ -741,7 +778,7 @@
       "country": "eu",
       "external_id": "1420325362923811",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zurich, Switzerland"
       ],
@@ -759,7 +796,7 @@
       "country": "eu",
       "external_id": "JR0288207",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -778,7 +815,7 @@
       "country": "eu",
       "external_id": "JR0288216",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -797,7 +834,7 @@
       "country": "eu",
       "external_id": "JR0288220",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -816,7 +853,7 @@
       "country": "eu",
       "external_id": "10585292",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Bucharest, ROU"
       ],
@@ -824,25 +861,6 @@
       "region": "EMEA",
       "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
-    },
-    "nvidia:JR2027377": {
-      "uid": "nvidia:JR2027377",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "Europe (Other)",
-      "company": "NVIDIA",
-      "country": "eu",
-      "external_id": "JR2027377",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05",
-      "locations": [
-        "2 Locations",
-        "Poland Warsaw"
-      ],
-      "posted": "2026-11-01",
-      "region": "EMEA",
-      "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377"
     },
     "nvidia:JR2028210": {
       "uid": "nvidia:JR2028210",
@@ -853,7 +871,7 @@
       "country": "eu",
       "external_id": "JR2028210",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "3 Locations",
         "Germany Munich"
@@ -872,7 +890,7 @@
       "country": "eu",
       "external_id": "848358355026771",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zurich, Switzerland"
       ],
@@ -890,7 +908,7 @@
       "country": "eu",
       "external_id": "JR0288210",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -909,7 +927,7 @@
       "country": "eu",
       "external_id": "JR0288213",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -928,7 +946,7 @@
       "country": "eu",
       "external_id": "JR0288225",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -947,7 +965,7 @@
       "country": "eu",
       "external_id": "200690139",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich"
       ],
@@ -965,7 +983,7 @@
       "country": "eu",
       "external_id": "200690377",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich"
       ],
@@ -983,7 +1001,7 @@
       "country": "eu",
       "external_id": "JR0288205",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Germany Munich",
         "Germany, Munich"
@@ -1002,7 +1020,7 @@
       "country": "eu",
       "external_id": "200689711",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich"
       ],
@@ -1020,7 +1038,7 @@
       "country": "eu",
       "external_id": "200689729",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich"
       ],
@@ -1038,7 +1056,7 @@
       "country": "eu",
       "external_id": "10582415",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Madrid, Community of Madrid, ESP"
       ],
@@ -1056,7 +1074,7 @@
       "country": "eu",
       "external_id": "R173018",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Bucharest"
       ],
@@ -1074,7 +1092,7 @@
       "country": "eu",
       "external_id": "200689695",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris"
       ],
@@ -1092,7 +1110,7 @@
       "country": "eu",
       "external_id": "JR2027826",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Warsaw",
         "Poland, Warsaw"
@@ -1111,7 +1129,7 @@
       "country": "eu",
       "external_id": "JR2027829",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "2 Locations",
         "Germany Remote"
@@ -1130,7 +1148,7 @@
       "country": "eu",
       "external_id": "JR2027949",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "2 Locations",
         "Switzerland Zurich"
@@ -1149,7 +1167,7 @@
       "country": "eu",
       "external_id": "1970393556998782",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -1167,7 +1185,7 @@
       "country": "eu",
       "external_id": "1050177734644029",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
@@ -1185,7 +1203,7 @@
       "country": "eu",
       "external_id": "JR0288221",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -1204,7 +1222,7 @@
       "country": "eu",
       "external_id": "10579727",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Clichy, Ile-de-France, FRA"
       ],
@@ -1222,7 +1240,7 @@
       "country": "eu",
       "external_id": "8097801",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Dublin"
       ],
@@ -1240,7 +1258,7 @@
       "country": "eu",
       "external_id": "8130807",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Bucharest"
       ],
@@ -1258,7 +1276,7 @@
       "country": "eu",
       "external_id": "36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Berlin, Germany"
       ],
@@ -1266,42 +1284,6 @@
       "region": "EMEA",
       "title": "Software Engineer Intern - Berlin (2027)",
       "url": "https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e"
-    },
-    "snowflake:a92a900c-56c2-4cf6-8c2e-fcd183a84e58": {
-      "uid": "snowflake:a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
-      "active": true,
-      "category": "Software",
-      "city_tag": "Zurich",
-      "company": "Snowflake",
-      "country": "eu",
-      "external_id": "a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
-      "locations": [
-        "Zurich, Switzerland"
-      ],
-      "posted": "2026-10-12",
-      "region": "EMEA",
-      "title": "Software Engineer Intern - Zurich (2026)",
-      "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
-    },
-    "qualcomm:446715095913": {
-      "uid": "qualcomm:446715095913",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "Amsterdam",
-      "company": "Qualcomm",
-      "country": "eu",
-      "external_id": "446715095913",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
-      "locations": [
-        "Amsterdam Drenthe, North Holland, Netherlands"
-      ],
-      "posted": "2025-10-21",
-      "region": "EMEA",
-      "title": "FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
-      "url": "https://careers.qualcomm.com/careers/job/446715095913?domain=qualcomm.com"
     },
     "qualcomm:446718345493": {
       "uid": "qualcomm:446718345493",
@@ -1312,7 +1294,7 @@
       "country": "eu",
       "external_id": "446718345493",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Cork, Ireland"
       ],
@@ -1330,7 +1312,7 @@
       "country": "eu",
       "external_id": "446718630683",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Cork, Ireland"
       ],
@@ -1348,7 +1330,7 @@
       "country": "eu",
       "external_id": "446718947455",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Cork, Ireland"
       ],
@@ -1366,7 +1348,7 @@
       "country": "eu",
       "external_id": "446719176184",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Cork, Ireland"
       ],
@@ -1384,7 +1366,7 @@
       "country": "eu",
       "external_id": "446720699932",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Cork, Ireland"
       ],
@@ -1402,7 +1384,7 @@
       "country": "eu",
       "external_id": "446721045034",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Cork, Ireland"
       ],
@@ -1420,7 +1402,7 @@
       "country": "eu",
       "external_id": "40195",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland"
       ],
@@ -1438,7 +1420,7 @@
       "country": "eu",
       "external_id": "40344",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland"
       ],
@@ -1456,12 +1438,12 @@
       "country": "eu",
       "external_id": "JR2024606",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Switzerland Zurich",
         "Switzerland, Zurich"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
@@ -1475,7 +1457,7 @@
       "country": "eu",
       "external_id": "JR2026517",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Warsaw",
         "Poland, Warsaw"
@@ -1494,7 +1476,7 @@
       "country": "eu",
       "external_id": "JR2026569",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "2 Locations",
         "Poland Warsaw"
@@ -1513,7 +1495,7 @@
       "country": "eu",
       "external_id": "JR2026775",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "3 Locations",
         "Germany Munich"
@@ -1532,7 +1514,7 @@
       "country": "eu",
       "external_id": "JR2027025",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Switzerland Zurich",
         "Switzerland, Zurich"
@@ -1551,7 +1533,7 @@
       "country": "eu",
       "external_id": "JR2027294",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Switzerland Zurich",
         "Switzerland, Zurich"
@@ -1570,7 +1552,7 @@
       "country": "eu",
       "external_id": "JR2027531",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Switzerland Zurich",
         "Switzerland, Zurich"
@@ -1589,11 +1571,11 @@
       "country": "eu",
       "external_id": "8258279",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Dublin"
       ],
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "region": "EMEA",
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279"
@@ -1607,7 +1589,7 @@
       "country": "eu",
       "external_id": "1970393556998387",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -1625,7 +1607,7 @@
       "country": "eu",
       "external_id": "JR0287675",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Germany Munich",
         "Germany, Munich"
@@ -1644,7 +1626,7 @@
       "country": "eu",
       "external_id": "JR0287884",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -1663,7 +1645,7 @@
       "country": "eu",
       "external_id": "JR0287886",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -1682,7 +1664,7 @@
       "country": "eu",
       "external_id": "JR0287890",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -1701,7 +1683,7 @@
       "country": "eu",
       "external_id": "JR0287893",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -1720,7 +1702,7 @@
       "country": "eu",
       "external_id": "JR0287894",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -1739,7 +1721,7 @@
       "country": "eu",
       "external_id": "JR0287897",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Poland Gdansk",
         "Poland, Gdansk"
@@ -1758,7 +1740,7 @@
       "country": "eu",
       "external_id": "JR0287942",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Germany Munich",
         "Germany, Munich"
@@ -1777,7 +1759,7 @@
       "country": "eu",
       "external_id": "JR0287943",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Germany Munich",
         "Germany, Munich"
@@ -1796,7 +1778,7 @@
       "country": "eu",
       "external_id": "1210859",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Milan, Milano, 20124",
         "Milan, Milano, Italy"
@@ -1815,7 +1797,7 @@
       "country": "eu",
       "external_id": "107087730147500742",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Kraków, Poland",
         "Warsaw, Poland"
@@ -1834,7 +1816,7 @@
       "country": "eu",
       "external_id": "111285665542349510",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich, Germany",
         "Paris, France",
@@ -1854,7 +1836,7 @@
       "country": "eu",
       "external_id": "74389446190867142",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Warsaw, Poland"
       ],
@@ -1872,7 +1854,7 @@
       "country": "eu",
       "external_id": "77684590197514950",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zürich, Switzerland"
       ],
@@ -1890,7 +1872,7 @@
       "country": "eu",
       "external_id": "84561862556820166",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zürich, Switzerland"
       ],
@@ -1908,7 +1890,7 @@
       "country": "eu",
       "external_id": "93078491720753862",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zürich, Switzerland"
       ],
@@ -1926,11 +1908,11 @@
       "country": "eu",
       "external_id": "8114161",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Madrid, Spain"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-11-05",
       "region": "EMEA",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161"
@@ -1944,11 +1926,11 @@
       "country": "eu",
       "external_id": "8114186",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-11-05",
       "region": "EMEA",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186"
@@ -1962,11 +1944,11 @@
       "country": "eu",
       "external_id": "8181440",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, France"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-11-05",
       "region": "EMEA",
       "title": "Applied Science Intern",
       "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440"
@@ -1980,7 +1962,7 @@
       "country": "eu",
       "external_id": "6866531002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Berlin, Germany"
       ],
@@ -1998,7 +1980,7 @@
       "country": "eu",
       "external_id": "6866534002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam, Netherlands"
       ],
@@ -2016,7 +1998,7 @@
       "country": "eu",
       "external_id": "8133710002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Aarhus, Denmark"
       ],
@@ -2034,7 +2016,7 @@
       "country": "eu",
       "external_id": "2024366",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Lysaker, Norway"
       ],
@@ -2052,7 +2034,7 @@
       "country": "eu",
       "external_id": "2024810",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Galway, Ireland"
       ],
@@ -2070,7 +2052,7 @@
       "country": "eu",
       "external_id": "2025061",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Ecublens, Switzerland"
       ],
@@ -2088,7 +2070,7 @@
       "country": "eu",
       "external_id": "200682229",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich"
       ],
@@ -2106,7 +2088,7 @@
       "country": "eu",
       "external_id": "200682404",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich"
       ],
@@ -2124,7 +2106,7 @@
       "country": "eu",
       "external_id": "200683768",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris"
       ],
@@ -2142,7 +2124,7 @@
       "country": "eu",
       "external_id": "200685035",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Zurich"
       ],
@@ -2160,7 +2142,7 @@
       "country": "eu",
       "external_id": "200686742",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich"
       ],
@@ -2168,6 +2150,24 @@
       "region": "EMEA",
       "title": "AMS Lab Validation Intern",
       "url": "https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern"
+    },
+    "apple:200687209": {
+      "uid": "apple:200687209",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Munich",
+      "company": "Apple",
+      "country": "eu",
+      "external_id": "200687209",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-06",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-11-05",
+      "region": "EMEA",
+      "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
+      "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis"
     },
     "amazon:10418355": {
       "uid": "amazon:10418355",
@@ -2178,7 +2178,7 @@
       "country": "eu",
       "external_id": "10418355",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Dublin, IRL"
       ],
@@ -2196,7 +2196,7 @@
       "country": "eu",
       "external_id": "10537441",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Barcelona, Catalonia, ESP"
       ],
@@ -2214,7 +2214,7 @@
       "country": "eu",
       "external_id": "10537442",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Barcelona, Catalonia, ESP"
       ],
@@ -2232,7 +2232,7 @@
       "country": "eu",
       "external_id": "10541498",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -2250,7 +2250,7 @@
       "country": "eu",
       "external_id": "10554701",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -2268,7 +2268,7 @@
       "country": "eu",
       "external_id": "10555855",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Madrid, Community of Madrid, ESP"
       ],
@@ -2286,7 +2286,7 @@
       "country": "eu",
       "external_id": "10567688",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Munich, Bavaria, DEU"
       ],
@@ -2304,7 +2304,7 @@
       "country": "eu",
       "external_id": "10567711",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Dublin, IRL"
       ],
@@ -2322,7 +2322,7 @@
       "country": "eu",
       "external_id": "10567744",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Madrid, Community of Madrid, ESP"
       ],
@@ -2340,7 +2340,7 @@
       "country": "eu",
       "external_id": "10567818",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Paris, Ile-de-France, FRA"
       ],
@@ -2358,7 +2358,7 @@
       "country": "eu",
       "external_id": "10568017",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam, North Holland, NLD"
       ],
@@ -2376,7 +2376,7 @@
       "country": "eu",
       "external_id": "10571025",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Dublin, IRL"
       ],
@@ -2394,7 +2394,7 @@
       "country": "eu",
       "external_id": "10576777",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Dublin, IRL"
       ],
@@ -2412,7 +2412,7 @@
       "country": "eu",
       "external_id": "3134271",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -2430,11 +2430,11 @@
       "country": "eu",
       "external_id": "R00271343",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Warsaw"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "LLM Engineer Internship Program (She/He/They)",
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343"
@@ -2448,11 +2448,11 @@
       "country": "eu",
       "external_id": "R00327505",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Digital Engineering Internship",
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505"
@@ -2466,7 +2466,7 @@
       "country": "eu",
       "external_id": "R00352434",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Warsaw"
       ],
@@ -2484,11 +2484,11 @@
       "country": "eu",
       "external_id": "R00355473",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Warsaw"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "region": "EMEA",
       "title": "Angular Developer Internship Program (She/He/They)",
       "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473"
@@ -2502,7 +2502,7 @@
       "country": "eu",
       "external_id": "R00358078",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam"
       ],
@@ -2520,7 +2520,7 @@
       "country": "eu",
       "external_id": "R00358088",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "locations": [
         "Amsterdam"
       ],

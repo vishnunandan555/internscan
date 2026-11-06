@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-05 07:06:30 IST** · 📌 **36** open verified internships
+> 🕐 Last updated: **2026-11-06 07:12:54 IST** · 📌 **37** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (36)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (37)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -22,7 +22,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **4** |
 | [HPE](#hpe) | **1** |
-| [JPMorgan Chase](#jpmorgan-chase) | **1** |
+| [JPMorgan Chase](#jpmorgan-chase) | **2** |
 | [Meta](#meta) | **8** |
 | [Microsoft](#microsoft) | **2** |
 | [NVIDIA](#nvidia) | **1** |
@@ -110,6 +110,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Machine Learning Center of Excellence (NLP) - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793) ✨ | AI/ML | London | 2026-11-05 | 2026-11-06 |
 | [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) | AI/ML | London | 2026-10-15 | 2026-10-16 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -150,7 +151,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com) ✨ | Software | Cambridge / Oxford | 2026-10-28 | 2026-10-29 |
+| [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com) | Software | Cambridge / Oxford | 2026-10-28 | 2026-10-29 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
