@@ -1,91 +1,31 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-06T01:42:54Z",
-  "new_count": 6,
-  "reopened_count": 2,
-  "total_active": 138,
+  "updated_at": "2026-11-07T01:02:47Z",
+  "new_count": 2,
+  "reopened_count": 3,
+  "total_active": 139,
   "new_jobs": [
     {
-      "company": "Apple",
-      "title": "Cellular Baseband Security Research Intern",
-      "url": "https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern",
+      "company": "HPE",
+      "title": "AI and Data Intern",
+      "url": "https://careers.hpe.com/us/en/job/1218829",
       "locations": [
-        "Paris"
+        "Las Rozas, Madrid, 28232",
+        "Las Rozas, Madrid, Spain"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Security",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork",
-      "url": "https://careers.qualcomm.com/careers/job/446721979476?domain=qualcomm.com",
-      "locations": [
-        "Cork, Ireland"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - CHERI-Based Prototype for Root of Trust Security -  6 months, Sophia",
-      "url": "https://careers.qualcomm.com/careers/job/446721986397?domain=qualcomm.com",
-      "locations": [
-        "Bainbridge, Alpes-de-Haute-Provence, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Security",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - HW/FW Architecture for Post-Quantum Cryptography - 6 months, Sophia",
-      "url": "https://careers.qualcomm.com/careers/job/446721986592?domain=qualcomm.com",
-      "locations": [
-        "Bainbridge, Alpes-de-Haute-Provence, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Physics Simulation - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066",
-      "locations": [
-        "Switzerland Zurich",
-        "Switzerland, Zurich"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
+      "category": "AI/ML",
       "posted": "2026-11-06",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
-      "title": "Middleware Software Engineering Intern (m/f/d)",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635",
+      "title": "Software Design Engineer Intern for Physical Design (m/f/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937",
       "locations": [
         "Germany Munich",
         "Germany, Munich"
@@ -94,42 +34,56 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "posted": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Apple",
-      "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
-      "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg",
+      "url": "https://careers.qualcomm.com/careers/job/446721901932?domain=qualcomm.com",
       "locations": [
-        "Munich"
+        "Strasbourg, France"
       ],
-      "city_tag": "Munich",
+      "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Software",
+      "category": "AI/ML",
       "posted": "2026-11-05",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France",
-      "url": "https://careers.qualcomm.com/careers/job/446721911135?domain=qualcomm.com",
+      "title": "FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
+      "url": "https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com",
       "locations": [
-        "Issy Les Moulineaux, France",
-        "Lannion, Cotes-d'Armor, France"
+        "Amsterdam Drenthe, North Holland, Netherlands"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-07"
+    },
+    {
+      "company": "Amazon",
+      "title": "Operations Engineering Intern -  start date Q2 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10541508/operations-engineering-intern-start-date-q2-2027",
+      "locations": [
+        "Clichy, Ile-de-France, FRA"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-02",
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "posted": "2026-09-15",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-07"
     }
   ]
 }

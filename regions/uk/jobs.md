@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-06 07:12:54 IST** · 📌 **37** open verified internships
+> 🕐 Last updated: **2026-11-07 06:32:47 IST** · 📌 **37** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -120,8 +120,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1139996808441103) ✨ | AI/ML | London | 2026-11-04 | 2026-11-05 |
-| [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/2082008865811696) ✨ | AI/ML | London | 2026-10-29 | 2026-10-30 |
-| [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1847186939636437) ✨ | AI/ML | London | 2026-10-29 | 2026-10-30 |
+| [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/2082008865811696) | AI/ML | London | 2026-10-29 | 2026-10-30 |
+| [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1847186939636437) | AI/ML | London | 2026-10-29 | 2026-10-30 |
 | [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1811645993254851) | AI/ML | London | 2026-10-27 | 2026-10-28 |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1418948513778654) | AI/ML | London | 2026-10-26 | 2026-10-27 |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2288012098648243) | AI/ML | Cambridge / Oxford | 2026-10-21 | 2026-10-22 |

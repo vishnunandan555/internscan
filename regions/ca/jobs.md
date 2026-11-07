@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-06 07:12:54 IST** · 📌 **61** open verified internships
+> 🕐 Last updated: **2026-11-07 06:32:47 IST** · 📌 **62** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (61)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (62)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -23,7 +23,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **2** |
 | [Nokia](#nokia) | **2** |
-| [Qualcomm](#qualcomm) | **33** |
+| [Qualcomm](#qualcomm) | **34** |
 | [Stripe](#stripe) | **5** |
 
 ---
@@ -115,17 +115,21 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern - Software Validation Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722003454?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-11-06 | 2026-11-07 |
+| [FY27 Intern - RF/Analog Verification Engineering Internship - Canada (4 or 16 months)](https://careers.qualcomm.com/careers/job/446722001120?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-11-06 | 2026-11-07 |
+| [FY27 Intern - Digital Design Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722005254?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-06 | 2026-11-07 |
 | [FY27 Intern - Telemetry Firmware, Driver and Tools Developer Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721989047?domain=qualcomm.com) ✨ | Backend/Infra | Markham, ON | 2026-11-05 | 2026-11-06 |
+| [FY27 Intern - Machine Learning Engineering Internship - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721969461?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-11-04 | 2026-11-05 |
 | [FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721972361?domain=qualcomm.com) ✨ | Hardware/Silicon | Markham, ON | 2026-11-04 | 2026-11-05 |
-| [FY27 Intern - AI Software Systems Co-op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721862430?domain=qualcomm.com) ✨ | AI/ML | Toronto | 2026-11-03 | 2026-10-30 |
-| [FY27 Intern - AI Software Engineering Co-op  - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721862429?domain=qualcomm.com) ✨ | AI/ML | Toronto | 2026-11-03 | 2026-10-30 |
+| [FY27 Intern - AI Software Systems Co-op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721862430?domain=qualcomm.com) | AI/ML | Toronto | 2026-11-03 | 2026-10-30 |
+| [FY27 Intern - AI Software Engineering Co-op  - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721862429?domain=qualcomm.com) | AI/ML | Toronto | 2026-11-03 | 2026-10-30 |
 | [FY27 Intern - Qualcomm SoC Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721914045?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - Digital Design Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721913672?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - Design Verification Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721913898?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com) ✨ | QA | Ottawa, ON | 2026-10-30 | 2026-10-31 |
 | [FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com) ✨ | Hardware/Silicon | Vancouver | 2026-10-30 | 2026-10-31 |
-| [FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-10-29 | 2026-10-30 |
+| [FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-10-29 | 2026-10-30 |
 | [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com) | QA | Toronto | 2026-10-28 | 2026-10-15 |
 | [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721828828?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-10-28 | 2026-10-29 |
 | [FY27 Intern - Camera Design Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829439?domain=qualcomm.com) | Software | Vancouver | 2026-10-28 | 2026-10-29 |
@@ -138,12 +142,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Automotive Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721615591?domain=qualcomm.com) | Software | Markham, ON | 2026-10-16 | 2026-10-17 |
 | [FY27 Intern - Soft IP ASIC Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721302471?domain=qualcomm.com) | Hardware/Silicon | Ottawa, ON | 2026-09-29 | 2026-10-15 |
 | [FY27 Intern - PAL Firmware Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721229661?domain=qualcomm.com) | Backend/Infra | Markham, ON | 2026-09-23 | 2026-10-15 |
-| [FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156800?domain=qualcomm.com) | Software | Toronto | 2026-09-18 | 2026-10-15 |
-| [FY27 Intern - MSIP Digital Design Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156182?domain=qualcomm.com) | Software | Toronto | 2026-09-18 | 2026-10-15 |
 | [FY27 Intern - Silicon Validation Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721143274?domain=qualcomm.com) | Hardware/Silicon | Toronto | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064018?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - MSIP Design Methodology Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721140936?domain=qualcomm.com) | Software | Toronto | 2026-09-17 | 2026-10-15 |
-| [FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721109168?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com) | Backend/Infra | Toronto | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Display IP Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064141?domain=qualcomm.com) | Software | Markham, ON | 2026-09-17 | 2026-10-15 |

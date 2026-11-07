@@ -1,9 +1,41 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-06T01:42:54Z",
-  "total_active": 138,
+  "updated_at": "2026-11-07T01:02:47Z",
+  "total_active": 139,
   "jobs": [
+    {
+      "company": "Intel",
+      "title": "Software Design Engineer Intern for Physical Design (m/f/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937",
+      "locations": [
+        "Germany Munich",
+        "Germany, Munich"
+      ],
+      "city_tag": "Munich",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07"
+    },
+    {
+      "company": "HPE",
+      "title": "AI and Data Intern",
+      "url": "https://careers.hpe.com/us/en/job/1218829",
+      "locations": [
+        "Las Rozas, Madrid, 28232",
+        "Las Rozas, Madrid, Spain"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07"
+    },
     {
       "company": "Qualcomm",
       "title": "FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork",
@@ -17,7 +49,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -32,7 +64,7 @@
       "category": "Security",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -47,7 +79,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -63,7 +95,7 @@
       "category": "Software",
       "posted": "2026-11-06",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -79,7 +111,7 @@
       "category": "Software",
       "posted": "2026-11-06",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -94,7 +126,7 @@
       "category": "Security",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -110,7 +142,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -125,7 +157,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -140,7 +172,22 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
+      "url": "https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com",
+      "locations": [
+        "Amsterdam Drenthe, North Holland, Netherlands"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -156,7 +203,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "HPE",
@@ -172,7 +219,7 @@
       "category": "Backend/Infra",
       "posted": "2026-11-03",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -187,7 +234,7 @@
       "category": "AI/ML",
       "posted": "2026-11-03",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -202,7 +249,7 @@
       "category": "Backend/Infra",
       "posted": "2026-11-04",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -217,7 +264,22 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg",
+      "url": "https://careers.qualcomm.com/careers/job/446721901932?domain=qualcomm.com",
+      "locations": [
+        "Strasbourg, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -233,7 +295,7 @@
       "category": "Software",
       "posted": "2026-11-02",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -248,7 +310,7 @@
       "category": "AI/ML",
       "posted": "2026-11-02",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -263,7 +325,7 @@
       "category": "AI/ML",
       "posted": "2026-10-29",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -279,7 +341,7 @@
       "category": "Backend/Infra",
       "posted": "2026-11-03",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -294,7 +356,7 @@
       "category": "AI/ML",
       "posted": "2026-11-02",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -309,7 +371,7 @@
       "category": "AI/ML",
       "posted": "2026-11-02",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -324,7 +386,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -339,7 +401,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -354,7 +416,7 @@
       "category": "Software",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -369,7 +431,7 @@
       "category": "Backend/Infra",
       "posted": "2026-11-05",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -384,7 +446,7 @@
       "category": "AI/ML",
       "posted": "2026-11-05",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -399,7 +461,7 @@
       "category": "AI/ML",
       "posted": "2026-10-22",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "HPE",
@@ -415,7 +477,7 @@
       "category": "AI/ML",
       "posted": "2026-10-29",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Visa",
@@ -431,7 +493,7 @@
       "category": "Data",
       "posted": "2026-10-29",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Snowflake",
@@ -446,7 +508,7 @@
       "category": "Software",
       "posted": "2026-10-12",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -461,7 +523,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -477,7 +539,7 @@
       "category": "AI/ML",
       "posted": "2026-10-27",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -492,7 +554,7 @@
       "category": "AI/ML",
       "posted": "2026-10-09",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -507,7 +569,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-27",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -522,7 +584,7 @@
       "category": "AI/ML",
       "posted": "2026-10-24",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -537,7 +599,7 @@
       "category": "AI/ML",
       "posted": "2026-10-24",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -552,7 +614,7 @@
       "category": "AI/ML",
       "posted": "2026-10-24",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -567,7 +629,7 @@
       "category": "Data",
       "posted": "2026-10-20",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "MongoDB",
@@ -582,7 +644,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -597,7 +659,7 @@
       "category": "AI/ML",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -612,23 +674,7 @@
       "category": "AI/ML",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-06"
-    },
-    {
-      "company": "Intel",
-      "title": "DevOps Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209",
-      "locations": [
-        "Poland Gdansk",
-        "Poland, Gdansk"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-10-23",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -644,7 +690,7 @@
       "category": "Software",
       "posted": "2026-10-23",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -659,7 +705,7 @@
       "category": "AI/ML",
       "posted": "2026-10-13",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -675,7 +721,7 @@
       "category": "Software",
       "posted": "2026-10-22",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -691,7 +737,7 @@
       "category": "AI/ML",
       "posted": "2026-10-22",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -707,7 +753,7 @@
       "category": "Software",
       "posted": "2026-10-22",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -722,7 +768,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -738,7 +784,7 @@
       "category": "Software",
       "posted": "2026-11-01",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -753,7 +799,7 @@
       "category": "AI/ML",
       "posted": "2026-10-13",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -769,7 +815,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-21",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -785,23 +831,7 @@
       "category": "Software",
       "posted": "2026-10-21",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06"
-    },
-    {
-      "company": "Intel",
-      "title": "AI Software Development Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225",
-      "locations": [
-        "Poland Gdansk",
-        "Poland, Gdansk"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -816,7 +846,7 @@
       "category": "Software",
       "posted": "2026-10-20",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -831,7 +861,7 @@
       "category": "AI/ML",
       "posted": "2026-10-20",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -847,7 +877,7 @@
       "category": "Software",
       "posted": "2026-10-20",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -862,7 +892,7 @@
       "category": "Software",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -877,7 +907,7 @@
       "category": "Software",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -892,7 +922,7 @@
       "category": "Data",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Adobe",
@@ -907,7 +937,7 @@
       "category": "Software",
       "posted": "2026-10-31",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -922,7 +952,7 @@
       "category": "AI/ML",
       "posted": "2026-10-17",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -938,7 +968,7 @@
       "category": "Software",
       "posted": "2026-11-01",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -954,7 +984,7 @@
       "category": "Data",
       "posted": "2026-11-03",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -970,7 +1000,7 @@
       "category": "Software",
       "posted": "2026-10-16",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Microsoft",
@@ -985,7 +1015,7 @@
       "category": "AI/ML",
       "posted": "2026-09-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Meta",
@@ -1000,23 +1030,7 @@
       "category": "AI/ML",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-06"
-    },
-    {
-      "company": "Intel",
-      "title": "DevOps Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
-      "locations": [
-        "Poland Gdansk",
-        "Poland, Gdansk"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-10-24",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1031,7 +1045,7 @@
       "category": "Data",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Stripe",
@@ -1046,7 +1060,7 @@
       "category": "Software",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Stripe",
@@ -1061,7 +1075,7 @@
       "category": "Software",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Snowflake",
@@ -1076,7 +1090,7 @@
       "category": "Software",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -1091,7 +1105,7 @@
       "category": "Software",
       "posted": "2026-05-07",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -1106,7 +1120,7 @@
       "category": "Software",
       "posted": "2026-05-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -1121,7 +1135,7 @@
       "category": "Software",
       "posted": "2026-06-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -1136,7 +1150,7 @@
       "category": "Software",
       "posted": "2026-06-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -1151,7 +1165,7 @@
       "category": "Backend/Infra",
       "posted": "2026-08-24",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Qualcomm",
@@ -1166,7 +1180,7 @@
       "category": "Software",
       "posted": "2026-09-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Nokia",
@@ -1181,7 +1195,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Nokia",
@@ -1196,7 +1210,7 @@
       "category": "Data",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -1210,9 +1224,9 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-07",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -1228,7 +1242,7 @@
       "category": "Data",
       "posted": "2026-11-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -1244,7 +1258,7 @@
       "category": "Data",
       "posted": "2026-11-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -1260,7 +1274,7 @@
       "category": "Software",
       "posted": "2026-11-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -1276,7 +1290,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -1292,7 +1306,7 @@
       "category": "AI/ML",
       "posted": "2026-10-10",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "NVIDIA",
@@ -1308,7 +1322,7 @@
       "category": "AI/ML",
       "posted": "2026-10-10",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "MongoDB",
@@ -1323,7 +1337,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Microsoft",
@@ -1338,23 +1352,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
-    },
-    {
-      "company": "Intel",
-      "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675",
-      "locations": [
-        "Germany Munich",
-        "Germany, Munich"
-      ],
-      "city_tag": "Munich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -1370,7 +1368,7 @@
       "category": "Software",
       "posted": "2026-10-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -1386,7 +1384,7 @@
       "category": "Software",
       "posted": "2026-10-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -1402,7 +1400,7 @@
       "category": "AI/ML",
       "posted": "2026-10-09",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -1418,7 +1416,7 @@
       "category": "Software",
       "posted": "2026-10-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -1434,7 +1432,7 @@
       "category": "Software",
       "posted": "2026-10-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -1450,7 +1448,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -1466,7 +1464,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Intel",
@@ -1482,7 +1480,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "HPE",
@@ -1498,7 +1496,7 @@
       "category": "Data",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Google",
@@ -1514,7 +1512,7 @@
       "category": "Software",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Google",
@@ -1531,7 +1529,7 @@
       "category": "AI/ML",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Google",
@@ -1546,7 +1544,7 @@
       "category": "Data",
       "posted": "2026-09-03",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Google",
@@ -1561,7 +1559,7 @@
       "category": "Data",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Google",
@@ -1576,7 +1574,7 @@
       "category": "Data",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Google",
@@ -1591,7 +1589,7 @@
       "category": "Software",
       "posted": "2026-08-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Datadog",
@@ -1606,7 +1604,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Datadog",
@@ -1621,7 +1619,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Datadog",
@@ -1636,7 +1634,7 @@
       "category": "AI/ML",
       "posted": "2026-11-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Databricks",
@@ -1651,7 +1649,7 @@
       "category": "Software",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Databricks",
@@ -1666,7 +1664,7 @@
       "category": "Software",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Databricks",
@@ -1681,7 +1679,7 @@
       "category": "Software",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Cisco",
@@ -1696,7 +1694,7 @@
       "category": "Software",
       "posted": "2026-08-31",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Cisco",
@@ -1711,7 +1709,7 @@
       "category": "Software",
       "posted": "2026-09-04",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Cisco",
@@ -1726,7 +1724,7 @@
       "category": "Software",
       "posted": "2026-09-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -1741,7 +1739,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-07",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -1756,7 +1754,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -1771,7 +1769,7 @@
       "category": "AI/ML",
       "posted": "2026-09-16",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -1786,7 +1784,7 @@
       "category": "AI/ML",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -1801,7 +1799,7 @@
       "category": "QA",
       "posted": "2026-10-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Apple",
@@ -1816,7 +1814,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1831,7 +1829,7 @@
       "category": "Software",
       "posted": "2026-05-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1846,7 +1844,7 @@
       "category": "Software",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1861,7 +1859,7 @@
       "category": "Software",
       "posted": "2026-09-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1876,7 +1874,22 @@
       "category": "Software",
       "posted": "2026-09-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
+    },
+    {
+      "company": "Amazon",
+      "title": "Operations Engineering Intern -  start date Q2 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10541508/operations-engineering-intern-start-date-q2-2027",
+      "locations": [
+        "Clichy, Ile-de-France, FRA"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-09-15",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1891,7 +1904,7 @@
       "category": "Software",
       "posted": "2026-09-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1906,7 +1919,7 @@
       "category": "Software",
       "posted": "2026-09-22",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1921,7 +1934,7 @@
       "category": "Data",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1936,7 +1949,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1951,7 +1964,7 @@
       "category": "AI/ML",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1966,7 +1979,7 @@
       "category": "Security",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1981,7 +1994,7 @@
       "category": "Software",
       "posted": "2026-10-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -1996,7 +2009,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-06",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -2011,7 +2024,7 @@
       "category": "Security",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Amazon",
@@ -2026,7 +2039,7 @@
       "category": "Software",
       "posted": "2025-12-01",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -2039,9 +2052,9 @@
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-10-07",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -2054,9 +2067,9 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-07",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -2071,7 +2084,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -2084,9 +2097,9 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-07",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -2101,7 +2114,7 @@
       "category": "Software",
       "posted": "2026-11-03",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     {
       "company": "Accenture",
@@ -2114,9 +2127,9 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-10-07",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     }
   ]
 }
