@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-07 06:32:47 IST** · 📌 **62** open verified internships
+> 🕐 Last updated: **2026-11-08 06:20:30 IST** · 📌 **60** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (62)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (60)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -18,7 +18,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [AMD](#amd) | **1** |
 | [Amazon](#amazon) | **5** |
 | [Google](#google) | **7** |
-| [Intel](#intel) | **4** |
+| [Intel](#intel) | **2** |
 | [Meta](#meta) | **1** |
 | [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **2** |
@@ -70,8 +70,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Graphics Hardware Validation Undergraduate Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) | Hardware/Silicon | Toronto | 2026-11-06 | 2026-10-15 |
-| [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | AI/ML | Toronto | 2026-11-03 | 2026-10-15 |
 | [Compiler Engineering Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) | Backend/Infra | Toronto | 2026-10-23 | 2026-10-23 |
 | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | Backend/Infra | Toronto | 2026-10-16 | 2026-10-16 |
 
@@ -127,8 +125,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Digital Design Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721913672?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - Design Verification Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721913898?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-11-02 | 2026-11-03 |
-| [FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com) ✨ | QA | Ottawa, ON | 2026-10-30 | 2026-10-31 |
-| [FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com) ✨ | Hardware/Silicon | Vancouver | 2026-10-30 | 2026-10-31 |
+| [FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com) | QA | Ottawa, ON | 2026-10-30 | 2026-10-31 |
+| [FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com) | Hardware/Silicon | Vancouver | 2026-10-30 | 2026-10-31 |
 | [FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-10-29 | 2026-10-30 |
 | [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com) | QA | Toronto | 2026-10-28 | 2026-10-15 |
 | [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721828828?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-10-28 | 2026-10-29 |
@@ -156,8 +154,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664) ✨ | AI/ML | Toronto | 2026-10-30 | 2026-10-31 |
-| [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122) ✨ | AI/ML | Toronto | 2026-10-30 | 2026-10-31 |
+| [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664) | AI/ML | Toronto | 2026-10-30 | 2026-10-31 |
+| [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122) | AI/ML | Toronto | 2026-10-30 | 2026-10-31 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805) | Software | Toronto | 2026-10-29 | 2026-10-15 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Data | Toronto | 2026-10-29 | 2026-10-15 |
 | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) | Data | Toronto | 2026-10-29 | 2026-10-15 |

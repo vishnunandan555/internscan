@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-07 06:32:47 IST** · 📌 **37** open verified internships
+> 🕐 Last updated: **2026-11-08 06:20:30 IST** · 📌 **37** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -40,7 +40,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) ✨ | Software | London | 2026-10-30 | 2026-10-31 |
+| [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) | Software | London | 2026-10-30 | 2026-10-31 |
 | [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) | Software | London | 2026-10-26 | 2026-10-27 |
 | [2027 Software Dev Engineer Intern (Embedded Systems) - UK](https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) | Software | London | 2026-10-26 | 2026-10-27 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) | Security | London | 2026-10-13 | 2026-10-15 |
@@ -55,8 +55,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Technical Internship - Apple Wallet, Payments & Commerce](https://jobs.apple.com/en-us/details/200692619/technical-internship-apple-wallet-payments-commerce) ✨ | Software | London | 2026-10-30 | 2026-10-31 |
-| [Intern, Site Reliability Engineer, iCloud](https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud) ✨ | Backend/Infra | London | 2026-10-30 | 2026-10-31 |
+| [Technical Internship - Apple Wallet, Payments & Commerce](https://jobs.apple.com/en-us/details/200692619/technical-internship-apple-wallet-payments-commerce) | Software | London | 2026-10-30 | 2026-10-31 |
+| [Intern, Site Reliability Engineer, iCloud](https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud) | Backend/Infra | London | 2026-10-30 | 2026-10-31 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -66,7 +66,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) ✨ | Software | Glasgow Campus | 2026-11-03 | 2026-11-03 |
-| [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) ✨ | Data | Glasgow Campus | 2026-11-03 | 2026-10-31 |
+| [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) | Data | Glasgow Campus | 2026-11-03 | 2026-10-31 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -135,7 +135,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | AI/ML | Berkshire, Reading | 2026-11-04 | 2026-10-20 |
-| [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) ✨ | Security | Cambridge / Oxford | 2026-10-30 | 2026-10-31 |
+| [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Security | Cambridge / Oxford | 2026-10-30 | 2026-10-31 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
