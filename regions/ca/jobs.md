@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-08 06:20:30 IST** · 📌 **60** open verified internships
+> 🕐 Last updated: **2026-11-09 06:35:41 IST** · 📌 **59** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (60)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (59)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -23,7 +23,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **2** |
 | [Nokia](#nokia) | **2** |
-| [Qualcomm](#qualcomm) | **34** |
+| [Qualcomm](#qualcomm) | **33** |
 | [Stripe](#stripe) | **5** |
 
 ---
@@ -126,7 +126,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Design Verification Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721913769?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721913898?domain=qualcomm.com) ✨ | AI/ML | Markham, ON | 2026-11-02 | 2026-11-03 |
 | [FY27 Intern - High-Speed Electrical and Optical Systems Validation Co-Op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721874877?domain=qualcomm.com) | QA | Ottawa, ON | 2026-10-30 | 2026-10-31 |
-| [FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com) | Hardware/Silicon | Vancouver | 2026-10-30 | 2026-10-31 |
 | [FY27 Intern - Deep Learning Research Internship - Embodied AI - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721858024?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-10-29 | 2026-10-30 |
 | [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404?domain=qualcomm.com) | QA | Toronto | 2026-10-28 | 2026-10-15 |
 | [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721828828?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-10-28 | 2026-10-29 |
