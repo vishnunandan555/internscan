@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-09 06:35:41 IST** · 📌 **37** open verified internships
+> 🕐 Last updated: **2026-11-10 09:12:30 IST** · 📌 **36** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (37)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (36)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -24,7 +24,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [HPE](#hpe) | **1** |
 | [JPMorgan Chase](#jpmorgan-chase) | **2** |
 | [Meta](#meta) | **8** |
-| [Microsoft](#microsoft) | **2** |
+| [Microsoft](#microsoft) | **1** |
 | [NVIDIA](#nvidia) | **1** |
 | [Qualcomm](#qualcomm) | **1** |
 | [Stripe](#stripe) | **1** |
@@ -134,7 +134,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | AI/ML | Berkshire, Reading | 2026-11-04 | 2026-10-20 |
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Security | Cambridge / Oxford | 2026-10-30 | 2026-10-31 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)

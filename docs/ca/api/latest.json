@@ -1,10 +1,42 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-09T01:05:41Z",
-  "new_count": 0,
-  "reopened_count": 0,
-  "total_active": 59,
-  "new_jobs": [],
-  "reopened_jobs": []
+  "updated_at": "2026-11-10T03:42:30Z",
+  "new_count": 1,
+  "reopened_count": 1,
+  "total_active": 58,
+  "new_jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Firmware Engineering Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446722038614?domain=qualcomm.com",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "city_tag": "Toronto",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-11-10"
+    }
+  ]
 }

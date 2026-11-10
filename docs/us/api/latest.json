@@ -1,10 +1,151 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-09T01:05:41Z",
-  "new_count": 0,
+  "updated_at": "2026-11-10T03:42:30Z",
+  "new_count": 9,
   "reopened_count": 0,
-  "total_active": 405,
-  "new_jobs": [],
+  "total_active": 403,
+  "new_jobs": [
+    {
+      "company": "Cisco",
+      "title": "Software Engineer Full-Stack / Backend I (Intern) – United States",
+      "url": "https://careers.cisco.com/global/en/job/2024647",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "company": "HPE",
+      "title": "Electrical Hardware Engineer Intern",
+      "url": "https://careers.hpe.com/us/en/job/1214992",
+      "locations": [
+        "Sunnyvale, California, 94089",
+        "Sunnyvale, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-08",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "company": "HPE",
+      "title": "Strategic Sourcing AI & Automation Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213039",
+      "locations": [
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Next-Generation AI Agents",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "company": "Nokia",
+      "title": "Defense Software Test & AI Co-Op",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196",
+      "locations": [
+        "United States"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "QA",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern,  AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/2432079507324778",
+      "locations": [
+        "Menlo Park, CA",
+        "Sunnyvale, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Computational Photography & Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/1670489511324528",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Strategic Sourcing Manager Intern — Reality Labs Hardware (2027)",
+      "url": "https://www.metacareers.com/jobs/1632929388311563",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-10-26",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    }
+  ],
   "reopened_jobs": []
 }
