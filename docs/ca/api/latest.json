@@ -1,42 +1,132 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-10T03:42:30Z",
-  "new_count": 1,
+  "updated_at": "2026-11-11T01:22:21Z",
+  "new_count": 7,
   "reopened_count": 1,
-  "total_active": 58,
+  "total_active": 64,
   "new_jobs": [
     {
+      "company": "AMD",
+      "title": "Short Term 2027 Data Analyst Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91311",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-09-01",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
+    },
+    {
+      "company": "AMD",
+      "title": "Summer 2027 Long Term Hardware Design Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/90367",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-01",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
+    },
+    {
+      "company": "AMD",
+      "title": "Summer 2027 Long Term Hardware Design Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/90372",
+      "locations": [
+        "VANCOUVER, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Hardware/Silicon",
+      "posted": "2026-09-01",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
+    },
+    {
+      "company": "AMD",
+      "title": "Summer 2027 Long Term Firmware Engineering Intern/Co-op",
+      "url": "https://careers.amd.com/careers-home/jobs/90301",
+      "locations": [
+        "VANCOUVER, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-09-01",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
+    },
+    {
+      "company": "AMD",
+      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91367",
+      "locations": [
+        "VANCOUVER, Canada"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-01",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
+    },
+    {
+      "company": "AMD",
+      "title": "Summer 2027 Long Term Firmware Engineering Intern/Co-op",
+      "url": "https://careers.amd.com/careers-home/jobs/90297",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-09-01",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
+    },
+    {
+      "company": "AMD",
+      "title": "Summer 2027 Long Term Software Engineering Intern/Co-op",
+      "url": "https://careers.amd.com/careers-home/jobs/90425",
+      "locations": [
+        "MARKHAM, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-01",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
+    }
+  ],
+  "reopened_jobs": [
+    {
       "company": "Qualcomm",
-      "title": "FY27 Intern - Firmware Engineering Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446722038614?domain=qualcomm.com",
+      "title": "FY27 Intern - Digital Design Engineering Intern - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446722005254?domain=qualcomm.com",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
       "city_tag": "Toronto",
       "country": "ca",
       "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    }
-  ],
-  "reopened_jobs": [
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446721829462?domain=qualcomm.com",
-      "locations": [
-        "Vancouver, British Columbia, Canada"
-      ],
-      "city_tag": "Vancouver",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-10-30",
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10"
+      "category": "Software",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-11"
     }
   ]
 }

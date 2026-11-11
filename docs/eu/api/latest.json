@@ -1,102 +1,57 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-10T03:42:30Z",
-  "new_count": 5,
-  "reopened_count": 1,
-  "total_active": 139,
+  "updated_at": "2026-11-11T01:22:21Z",
+  "new_count": 3,
+  "reopened_count": 0,
+  "total_active": 136,
   "new_jobs": [
     {
-      "company": "Adobe",
-      "title": "2027 Intern- Security Engineer",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468",
+      "company": "Amazon",
+      "title": "Applied Scientist Intern - VLA and DATA, RIVR",
+      "url": "https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr",
       "locations": [
-        "Bucharest"
+        "Zurich, Zurich, CHE"
       ],
-      "city_tag": "Europe (Other)",
+      "city_tag": "Zurich",
       "country": "eu",
       "region": "EMEA",
-      "category": "Security",
+      "category": "AI/ML",
       "posted": "2026-11-10",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Hardware Design for Post-Quantum Cryptography - 6 months, Sophia",
-      "url": "https://careers.qualcomm.com/careers/job/446722029766?domain=qualcomm.com",
-      "locations": [
-        "Bainbridge, Alpes-de-Haute-Provence, France"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
     },
     {
       "company": "Microsoft",
-      "title": "Silicon Engineering INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557053762",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044053",
       "locations": [
         "Finland, Satakunta, Tampere"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
+      "category": "Software",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
     },
     {
-      "company": "Microsoft",
-      "title": "Cloud Solution Architecture INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041284",
+      "company": "Micron",
+      "title": "Intern EDG - Robotics UM exploration",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Vimercate-MB-Italy/Intern-EDG---Robotics-UM-exploration_JR114721",
       "locations": [
-        "Netherlands, Noord-Holland, Schiphol"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Cloud Solution Architecture INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557041287",
-      "locations": [
-        "Germany, Multiple Locations, Multiple Locations"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    }
-  ],
-  "reopened_jobs": [
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg",
-      "url": "https://careers.qualcomm.com/careers/job/446721901932?domain=qualcomm.com",
-      "locations": [
-        "Strasbourg, France"
+        "Vimercate (MB), Italy",
+        "Vimercate MB Italy"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10"
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11"
     }
-  ]
+  ],
+  "reopened_jobs": []
 }

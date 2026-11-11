@@ -2,21 +2,21 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-10 09:12:30 IST** · 📌 **36** open verified internships
+> 🕐 Last updated: **2026-11-11 06:52:21 IST** · 📌 **37** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (36)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (37)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United Kingdom |
 |---|:---:|
 | [Amazon](#amazon) | **8** |
-| [Apple](#apple) | **3** |
+| [Apple](#apple) | **4** |
 | [Barclays](#barclays) | **2** |
 | [Cisco](#cisco) | **2** |
 | [Databricks](#databricks) | **1** |
@@ -55,6 +55,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Virtualisation Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualisation-software-engineering-internship-coreos) ✨ | Software | London | 2026-11-10 | 2026-11-11 |
 | [Technical Internship - Apple Wallet, Payments & Commerce](https://jobs.apple.com/en-us/details/200692619/technical-internship-apple-wallet-payments-commerce) | Software | London | 2026-10-30 | 2026-10-31 |
 | [Intern, Site Reliability Engineer, iCloud](https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud) | Backend/Infra | London | 2026-10-30 | 2026-10-31 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
@@ -65,7 +66,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) ✨ | Software | Glasgow Campus | 2026-11-03 | 2026-11-03 |
+| [2027 Technology Developer Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) | Software | Glasgow Campus | 2026-11-03 | 2026-11-03 |
 | [2027 Customer and Digital - Data and Analytics Summer Internship Programme Glasgow](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) | Data | Glasgow Campus | 2026-11-03 | 2026-10-31 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)

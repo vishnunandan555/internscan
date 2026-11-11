@@ -1,49 +1,128 @@
 {
-  "updated_at": "2026-11-10T03:42:30Z",
+  "updated_at": "2026-11-11T01:22:21Z",
   "jobs": {
-    "nokia:41196": {
-      "uid": "nokia:41196",
-      "company": "Nokia",
-      "external_id": "41196",
-      "title": "Defense Software Test & AI Co-Op",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196",
+    "walmart-global-tech:R-2690193": {
+      "uid": "walmart-global-tech:R-2690193",
+      "company": "Walmart Global Tech",
+      "external_id": "R-2690193",
+      "title": "Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery",
+      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193",
       "locations": [
-        "United States"
+        "Bentonville AR",
+        "Bentonville, AR"
       ],
-      "category": "QA",
+      "category": "Data",
       "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
       "active": true
     },
-    "microsoft:1970393557070079": {
-      "uid": "microsoft:1970393557070079",
-      "company": "Microsoft",
-      "external_id": "1970393557070079",
-      "title": "Research Intern - Next-Generation AI Agents",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
+    "salesforce:JR366655": {
+      "uid": "salesforce:JR366655",
+      "company": "Salesforce",
+      "external_id": "JR366655",
+      "title": "Summer 2027 Intern - AI Research Incubator",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655",
       "locations": [
-        "United States, Washington, Redmond"
+        "2 Locations",
+        "California, Palo Alto"
       ],
       "category": "AI/ML",
-      "city_tag": "Seattle",
+      "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
       "active": true
     },
-    "meta:2432079507324778": {
-      "uid": "meta:2432079507324778",
-      "company": "Meta",
-      "external_id": "2432079507324778",
-      "title": "Research Scientist Intern,  AI Core Machine Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/2432079507324778",
+    "salesforce:JR367516": {
+      "uid": "salesforce:JR367516",
+      "company": "Salesforce",
+      "external_id": "JR367516",
+      "title": "Summer 2027 Intern - Applied AI Strategy & Research",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1",
       "locations": [
+        "California - San Francisco",
+        "California, San Francisco"
+      ],
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "active": true
+    },
+    "nvidia:JR2029119": {
+      "uid": "nvidia:JR2029119",
+      "company": "NVIDIA",
+      "external_id": "JR2029119",
+      "title": "AI Operations Intern, AI Clouds - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+      "locations": [
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
+      ],
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "active": true
+    },
+    "nvidia:JR2029523": {
+      "uid": "nvidia:JR2029523",
+      "company": "NVIDIA",
+      "external_id": "JR2029523",
+      "title": "Financial Analyst Intern, Hardware FP&A - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1",
+      "locations": [
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
+      ],
+      "category": "Hardware/Silicon",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "active": true
+    },
+    "nvidia:JR2029541": {
+      "uid": "nvidia:JR2029541",
+      "company": "NVIDIA",
+      "external_id": "JR2029541",
+      "title": "Performance Engineering Intern, Platform Performance and Power -  Spring 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+      "locations": [
+        "US CA Santa Clara",
+        "US, CA, Santa Clara"
+      ],
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "active": true
+    },
+    "meta:997597222780035": {
+      "uid": "meta:997597222780035",
+      "company": "Meta",
+      "external_id": "997597222780035",
+      "title": "Research Scientist Intern, Foundation Model Optimization (PhD)",
+      "url": "https://www.metacareers.com/jobs/997597222780035",
+      "locations": [
+        "Burlingame, CA",
         "Menlo Park, CA",
         "Sunnyvale, CA"
       ],
@@ -51,91 +130,91 @@
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
       "active": true
     },
-    "meta:1670489511324528": {
-      "uid": "meta:1670489511324528",
+    "meta:1100150399514897": {
+      "uid": "meta:1100150399514897",
       "company": "Meta",
-      "external_id": "1670489511324528",
-      "title": "Research Scientist Intern, Computational Photography & Computer Vision (PhD)",
-      "url": "https://www.metacareers.com/jobs/1670489511324528",
+      "external_id": "1100150399514897",
+      "title": "Research Scientist Intern, Audio Systems (PhD)",
+      "url": "https://www.metacareers.com/jobs/1100150399514897",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "active": true
+    },
+    "meta:1560905132724186": {
+      "uid": "meta:1560905132724186",
+      "company": "Meta",
+      "external_id": "1560905132724186",
+      "title": "Research Intern — Neural Network Training and Hardware–Software Co-Design",
+      "url": "https://www.metacareers.com/jobs/1560905132724186",
       "locations": [
         "Redmond, WA"
       ],
-      "category": "AI/ML",
+      "category": "Backend/Infra",
       "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
       "active": true
     },
-    "meta:1632929388311563": {
-      "uid": "meta:1632929388311563",
-      "company": "Meta",
-      "external_id": "1632929388311563",
-      "title": "Strategic Sourcing Manager Intern — Reality Labs Hardware (2027)",
-      "url": "https://www.metacareers.com/jobs/1632929388311563",
+    "intel:JR0288637": {
+      "uid": "intel:JR0288637",
+      "company": "Intel",
+      "external_id": "JR0288637",
+      "title": "HR IT Software Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637",
       "locations": [
-        "Menlo Park, CA"
+        "Costa Rica San Jose",
+        "Costa Rica, San Jose"
+      ],
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "active": true
+    },
+    "hpe:1218701": {
+      "uid": "hpe:1218701",
+      "company": "HPE",
+      "external_id": "1218701",
+      "title": "Wireless Hardware Engineering Intern",
+      "url": "https://careers.hpe.com/us/en/job/1218701",
+      "locations": [
+        "San Jose, California, 95002",
+        "San Jose, California, United States of America"
       ],
       "category": "Hardware/Silicon",
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-10-26",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "active": true
-    },
-    "hpe:1214992": {
-      "uid": "hpe:1214992",
-      "company": "HPE",
-      "external_id": "1214992",
-      "title": "Electrical Hardware Engineer Intern",
-      "url": "https://careers.hpe.com/us/en/job/1214992",
-      "locations": [
-        "Sunnyvale, California, 94089",
-        "Sunnyvale, California, United States of America"
-      ],
-      "category": "Hardware/Silicon",
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "posted": "2026-11-08",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "active": true
-    },
-    "hpe:1213039": {
-      "uid": "hpe:1213039",
-      "company": "HPE",
-      "external_id": "1213039",
-      "title": "Strategic Sourcing AI & Automation Intern",
-      "url": "https://careers.hpe.com/us/en/job/1213039",
-      "locations": [
-        "Spring, Texas, 77389-1767",
-        "Spring, Texas, United States of America"
-      ],
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
       "active": true
     },
-    "cisco:2024647": {
-      "uid": "cisco:2024647",
+    "cisco:2024641": {
+      "uid": "cisco:2024641",
       "company": "Cisco",
-      "external_id": "2024647",
-      "title": "Software Engineer Full-Stack / Backend I (Intern) – United States",
-      "url": "https://careers.cisco.com/global/en/job/2024647",
+      "external_id": "2024641",
+      "title": "Software Engineer Embedded Systems I (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024641",
       "locations": [
         "Austin, Texas, United States of America",
         "Research Triangle Park, North Carolina, United States of America",
@@ -145,28 +224,195 @@
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "posted": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
       "active": true
+    },
+    "apple:200694037": {
+      "uid": "apple:200694037",
+      "company": "Apple",
+      "external_id": "200694037",
+      "title": "Machine Learning Engineering Intern, Personal Agentic Search",
+      "url": "https://jobs.apple.com/en-us/details/200694037/machine-learning-engineering-intern-personal-agentic-search",
+      "locations": [
+        "Cambridge"
+      ],
+      "category": "AI/ML",
+      "city_tag": "Boston",
+      "country": "us",
+      "region": "AMER",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "active": true
+    },
+    "nokia:41196": {
+      "uid": "nokia:41196",
+      "active": true,
+      "category": "QA",
+      "city_tag": "US (Other)",
+      "company": "Nokia",
+      "country": "us",
+      "external_id": "41196",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "United States"
+      ],
+      "posted": "2026-11-09",
+      "region": "AMER",
+      "title": "Defense Software Test & AI Co-Op",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196"
+    },
+    "microsoft:1970393557070079": {
+      "uid": "microsoft:1970393557070079",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Microsoft",
+      "country": "us",
+      "external_id": "1970393557070079",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-11-09",
+      "region": "AMER",
+      "title": "Research Intern - Next-Generation AI Agents",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079"
+    },
+    "meta:1632929388311563": {
+      "uid": "meta:1632929388311563",
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1632929388311563",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": "2026-10-26",
+      "region": "AMER",
+      "title": "Strategic Sourcing Manager Intern — Reality Labs Hardware (2027)",
+      "url": "https://www.metacareers.com/jobs/1632929388311563"
+    },
+    "meta:1670489511324528": {
+      "uid": "meta:1670489511324528",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "Seattle",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "1670489511324528",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": "2026-11-09",
+      "region": "AMER",
+      "title": "Research Scientist Intern, Computational Photography & Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/1670489511324528"
+    },
+    "meta:2432079507324778": {
+      "uid": "meta:2432079507324778",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Meta",
+      "country": "us",
+      "external_id": "2432079507324778",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Menlo Park, CA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-11-09",
+      "region": "AMER",
+      "title": "Research Scientist Intern,  AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/2432079507324778"
+    },
+    "hpe:1213039": {
+      "uid": "hpe:1213039",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "US (Other)",
+      "company": "HPE",
+      "country": "us",
+      "external_id": "1213039",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
+      ],
+      "posted": "2026-11-09",
+      "region": "AMER",
+      "title": "Strategic Sourcing AI & Automation Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213039"
+    },
+    "hpe:1214992": {
+      "uid": "hpe:1214992",
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "SF Bay Area",
+      "company": "HPE",
+      "country": "us",
+      "external_id": "1214992",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Sunnyvale, California, 94089",
+        "Sunnyvale, California, United States of America"
+      ],
+      "posted": "2026-11-08",
+      "region": "AMER",
+      "title": "Electrical Hardware Engineer Intern",
+      "url": "https://careers.hpe.com/us/en/job/1214992"
+    },
+    "cisco:2024647": {
+      "uid": "cisco:2024647",
+      "active": true,
+      "category": "Software",
+      "city_tag": "SF Bay Area",
+      "company": "Cisco",
+      "country": "us",
+      "external_id": "2024647",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-11-09",
+      "region": "AMER",
+      "title": "Software Engineer Full-Stack / Backend I (Intern) – United States",
+      "url": "https://careers.cisco.com/global/en/job/2024647"
     },
     "amazon:10597379": {
       "uid": "amazon:10597379",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Seattle",
       "company": "Amazon",
+      "country": "us",
       "external_id": "10597379",
-      "title": "Software Development Engineer Intern - Summer 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
-      "category": "Software",
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
       "posted": "2026-11-05",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "active": true
+      "region": "AMER",
+      "title": "Software Development Engineer Intern - Summer 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027"
     },
     "nvidia:JR2028260": {
       "uid": "nvidia:JR2028260",
@@ -177,7 +423,7 @@
       "country": "us",
       "external_id": "JR2028260",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "3 Locations",
         "US CA Santa Clara"
@@ -196,7 +442,7 @@
       "country": "us",
       "external_id": "1970393557056017",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, New York, New York"
@@ -215,7 +461,7 @@
       "country": "us",
       "external_id": "1161973130109332",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA",
         "Sunnyvale, CA"
@@ -234,7 +480,7 @@
       "country": "us",
       "external_id": "1406087328180524",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, WA"
       ],
@@ -252,7 +498,7 @@
       "country": "us",
       "external_id": "1414987577372371",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -270,7 +516,7 @@
       "country": "us",
       "external_id": "1667187061776108",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -288,7 +534,7 @@
       "country": "us",
       "external_id": "1750797606003820",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY"
@@ -307,7 +553,7 @@
       "country": "us",
       "external_id": "1826604892017856",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "Sunnyvale, CA"
@@ -326,7 +572,7 @@
       "country": "us",
       "external_id": "1895256495232542",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -344,7 +590,7 @@
       "country": "us",
       "external_id": "302334",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Austin, TX, United States"
       ],
@@ -362,7 +608,7 @@
       "country": "us",
       "external_id": "R30780",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "USA - Arlington, VA",
         "USA, Arlington VA"
@@ -381,7 +627,7 @@
       "country": "us",
       "external_id": "R-2686828",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "(USA) J Street Offices, Suite #2 AR BENTONVILLE Home Office",
         "USA J Street Offices Suite 2 AR BENTONVILLE Home Office"
@@ -400,7 +646,7 @@
       "country": "us",
       "external_id": "R0138579",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Jose California United States of America",
         "San Jose, California, United States of America"
@@ -419,7 +665,7 @@
       "country": "us",
       "external_id": "R0138581",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Jose California United States of America",
         "San Jose, California, United States of America"
@@ -438,7 +684,7 @@
       "country": "us",
       "external_id": "R0138582",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Jose California United States of America",
         "San Jose, California, United States of America"
@@ -457,7 +703,7 @@
       "country": "us",
       "external_id": "R0138583",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "San Jose California United States of America"
@@ -476,7 +722,7 @@
       "country": "us",
       "external_id": "R0138586",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "San Jose California United States of America"
@@ -495,7 +741,7 @@
       "country": "us",
       "external_id": "R0138587",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "4 Locations",
         "San Jose California United States of America"
@@ -514,7 +760,7 @@
       "country": "us",
       "external_id": "JR2028148",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -533,7 +779,7 @@
       "country": "us",
       "external_id": "JR0287529",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US California Folsom",
         "US, California, Folsom"
@@ -552,7 +798,7 @@
       "country": "us",
       "external_id": "1213393",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Spring, Texas, 77389-1767",
         "Spring, Texas, United States of America"
@@ -571,7 +817,7 @@
       "country": "us",
       "external_id": "JR2026798",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -590,7 +836,7 @@
       "country": "us",
       "external_id": "JR2027548",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -609,7 +855,7 @@
       "country": "us",
       "external_id": "1970393557054069",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -627,7 +873,7 @@
       "country": "us",
       "external_id": "1218542847568705",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Boston, MA",
         "Redmond, WA"
@@ -646,7 +892,7 @@
       "country": "us",
       "external_id": "1296272445973940",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -664,7 +910,7 @@
       "country": "us",
       "external_id": "1832390484751700",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -682,7 +928,7 @@
       "country": "us",
       "external_id": "1883872846321140",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -700,7 +946,7 @@
       "country": "us",
       "external_id": "1920724172670221",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA",
@@ -720,7 +966,7 @@
       "country": "us",
       "external_id": "2111078129773109",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA"
       ],
@@ -738,7 +984,7 @@
       "country": "us",
       "external_id": "2439439363131036",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, WA"
       ],
@@ -756,7 +1002,7 @@
       "country": "us",
       "external_id": "2572072169967580",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Burlingame, CA",
         "Cambridge, MA",
@@ -777,7 +1023,7 @@
       "country": "us",
       "external_id": "2862704290847533",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -795,7 +1041,7 @@
       "country": "us",
       "external_id": "JR0288833",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "US Oregon Hillsboro"
@@ -814,7 +1060,7 @@
       "country": "us",
       "external_id": "1970393557037859",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -832,7 +1078,7 @@
       "country": "us",
       "external_id": "1125383989877928",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -850,7 +1096,7 @@
       "country": "us",
       "external_id": "1450222650641899",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -868,7 +1114,7 @@
       "country": "us",
       "external_id": "1838454487574865",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -886,7 +1132,7 @@
       "country": "us",
       "external_id": "993713283787464",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "San Francisco, CA"
@@ -905,7 +1151,7 @@
       "country": "us",
       "external_id": "1214170",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Westford, Massachusetts, 01886",
         "Westford, Massachusetts, United States of America"
@@ -924,7 +1170,7 @@
       "country": "us",
       "external_id": "JR2028699",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -943,7 +1189,7 @@
       "country": "us",
       "external_id": "JR2028995",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -962,7 +1208,7 @@
       "country": "us",
       "external_id": "JR2029220",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US TX Austin",
         "US, TX, Austin"
@@ -971,25 +1217,6 @@
       "region": "AMER",
       "title": "AI Compiler and Kernel Intern – Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
-    },
-    "micron:JR116161": {
-      "uid": "micron:JR116161",
-      "active": true,
-      "category": "Frontend",
-      "city_tag": "US (Other)",
-      "company": "Micron",
-      "country": "us",
-      "external_id": "JR116161",
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "Boise ID, North Office",
-        "Boise, ID - North Office"
-      ],
-      "posted": "2026-11-03",
-      "region": "AMER",
-      "title": "Intern - Front End Materials Category Supplier Manager (CSM)",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161"
     },
     "meta:1143164681833409": {
       "uid": "meta:1143164681833409",
@@ -1000,7 +1227,7 @@
       "country": "us",
       "external_id": "1143164681833409",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -1018,7 +1245,7 @@
       "country": "us",
       "external_id": "1872420890835857",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -1036,7 +1263,7 @@
       "country": "us",
       "external_id": "1903232531024141",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA",
@@ -1056,7 +1283,7 @@
       "country": "us",
       "external_id": "JR-0000129173",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Knutsford Radbroke Hall",
         "Knutsford, Radbroke Hall"
@@ -1075,7 +1302,7 @@
       "country": "us",
       "external_id": "JR-0000129381",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Knutsford Radbroke Hall",
         "Knutsford, Radbroke Hall"
@@ -1094,7 +1321,7 @@
       "country": "us",
       "external_id": "10594714",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Arlington, Virginia, USA"
       ],
@@ -1112,7 +1339,7 @@
       "country": "us",
       "external_id": "1970393556922930",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -1130,7 +1357,7 @@
       "country": "us",
       "external_id": "8328662",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Francisco, New York City, Seattle"
       ],
@@ -1148,7 +1375,7 @@
       "country": "us",
       "external_id": "8333074",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Francisco, New York City, Seattle"
       ],
@@ -1166,7 +1393,7 @@
       "country": "us",
       "external_id": "JR366248",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "California, San Francisco"
@@ -1185,7 +1412,7 @@
       "country": "us",
       "external_id": "40848",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -1203,7 +1430,7 @@
       "country": "us",
       "external_id": "1126899676481179",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA"
@@ -1222,7 +1449,7 @@
       "country": "us",
       "external_id": "1155292783739299",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -1240,7 +1467,7 @@
       "country": "us",
       "external_id": "1358944629494375",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Pittsburgh, PA",
         "Redmond, WA"
@@ -1259,7 +1486,7 @@
       "country": "us",
       "external_id": "1553890293163197",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA"
       ],
@@ -1277,7 +1504,7 @@
       "country": "us",
       "external_id": "957720287051540",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Burlingame, CA"
       ],
@@ -1295,7 +1522,7 @@
       "country": "us",
       "external_id": "JR-0000137731",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "New York 745 7th Avenue",
         "New York, 745 7th Avenue"
@@ -1314,7 +1541,7 @@
       "country": "us",
       "external_id": "10593521",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -1332,7 +1559,7 @@
       "country": "us",
       "external_id": "R-2690457",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "(USA) Always AR Bentonville Home Office",
         "USA Always AR Bentonville Home Office"
@@ -1351,7 +1578,7 @@
       "country": "us",
       "external_id": "R-2690844",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "(USA) Always AR Bentonville Home Office",
         "USA Always AR Bentonville Home Office"
@@ -1370,7 +1597,7 @@
       "country": "us",
       "external_id": "JR2026799",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -1389,7 +1616,7 @@
       "country": "us",
       "external_id": "JR2028607",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US WA Redmond",
         "US, WA, Redmond"
@@ -1408,7 +1635,7 @@
       "country": "us",
       "external_id": "1970393557050150",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -1426,7 +1653,7 @@
       "country": "us",
       "external_id": "1970393557050154",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -1444,7 +1671,7 @@
       "country": "us",
       "external_id": "1060093353751700",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "Sunnyvale, CA"
@@ -1463,7 +1690,7 @@
       "country": "us",
       "external_id": "1105933535765181",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Seattle, WA"
@@ -1482,7 +1709,7 @@
       "country": "us",
       "external_id": "2355649268510104",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -1500,7 +1727,7 @@
       "country": "us",
       "external_id": "4603165899971826",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -1518,7 +1745,7 @@
       "country": "us",
       "external_id": "1214028",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Roseville, California, 95747",
         "Roseville, California, United States of America"
@@ -1537,7 +1764,7 @@
       "country": "us",
       "external_id": "1970393557049981",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -1555,7 +1782,7 @@
       "country": "us",
       "external_id": "10591833",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "North Reading, Massachusetts, USA"
       ],
@@ -1573,7 +1800,7 @@
       "country": "us",
       "external_id": "1567168005156007",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY"
@@ -1592,7 +1819,7 @@
       "country": "us",
       "external_id": "1625515955324134",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA",
@@ -1612,7 +1839,7 @@
       "country": "us",
       "external_id": "1691709792593561",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY"
@@ -1631,7 +1858,7 @@
       "country": "us",
       "external_id": "1751935042548465",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA"
@@ -1650,7 +1877,7 @@
       "country": "us",
       "external_id": "1789380188995838",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA"
@@ -1669,7 +1896,7 @@
       "country": "us",
       "external_id": "1881250979530334",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -1687,7 +1914,7 @@
       "country": "us",
       "external_id": "2368433610564528",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -1705,7 +1932,7 @@
       "country": "us",
       "external_id": "29358420983776961",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "Seattle, WA"
@@ -1724,7 +1951,7 @@
       "country": "us",
       "external_id": "984204394727196",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA"
       ],
@@ -1742,7 +1969,7 @@
       "country": "us",
       "external_id": "1214067",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -1761,7 +1988,7 @@
       "country": "us",
       "external_id": "10590290",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -1779,7 +2006,7 @@
       "country": "us",
       "external_id": "10590368",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -1787,44 +2014,6 @@
       "region": "AMER",
       "title": "Network Development Engineer Intern, 2027 Summer",
       "url": "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer"
-    },
-    "wells-fargo:R-583066": {
-      "uid": "wells-fargo:R-583066",
-      "active": true,
-      "category": "Data",
-      "city_tag": "US (Other)",
-      "company": "Wells Fargo",
-      "country": "us",
-      "external_id": "R-583066",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "3 Locations",
-        "CHARLOTTE NC"
-      ],
-      "posted": "2026-10-27",
-      "region": "AMER",
-      "title": "2027 Technology Summer Internship – Early Careers (Data Engineering)",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066"
-    },
-    "wells-fargo:R-583417": {
-      "uid": "wells-fargo:R-583417",
-      "active": true,
-      "category": "Security",
-      "city_tag": "US (Other)",
-      "company": "Wells Fargo",
-      "country": "us",
-      "external_id": "R-583417",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "3 Locations",
-        "CHARLOTTE NC"
-      ],
-      "posted": "2026-10-27",
-      "region": "AMER",
-      "title": "2027 Technology Summer Internship - Early Careers (Cybersecurity)",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
     },
     "meta:1160814043168431": {
       "uid": "meta:1160814043168431",
@@ -1835,7 +2024,7 @@
       "country": "us",
       "external_id": "1160814043168431",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA"
@@ -1854,7 +2043,7 @@
       "country": "us",
       "external_id": "1471718241508516",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Burlingame, CA"
       ],
@@ -1872,7 +2061,7 @@
       "country": "us",
       "external_id": "1653804269586821",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -1890,7 +2079,7 @@
       "country": "us",
       "external_id": "2171476533578976",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -1908,7 +2097,7 @@
       "country": "us",
       "external_id": "3265378000517806",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -1926,7 +2115,7 @@
       "country": "us",
       "external_id": "4070678619908522",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -1944,7 +2133,7 @@
       "country": "us",
       "external_id": "938682979075854",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -1962,7 +2151,7 @@
       "country": "us",
       "external_id": "1217413",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Jose, California, N/A",
         "San Jose, California, United States of America"
@@ -1981,7 +2170,7 @@
       "country": "us",
       "external_id": "2024991",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Carlsbad, California, United States of America",
         "San Jose, California, United States of America"
@@ -2000,7 +2189,7 @@
       "country": "us",
       "external_id": "301412",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "TX, United States"
       ],
@@ -2018,7 +2207,7 @@
       "country": "us",
       "external_id": "301413",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "TX, United States"
       ],
@@ -2036,7 +2225,7 @@
       "country": "us",
       "external_id": "JR2026949",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -2055,7 +2244,7 @@
       "country": "us",
       "external_id": "JR2027089",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "3 Locations",
         "US WA Redmond"
@@ -2074,13 +2263,13 @@
       "country": "us",
       "external_id": "8209134",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Austin",
         "New York City",
         "San Francisco"
       ],
-      "posted": "2026-11-05",
+      "posted": "2026-11-10",
       "region": "AMER",
       "title": "2027 - Software Engineering Intern, AMER",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
@@ -2094,7 +2283,7 @@
       "country": "us",
       "external_id": "1023154190171838",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA",
@@ -2114,7 +2303,7 @@
       "country": "us",
       "external_id": "1081255008061721",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "New York, NY",
         "Seattle, WA"
@@ -2133,7 +2322,7 @@
       "country": "us",
       "external_id": "1136354555738164",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -2151,7 +2340,7 @@
       "country": "us",
       "external_id": "1416549056773684",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -2169,7 +2358,7 @@
       "country": "us",
       "external_id": "1582569213186235",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY"
@@ -2188,7 +2377,7 @@
       "country": "us",
       "external_id": "1648122343381284",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA",
@@ -2209,7 +2398,7 @@
       "country": "us",
       "external_id": "2162858564439476",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Francisco, CA"
       ],
@@ -2227,7 +2416,7 @@
       "country": "us",
       "external_id": "2322361288548512",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Boston, MA",
@@ -2250,7 +2439,7 @@
       "country": "us",
       "external_id": "2356892281747003",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Boston, MA",
@@ -2273,7 +2462,7 @@
       "country": "us",
       "external_id": "2554989011673624",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -2291,7 +2480,7 @@
       "country": "us",
       "external_id": "2615214025585454",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "New York, NY",
@@ -2311,7 +2500,7 @@
       "country": "us",
       "external_id": "29044546168568671",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA"
@@ -2330,7 +2519,7 @@
       "country": "us",
       "external_id": "932919123033502",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA"
@@ -2349,7 +2538,7 @@
       "country": "us",
       "external_id": "JR0287533",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "US California Santa Clara"
@@ -2368,7 +2557,7 @@
       "country": "us",
       "external_id": "1213409",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Chippewa Falls, Wisconsin, 54729",
         "Chippewa Falls, Wisconsin, United States of America"
@@ -2387,7 +2576,7 @@
       "country": "us",
       "external_id": "1214234",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Durham, North Carolina, 27703",
         "Durham, North Carolina, United States of America"
@@ -2406,7 +2595,7 @@
       "country": "us",
       "external_id": "6866538002",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Mountain View, California",
         "San Francisco, California"
@@ -2425,7 +2614,7 @@
       "country": "us",
       "external_id": "10585775",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Arlington, Virginia, USA"
       ],
@@ -2443,7 +2632,7 @@
       "country": "us",
       "external_id": "10587087",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "North Reading, Massachusetts, USA"
       ],
@@ -2461,7 +2650,7 @@
       "country": "us",
       "external_id": "10587999",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, Washington, USA"
       ],
@@ -2479,7 +2668,7 @@
       "country": "us",
       "external_id": "JR2026962",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -2498,7 +2687,7 @@
       "country": "us",
       "external_id": "1970393557044765",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Massachusetts, Cambridge"
       ],
@@ -2506,25 +2695,6 @@
       "region": "AMER",
       "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765"
-    },
-    "meta:1075160338670575": {
-      "uid": "meta:1075160338670575",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "Seattle",
-      "company": "Meta",
-      "country": "us",
-      "external_id": "1075160338670575",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "Burlingame, CA",
-        "Redmond, WA"
-      ],
-      "posted": "2026-10-21",
-      "region": "AMER",
-      "title": "Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR",
-      "url": "https://www.metacareers.com/jobs/1075160338670575"
     },
     "meta:1445807477756644": {
       "uid": "meta:1445807477756644",
@@ -2535,7 +2705,7 @@
       "country": "us",
       "external_id": "1445807477756644",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -2553,7 +2723,7 @@
       "country": "us",
       "external_id": "1656954472496223",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Burlingame, CA"
       ],
@@ -2571,7 +2741,7 @@
       "country": "us",
       "external_id": "27730225806654441",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -2589,7 +2759,7 @@
       "country": "us",
       "external_id": "1214088",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Roseville, California, 95747",
         "Roseville, California, United States of America"
@@ -2608,7 +2778,7 @@
       "country": "us",
       "external_id": "200690125",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Cambridge"
       ],
@@ -2626,7 +2796,7 @@
       "country": "us",
       "external_id": "JR365111",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "California - Palo Alto",
         "California, Palo Alto"
@@ -2645,7 +2815,7 @@
       "country": "us",
       "external_id": "1079627324896327",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY"
@@ -2664,7 +2834,7 @@
       "country": "us",
       "external_id": "1359570553913180",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "New York, NY"
       ],
@@ -2682,7 +2852,7 @@
       "country": "us",
       "external_id": "1428978125312655",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -2700,7 +2870,7 @@
       "country": "us",
       "external_id": "1436615821934863",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Burlingame, CA",
         "New York, NY",
@@ -2720,7 +2890,7 @@
       "country": "us",
       "external_id": "1510576574212840",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -2738,7 +2908,7 @@
       "country": "us",
       "external_id": "1677981003713152",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "New York, NY"
       ],
@@ -2756,7 +2926,7 @@
       "country": "us",
       "external_id": "2535222523640873",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY"
@@ -2775,7 +2945,7 @@
       "country": "us",
       "external_id": "JR0287651",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "US Colorado Fort Collins"
@@ -2794,7 +2964,7 @@
       "country": "us",
       "external_id": "JR0288136",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
@@ -2813,7 +2983,7 @@
       "country": "us",
       "external_id": "JR0288138",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US California Santa Clara",
         "US, California, Santa Clara"
@@ -2832,7 +3002,7 @@
       "country": "us",
       "external_id": "JR0288139",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
@@ -2851,7 +3021,7 @@
       "country": "us",
       "external_id": "JR0288140",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
@@ -2870,7 +3040,7 @@
       "country": "us",
       "external_id": "1214020",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Roseville, California, 95747",
         "Roseville, California, United States of America"
@@ -2889,7 +3059,7 @@
       "country": "us",
       "external_id": "1214168",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Roseville, California, 95747",
         "Roseville, California, United States of America"
@@ -2908,7 +3078,7 @@
       "country": "us",
       "external_id": "10584121",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, Washington, USA"
       ],
@@ -2926,7 +3096,7 @@
       "country": "us",
       "external_id": "R173001",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Jose"
       ],
@@ -2944,7 +3114,7 @@
       "country": "us",
       "external_id": "JR364911",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "California, San Francisco"
@@ -2963,7 +3133,7 @@
       "country": "us",
       "external_id": "790318904468",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Los Gatos,California,United States of America"
       ],
@@ -2981,7 +3151,7 @@
       "country": "us",
       "external_id": "JR2026707",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3000,7 +3170,7 @@
       "country": "us",
       "external_id": "1970393557043740",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -3018,7 +3188,7 @@
       "country": "us",
       "external_id": "1970393557043754",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -3036,7 +3206,7 @@
       "country": "us",
       "external_id": "1111723361506997",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -3054,10 +3224,11 @@
       "country": "us",
       "external_id": "1584033410435097",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Burlingame, CA",
-        "Menlo Park, CA"
+        "Menlo Park, CA",
+        "New York, NY"
       ],
       "posted": "2026-10-19",
       "region": "AMER",
@@ -3073,7 +3244,7 @@
       "country": "us",
       "external_id": "1736386761384394",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -3091,7 +3262,7 @@
       "country": "us",
       "external_id": "1851348099357899",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -3109,7 +3280,7 @@
       "country": "us",
       "external_id": "2105411693413958",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -3127,7 +3298,7 @@
       "country": "us",
       "external_id": "4455569504707135",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Burlingame, CA",
         "Menlo Park, CA"
@@ -3146,7 +3317,7 @@
       "country": "us",
       "external_id": "4723409617931131",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -3164,7 +3335,7 @@
       "country": "us",
       "external_id": "R172998",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Jose"
       ],
@@ -3182,7 +3353,7 @@
       "country": "us",
       "external_id": "1970393557041731",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -3200,7 +3371,7 @@
       "country": "us",
       "external_id": "1970393557042145",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, New York, New York"
@@ -3219,7 +3390,7 @@
       "country": "us",
       "external_id": "1970393557042156",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, New York, New York",
         "United States, Washington, Redmond"
@@ -3238,7 +3409,7 @@
       "country": "us",
       "external_id": "1141752241867684",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -3256,7 +3427,7 @@
       "country": "us",
       "external_id": "1624891432439039",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -3274,7 +3445,7 @@
       "country": "us",
       "external_id": "4536253699919879",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -3292,7 +3463,7 @@
       "country": "us",
       "external_id": "1212389",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Spring, Texas, 77389-1767",
         "Spring, Texas, United States of America"
@@ -3311,7 +3482,7 @@
       "country": "us",
       "external_id": "1213397",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Spring, Texas, 77389-1767",
         "Spring, Texas, United States of America"
@@ -3330,7 +3501,7 @@
       "country": "us",
       "external_id": "1213640",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Houston, Texas, 77070",
         "San Jose, California, 95134",
@@ -3350,7 +3521,7 @@
       "country": "us",
       "external_id": "2025611",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Chicago, Illinois, United States of America",
         "San Jose, California, United States of America",
@@ -3370,7 +3541,7 @@
       "country": "us",
       "external_id": "3145033",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Westborough, Massachusetts, USA"
       ],
@@ -3388,12 +3559,12 @@
       "country": "us",
       "external_id": "R-2630025",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
         "USA ISD Office, DGTC AR BENTONVILLE Home Office"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Summer 2027 Intern: Cybersecurity Undergrad",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025"
@@ -3407,12 +3578,12 @@
       "country": "us",
       "external_id": "R-2630026",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
         "USA ISD Office, DGTC AR BENTONVILLE Home Office"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Summer 2027 Intern: Cybersecurity Masters",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Masters_R-2630026"
@@ -3426,12 +3597,12 @@
       "country": "us",
       "external_id": "R-2630029",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
         "USA ISD Office, DGTC AR BENTONVILLE Home Office"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Summer 2027 Intern:: Software Engineer II",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1"
@@ -3445,12 +3616,12 @@
       "country": "us",
       "external_id": "R-2630030",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
         "USA ISD Office, DGTC AR BENTONVILLE Home Office"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Summer 2027 Intern:: Data Science III",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030"
@@ -3464,12 +3635,12 @@
       "country": "us",
       "external_id": "R-2630032",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
         "USA ISD Office, DGTC AR BENTONVILLE Home Office"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Summer 2027 Intern: Intern: Sr Data Science",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032"
@@ -3483,7 +3654,7 @@
       "country": "us",
       "external_id": "8128745",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Francisco, Seattle, New York City"
       ],
@@ -3491,6 +3662,24 @@
       "region": "AMER",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745"
+    },
+    "stripe:8194283": {
+      "uid": "stripe:8194283",
+      "active": true,
+      "category": "Data",
+      "city_tag": "SF Bay Area",
+      "company": "Stripe",
+      "country": "us",
+      "external_id": "8194283",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "New York, Seattle, South San Francisco HQ"
+      ],
+      "posted": "2026-11-10",
+      "region": "AMER",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283"
     },
     "stripe:8194291": {
       "uid": "stripe:8194291",
@@ -3501,7 +3690,7 @@
       "country": "us",
       "external_id": "8194291",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "New York, Seattle, South San Francisco HQ"
       ],
@@ -3519,7 +3708,7 @@
       "country": "us",
       "external_id": "8241260",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, San Francisco"
       ],
@@ -3537,7 +3726,7 @@
       "country": "us",
       "external_id": "744000155345689",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Santa Clara, CALIFORNIA, United States"
       ],
@@ -3555,7 +3744,7 @@
       "country": "us",
       "external_id": "744000155345889",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Santa Clara, CALIFORNIA, United States"
       ],
@@ -3573,7 +3762,7 @@
       "country": "us",
       "external_id": "744000155594899",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Santa Clara, California, United States"
       ],
@@ -3591,11 +3780,11 @@
       "country": "us",
       "external_id": "R-059053",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Boston"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "AI Ecosystem Intern",
       "url": "https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1"
@@ -3609,14 +3798,58 @@
       "country": "us",
       "external_id": "R-059276",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Boston"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "AI Ecosystem Intern",
       "url": "https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276"
+    },
+    "qualcomm:446720737089": {
+      "uid": "qualcomm:446720737089",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "SF Bay Area",
+      "company": "Qualcomm",
+      "country": "us",
+      "external_id": "446720737089",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Boxborough, Massachusetts, United States of America",
+        "San Diego, California, United States of America",
+        "Santa Clara, California, United States of America"
+      ],
+      "posted": "2026-09-21",
+      "region": "AMER",
+      "title": "Embedded Engineering Internship - Summer 2027",
+      "url": "https://careers.qualcomm.com/careers/job/446720737089?domain=qualcomm.com"
+    },
+    "qualcomm:446720740525": {
+      "uid": "qualcomm:446720740525",
+      "active": true,
+      "category": "AI/ML",
+      "city_tag": "SF Bay Area",
+      "company": "Qualcomm",
+      "country": "us",
+      "external_id": "446720740525",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Boxborough, Massachusetts, United States of America",
+        "New Jersey, United States of America",
+        "New York City, New York, United States of America",
+        "Raleigh, North Carolina, United States of America",
+        "San Diego, California, United States of America",
+        "Santa Clara, California, United States of America"
+      ],
+      "posted": "2026-09-18",
+      "region": "AMER",
+      "title": "Machine Learning & Artificial Intelligence Engineering Internship – Summer 2027",
+      "url": "https://careers.qualcomm.com/careers/job/446720740525?domain=qualcomm.com"
     },
     "pure-storage:8249749": {
       "uid": "pure-storage:8249749",
@@ -3627,7 +3860,7 @@
       "country": "us",
       "external_id": "8249749",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Santa Clara, California"
       ],
@@ -3645,7 +3878,7 @@
       "country": "us",
       "external_id": "334345",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Austin, TX, United States",
         "United States"
@@ -3664,7 +3897,7 @@
       "country": "us",
       "external_id": "334396",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redwood City, CA, United States",
         "Rocklin, CA, United States",
@@ -3687,7 +3920,7 @@
       "country": "us",
       "external_id": "40535",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -3705,7 +3938,7 @@
       "country": "us",
       "external_id": "40566",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -3723,7 +3956,7 @@
       "country": "us",
       "external_id": "40702",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -3731,24 +3964,6 @@
       "region": "AMER",
       "title": "AI R&D Engineer Co-op",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702"
-    },
-    "nokia:40743": {
-      "uid": "nokia:40743",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "US (Other)",
-      "company": "Nokia",
-      "country": "us",
-      "external_id": "40743",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "United States"
-      ],
-      "posted": "2026-09-22",
-      "region": "AMER",
-      "title": "Photonic Integrated Circuits Test Coop",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743"
     },
     "nokia:41222": {
       "uid": "nokia:41222",
@@ -3759,7 +3974,7 @@
       "country": "us",
       "external_id": "41222",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -3767,24 +3982,6 @@
       "region": "AMER",
       "title": "Mixed Signal Circuit Design Coop",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222"
-    },
-    "netflix:790317917022": {
-      "uid": "netflix:790317917022",
-      "active": true,
-      "category": "AI/ML",
-      "city_tag": "US (Other)",
-      "company": "Netflix",
-      "country": "us",
-      "external_id": "790317917022",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "Los Gatos,California,United States of America"
-      ],
-      "posted": "2026-08-19",
-      "region": "AMER",
-      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317917022"
     },
     "nvidia:JR2012398": {
       "uid": "nvidia:JR2012398",
@@ -3795,7 +3992,7 @@
       "country": "us",
       "external_id": "JR2012398",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3814,7 +4011,7 @@
       "country": "us",
       "external_id": "JR2016035",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3833,7 +4030,7 @@
       "country": "us",
       "external_id": "JR2023486",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3852,7 +4049,7 @@
       "country": "us",
       "external_id": "JR2023487",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3871,7 +4068,7 @@
       "country": "us",
       "external_id": "JR2023491",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3890,7 +4087,7 @@
       "country": "us",
       "external_id": "JR2023492",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3909,7 +4106,7 @@
       "country": "us",
       "external_id": "JR2023495",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3928,7 +4125,7 @@
       "country": "us",
       "external_id": "JR2023496",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3947,7 +4144,7 @@
       "country": "us",
       "external_id": "JR2023497",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3966,7 +4163,7 @@
       "country": "us",
       "external_id": "JR2023499",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -3985,7 +4182,7 @@
       "country": "us",
       "external_id": "JR2023500",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4004,7 +4201,7 @@
       "country": "us",
       "external_id": "JR2023501",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4023,7 +4220,7 @@
       "country": "us",
       "external_id": "JR2023504",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4042,7 +4239,7 @@
       "country": "us",
       "external_id": "JR2023508",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4061,7 +4258,7 @@
       "country": "us",
       "external_id": "JR2024171",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4080,7 +4277,7 @@
       "country": "us",
       "external_id": "JR2024174",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "US CA Santa Clara"
@@ -4099,7 +4296,7 @@
       "country": "us",
       "external_id": "JR2025025",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4118,7 +4315,7 @@
       "country": "us",
       "external_id": "JR2025096",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "US CA Santa Clara"
@@ -4137,7 +4334,7 @@
       "country": "us",
       "external_id": "JR2025098",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4156,7 +4353,7 @@
       "country": "us",
       "external_id": "JR2025405",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4175,7 +4372,7 @@
       "country": "us",
       "external_id": "JR2025406",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4194,7 +4391,7 @@
       "country": "us",
       "external_id": "JR2025478",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "US CA Santa Clara"
@@ -4213,7 +4410,7 @@
       "country": "us",
       "external_id": "JR2025647",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "US WA Seattle"
@@ -4232,7 +4429,7 @@
       "country": "us",
       "external_id": "JR2025792",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "2 Locations",
         "US CA Santa Clara"
@@ -4251,7 +4448,7 @@
       "country": "us",
       "external_id": "JR2025893",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4270,7 +4467,7 @@
       "country": "us",
       "external_id": "JR2026004",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4289,7 +4486,7 @@
       "country": "us",
       "external_id": "JR2026584",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4308,7 +4505,7 @@
       "country": "us",
       "external_id": "JR2026839",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4327,7 +4524,7 @@
       "country": "us",
       "external_id": "JR2026940",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US CA Santa Clara",
         "US, CA, Santa Clara"
@@ -4346,7 +4543,7 @@
       "country": "us",
       "external_id": "1970393556982928",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -4364,7 +4561,7 @@
       "country": "us",
       "external_id": "1970393556983221",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -4382,7 +4579,7 @@
       "country": "us",
       "external_id": "1970393556983223",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Virginia, Reston"
       ],
@@ -4400,7 +4597,7 @@
       "country": "us",
       "external_id": "1970393556988203",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -4418,7 +4615,7 @@
       "country": "us",
       "external_id": "1970393557008574",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -4436,7 +4633,7 @@
       "country": "us",
       "external_id": "1970393557022480",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -4454,7 +4651,7 @@
       "country": "us",
       "external_id": "1970393557040333",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Massachusetts, Cambridge"
       ],
@@ -4472,7 +4669,7 @@
       "country": "us",
       "external_id": "1970393557040344",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -4490,7 +4687,7 @@
       "country": "us",
       "external_id": "1970393557040502",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, Washington, Redmond"
@@ -4509,7 +4706,7 @@
       "country": "us",
       "external_id": "1062032900196411",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -4527,7 +4724,7 @@
       "country": "us",
       "external_id": "1096213456288397",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Austin, TX",
         "Sunnyvale, CA"
@@ -4546,7 +4743,7 @@
       "country": "us",
       "external_id": "1123001263407222",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA",
         "Seattle, WA",
@@ -4566,7 +4763,7 @@
       "country": "us",
       "external_id": "1139865145249047",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "Redmond, WA"
@@ -4585,7 +4782,7 @@
       "country": "us",
       "external_id": "1373603594867455",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY",
@@ -4605,7 +4802,7 @@
       "country": "us",
       "external_id": "1633096478817942",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY"
@@ -4624,7 +4821,7 @@
       "country": "us",
       "external_id": "1674394627579563",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -4642,7 +4839,7 @@
       "country": "us",
       "external_id": "1839680137188723",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -4660,7 +4857,7 @@
       "country": "us",
       "external_id": "1866761794487684",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA",
         "New York, NY"
@@ -4679,7 +4876,7 @@
       "country": "us",
       "external_id": "1940312740718917",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -4697,7 +4894,7 @@
       "country": "us",
       "external_id": "1952991802037374",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA",
@@ -4718,7 +4915,7 @@
       "country": "us",
       "external_id": "2067000203934229",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -4736,7 +4933,7 @@
       "country": "us",
       "external_id": "2168438160696161",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Menlo Park, CA"
@@ -4755,7 +4952,7 @@
       "country": "us",
       "external_id": "2180490782513668",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Burlingame, CA",
@@ -4779,7 +4976,7 @@
       "country": "us",
       "external_id": "2192664358300823",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -4797,7 +4994,7 @@
       "country": "us",
       "external_id": "2211974449401350",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Burlingame, CA",
         "New York, NY",
@@ -4817,7 +5014,7 @@
       "country": "us",
       "external_id": "2237519230439134",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -4835,7 +5032,7 @@
       "country": "us",
       "external_id": "2271558583687956",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -4853,7 +5050,7 @@
       "country": "us",
       "external_id": "2374839409720164",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -4871,7 +5068,7 @@
       "country": "us",
       "external_id": "2586686598441521",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA"
       ],
@@ -4889,7 +5086,7 @@
       "country": "us",
       "external_id": "2773227806411499",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -4907,7 +5104,7 @@
       "country": "us",
       "external_id": "29216393121298039",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, WA",
         "Sunnyvale, CA"
@@ -4926,7 +5123,7 @@
       "country": "us",
       "external_id": "2988199118196184",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -4944,7 +5141,7 @@
       "country": "us",
       "external_id": "929757023499411",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Menlo Park, CA"
       ],
@@ -4962,7 +5159,7 @@
       "country": "us",
       "external_id": "945520495299801",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, WA",
         "Burlingame, CA",
@@ -4986,7 +5183,7 @@
       "country": "us",
       "external_id": "5869205002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "NYC"
       ],
@@ -5004,7 +5201,7 @@
       "country": "us",
       "external_id": "8384490002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "NYC"
       ],
@@ -5022,7 +5219,7 @@
       "country": "us",
       "external_id": "8599644002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "NYC"
       ],
@@ -5040,7 +5237,7 @@
       "country": "us",
       "external_id": "8611307002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "NYC"
       ],
@@ -5058,7 +5255,7 @@
       "country": "us",
       "external_id": "8624440002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "NYC"
       ],
@@ -5076,7 +5273,7 @@
       "country": "us",
       "external_id": "8626260002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "NYC"
       ],
@@ -5094,7 +5291,7 @@
       "country": "us",
       "external_id": "8631973002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "NYC"
       ],
@@ -5112,7 +5309,7 @@
       "country": "us",
       "external_id": "8632723002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "NYC"
       ],
@@ -5130,7 +5327,7 @@
       "country": "us",
       "external_id": "210773869",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Chicago, IL, United States",
         "Columbus, OH, United States",
@@ -5155,7 +5352,7 @@
       "country": "us",
       "external_id": "210774454",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Columbus, OH, United States",
         "New York, NY, United States",
@@ -5176,7 +5373,7 @@
       "country": "us",
       "external_id": "210800354",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "New York, NY, United States"
       ],
@@ -5184,25 +5381,6 @@
       "region": "AMER",
       "title": "2027 AI Research Associate Program - Internship",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800354"
-    },
-    "intel:JR0286502": {
-      "uid": "intel:JR0286502",
-      "active": true,
-      "category": "Data",
-      "city_tag": "US (Other)",
-      "company": "Intel",
-      "country": "us",
-      "external_id": "JR0286502",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "US Arizona Phoenix",
-        "US, Arizona, Phoenix"
-      ],
-      "posted": "2026-10-11",
-      "region": "AMER",
-      "title": "Operations Research, Engineering Analytics Graduate Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502"
     },
     "intel:JR0286827": {
       "uid": "intel:JR0286827",
@@ -5213,12 +5391,12 @@
       "country": "us",
       "external_id": "JR0286827",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "US Oregon Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Platform Hardware and Systems Engineering - Intern, Bachelor’s",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827"
@@ -5232,12 +5410,12 @@
       "country": "us",
       "external_id": "JR0286828",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "US Oregon Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Platform Hardware and Systems Engineering - Intern, Graduate",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828"
@@ -5251,12 +5429,12 @@
       "country": "us",
       "external_id": "JR0286829",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "US Oregon Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Silicon Hardware Engineering - Intern, Bachelor’s",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829"
@@ -5270,12 +5448,12 @@
       "country": "us",
       "external_id": "JR0286830",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "US Oregon Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Silicon Hardware Engineering - Intern, Graduate",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830"
@@ -5289,12 +5467,12 @@
       "country": "us",
       "external_id": "JR0286834",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "US Oregon Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Software Engineering - Intern, Bachelor’s",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
@@ -5308,12 +5486,12 @@
       "country": "us",
       "external_id": "JR0286836",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "US Oregon Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Software Engineering - Intern, Graduate",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
@@ -5327,12 +5505,12 @@
       "country": "us",
       "external_id": "JR0287000",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "3 Locations",
         "US Oregon Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "System Technology Research Engineer - (PhD Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000"
@@ -5346,12 +5524,12 @@
       "country": "us",
       "external_id": "JR0287019",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Software Research Engineering - (PhD Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
@@ -5365,12 +5543,12 @@
       "country": "us",
       "external_id": "JR0287314",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Software Solutions PhD Intern New 2027",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314"
@@ -5384,12 +5562,12 @@
       "country": "us",
       "external_id": "JR0287457",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "System Software Engineering - PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457"
@@ -5403,12 +5581,12 @@
       "country": "us",
       "external_id": "JR0287458",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Software Engineering - PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
@@ -5422,12 +5600,12 @@
       "country": "us",
       "external_id": "JR0287661",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "5 Locations",
         "US California Santa Clara"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "AI-Driven Physical Design Engineering (PhD Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661"
@@ -5441,12 +5619,12 @@
       "country": "us",
       "external_id": "JR0287859",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "US Oregon Hillsboro",
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "Data Science and Analytics - PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859"
@@ -5460,7 +5638,7 @@
       "country": "us",
       "external_id": "1213394",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ft. Collins, Colorado, 80528-9544",
         "Ft. Collins, Colorado, United States of America"
@@ -5479,7 +5657,7 @@
       "country": "us",
       "external_id": "1213396",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bloomington, Minnesota, 55425-2640",
         "Bloomington, Minnesota, United States of America"
@@ -5498,7 +5676,7 @@
       "country": "us",
       "external_id": "1213399",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ft. Collins, Colorado, 80528-9544",
         "Ft. Collins, Colorado, United States of America"
@@ -5517,7 +5695,7 @@
       "country": "us",
       "external_id": "1213401",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bloomington, Minnesota, 55425-2640",
         "Bloomington, Minnesota, United States of America"
@@ -5536,7 +5714,7 @@
       "country": "us",
       "external_id": "1213402",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "All, Illinois, 00000",
         "All, Illinois, United States of America"
@@ -5555,7 +5733,7 @@
       "country": "us",
       "external_id": "1213403",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Spring, Texas, 77389-1425",
         "Spring, Texas, United States of America"
@@ -5574,7 +5752,7 @@
       "country": "us",
       "external_id": "1213404",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "All, Tennessee, 00000",
         "All, Tennessee, United States of America"
@@ -5593,7 +5771,7 @@
       "country": "us",
       "external_id": "1213405",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "All, Illinois, 00000",
         "All, Illinois, United States of America"
@@ -5612,7 +5790,7 @@
       "country": "us",
       "external_id": "1213406",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bloomington, Minnesota, 55425-2640",
         "Bloomington, Minnesota, United States of America"
@@ -5631,7 +5809,7 @@
       "country": "us",
       "external_id": "1213408",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Chippewa Falls, Wisconsin, 54729",
         "Spring, Texas, 77389-1767",
@@ -5651,7 +5829,7 @@
       "country": "us",
       "external_id": "1213411",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Chippewa Falls, Wisconsin, 54729",
         "Chippewa Falls, Wisconsin, United States of America"
@@ -5670,7 +5848,7 @@
       "country": "us",
       "external_id": "1213412",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ft. Collins, Colorado, 80528-9544",
         "Ft. Collins, Colorado, United States of America"
@@ -5689,7 +5867,7 @@
       "country": "us",
       "external_id": "1213414",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Chippewa Falls, Wisconsin, 54729",
         "Chippewa Falls, Wisconsin, United States of America"
@@ -5708,7 +5886,7 @@
       "country": "us",
       "external_id": "1213415",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bloomington, Minnesota, 55425-2640",
         "Chippewa Falls, Wisconsin, 54729",
@@ -5728,7 +5906,7 @@
       "country": "us",
       "external_id": "1213416",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Chippewa Falls, Wisconsin, N/A",
         "Fort Collins, Colorado, N/A",
@@ -5748,7 +5926,7 @@
       "country": "us",
       "external_id": "1213417",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Spring, Texas, 77389-1767",
         "Spring, Texas, United States of America"
@@ -5767,7 +5945,7 @@
       "country": "us",
       "external_id": "1213421",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Spring, Texas, 77389-1767",
         "Spring, Texas, United States of America"
@@ -5786,7 +5964,7 @@
       "country": "us",
       "external_id": "1213423",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Spring, Texas, 77389-1767",
         "Spring, Texas, United States of America"
@@ -5805,7 +5983,7 @@
       "country": "us",
       "external_id": "1213425",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ft. Collins, Colorado, 80528-9544",
         "Ft. Collins, Colorado, United States of America"
@@ -5824,7 +6002,7 @@
       "country": "us",
       "external_id": "1213625",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Andover, Massachusetts, 01810-5897",
         "Bloomington, Minnesota, 55425-2640",
@@ -5852,7 +6030,7 @@
       "country": "us",
       "external_id": "1213627",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Andover, Massachusetts, 01810-5897",
         "Bloomington, Minnesota, 55425-2640",
@@ -5880,7 +6058,7 @@
       "country": "us",
       "external_id": "1213629",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Andover, Massachusetts, 01810-5897",
         "Bloomington, Minnesota, 55425-2640",
@@ -5908,7 +6086,7 @@
       "country": "us",
       "external_id": "1213632",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Andover, Massachusetts, 01810-5897",
         "Bloomington, Minnesota, 55425-2640",
@@ -5936,7 +6114,7 @@
       "country": "us",
       "external_id": "1214034",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -5955,7 +6133,7 @@
       "country": "us",
       "external_id": "1214064",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -5974,7 +6152,7 @@
       "country": "us",
       "external_id": "1214085",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -5993,7 +6171,7 @@
       "country": "us",
       "external_id": "1214159",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -6012,7 +6190,7 @@
       "country": "us",
       "external_id": "1214180",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -6031,7 +6209,7 @@
       "country": "us",
       "external_id": "1214190",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -6050,7 +6228,7 @@
       "country": "us",
       "external_id": "1214211",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Roseville, California, 95747",
         "Roseville, California, United States of America"
@@ -6069,7 +6247,7 @@
       "country": "us",
       "external_id": "1214213",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Durham, North Carolina, 27703",
         "Durham, North Carolina, United States of America"
@@ -6088,7 +6266,7 @@
       "country": "us",
       "external_id": "1214219",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Roseville, California, 95747",
         "Roseville, California, United States of America"
@@ -6107,7 +6285,7 @@
       "country": "us",
       "external_id": "1214223",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -6126,7 +6304,7 @@
       "country": "us",
       "external_id": "1214229",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -6145,7 +6323,7 @@
       "country": "us",
       "external_id": "1214950",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Jose, California, 95002",
         "San Jose, California, United States of America"
@@ -6164,7 +6342,7 @@
       "country": "us",
       "external_id": "1214969",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Jose, California, 95002",
         "San Jose, California, United States of America"
@@ -6183,7 +6361,7 @@
       "country": "us",
       "external_id": "1216555",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, 94089",
         "Sunnyvale, California, United States of America"
@@ -6202,7 +6380,7 @@
       "country": "us",
       "external_id": "131518356678156998",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ann Arbor, MI, USA",
         "Atlanta, GA, USA",
@@ -6244,7 +6422,7 @@
       "country": "us",
       "external_id": "132362676918461126",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ann Arbor, MI, USA",
         "Atlanta, GA, USA",
@@ -6280,7 +6458,7 @@
       "country": "us",
       "external_id": "134313315235963590",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ann Arbor, MI, USA",
         "Atlanta, GA, USA",
@@ -6322,7 +6500,7 @@
       "country": "us",
       "external_id": "134577198026629830",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ann Arbor, MI, USA",
         "Atlanta, GA, USA",
@@ -6370,7 +6548,7 @@
       "country": "us",
       "external_id": "136529930677560006",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Austin, TX, USA",
         "Madison, WI, USA",
@@ -6390,7 +6568,7 @@
       "country": "us",
       "external_id": "75665705386549958",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "New York, NY, USA",
         "Reston, VA, USA",
@@ -6410,7 +6588,7 @@
       "country": "us",
       "external_id": "81809776362562246",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Atlanta, GA, USA",
         "Chicago, IL, USA",
@@ -6432,7 +6610,7 @@
       "country": "us",
       "external_id": "83535564552184518",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ann Arbor, MI, USA",
         "Atlanta, GA, USA",
@@ -6468,7 +6646,7 @@
       "country": "us",
       "external_id": "89965613241246406",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ann Arbor, MI, USA",
         "Atlanta, GA, USA",
@@ -6516,7 +6694,7 @@
       "country": "us",
       "external_id": "91436104816698054",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Atlanta, GA, USA",
         "Austin, TX, USA",
@@ -6563,7 +6741,7 @@
       "country": "us",
       "external_id": "97352132356645574",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Ann Arbor, MI, USA",
         "Atlanta, GA, USA",
@@ -6611,7 +6789,7 @@
       "country": "us",
       "external_id": "298216",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "TX, United States"
       ],
@@ -6629,7 +6807,7 @@
       "country": "us",
       "external_id": "299089",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Hopkinton, MA, United States",
         "TX, United States"
@@ -6648,7 +6826,7 @@
       "country": "us",
       "external_id": "300226",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "TX, United States"
       ],
@@ -6666,7 +6844,7 @@
       "country": "us",
       "external_id": "8052118",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Boston, Massachusetts, USA",
         "New York, New York, USA"
@@ -6685,7 +6863,7 @@
       "country": "us",
       "external_id": "8203657",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "New York, New York, USA",
         "Pittsburgh, Pennsylvania, USA"
@@ -6704,7 +6882,7 @@
       "country": "us",
       "external_id": "6865687002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, Washington",
         "Mountain View, California",
@@ -6716,6 +6894,25 @@
       "title": "Software Engineering Intern (2027)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
     },
+    "cisco:2024756": {
+      "uid": "cisco:2024756",
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "SF Bay Area",
+      "company": "Cisco",
+      "country": "us",
+      "external_id": "2024756",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-11",
+      "locations": [
+        "Carlsbad, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-11-10",
+      "region": "AMER",
+      "title": "Hardware Engineer I (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024756"
+    },
     "cisco:2024757": {
       "uid": "cisco:2024757",
       "active": true,
@@ -6725,7 +6922,7 @@
       "country": "us",
       "external_id": "2024757",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Austin, Texas, United States of America",
         "Carlsbad, California, United States of America",
@@ -6746,7 +6943,7 @@
       "country": "us",
       "external_id": "2025180",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "RESEARCH_TRIANGLE_PARK, North Carolina, United States of America"
       ],
@@ -6764,7 +6961,7 @@
       "country": "us",
       "external_id": "200663968",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6782,7 +6979,7 @@
       "country": "us",
       "external_id": "200663981",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6800,7 +6997,7 @@
       "country": "us",
       "external_id": "200663996",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6818,7 +7015,7 @@
       "country": "us",
       "external_id": "200664000",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6836,7 +7033,7 @@
       "country": "us",
       "external_id": "200664221",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6854,7 +7051,7 @@
       "country": "us",
       "external_id": "200664223",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6872,7 +7069,7 @@
       "country": "us",
       "external_id": "200664320",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6890,7 +7087,7 @@
       "country": "us",
       "external_id": "200664323",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6908,7 +7105,7 @@
       "country": "us",
       "external_id": "200664330",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6926,7 +7123,7 @@
       "country": "us",
       "external_id": "200664383",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6944,7 +7141,7 @@
       "country": "us",
       "external_id": "200664414",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6962,7 +7159,7 @@
       "country": "us",
       "external_id": "200664419",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6980,7 +7177,7 @@
       "country": "us",
       "external_id": "200664421",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -6998,7 +7195,7 @@
       "country": "us",
       "external_id": "200664780",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -7016,7 +7213,7 @@
       "country": "us",
       "external_id": "200664785",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "United States"
       ],
@@ -7034,7 +7231,7 @@
       "country": "us",
       "external_id": "200673612",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Cupertino"
       ],
@@ -7052,7 +7249,7 @@
       "country": "us",
       "external_id": "10394156",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7070,7 +7267,7 @@
       "country": "us",
       "external_id": "10517535",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Cupertino, California, USA"
       ],
@@ -7088,7 +7285,7 @@
       "country": "us",
       "external_id": "10517567",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Cupertino, California, USA"
       ],
@@ -7106,7 +7303,7 @@
       "country": "us",
       "external_id": "10517649",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Austin, Texas, USA"
       ],
@@ -7124,7 +7321,7 @@
       "country": "us",
       "external_id": "10529525",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "North Reading, Massachusetts, USA"
       ],
@@ -7142,7 +7339,7 @@
       "country": "us",
       "external_id": "10532290",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Bellevue, Washington, USA"
       ],
@@ -7160,7 +7357,7 @@
       "country": "us",
       "external_id": "10535282",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "North Reading, Massachusetts, USA"
       ],
@@ -7178,7 +7375,7 @@
       "country": "us",
       "external_id": "10536817",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "North Reading, Massachusetts, USA"
       ],
@@ -7196,7 +7393,7 @@
       "country": "us",
       "external_id": "10552930",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7214,7 +7411,7 @@
       "country": "us",
       "external_id": "10552937",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7232,7 +7429,7 @@
       "country": "us",
       "external_id": "10553765",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7250,7 +7447,7 @@
       "country": "us",
       "external_id": "10553907",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7268,7 +7465,7 @@
       "country": "us",
       "external_id": "10556927",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7286,7 +7483,7 @@
       "country": "us",
       "external_id": "10559746",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7304,7 +7501,7 @@
       "country": "us",
       "external_id": "10564585",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7322,7 +7519,7 @@
       "country": "us",
       "external_id": "10564586",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7340,7 +7537,7 @@
       "country": "us",
       "external_id": "10564589",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7358,7 +7555,7 @@
       "country": "us",
       "external_id": "10564593",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7376,7 +7573,7 @@
       "country": "us",
       "external_id": "10564597",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7394,7 +7591,7 @@
       "country": "us",
       "external_id": "10564598",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7412,7 +7609,7 @@
       "country": "us",
       "external_id": "10564599",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Francisco, California, USA"
       ],
@@ -7430,7 +7627,7 @@
       "country": "us",
       "external_id": "10564600",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Francisco, California, USA"
       ],
@@ -7448,7 +7645,7 @@
       "country": "us",
       "external_id": "10564601",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7466,7 +7663,7 @@
       "country": "us",
       "external_id": "10564602",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7484,7 +7681,7 @@
       "country": "us",
       "external_id": "10565667",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7502,7 +7699,7 @@
       "country": "us",
       "external_id": "10567914",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7520,7 +7717,7 @@
       "country": "us",
       "external_id": "10571374",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Redmond, Washington, USA"
       ],
@@ -7538,7 +7735,7 @@
       "country": "us",
       "external_id": "10573570",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "North Reading, Massachusetts, USA"
       ],
@@ -7556,7 +7753,7 @@
       "country": "us",
       "external_id": "10576619",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, USA"
       ],
@@ -7574,7 +7771,7 @@
       "country": "us",
       "external_id": "10578090",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Sunnyvale, California, USA"
       ],
@@ -7592,7 +7789,7 @@
       "country": "us",
       "external_id": "3127861",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "San Francisco, California, USA"
       ],
@@ -7610,7 +7807,7 @@
       "country": "us",
       "external_id": "3188438",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "Seattle, Washington, USA"
       ],
@@ -7628,12 +7825,12 @@
       "country": "us",
       "external_id": "R171519",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "7 Locations",
         "San Jose"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "2027 Intern - Machine Learning Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
@@ -7647,12 +7844,12 @@
       "country": "us",
       "external_id": "R171666",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "7 Locations",
         "San Jose"
       ],
-      "posted": "2026-10-11",
+      "posted": "2026-10-12",
       "region": "AMER",
       "title": "2027 Intern - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
@@ -7666,7 +7863,7 @@
       "country": "us",
       "external_id": "R172064",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "locations": [
         "6 Locations",
         "San Jose"
@@ -7675,96 +7872,6 @@
       "region": "AMER",
       "title": "2027 Intern - Applied and Research Scientist/Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
-    },
-    "amd:90807": {
-      "uid": "amd:90807",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "SF Bay Area",
-      "company": "AMD",
-      "country": "us",
-      "external_id": "90807",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "Santa Clara, California"
-      ],
-      "posted": "2026-08-20",
-      "region": "AMER",
-      "title": "2027 Undergrad Firmware Engineering Co-op/Intern",
-      "url": "https://careers.amd.com/careers-home/jobs/90807"
-    },
-    "amd:90811": {
-      "uid": "amd:90811",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "SF Bay Area",
-      "company": "AMD",
-      "country": "us",
-      "external_id": "90811",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "San Jose, California"
-      ],
-      "posted": "2026-08-20",
-      "region": "AMER",
-      "title": "2027 Undergrad Hardware Design Verification Engineering Co-op/Intern",
-      "url": "https://careers.amd.com/careers-home/jobs/90811"
-    },
-    "amd:90813": {
-      "uid": "amd:90813",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "Austin",
-      "company": "AMD",
-      "country": "us",
-      "external_id": "90813",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "Austin, Texas"
-      ],
-      "posted": "2026-08-20",
-      "region": "AMER",
-      "title": "2027 Masters Hardware Design Verification Engineering Intern/Co-op",
-      "url": "https://careers.amd.com/careers-home/jobs/90813"
-    },
-    "amd:91469": {
-      "uid": "amd:91469",
-      "active": true,
-      "category": "Hardware/Silicon",
-      "city_tag": "SF Bay Area",
-      "company": "AMD",
-      "country": "us",
-      "external_id": "91469",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "Santa Clara, California"
-      ],
-      "posted": "2026-08-25",
-      "region": "AMER",
-      "title": "2027 Masters ASIC Package Engineering Co-op/Intern",
-      "url": "https://careers.amd.com/careers-home/jobs/91469"
-    },
-    "amd:91867": {
-      "uid": "amd:91867",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "Austin",
-      "company": "AMD",
-      "country": "us",
-      "external_id": "91867",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-10",
-      "locations": [
-        "Austin, Texas"
-      ],
-      "posted": "2026-09-01",
-      "region": "AMER",
-      "title": "2027 Masters Compiler Engineering Intern / Co-op",
-      "url": "https://careers.amd.com/careers-home/jobs/91867"
     }
   }
 }
