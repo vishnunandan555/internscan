@@ -1,132 +1,26 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-11T01:22:21Z",
-  "new_count": 7,
-  "reopened_count": 1,
-  "total_active": 64,
+  "updated_at": "2026-11-12T02:23:15Z",
+  "new_count": 1,
+  "reopened_count": 0,
+  "total_active": 55,
   "new_jobs": [
     {
       "company": "AMD",
-      "title": "Short Term 2027 Data Analyst Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/91311",
+      "title": "Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91207",
       "locations": [
-        "MARKHAM, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Data",
-      "posted": "2026-09-01",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
-    },
-    {
-      "company": "AMD",
-      "title": "Summer 2027 Long Term Hardware Design Engineering Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/90367",
-      "locations": [
-        "MARKHAM, Canada"
+        "OTTAWA, Canada"
       ],
       "city_tag": "Canada (Other)",
       "country": "ca",
       "region": "AMER",
       "category": "Hardware/Silicon",
-      "posted": "2026-09-01",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
-    },
-    {
-      "company": "AMD",
-      "title": "Summer 2027 Long Term Hardware Design Engineering Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/90372",
-      "locations": [
-        "VANCOUVER, Canada"
-      ],
-      "city_tag": "Vancouver",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-09-01",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
-    },
-    {
-      "company": "AMD",
-      "title": "Summer 2027 Long Term Firmware Engineering Intern/Co-op",
-      "url": "https://careers.amd.com/careers-home/jobs/90301",
-      "locations": [
-        "VANCOUVER, Canada"
-      ],
-      "city_tag": "Vancouver",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-09-01",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
-    },
-    {
-      "company": "AMD",
-      "title": "Short Term 2027 Software Engineering Intern/Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/91367",
-      "locations": [
-        "VANCOUVER, Canada"
-      ],
-      "city_tag": "Vancouver",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-01",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
-    },
-    {
-      "company": "AMD",
-      "title": "Summer 2027 Long Term Firmware Engineering Intern/Co-op",
-      "url": "https://careers.amd.com/careers-home/jobs/90297",
-      "locations": [
-        "MARKHAM, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-09-01",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
-    },
-    {
-      "company": "AMD",
-      "title": "Summer 2027 Long Term Software Engineering Intern/Co-op",
-      "url": "https://careers.amd.com/careers-home/jobs/90425",
-      "locations": [
-        "MARKHAM, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-01",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
+      "posted": "2026-09-02",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
     }
   ],
-  "reopened_jobs": [
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Digital Design Engineering Intern - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446722005254?domain=qualcomm.com",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-11"
-    }
-  ]
+  "reopened_jobs": []
 }

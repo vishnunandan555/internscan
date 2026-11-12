@@ -1,25 +1,55 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-11T01:22:21Z",
-  "new_count": 1,
+  "updated_at": "2026-11-12T02:23:15Z",
+  "new_count": 3,
   "reopened_count": 0,
-  "total_active": 37,
+  "total_active": 40,
   "new_jobs": [
     {
-      "company": "Apple",
-      "title": "Virtualisation Software Engineering Internship, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200694316/virtualisation-software-engineering-internship-coreos",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge",
+      "url": "https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com",
       "locations": [
-        "London"
+        "Cambridge, United Kingdom"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "QA",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Engineer Internship",
+      "url": "https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship",
+      "locations": [
+        "London, England, GBR"
       ],
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-10",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
+      "category": "Data",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Cambridge Internship Program: MSRC AI Security Research",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070382",
+      "locations": [
+        "United Kingdom, Cambridgeshire, Cambridge"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
     }
   ],
   "reopened_jobs": []

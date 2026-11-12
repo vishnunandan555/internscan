@@ -1,23 +1,68 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-11T01:22:21Z",
-  "total_active": 37,
+  "updated_at": "2026-11-12T02:23:15Z",
+  "total_active": 40,
   "jobs": [
     {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge",
+      "url": "https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com",
+      "locations": [
+        "Cambridge, United Kingdom"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "QA",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Cambridge Internship Program: MSRC AI Security Research",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070382",
+      "locations": [
+        "United Kingdom, Cambridgeshire, Cambridge"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Engineer Internship",
+      "url": "https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    },
+    {
       "company": "Apple",
-      "title": "Virtualisation Software Engineering Internship, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200694316/virtualisation-software-engineering-internship-coreos",
+      "title": "Virtualization Software Engineering Internship, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos",
       "locations": [
         "London"
       ],
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Software",
+      "category": "Backend/Infra",
       "posted": "2026-11-10",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "JPMorgan Chase",
@@ -32,7 +77,7 @@
       "category": "AI/ML",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Wells Fargo",
@@ -48,7 +93,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Meta",
@@ -64,7 +109,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Barclays",
@@ -79,7 +124,7 @@
       "category": "Software",
       "posted": "2026-11-03",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Microsoft",
@@ -94,7 +139,7 @@
       "category": "Security",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Barclays",
@@ -109,7 +154,7 @@
       "category": "Data",
       "posted": "2026-11-03",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Apple",
@@ -124,7 +169,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Apple",
@@ -139,7 +184,7 @@
       "category": "Software",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Amazon",
@@ -154,7 +199,7 @@
       "category": "Software",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Meta",
@@ -169,7 +214,7 @@
       "category": "AI/ML",
       "posted": "2026-10-29",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Meta",
@@ -185,7 +230,7 @@
       "category": "AI/ML",
       "posted": "2026-10-29",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Qualcomm",
@@ -200,7 +245,7 @@
       "category": "Software",
       "posted": "2026-10-28",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Meta",
@@ -215,7 +260,7 @@
       "category": "AI/ML",
       "posted": "2026-10-27",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Meta",
@@ -230,7 +275,7 @@
       "category": "AI/ML",
       "posted": "2026-10-26",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Amazon",
@@ -245,7 +290,7 @@
       "category": "Software",
       "posted": "2026-10-26",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Amazon",
@@ -260,7 +305,7 @@
       "category": "Software",
       "posted": "2026-10-26",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Meta",
@@ -275,7 +320,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Meta",
@@ -290,7 +335,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Meta",
@@ -305,7 +350,7 @@
       "category": "AI/ML",
       "posted": "2026-10-20",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "JPMorgan Chase",
@@ -320,7 +365,7 @@
       "category": "AI/ML",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "HPE",
@@ -336,7 +381,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-28",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Amazon",
@@ -351,7 +396,7 @@
       "category": "Backend/Infra",
       "posted": "2026-03-11",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Stripe",
@@ -366,7 +411,7 @@
       "category": "Software",
       "posted": "2026-10-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "NVIDIA",
@@ -382,7 +427,7 @@
       "category": "Data",
       "posted": "2026-10-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Google",
@@ -397,7 +442,7 @@
       "category": "Software",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Google",
@@ -412,7 +457,7 @@
       "category": "Data",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Google",
@@ -427,7 +472,7 @@
       "category": "Software",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Google",
@@ -450,7 +495,7 @@
       "category": "AI/ML",
       "posted": "2026-10-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Databricks",
@@ -465,7 +510,7 @@
       "category": "Software",
       "posted": "2026-10-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Cisco",
@@ -480,7 +525,7 @@
       "category": "Software",
       "posted": "2026-08-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Cisco",
@@ -495,7 +540,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Apple",
@@ -510,7 +555,7 @@
       "category": "QA",
       "posted": "2026-09-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Amazon",
@@ -525,7 +570,7 @@
       "category": "Software",
       "posted": "2026-09-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Amazon",
@@ -540,7 +585,7 @@
       "category": "Data",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Amazon",
@@ -555,7 +600,7 @@
       "category": "AI/ML",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "company": "Amazon",
@@ -570,7 +615,7 @@
       "category": "Security",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     }
   ]
 }

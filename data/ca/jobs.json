@@ -8,7 +8,7 @@
       "country": "ca",
       "external_id": "10535280",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -25,7 +25,7 @@
       "country": "ca",
       "external_id": "10538066",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -42,7 +42,7 @@
       "country": "ca",
       "external_id": "10553947",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Vancouver, British Columbia, CAN"
       ],
@@ -59,7 +59,7 @@
       "country": "ca",
       "external_id": "10564588",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Vancouver, British Columbia, CAN"
       ],
@@ -76,7 +76,7 @@
       "country": "ca",
       "external_id": "3136815",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -86,9 +86,10 @@
       "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto"
     },
     "amd:90297": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "city_tag": "Canada (Other)",
+      "closed": "2026-11-12",
       "company": "AMD",
       "country": "ca",
       "external_id": "90297",
@@ -103,9 +104,10 @@
       "url": "https://careers.amd.com/careers-home/jobs/90297"
     },
     "amd:90301": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "city_tag": "Vancouver",
+      "closed": "2026-11-12",
       "company": "AMD",
       "country": "ca",
       "external_id": "90301",
@@ -120,9 +122,10 @@
       "url": "https://careers.amd.com/careers-home/jobs/90301"
     },
     "amd:90367": {
-      "active": true,
+      "active": false,
       "category": "Hardware/Silicon",
       "city_tag": "Canada (Other)",
+      "closed": "2026-11-12",
       "company": "AMD",
       "country": "ca",
       "external_id": "90367",
@@ -137,9 +140,10 @@
       "url": "https://careers.amd.com/careers-home/jobs/90367"
     },
     "amd:90372": {
-      "active": true,
+      "active": false,
       "category": "Hardware/Silicon",
       "city_tag": "Vancouver",
+      "closed": "2026-11-12",
       "company": "AMD",
       "country": "ca",
       "external_id": "90372",
@@ -154,9 +158,10 @@
       "url": "https://careers.amd.com/careers-home/jobs/90372"
     },
     "amd:90425": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Canada (Other)",
+      "closed": "2026-11-12",
       "company": "AMD",
       "country": "ca",
       "external_id": "90425",
@@ -170,10 +175,28 @@
       "title": "Summer 2027 Long Term Software Engineering Intern/Co-op",
       "url": "https://careers.amd.com/careers-home/jobs/90425"
     },
-    "amd:91311": {
+    "amd:91207": {
       "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Canada (Other)",
+      "company": "AMD",
+      "country": "ca",
+      "external_id": "91207",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "locations": [
+        "OTTAWA, Canada"
+      ],
+      "posted": "2026-09-02",
+      "region": "AMER",
+      "title": "Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/91207"
+    },
+    "amd:91311": {
+      "active": false,
       "category": "Data",
       "city_tag": "Canada (Other)",
+      "closed": "2026-11-12",
       "company": "AMD",
       "country": "ca",
       "external_id": "91311",
@@ -188,9 +211,10 @@
       "url": "https://careers.amd.com/careers-home/jobs/91311"
     },
     "amd:91367": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Vancouver",
+      "closed": "2026-11-12",
       "company": "AMD",
       "country": "ca",
       "external_id": "91367",
@@ -205,9 +229,10 @@
       "url": "https://careers.amd.com/careers-home/jobs/91367"
     },
     "amd:91368": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Canada (Other)",
+      "closed": "2026-11-12",
       "company": "AMD",
       "country": "ca",
       "external_id": "91368",
@@ -362,7 +387,7 @@
       "country": "ca",
       "external_id": "104405499448828614",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Montreal, QC, Canada"
       ],
@@ -379,7 +404,7 @@
       "country": "ca",
       "external_id": "112518690523488966",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -397,7 +422,7 @@
       "country": "ca",
       "external_id": "113855697199735494",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Montreal, QC, Canada",
         "Toronto, ON, Canada",
@@ -416,7 +441,7 @@
       "country": "ca",
       "external_id": "114416552819729094",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -434,7 +459,7 @@
       "country": "ca",
       "external_id": "128430823337534150",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Montreal, QC, Canada",
         "Toronto, ON, Canada",
@@ -453,7 +478,7 @@
       "country": "ca",
       "external_id": "141525012002546374",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Montreal, QC, Canada"
       ],
@@ -470,7 +495,7 @@
       "country": "ca",
       "external_id": "75043041429070534",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -545,7 +570,7 @@
       "country": "ca",
       "external_id": "JR0287933",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -563,7 +588,7 @@
       "country": "ca",
       "external_id": "JR0287934",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -581,7 +606,7 @@
       "country": "ca",
       "external_id": "1406585275871250",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Montreal, Canada"
       ],
@@ -598,7 +623,7 @@
       "country": "ca",
       "external_id": "1970393557040927",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Canada, Qu\u00e9bec, Montreal"
       ],
@@ -705,7 +730,7 @@
       "country": "ca",
       "external_id": "41311",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Canada"
       ],
@@ -740,7 +765,7 @@
       "country": "ca",
       "external_id": "JR2024997",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -758,7 +783,7 @@
       "country": "ca",
       "external_id": "JR2027982",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Canada Toronto",
         "Canada, Toronto"
@@ -776,7 +801,7 @@
       "country": "ca",
       "external_id": "446721064018",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -811,7 +836,7 @@
       "country": "ca",
       "external_id": "446721064141",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -882,7 +907,7 @@
       "country": "ca",
       "external_id": "446721141411",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -910,9 +935,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721142985?domain=qualcomm.com"
     },
     "qualcomm:446721143274": {
-      "active": true,
+      "active": false,
       "category": "Hardware/Silicon",
       "city_tag": "Toronto",
+      "closed": "2026-11-12",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721143274",
@@ -934,7 +960,7 @@
       "country": "ca",
       "external_id": "446721143440",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1023,7 +1049,7 @@
       "country": "ca",
       "external_id": "446721229661",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1069,9 +1095,10 @@
       "url": "https://careers.qualcomm.com/careers/job/446721302528?domain=qualcomm.com"
     },
     "qualcomm:446721349404": {
-      "active": true,
+      "active": false,
       "category": "QA",
       "city_tag": "Toronto",
+      "closed": "2026-11-12",
       "company": "Qualcomm",
       "country": "ca",
       "external_id": "446721349404",
@@ -1093,7 +1120,7 @@
       "country": "ca",
       "external_id": "446721615591",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1110,7 +1137,7 @@
       "country": "ca",
       "external_id": "446721636316",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1127,7 +1154,7 @@
       "country": "ca",
       "external_id": "446721636765",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1144,7 +1171,7 @@
       "country": "ca",
       "external_id": "446721661677",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1161,7 +1188,7 @@
       "country": "ca",
       "external_id": "446721661830",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1196,7 +1223,7 @@
       "country": "ca",
       "external_id": "446721678733",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -1213,7 +1240,7 @@
       "country": "ca",
       "external_id": "446721686396",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1230,7 +1257,7 @@
       "country": "ca",
       "external_id": "446721828828",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1247,7 +1274,7 @@
       "country": "ca",
       "external_id": "446721829439",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -1264,7 +1291,7 @@
       "country": "ca",
       "external_id": "446721829462",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -1281,7 +1308,7 @@
       "country": "ca",
       "external_id": "446721858024",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1298,7 +1325,7 @@
       "country": "ca",
       "external_id": "446721862429",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -1315,7 +1342,7 @@
       "country": "ca",
       "external_id": "446721862430",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -1332,7 +1359,7 @@
       "country": "ca",
       "external_id": "446721874877",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Ottawa, Ontario, Canada"
       ],
@@ -1349,7 +1376,7 @@
       "country": "ca",
       "external_id": "446721913672",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -1366,7 +1393,7 @@
       "country": "ca",
       "external_id": "446721913769",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -1383,7 +1410,7 @@
       "country": "ca",
       "external_id": "446721913898",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1400,7 +1427,7 @@
       "country": "ca",
       "external_id": "446721914045",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1417,7 +1444,7 @@
       "country": "ca",
       "external_id": "446721969461",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1434,7 +1461,7 @@
       "country": "ca",
       "external_id": "446721972361",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1451,7 +1478,7 @@
       "country": "ca",
       "external_id": "446721989047",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1468,7 +1495,7 @@
       "country": "ca",
       "external_id": "446722001120",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1485,7 +1512,7 @@
       "country": "ca",
       "external_id": "446722003454",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -1502,7 +1529,7 @@
       "country": "ca",
       "external_id": "446722005254",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -1519,7 +1546,7 @@
       "country": "ca",
       "external_id": "446722038614",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -1536,13 +1563,13 @@
       "country": "ca",
       "external_id": "8130805",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-11-11",
       "region": "AMER",
-      "title": "Software Engineer, Intern (Summer or Winter)",
+      "title": "Software Engineer, Intern (Summer)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
     },
     "stripe:8194285": {
@@ -1553,7 +1580,7 @@
       "country": "ca",
       "external_id": "8194285",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto"
       ],
@@ -1570,7 +1597,7 @@
       "country": "ca",
       "external_id": "8194287",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto"
       ],
@@ -1587,7 +1614,7 @@
       "country": "ca",
       "external_id": "8328664",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto"
       ],
@@ -1604,7 +1631,7 @@
       "country": "ca",
       "external_id": "8333122",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "locations": [
         "Toronto"
       ],
@@ -1614,5 +1641,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8333122"
     }
   },
-  "updated_at": "2026-11-11T01:22:21Z"
+  "updated_at": "2026-11-12T02:23:15Z"
 }

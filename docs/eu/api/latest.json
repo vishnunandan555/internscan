@@ -1,57 +1,119 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-11T01:22:21Z",
-  "new_count": 3,
-  "reopened_count": 0,
-  "total_active": 136,
+  "updated_at": "2026-11-12T02:23:15Z",
+  "new_count": 5,
+  "reopened_count": 2,
+  "total_active": 142,
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "Applied Scientist Intern - VLA and DATA, RIVR",
-      "url": "https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr",
+      "company": "NVIDIA",
+      "title": "GPU Compiler Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779",
       "locations": [
-        "Zurich, Zurich, CHE"
+        "Switzerland Zurich",
+        "Switzerland, Zurich"
       ],
       "city_tag": "Zurich",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-10",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
+      "category": "Backend/Infra",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
     },
     {
-      "company": "Microsoft",
-      "title": "Software Engineering INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044053",
+      "company": "NVIDIA",
+      "title": "System Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
       "locations": [
-        "Finland, Satakunta, Tampere"
+        "Finland Helsinki",
+        "Finland, Helsinki"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-10",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
     },
     {
-      "company": "Micron",
-      "title": "Intern EDG - Robotics UM exploration",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Vimercate-MB-Italy/Intern-EDG---Robotics-UM-exploration_JR114721",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI & 3D Generation (PhD)",
+      "url": "https://www.metacareers.com/jobs/1414858330673000",
       "locations": [
-        "Vimercate (MB), Italy",
-        "Vimercate MB Italy"
+        "Zurich, Switzerland"
+      ],
+      "city_tag": "Zurich",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
+      "url": "https://careers.snowflake.com/us/en/job/1181b78f-cef2-4078-970f-ebdf96fbeca5",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
+      "url": "https://careers.snowflake.com/us/en/job/e8e69bfe-22b4-4abe-b2cb-f60a73f190d5",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    }
+  ],
+  "reopened_jobs": [
+    {
+      "company": "Apple",
+      "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
+      "url": "https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear",
+      "locations": [
+        "Paris"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
       "posted": "2026-11-11",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11"
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "company": "Accenture",
+      "title": "LLM Engineer Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343",
+      "locations": [
+        "Warsaw"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-10-13",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-12"
     }
-  ],
-  "reopened_jobs": []
+  ]
 }
