@@ -1,66 +1,67 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-12 02:21:53 UTC
+SCRAPE RUN SUMMARY — 2026-11-13 02:00:04 UTC
 ========================================================================
-Runtime:            81.4 seconds
+Runtime:            83.8 seconds
 Companies Scraped:  65 total
   - Succeeded:      65
   - Failed:         0
-Active India Roles: 676
+Active India Roles: 675
 Changes Detected:
-  - New Additions:  +15
-  - Closed Roles:   -17
-  - Reopened Roles: ~6
+  - New Additions:  +14
+  - Closed Roles:   -20
+  - Reopened Roles: ~5
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Qualcomm — FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge (Cambridge / Oxford) [QA]
-    Apply: https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com
-  + Amazon — Data Engineer Internship (London) [Data]
-    Apply: https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship
-  + AMD — Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op (Canada (Other)) [Hardware/Silicon]
-    Apply: https://careers.amd.com/careers-home/jobs/91207
-  + Microsoft — Cambridge Internship Program: MSRC AI Security Research (Cambridge / Oxford) [AI/ML]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557070382
-  + NVIDIA — GPU Compiler Intern (Zurich) [Backend/Infra]
-    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779
-  + NVIDIA — System Software Engineering Intern - 2027 (Europe (Other)) [Software]
-    Apply: https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780
-  + ServiceNow — Assoc Detection Engineering Intern (Seattle) [Software]
-    Apply: https://jobs.smartrecruiters.com/servicenow/744000161210069
-  + ServiceNow — Assoc Security Engineering & Automation Intern (SF Bay Area) [Security]
-    Apply: https://jobs.smartrecruiters.com/servicenow/744000161209810
-  + ServiceNow — Assoc AI Engineering (Cloud Security Automation) Intern (SF Bay Area) [AI/ML]
-    Apply: https://jobs.smartrecruiters.com/servicenow/744000161209600
-  + ServiceNow — Assoc Information Security Engineer Intern (US (Other)) [Security]
-    Apply: https://jobs.smartrecruiters.com/servicenow/744000161204235
-  + Meta — Research Scientist Intern, Generative AI & 3D Generation (PhD) (Zurich) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1414858330673000
-  + Meta — Research Scientist Intern, LLM Memory and Skills (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1676116714093186
-  + Meta — Research Scientist Intern, TPU(PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/2690374264750493
-  + Snowflake — Software Engineering Intern – Developer Platform (Warsaw, Summer 2027) (Europe (Other)) [Software]
-    Apply: https://careers.snowflake.com/us/en/job/1181b78f-cef2-4078-970f-ebdf96fbeca5
-  + Snowflake — Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027) (Europe (Other)) [Software]
-    Apply: https://careers.snowflake.com/us/en/job/e8e69bfe-22b4-4abe-b2cb-f60a73f190d5
+  + Apple — Internship - Pro Apps Machine Learning Ecosystem Engineer (London) [AI/ML]
+    Apply: https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer
+  + Apple — Camera Software (Intern) (Boston) [Software]
+    Apply: https://jobs.apple.com/en-us/details/200694477/camera-software-intern
+  + Apple — Internship - Software Development Intern - Core OS (Europe (Other)) [Software]
+    Apply: https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os
+  + Amazon — 2027 Software Dev Engineer Intern - Finland (Europe (Other)) [Software]
+    Apply: https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland
+  + Amazon — Security Engineer Internship – 2027 (US) (Seattle) [Security]
+    Apply: https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us
+  + HPE — Ph D/Research Intern - AI Research Lab (Bengaluru) [AI/ML]
+    Apply: https://careers.hpe.com/us/en/job/1191423
+  + HPE — Data Services Business Support - Part Time Internship (Europe (Other)) [Data]
+    Apply: https://careers.hpe.com/us/en/job/1217184
+  + ServiceNow — Product Security Intern (US (Other)) [Security]
+    Apply: https://jobs.smartrecruiters.com/servicenow/744000161385779
+  + Meta — UX Research Scientist Intern, Contextual AI (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1447131743482590
+  + Meta — Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD) (Cambridge / Oxford) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1382697917119311
+  + Micron — Intern - IT Software Engineer (US (Other)) [Software]
+    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582
+  + Visa — Software Engineer Intern (UK (Other)) [Software]
+    Apply: https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W
+  + Visa — Software Engineer Intern (Cambridge / Oxford) [Software]
+    Apply: https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1
+  + Visa — Software Engineer Intern (London) [Software]
+    Apply: https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1
 
 [INTERNSHIPS CLOSED]
-  - Amazon — Software Development Engineer Intern - Summer 2027 (Seattle)
-  - AMD — Summer 2027 Long Term Firmware Engineering Intern/Co-op (Canada (Other))
-  - AMD — Summer 2027 Long Term Firmware Engineering Intern/Co-op (Vancouver)
-  - AMD — Summer 2027 Long Term Hardware Design Engineering Intern/Co-Op (Canada (Other))
-  - AMD — Summer 2027 Long Term Hardware Design Engineering Intern/Co-Op (Vancouver)
-  - AMD — Summer 2027 Long Term Software Engineering Intern/Co-op (Canada (Other))
-  - AMD — Short Term 2027 Data Analyst Intern/Co-Op (Canada (Other))
-  - AMD — Short Term 2027 Software Engineering Intern/Co-Op (Vancouver)
-  - AMD — Short Term 2027 Software Engineering Intern/Co-Op (Canada (Other))
-  - Dell Technologies — CSG Hardware Engineering Intern (US (Other))
-  - Meta — Research Scientist Intern, AI Systems and Infrastructure (PhD) (SF Bay Area)
-  - Microsoft — Security Assurance Intern - CTJ - TS (Seattle)
-  - Nokia — AI Assisted Software Development Co-op (US (Other))
-  - Qualcomm — Embedded Engineering Internship - Summer 2027 (SF Bay Area)
-  - Qualcomm — FY27 Intern - Silicon Validation Internship - Canada (16 months) (Toronto)
-  - Qualcomm — FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months) (Toronto)
-  - Qualcomm — FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam (Amsterdam)
+  - AMD — Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op (Canada (Other))
+  - Apple — Internship - Software Engineering - AI-Augmented Static Code Analysis (Munich)
+  - Apple — Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test (Munich)
+  - Apple — Internship - Software Engineering (Munich)
+  - Apple — Intern, Site Reliability Engineer, iCloud (London)
+  - Cisco — Software Engineer Summer Internship - Lysaker, Norway (Europe (Other))
+  - Cisco — Wireless Software Engineer_ Intern (Europe (Other))
+  - Dell Technologies — Experience Strategy Graduate Intern (Austin)
+  - HPE — Electrical Engineering Intern (US (Other))
+  - Intel — Software Development Intern (m/f/d) (Munich)
+  - Microsoft — Software Engineering INTERN (Europe (Other))
+  - Nokia — Remote Delivery Engineering, Optical Networks – Working Student (Europe (Other))
+  - Nokia — AI Engineering Co-op (US (Other))
+  - Nokia — AI R&D Engineer Co-op (US (Other))
+  - Nokia — Silicon Photonics Packaging Engineer Co-op (US (Other))
+  - NVIDIA — Data Processing Developer Technology Intern - 2027 (UK (Other))
+  - NVIDIA — Developer Technology Engineering Intern - Compute Performance (Zurich)
+  - NVIDIA — Software Engineering Intern - 2027 (Munich)
+  - Qualcomm — Automotive Engineering Internship – Summer 2027 (US (Other))
+  - Qualcomm — Wireless Systems Engineering Internship - Summer 2027 (SF Bay Area)
 
 ========================================================================

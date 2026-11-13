@@ -2,14 +2,14 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-12 07:53:15 IST** · 📌 **24** open verified internships
+> 🕐 Last updated: **2026-11-13 07:31:27 IST** · 📌 **25** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (70)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **India**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (24)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (25)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -18,7 +18,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [CloudSEK](#cloudsek) | **1** |
 | [Discover Dollar](#discover-dollar) | **4** |
 | [Google](#google) | **3** |
-| [HPE](#hpe) | **1** |
+| [HPE](#hpe) | **2** |
 | [HackerRank](#hackerrank) | **2** |
 | [Meta](#meta) | **5** |
 | [Microsoft](#microsoft) | **2** |
@@ -58,7 +58,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Student Researcher, 2027](https://www.google.com/about/careers/applications/jobs/results/125423735539671750) ✨ | AI/ML | India | 2026-11-04 | 2026-11-05 |
+| [Student Researcher, 2027](https://www.google.com/about/careers/applications/jobs/results/125423735539671750) | AI/ML | India | 2026-11-04 | 2026-11-05 |
 | [Software Engineering PhD Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | Software | Bengaluru | 2026-09-07 | 2026-09-17 |
 | [Silicon Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | Hardware/Silicon | Bengaluru | 2026-09-07 | 2026-09-17 |
 
@@ -68,6 +68,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Ph D/Research Intern - AI Research Lab](https://careers.hpe.com/us/en/job/1191423) ✨ | AI/ML | Bengaluru | 2026-11-12 | 2026-11-13 |
 | [College Intern](https://careers.hpe.com/us/en/job/1211843) | Software | Bengaluru | 2026-09-01 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
@@ -106,7 +107,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-10-13 | 2026-09-17 |
+| [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-10-14 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
@@ -146,7 +147,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-10-13 | 2026-09-17 |
+| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-10-14 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 

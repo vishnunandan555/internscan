@@ -1,151 +1,121 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-12T02:23:15Z",
-  "new_count": 15,
-  "reopened_count": 6,
-  "total_active": 674,
+  "updated_at": "2026-11-13T02:01:27Z",
+  "new_count": 14,
+  "reopened_count": 5,
+  "total_active": 673,
   "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge",
-      "url": "https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com",
+      "company": "Apple",
+      "title": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer",
       "locations": [
-        "Cambridge, United Kingdom"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "QA",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Engineer Internship",
-      "url": "https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship",
-      "locations": [
-        "London, England, GBR"
+        "London"
       ],
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "AMD",
-      "title": "Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/91207",
-      "locations": [
-        "OTTAWA, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Hardware/Silicon",
-      "posted": "2026-09-02",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Cambridge Internship Program: MSRC AI Security Research",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070382",
-      "locations": [
-        "United Kingdom, Cambridgeshire, Cambridge"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "GPU Compiler Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779",
-      "locations": [
-        "Switzerland Zurich",
-        "Switzerland, Zurich"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
       "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "NVIDIA",
-      "title": "System Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
+      "company": "Apple",
+      "title": "Camera Software (Intern)",
+      "url": "https://jobs.apple.com/en-us/details/200694477/camera-software-intern",
       "locations": [
-        "Finland Helsinki",
-        "Finland, Helsinki"
+        "Cambridge"
+      ],
+      "city_tag": "Boston",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Internship - Software Development Intern - Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os",
+      "locations": [
+        "Prague"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "ServiceNow",
-      "title": "Assoc Detection Engineering Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161210069",
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Intern - Finland",
+      "url": "https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland",
       "locations": [
-        "Kirkland, Washington, United States"
+        "Tampere, West and Inner Finland, FIN"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Amazon",
+      "title": "Security Engineer Internship – 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
+      "locations": [
+        "Seattle, Washington, USA"
       ],
       "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Assoc Security Engineering & Automation Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161209810",
-      "locations": [
-        "Santa Clara, CALIFORNIA, United States"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
       "category": "Security",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "posted": "2026-09-22",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "ServiceNow",
-      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161209600",
+      "company": "HPE",
+      "title": "Ph D/Research Intern - AI Research Lab",
+      "url": "https://careers.hpe.com/us/en/job/1191423",
       "locations": [
-        "Santa Clara, CALIFORNIA, United States"
+        "Bengaluru, Karnātaka, 560048",
+        "Bengaluru, Karnātaka, India"
       ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
       "category": "AI/ML",
       "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "HPE",
+      "title": "Data Services Business Support - Part Time Internship",
+      "url": "https://careers.hpe.com/us/en/job/1217184",
+      "locations": [
+        "Las Rozas, Madrid, 28232",
+        "Las Rozas, Madrid, Spain"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
       "company": "ServiceNow",
-      "title": "Assoc Information Security Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161204235",
+      "title": "Product Security Intern",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000161385779",
       "locations": [
         "San Diego, CALIFORNIA, United States"
       ],
@@ -154,181 +124,189 @@
       "region": "AMER",
       "category": "Security",
       "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, Generative AI & 3D Generation (PhD)",
-      "url": "https://www.metacareers.com/jobs/1414858330673000",
+      "title": "UX Research Scientist Intern, Contextual AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1447131743482590",
       "locations": [
-        "Zurich, Switzerland"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, LLM Memory and Skills (PhD)",
-      "url": "https://www.metacareers.com/jobs/1676116714093186",
-      "locations": [
-        "Bellevue, WA",
-        "New York, NY",
-        "Seattle, WA"
+        "Redmond, WA"
       ],
       "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, TPU(PhD)",
-      "url": "https://www.metacareers.com/jobs/2690374264750493",
+      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/1382697917119311",
       "locations": [
-        "Menlo Park, CA"
+        "Cambridge, UK"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Micron",
+      "title": "Intern - IT Software Engineer",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
+      "locations": [
+        "Boise ID, Main Site",
+        "Boise, ID - Main Site"
+      ],
+      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "category": "Software",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "Snowflake",
-      "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
-      "url": "https://careers.snowflake.com/us/en/job/1181b78f-cef2-4078-970f-ebdf96fbeca5",
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W",
       "locations": [
-        "Warsaw, Poland"
+        "GB - Reading, United Kingdom",
+        "GB, Reading United Kingdom"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
+      "city_tag": "UK (Other)",
+      "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "Snowflake",
-      "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
-      "url": "https://careers.snowflake.com/us/en/job/e8e69bfe-22b4-4abe-b2cb-f60a73f190d5",
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
       "locations": [
-        "Warsaw, Poland"
+        "GB - Cambridge, United Kingdom",
+        "GB, Cambridge United Kingdom"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1",
+      "locations": [
+        "GB - London, United Kingdom",
+        "GB, London United Kingdom"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Apple",
-      "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
-      "url": "https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
+      "url": "https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com",
       "locations": [
-        "Paris"
+        "Amsterdam Drenthe, North Holland, Netherlands"
       ],
-      "city_tag": "Europe (Other)",
+      "city_tag": "Amsterdam",
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-11-12"
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-13"
     },
     {
       "company": "Qualcomm",
-      "title": "Modular Engineering Internship – Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446721246663?domain=qualcomm.com",
-      "locations": [
-        "Los Altos, California, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-02",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "Automotive Engineering Internship – Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446720740553?domain=qualcomm.com",
-      "locations": [
-        "San Diego, California, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-18",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "Wireless Systems Engineering Internship - Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446720740637?domain=qualcomm.com",
+      "title": "Embedded Engineering Internship - Summer 2027",
+      "url": "https://careers.qualcomm.com/careers/job/446720737089?domain=qualcomm.com",
       "locations": [
         "Boxborough, Massachusetts, United States of America",
-        "New Jersey, United States of America",
         "San Diego, California, United States of America",
         "Santa Clara, California, United States of America"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-09-21",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "Software Engineering Internship - Summer 2027",
+      "url": "https://careers.qualcomm.com/careers/job/446720740529?domain=qualcomm.com",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Boxborough, Massachusetts, United States of America",
+        "Irvine, California, United States of America",
+        "Louisville, Kentucky, United States of America",
+        "New Jersey, United States of America",
+        "New York City, New York, United States of America",
+        "San Diego, California, United States of America",
+        "Tempe, Arizona, United States of America"
+      ],
+      "city_tag": "New York",
+      "country": "us",
+      "region": "AMER",
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "company": "Microsoft",
-      "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
+      "title": "Applied Science: Internship Opportunities - Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
       "locations": [
-        "United States, California, Mountain View",
         "United States, Washington, Redmond"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "Accenture",
-      "title": "LLM Engineer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343",
+      "company": "Intel",
+      "title": "Software Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923",
       "locations": [
-        "Warsaw"
+        "Germany Munich",
+        "Germany, Munich"
       ],
-      "city_tag": "Europe (Other)",
+      "city_tag": "Munich",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-13",
+      "category": "Software",
+      "posted": "2026-11-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     }
   ]
 }

@@ -1,60 +1,45 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-12T02:23:15Z",
-  "new_count": 6,
-  "reopened_count": 4,
-  "total_active": 412,
+  "updated_at": "2026-11-13T02:01:27Z",
+  "new_count": 5,
+  "reopened_count": 3,
+  "total_active": 413,
   "new_jobs": [
     {
-      "company": "ServiceNow",
-      "title": "Assoc Detection Engineering Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161210069",
+      "company": "Apple",
+      "title": "Camera Software (Intern)",
+      "url": "https://jobs.apple.com/en-us/details/200694477/camera-software-intern",
       "locations": [
-        "Kirkland, Washington, United States"
+        "Cambridge"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "Boston",
       "country": "us",
       "region": "AMER",
       "category": "Software",
       "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "ServiceNow",
-      "title": "Assoc Security Engineering & Automation Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161209810",
+      "company": "Amazon",
+      "title": "Security Engineer Internship – 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
       "locations": [
-        "Santa Clara, CALIFORNIA, United States"
+        "Seattle, Washington, USA"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "Security",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "posted": "2026-09-22",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
       "company": "ServiceNow",
-      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161209600",
-      "locations": [
-        "Santa Clara, CALIFORNIA, United States"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Assoc Information Security Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161204235",
+      "title": "Product Security Intern",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000161385779",
       "locations": [
         "San Diego, CALIFORNIA, United States"
       ],
@@ -63,106 +48,95 @@
       "region": "AMER",
       "category": "Security",
       "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, LLM Memory and Skills (PhD)",
-      "url": "https://www.metacareers.com/jobs/1676116714093186",
+      "title": "UX Research Scientist Intern, Contextual AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1447131743482590",
       "locations": [
-        "Bellevue, WA",
-        "New York, NY",
-        "Seattle, WA"
+        "Redmond, WA"
       ],
       "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, TPU(PhD)",
-      "url": "https://www.metacareers.com/jobs/2690374264750493",
+      "company": "Micron",
+      "title": "Intern - IT Software Engineer",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
       "locations": [
-        "Menlo Park, CA"
+        "Boise ID, Main Site",
+        "Boise, ID - Main Site"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "category": "Software",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     }
   ],
   "reopened_jobs": [
     {
       "company": "Qualcomm",
-      "title": "Modular Engineering Internship – Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446721246663?domain=qualcomm.com",
-      "locations": [
-        "Los Altos, California, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-10-02",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "Automotive Engineering Internship – Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446720740553?domain=qualcomm.com",
-      "locations": [
-        "San Diego, California, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-18",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "Wireless Systems Engineering Internship - Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446720740637?domain=qualcomm.com",
+      "title": "Embedded Engineering Internship - Summer 2027",
+      "url": "https://careers.qualcomm.com/careers/job/446720737089?domain=qualcomm.com",
       "locations": [
         "Boxborough, Massachusetts, United States of America",
-        "New Jersey, United States of America",
         "San Diego, California, United States of America",
         "Santa Clara, California, United States of America"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-09-21",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "Software Engineering Internship - Summer 2027",
+      "url": "https://careers.qualcomm.com/careers/job/446720740529?domain=qualcomm.com",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Boxborough, Massachusetts, United States of America",
+        "Irvine, California, United States of America",
+        "Louisville, Kentucky, United States of America",
+        "New Jersey, United States of America",
+        "New York City, New York, United States of America",
+        "San Diego, California, United States of America",
+        "Tempe, Arizona, United States of America"
+      ],
+      "city_tag": "New York",
+      "country": "us",
+      "region": "AMER",
       "category": "Software",
       "posted": "2026-09-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "company": "Microsoft",
-      "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
+      "title": "Applied Science: Internship Opportunities - Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
       "locations": [
-        "United States, California, Mountain View",
         "United States, Washington, Redmond"
       ],
-      "city_tag": "SF Bay Area",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     }
   ]
 }

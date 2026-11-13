@@ -1,13 +1,13 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-12T02:23:15Z",
-  "total_active_global": 674,
+  "updated_at": "2026-11-13T02:01:27Z",
+  "total_active_global": 673,
   "countries": {
     "in": {
       "name": "India",
       "flag": "🇮🇳",
       "currency": "INR",
-      "active_count": 24,
+      "active_count": 25,
       "tracked_companies": 70,
       "hubs": [
         "Bengaluru",
@@ -23,7 +23,7 @@
       "name": "United States",
       "flag": "🇺🇸",
       "currency": "USD",
-      "active_count": 412,
+      "active_count": 413,
       "tracked_companies": 58,
       "hubs": [
         "SF Bay Area",
@@ -38,7 +38,7 @@
       "name": "Canada",
       "flag": "🇨🇦",
       "currency": "CAD",
-      "active_count": 55,
+      "active_count": 54,
       "tracked_companies": 53,
       "hubs": [
         "Toronto",
@@ -52,7 +52,7 @@
       "name": "United Kingdom",
       "flag": "🇬🇧",
       "currency": "GBP",
-      "active_count": 40,
+      "active_count": 43,
       "tracked_companies": 53,
       "hubs": [
         "London",
@@ -64,7 +64,7 @@
       "name": "Europe",
       "flag": "🇪🇺",
       "currency": "EUR",
-      "active_count": 142,
+      "active_count": 137,
       "tracked_companies": 53,
       "hubs": [
         "Berlin",

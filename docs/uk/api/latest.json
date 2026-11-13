@@ -1,55 +1,88 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-12T02:23:15Z",
-  "new_count": 3,
+  "updated_at": "2026-11-13T02:01:27Z",
+  "new_count": 5,
   "reopened_count": 0,
-  "total_active": 40,
+  "total_active": 43,
   "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge",
-      "url": "https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com",
+      "company": "Apple",
+      "title": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer",
       "locations": [
-        "Cambridge, United Kingdom"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "QA",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Engineer Internship",
-      "url": "https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship",
-      "locations": [
-        "London, England, GBR"
+        "London"
       ],
       "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "category": "AI/ML",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "Microsoft",
-      "title": "Cambridge Internship Program: MSRC AI Security Research",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070382",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/1382697917119311",
       "locations": [
-        "United Kingdom, Cambridgeshire, Cambridge"
+        "Cambridge, UK"
       ],
       "city_tag": "Cambridge / Oxford",
       "country": "uk",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W",
+      "locations": [
+        "GB - Reading, United Kingdom",
+        "GB, Reading United Kingdom"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
+      "locations": [
+        "GB - Cambridge, United Kingdom",
+        "GB, Cambridge United Kingdom"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1",
+      "locations": [
+        "GB - London, United Kingdom",
+        "GB, London United Kingdom"
+      ],
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     }
   ],
   "reopened_jobs": []

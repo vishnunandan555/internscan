@@ -2,7 +2,7 @@
 
 # 🇨🇦 Canada — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-11-12 07:53:15 IST**
+> 🕐 Last updated: **2026-11-13 07:31:27 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/)
 

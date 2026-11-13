@@ -1,119 +1,89 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-12T02:23:15Z",
-  "new_count": 5,
+  "updated_at": "2026-11-13T02:01:27Z",
+  "new_count": 3,
   "reopened_count": 2,
-  "total_active": 142,
+  "total_active": 137,
   "new_jobs": [
     {
-      "company": "NVIDIA",
-      "title": "GPU Compiler Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779",
+      "company": "Apple",
+      "title": "Internship - Software Development Intern - Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os",
       "locations": [
-        "Switzerland Zurich",
-        "Switzerland, Zurich"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "System Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
-      "locations": [
-        "Finland Helsinki",
-        "Finland, Helsinki"
+        "Prague"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-11-12",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Generative AI & 3D Generation (PhD)",
-      "url": "https://www.metacareers.com/jobs/1414858330673000",
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Intern - Finland",
+      "url": "https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland",
       "locations": [
-        "Zurich, Switzerland"
-      ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
-      "url": "https://careers.snowflake.com/us/en/job/1181b78f-cef2-4078-970f-ebdf96fbeca5",
-      "locations": [
-        "Warsaw, Poland"
+        "Tampere, West and Inner Finland, FIN"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "Snowflake",
-      "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
-      "url": "https://careers.snowflake.com/us/en/job/e8e69bfe-22b4-4abe-b2cb-f60a73f190d5",
+      "company": "HPE",
+      "title": "Data Services Business Support - Part Time Internship",
+      "url": "https://careers.hpe.com/us/en/job/1217184",
       "locations": [
-        "Warsaw, Poland"
+        "Las Rozas, Madrid, 28232",
+        "Las Rozas, Madrid, Spain"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "category": "Data",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Apple",
-      "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
-      "url": "https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
+      "url": "https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com",
       "locations": [
-        "Paris"
+        "Amsterdam Drenthe, North Holland, Netherlands"
       ],
-      "city_tag": "Europe (Other)",
+      "city_tag": "Amsterdam",
       "country": "eu",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-11-12"
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-13"
     },
     {
-      "company": "Accenture",
-      "title": "LLM Engineer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/LLM-Engineer-Internship-Program--She-He-They-_R00271343",
+      "company": "Intel",
+      "title": "Software Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923",
       "locations": [
-        "Warsaw"
+        "Germany Munich",
+        "Germany, Munich"
       ],
-      "city_tag": "Europe (Other)",
+      "city_tag": "Munich",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-13",
+      "category": "Software",
+      "posted": "2026-11-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     }
   ]
 }
