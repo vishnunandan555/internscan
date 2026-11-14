@@ -1,132 +1,60 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-13T02:01:27Z",
-  "new_count": 5,
-  "reopened_count": 3,
-  "total_active": 413,
+  "updated_at": "2026-11-14T01:33:08Z",
+  "new_count": 12,
+  "reopened_count": 0,
+  "total_active": 414,
   "new_jobs": [
     {
-      "company": "Apple",
-      "title": "Camera Software (Intern)",
-      "url": "https://jobs.apple.com/en-us/details/200694477/camera-software-intern",
-      "locations": [
-        "Cambridge"
-      ],
-      "city_tag": "Boston",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
       "company": "Amazon",
-      "title": "Security Engineer Internship – 2027 (US)",
-      "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
+      "title": "2027 Applied Science Internship - Robotics - United States",
+      "url": "https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
       "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-09-22",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Product Security Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161385779",
-      "locations": [
-        "San Diego, CALIFORNIA, United States"
+        "North Reading, Massachusetts, USA"
       ],
       "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "Meta",
-      "title": "UX Research Scientist Intern, Contextual AI (PhD)",
-      "url": "https://www.metacareers.com/jobs/1447131743482590",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
     },
     {
-      "company": "Micron",
-      "title": "Intern - IT Software Engineer",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
+      "company": "Microsoft",
+      "title": "Electrical Engineering INTERN (PhD)",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
       "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
+        "United States, Washington, Redmond"
       ],
-      "city_tag": "US (Other)",
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "Software",
       "posted": "2026-11-13",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    }
-  ],
-  "reopened_jobs": [
-    {
-      "company": "Qualcomm",
-      "title": "Embedded Engineering Internship - Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446720737089?domain=qualcomm.com",
-      "locations": [
-        "Boxborough, Massachusetts, United States of America",
-        "San Diego, California, United States of America",
-        "Santa Clara, California, United States of America"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-09-21",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "Software Engineering Internship - Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446720740529?domain=qualcomm.com",
-      "locations": [
-        "Austin, Texas, United States of America",
-        "Boxborough, Massachusetts, United States of America",
-        "Irvine, California, United States of America",
-        "Louisville, Kentucky, United States of America",
-        "New Jersey, United States of America",
-        "New York City, New York, United States of America",
-        "San Diego, California, United States of America",
-        "Tempe, Arizona, United States of America"
-      ],
-      "city_tag": "New York",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-18",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13"
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
     },
     {
       "company": "Microsoft",
-      "title": "Applied Science: Internship Opportunities - Redmond",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
+      "title": "Research Intern - MSR Software-Hardware Co-design",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - AI Coding Agents",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -134,9 +62,131 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-12",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13"
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "AI Identity Intern",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000161594249",
+      "locations": [
+        "Kirkland, Washington, United States"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Security Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000161592679",
+      "locations": [
+        "Kirkland, Washington, United States"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Information Security Analyst Intern",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000161550869",
+      "locations": [
+        "San Diego, CALIFORNIA, United States"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Security Engineering & Automation Intern",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000161548528",
+      "locations": [
+        "Kirkland, Washington, United States"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "AI Security Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000161548289",
+      "locations": [
+        "San Diego, California, United States"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Diffractive Optics (PhD)",
+      "url": "https://www.metacareers.com/jobs/1158829233342350",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Materials Architecture & Device Integration (PhD)",
+      "url": "https://www.metacareers.com/jobs/1674297360998408",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "Walmart Global Tech",
+      "title": "Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
+      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435",
+      "locations": [
+        "(USA) Together Building AR Bentonville Home Office",
+        "USA Together Building AR Bentonville Home Office"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
     }
-  ]
+  ],
+  "reopened_jobs": []
 }

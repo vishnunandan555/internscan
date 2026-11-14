@@ -1,88 +1,26 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-13T02:01:27Z",
-  "new_count": 5,
+  "updated_at": "2026-11-14T01:33:08Z",
+  "new_count": 1,
   "reopened_count": 0,
   "total_active": 43,
   "new_jobs": [
     {
-      "company": "Apple",
-      "title": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer",
+      "company": "HPE",
+      "title": "Sales Programmes Intern - High Performance Computing & AI",
+      "url": "https://careers.hpe.com/us/en/job/1216776",
       "locations": [
-        "London"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
-      "url": "https://www.metacareers.com/jobs/1382697917119311",
-      "locations": [
-        "Cambridge, UK"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "Visa",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W",
-      "locations": [
-        "GB - Reading, United Kingdom",
-        "GB, Reading United Kingdom"
+        "Winnersh, Berkshire, RG41 5TP",
+        "Winnersh, Berkshire, United Kingdom"
       ],
       "city_tag": "UK (Other)",
       "country": "uk",
       "region": "EMEA",
-      "category": "Software",
+      "category": "AI/ML",
       "posted": "2026-11-13",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "Visa",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
-      "locations": [
-        "GB - Cambridge, United Kingdom",
-        "GB, Cambridge United Kingdom"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "Visa",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1",
-      "locations": [
-        "GB - London, United Kingdom",
-        "GB, London United Kingdom"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
     }
   ],
   "reopened_jobs": []

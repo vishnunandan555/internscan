@@ -1,67 +1,79 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-13 02:00:04 UTC
+SCRAPE RUN SUMMARY — 2026-11-14 01:32:08 UTC
 ========================================================================
-Runtime:            83.8 seconds
+Runtime:            59.9 seconds
 Companies Scraped:  65 total
-  - Succeeded:      65
-  - Failed:         0
-Active India Roles: 675
+  - Succeeded:      49
+  - Failed:         16
+Active India Roles: 549
 Changes Detected:
   - New Additions:  +14
-  - Closed Roles:   -20
-  - Reopened Roles: ~5
+  - Closed Roles:   -14
+  - Reopened Roles: ~2
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Apple — Internship - Pro Apps Machine Learning Ecosystem Engineer (London) [AI/ML]
-    Apply: https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer
-  + Apple — Camera Software (Intern) (Boston) [Software]
-    Apply: https://jobs.apple.com/en-us/details/200694477/camera-software-intern
-  + Apple — Internship - Software Development Intern - Core OS (Europe (Other)) [Software]
-    Apply: https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os
-  + Amazon — 2027 Software Dev Engineer Intern - Finland (Europe (Other)) [Software]
-    Apply: https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland
-  + Amazon — Security Engineer Internship – 2027 (US) (Seattle) [Security]
-    Apply: https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us
-  + HPE — Ph D/Research Intern - AI Research Lab (Bengaluru) [AI/ML]
-    Apply: https://careers.hpe.com/us/en/job/1191423
-  + HPE — Data Services Business Support - Part Time Internship (Europe (Other)) [Data]
-    Apply: https://careers.hpe.com/us/en/job/1217184
-  + ServiceNow — Product Security Intern (US (Other)) [Security]
-    Apply: https://jobs.smartrecruiters.com/servicenow/744000161385779
-  + Meta — UX Research Scientist Intern, Contextual AI (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1447131743482590
-  + Meta — Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD) (Cambridge / Oxford) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1382697917119311
-  + Micron — Intern - IT Software Engineer (US (Other)) [Software]
-    Apply: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582
-  + Visa — Software Engineer Intern (UK (Other)) [Software]
-    Apply: https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W
-  + Visa — Software Engineer Intern (Cambridge / Oxford) [Software]
-    Apply: https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1
-  + Visa — Software Engineer Intern (London) [Software]
-    Apply: https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1
+  + Amazon — 2027 Applied Science Internship - Robotics - United States (US (Other)) [AI/ML]
+    Apply: https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states
+  + Qualcomm — FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden (Europe (Other)) [AI/ML]
+    Apply: https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com
+  + HPE — Sales Programmes Intern - High Performance Computing & AI (UK (Other)) [AI/ML]
+    Apply: https://careers.hpe.com/us/en/job/1216776
+  + Microsoft — Electrical Engineering INTERN (PhD) (Seattle) [Software]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393556986148
+  + Microsoft — Research Intern - MSR Software-Hardware Co-design (Seattle) [Software]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557073455
+  + Microsoft — Research Intern - AI Coding Agents (Seattle) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557073416
+  + ServiceNow — AI Identity Intern (Seattle) [AI/ML]
+    Apply: https://jobs.smartrecruiters.com/servicenow/744000161594249
+  + ServiceNow — Security Engineer Intern (Seattle) [Security]
+    Apply: https://jobs.smartrecruiters.com/servicenow/744000161592679
+  + ServiceNow — Information Security Analyst Intern (US (Other)) [Security]
+    Apply: https://jobs.smartrecruiters.com/servicenow/744000161550869
+  + ServiceNow — Security Engineering & Automation Intern (Seattle) [Security]
+    Apply: https://jobs.smartrecruiters.com/servicenow/744000161548528
+  + ServiceNow — AI Security Engineer Intern (US (Other)) [AI/ML]
+    Apply: https://jobs.smartrecruiters.com/servicenow/744000161548289
+  + Meta — Research Scientist Intern, Diffractive Optics (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1158829233342350
+  + Meta — Research Scientist Intern, Materials Architecture & Device Integration (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1674297360998408
+  + Walmart Global Tech — Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern (US (Other)) [Data]
+    Apply: https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435
 
 [INTERNSHIPS CLOSED]
-  - AMD — Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op (Canada (Other))
-  - Apple — Internship - Software Engineering - AI-Augmented Static Code Analysis (Munich)
-  - Apple — Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test (Munich)
-  - Apple — Internship - Software Engineering (Munich)
-  - Apple — Intern, Site Reliability Engineer, iCloud (London)
-  - Cisco — Software Engineer Summer Internship - Lysaker, Norway (Europe (Other))
-  - Cisco — Wireless Software Engineer_ Intern (Europe (Other))
-  - Dell Technologies — Experience Strategy Graduate Intern (Austin)
-  - HPE — Electrical Engineering Intern (US (Other))
-  - Intel — Software Development Intern (m/f/d) (Munich)
-  - Microsoft — Software Engineering INTERN (Europe (Other))
-  - Nokia — Remote Delivery Engineering, Optical Networks – Working Student (Europe (Other))
-  - Nokia — AI Engineering Co-op (US (Other))
-  - Nokia — AI R&D Engineer Co-op (US (Other))
-  - Nokia — Silicon Photonics Packaging Engineer Co-op (US (Other))
-  - NVIDIA — Data Processing Developer Technology Intern - 2027 (UK (Other))
-  - NVIDIA — Developer Technology Engineering Intern - Compute Performance (Zurich)
-  - NVIDIA — Software Engineering Intern - 2027 (Munich)
-  - Qualcomm — Automotive Engineering Internship – Summer 2027 (US (Other))
-  - Qualcomm — Wireless Systems Engineering Internship - Summer 2027 (SF Bay Area)
+  - Accenture — Angular Developer Internship Program (She/He/They) (Europe (Other))
+  - Amazon — 2027 Applied Science Internship - Robotics - United States (US (Other))
+  - Apple — AMS Lab Validation Intern (Munich)
+  - Apple — Technical Internship - Apple Wallet, Payments & Commerce (London)
+  - Barclays — Chief Client Office - Client Data & Engineering Group Summer Internship Program 2027 New York City (New York)
+  - Cisco — Software Engineer Full-Stack / Backend I (Intern) – United States (SF Bay Area)
+  - Cisco — Software Engineer Data & AI PhD (Intern) - United States (SF Bay Area)
+  - HPE — ASIC Firmware and Diagnostic Intern (US (Other))
+  - Meta — Strategic Sourcing Manager Intern — Reality Labs Hardware (2027) (SF Bay Area)
+  - Nokia — Mixed Signal Circuit Design Coop (US (Other))
+  - Qualcomm — Embedded Engineering Internship - Summer 2027 (SF Bay Area)
+  - Qualcomm — Machine Learning & Artificial Intelligence Engineering Internship – Summer 2027 (SF Bay Area)
+  - Qualcomm — Software Engineering Internship - Summer 2027 (New York)
+  - Qualcomm — Modular Engineering Internship – Summer 2027 (US (Other))
+
+[FAILED SCRAPERS]
+  × Adobe: request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/c
+  × Autodesk: request failed after 3 attempts: POST https://autodesk.wd1.myworkdayjobs.com/wda
+  × Broadcom (VMware): request failed after 3 attempts: POST https://broadcom.wd1.myworkdayjobs.com/wda
+  × CrowdStrike: request failed after 3 attempts: POST https://crowdstrike.wd5.myworkdayjobs.com/
+  × Intel: request failed after 3 attempts: POST https://intel.wd1.myworkdayjobs.com/wday/c
+  × Mastercard: request failed after 3 attempts: POST https://mastercard.wd1.myworkdayjobs.com/w
+  × Micron: request failed after 3 attempts: POST https://micron.wd1.myworkdayjobs.com/wday/
+  × Morgan Stanley: request failed after 3 attempts: POST https://ms.wd5.myworkdayjobs.com/wday/cxs/
+  × NVIDIA: request failed after 3 attempts: POST https://nvidia.wd5.myworkdayjobs.com/wday/
+  × Palo Alto Networks: request failed after 3 attempts: POST https://paloaltonetworks.wd5.myworkdayjobs
+  × PayPal: request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/
+  × Red Hat: request failed after 3 attempts: POST https://redhat.wd5.myworkdayjobs.com/wday/
+  × Target: request failed after 3 attempts: POST https://target.wd5.myworkdayjobs.com/wday/
+  × Visa: request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cx
+  × Wells Fargo: request failed after 3 attempts: POST https://wf.wd1.myworkdayjobs.com/wday/cxs/
+  × Workday: request failed after 3 attempts: POST https://workday.wd5.myworkdayjobs.com/wday
 
 ========================================================================

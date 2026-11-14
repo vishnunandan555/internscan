@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-13 07:31:27 IST** · 📌 **43** open verified internships
+> 🕐 Last updated: **2026-11-14 07:03:08 IST** · 📌 **43** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -16,12 +16,12 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Company | Open Internships in United Kingdom |
 |---|:---:|
 | [Amazon](#amazon) | **9** |
-| [Apple](#apple) | **4** |
+| [Apple](#apple) | **3** |
 | [Barclays](#barclays) | **2** |
 | [Cisco](#cisco) | **2** |
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **4** |
-| [HPE](#hpe) | **1** |
+| [HPE](#hpe) | **2** |
 | [JPMorgan Chase](#jpmorgan-chase) | **2** |
 | [Meta](#meta) | **9** |
 | [Microsoft](#microsoft) | **2** |
@@ -58,7 +58,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) ✨ | AI/ML | London | 2026-11-12 | 2026-11-13 |
 | [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) ✨ | Backend/Infra | London | 2026-11-10 | 2026-11-11 |
-| [Technical Internship - Apple Wallet, Payments & Commerce](https://jobs.apple.com/en-us/details/200692619/technical-internship-apple-wallet-payments-commerce) | Software | London | 2026-10-30 | 2026-10-31 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -85,7 +84,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London | 2026-10-05 | 2026-10-15 |
+| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London | 2026-11-13 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -104,6 +103,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Sales Programmes Intern - High Performance Computing & AI](https://careers.hpe.com/us/en/job/1216776) ✨ | AI/ML | Winnersh, Berkshire | 2026-11-13 | 2026-11-14 |
 | [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) | Backend/Infra | Winnersh | 2026-10-28 | 2026-10-16 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -112,7 +112,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Machine Learning Center of Excellence (NLP) - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793) ✨ | AI/ML | London | 2026-11-05 | 2026-11-06 |
+| [2027 Machine Learning Center of Excellence (NLP) - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793) | AI/ML | London | 2026-11-05 | 2026-11-06 |
 | [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) | AI/ML | London | 2026-10-15 | 2026-10-16 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)

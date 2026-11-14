@@ -1,73 +1,73 @@
 ========================================================================
 INDIA TECH INTERNSHIPS TRACKER — DETAILED SCRAPE LOG
-Started:  2026-11-13 02:00:04 UTC
-Finished: 2026-11-13 02:01:28 UTC (83.8s)
-Result:   65 succeeded, 0 failed, 675 active India listings
+Started:  2026-11-14 01:32:08 UTC
+Finished: 2026-11-14 01:33:08 UTC (59.9s)
+Result:   49 succeeded, 16 failed, 549 active India listings
 ========================================================================
 
-[02:00:04] [INFO ] Starting scrape for 65 companies with 8 workers (country=None, dry_run=False, keyword=None)
-[02:00:07] [INFO ] [OK]   Google                   ( 3.5s) ->   91 postings, 91 interns, 31 matched
-[02:00:07] [INFO ] [OK]   Salesforce               ( 3.5s) ->   48 postings, 15 interns, 5 matched
-[02:00:10] [INFO ] [OK]   Apple                    ( 6.0s) ->  181 postings, 138 interns, 35 matched
-[02:00:12] [INFO ] [OK]   Netflix                  ( 2.8s) ->    6 postings,  3 interns, 1 matched
-[02:00:14] [INFO ] [OK]   Adobe                    (10.4s) ->  121 postings, 33 interns, 7 matched
-[02:00:14] [INFO ] [OK]   Amazon                   (10.7s) ->  725 postings, 468 interns, 80 matched
-[02:00:15] [INFO ] [OK]   Cisco                    ( 0.3s) ->   43 postings, 31 interns, 10 matched
-[02:00:15] [INFO ] [OK]   Qualcomm                 ( 7.7s) ->  100 postings, 96 interns, 51 matched
-[02:00:15] [INFO ] [OK]   AMD                      ( 0.5s) ->   10 postings,  8 interns, 0 matched
-[02:00:18] [INFO ] [OK]   Dell Technologies        ( 3.6s) ->  193 postings, 20 interns, 4 matched
-[02:00:19] [INFO ] [OK]   HPE                      ( 1.4s) ->  200 postings, 181 interns, 60 matched
-[02:00:20] [INFO ] [OK]   Microsoft                (16.1s) ->  135 postings, 90 interns, 35 matched
-[02:00:24] [INFO ] [OK]   Red Hat                  ( 8.9s) ->  115 postings, 21 interns, 2 matched
-[02:00:24] [INFO ] [OK]   Broadcom (VMware)        ( 5.1s) ->  100 postings,  0 interns, 0 matched
-[02:00:29] [INFO ] [OK]   NVIDIA                   (25.7s) ->  300 postings, 224 interns, 62 matched
-[02:00:32] [INFO ] [OK]   Oracle                   (28.1s) -> 1000 postings, 13 interns, 2 matched
-[02:00:32] [INFO ] [OK]   ServiceNow               ( 8.0s) ->  801 postings, 15 interns, 8 matched
-[02:00:35] [INFO ] [OK]   PayPal                   (15.2s) ->  194 postings,  7 interns, 7 matched
-[02:00:37] [INFO ] [OK]   Intel                    (22.2s) ->  300 postings, 95 interns, 42 matched
-[02:00:37] [INFO ] [OK]   Snowflake                ( 0.3s) ->   11 postings,  8 interns, 4 matched
-[02:00:38] [INFO ] [OK]   GitHub                   ( 0.9s) ->  100 postings,  0 interns, 0 matched
-[02:00:41] [INFO ] [OK]   CrowdStrike              (16.9s) ->  230 postings, 15 interns, 1 matched
-[02:00:41] [INFO ] [OK]   Nokia                    ( 6.1s) ->  240 postings, 24 interns, 4 matched
-[02:00:41] [INFO ] [OK]   Walmart Global Tech      (28.8s) ->  300 postings, 295 interns, 10 matched
-[02:00:46] [INFO ] [OK]   Meta                     (38.5s) ->  630 postings, 159 interns, 142 matched
-[02:00:47] [INFO ] [OK]   Palo Alto Networks       (17.9s) ->  300 postings,  2 interns, 0 matched
-[02:00:48] [INFO ] [OK]   Micron                   (16.2s) ->  300 postings, 20 interns, 2 matched
-[02:00:57] [INFO ] [OK]   JPMorgan Chase           (19.0s) -> 1000 postings, 29 interns, 5 matched
-[02:01:00] [INFO ] [OK]   Workday                  (28.6s) ->  184 postings,  1 interns, 0 matched
-[02:01:00] [INFO ] [OK]   Jane Street              ( 0.2s) ->  217 postings, 43 interns, 8 matched
-[02:01:01] [INFO ] [OK]   Stripe                   ( 0.1s) ->  786 postings, 22 interns, 15 matched
-[02:01:01] [INFO ] [OK]   MongoDB                  ( 0.1s) ->  386 postings,  3 interns, 3 matched
-[02:01:01] [INFO ] [OK]   Rubrik                   ( 0.1s) ->  181 postings,  7 interns, 1 matched
-[02:01:01] [INFO ] [OK]   Cloudflare               ( 0.1s) ->  480 postings,  7 interns, 0 matched
-[02:01:01] [INFO ] [OK]   Datadog                  ( 0.1s) ->  382 postings,  6 interns, 5 matched
-[02:01:01] [INFO ] [OK]   Databricks               ( 0.1s) ->  906 postings, 12 interns, 6 matched
-[02:01:01] [INFO ] [OK]   Elastic                  ( 0.1s) ->  398 postings,  0 interns, 0 matched
-[02:01:01] [INFO ] [OK]   GitLab                   ( 0.1s) ->  254 postings,  0 interns, 0 matched
-[02:01:01] [INFO ] [OK]   Twilio                   ( 0.0s) ->  117 postings,  0 interns, 0 matched
-[02:01:01] [INFO ] [OK]   Okta                     ( 0.1s) ->  370 postings,  0 interns, 0 matched
-[02:01:01] [INFO ] [OK]   Pure Storage             ( 0.1s) ->  378 postings,  1 interns, 1 matched
-[02:01:02] [INFO ] [OK]   Autodesk                 ( 0.7s) ->    3 postings,  1 interns, 0 matched
-[02:01:03] [INFO ] [OK]   Barclays                 (17.4s) ->  300 postings, 22 interns, 5 matched
-[02:01:03] [INFO ] [OK]   Razorpay                 ( 0.1s) ->   25 postings,  0 interns, 0 matched
-[02:01:04] [INFO ] [OK]   PhonePe                  ( 2.2s) ->  154 postings,  0 interns, 0 matched
-[02:01:05] [INFO ] [OK]   Freshworks               ( 1.8s) ->  122 postings,  0 interns, 0 matched
-[02:01:05] [INFO ] [OK]   Morgan Stanley           (24.1s) ->  300 postings,  2 interns, 0 matched
-[02:01:06] [INFO ] [OK]   Wells Fargo              (24.6s) ->  300 postings,  5 interns, 1 matched
-[02:01:06] [INFO ] [OK]   Groww                    ( 0.1s) ->    9 postings,  0 interns, 0 matched
-[02:01:06] [INFO ] [OK]   CRED                     ( 0.6s) ->   15 postings,  0 interns, 0 matched
-[02:01:06] [INFO ] [OK]   InMobi                   ( 0.1s) ->   76 postings,  0 interns, 0 matched
-[02:01:06] [INFO ] [OK]   Swiggy                   ( 1.8s) ->  186 postings,  0 interns, 0 matched
-[02:01:06] [INFO ] [OK]   HackerRank               ( 0.1s) ->   31 postings,  2 interns, 2 matched
-[02:01:06] [INFO ] [OK]   CloudSEK                 ( 0.1s) ->   19 postings,  1 interns, 1 matched
-[02:01:06] [INFO ] [OK]   Micoworks                ( 0.1s) ->    3 postings,  0 interns, 0 matched
-[02:01:06] [INFO ] [OK]   Zomato                   ( 0.4s) ->    3 postings,  1 interns, 0 matched
-[02:01:07] [INFO ] [OK]   Zeta                     ( 0.8s) ->   29 postings,  0 interns, 0 matched
-[02:01:07] [INFO ] [OK]   Discover Dollar          ( 0.9s) ->   11 postings,  5 interns, 4 matched
-[02:01:07] [INFO ] [OK]   Teachmint                ( 1.2s) ->   32 postings,  5 interns, 0 matched
-[02:01:11] [INFO ] [OK]   Visa                     (24.1s) ->  300 postings,  6 interns, 4 matched
-[02:01:12] [INFO ] [OK]   Meesho                   ( 7.0s) ->   49 postings,  0 interns, 0 matched
-[02:01:14] [INFO ] [OK]   Target                   ( 7.1s) ->   64 postings,  0 interns, 0 matched
-[02:01:16] [INFO ] [OK]   Accenture                (34.8s) ->  300 postings, 95 interns, 9 matched
-[02:01:19] [INFO ] [OK]   Mastercard               (30.8s) ->  300 postings,  7 interns, 0 matched
-[02:01:27] [INFO ] [OK]   Bloomberg                (30.4s) ->  185 postings,  6 interns, 0 matched
+[01:32:08] [INFO ] Starting scrape for 65 companies with 8 workers (country=None, dry_run=False, keyword=None)
+[01:32:11] [INFO ] [OK]   Salesforce               ( 3.6s) ->   48 postings, 15 interns, 5 matched
+[01:32:12] [INFO ] [OK]   Google                   ( 3.7s) ->   93 postings, 93 interns, 31 matched
+[01:32:14] [ERROR] [FAIL] Adobe                    ( 5.8s) -> ERROR: request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (521 Server Error: <none> for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs)
+[01:32:14] [INFO ] [OK]   Apple                    ( 6.0s) ->  181 postings, 135 interns, 33 matched
+[01:32:14] [INFO ] [OK]   Netflix                  ( 0.3s) ->    6 postings,  3 interns, 1 matched
+[01:32:15] [ERROR] [FAIL] NVIDIA                   ( 7.0s) -> ERROR: request failed after 3 attempts: POST https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs (521 Server Error: <none> for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs)
+[01:32:15] [INFO ] [OK]   Cisco                    ( 0.5s) ->   38 postings, 27 interns, 8 matched
+[01:32:17] [INFO ] [OK]   Dell Technologies        ( 3.4s) ->  193 postings, 20 interns, 4 matched
+[01:32:18] [INFO ] [OK]   AMD                      ( 0.4s) ->   10 postings,  8 interns, 0 matched
+[01:32:18] [INFO ] [OK]   Amazon                   (10.0s) ->  730 postings, 470 interns, 80 matched
+[01:32:19] [INFO ] [OK]   Qualcomm                 ( 7.5s) ->  100 postings, 96 interns, 48 matched
+[01:32:20] [INFO ] [OK]   HPE                      ( 1.9s) ->  203 postings, 184 interns, 60 matched
+[01:32:21] [ERROR] [FAIL] Intel                    ( 5.4s) -> ERROR: request failed after 3 attempts: POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (521 Server Error: <none> for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs)
+[01:32:24] [ERROR] [FAIL] Red Hat                  ( 6.1s) -> ERROR: request failed after 3 attempts: POST https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/Jobs/jobs (521 Server Error: <none> for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/Jobs/jobs)
+[01:32:25] [ERROR] [FAIL] Broadcom (VMware)        ( 6.1s) -> ERROR: request failed after 3 attempts: POST https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs (521 Server Error: <none> for url: https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs)
+[01:32:25] [INFO ] [OK]   Microsoft                (17.3s) ->  141 postings, 97 interns, 38 matched
+[01:32:26] [ERROR] [FAIL] PayPal                   ( 6.7s) -> ERROR: request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs (521 Server Error: <none> for url: https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs)
+[01:32:28] [INFO ] [OK]   ServiceNow               ( 7.6s) ->  820 postings, 21 interns, 13 matched
+[01:32:30] [ERROR] [FAIL] CrowdStrike              ( 6.2s) -> ERROR: request failed after 3 attempts: POST https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs (521 Server Error: <none> for url: https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs)
+[01:32:30] [INFO ] [OK]   Snowflake                ( 0.2s) ->   10 postings,  7 interns, 5 matched
+[01:32:31] [INFO ] [OK]   GitHub                   ( 0.6s) ->  100 postings,  0 interns, 0 matched
+[01:32:31] [ERROR] [FAIL] Palo Alto Networks       ( 6.0s) -> ERROR: request failed after 3 attempts: POST https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/jobs (521 Server Error: <none> for url: https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/jobs)
+[01:32:32] [ERROR] [FAIL] Micron                   ( 5.9s) -> ERROR: request failed after 3 attempts: POST https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs (521 Server Error: <none> for url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs)
+[01:32:32] [ERROR] [FAIL] Workday                  ( 7.4s) -> ERROR: request failed after 3 attempts: POST https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs (521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs)
+[01:32:34] [INFO ] [OK]   Nokia                    ( 5.9s) ->  232 postings, 20 interns, 3 matched
+[01:32:35] [INFO ] [OK]   Oracle                   (26.8s) -> 1000 postings, 15 interns, 2 matched
+[01:32:37] [INFO ] [OK]   Meta                     (25.9s) ->  630 postings, 160 interns, 143 matched
+[01:32:39] [ERROR] [FAIL] Wells Fargo              ( 7.0s) -> ERROR: request failed after 3 attempts: POST https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs (521 Server Error: <none> for url: https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs)
+[01:32:40] [ERROR] [FAIL] Morgan Stanley           ( 7.1s) -> ERROR: request failed after 3 attempts: POST https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs (521 Server Error: <none> for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs)
+[01:32:40] [INFO ] [OK]   Jane Street              ( 0.1s) ->  217 postings, 43 interns, 8 matched
+[01:32:40] [INFO ] [OK]   Stripe                   ( 0.1s) ->  786 postings, 22 interns, 15 matched
+[01:32:40] [INFO ] [OK]   MongoDB                  ( 0.1s) ->  391 postings,  3 interns, 3 matched
+[01:32:40] [INFO ] [OK]   Rubrik                   ( 0.0s) ->  182 postings,  7 interns, 1 matched
+[01:32:40] [INFO ] [OK]   Cloudflare               ( 0.1s) ->  479 postings,  8 interns, 0 matched
+[01:32:40] [INFO ] [OK]   Datadog                  ( 0.1s) ->  384 postings,  6 interns, 5 matched
+[01:32:40] [INFO ] [OK]   Databricks               ( 0.2s) ->  896 postings, 12 interns, 6 matched
+[01:32:40] [INFO ] [OK]   Elastic                  ( 0.1s) ->  400 postings,  0 interns, 0 matched
+[01:32:40] [INFO ] [OK]   GitLab                   ( 0.1s) ->  251 postings,  0 interns, 0 matched
+[01:32:40] [INFO ] [OK]   Twilio                   ( 0.1s) ->  115 postings,  0 interns, 0 matched
+[01:32:41] [INFO ] [OK]   Okta                     ( 0.1s) ->  363 postings,  0 interns, 0 matched
+[01:32:41] [INFO ] [OK]   Pure Storage             ( 0.1s) ->  375 postings,  1 interns, 1 matched
+[01:32:41] [ERROR] [FAIL] Visa                     ( 6.7s) -> ERROR: request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs (521 Server Error: <none> for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs)
+[01:32:43] [INFO ] [OK]   Walmart Global Tech      (29.3s) ->  300 postings, 295 interns, 11 matched
+[01:32:43] [INFO ] [OK]   Razorpay                 ( 0.1s) ->   26 postings,  0 interns, 0 matched
+[01:32:43] [INFO ] [OK]   PhonePe                  ( 2.2s) ->  155 postings,  0 interns, 0 matched
+[01:32:44] [ERROR] [FAIL] Mastercard               ( 6.5s) -> ERROR: request failed after 3 attempts: POST https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs (521 Server Error: <none> for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs)
+[01:32:44] [INFO ] [OK]   Freshworks               ( 1.3s) ->  120 postings,  0 interns, 0 matched
+[01:32:45] [INFO ] [OK]   Meesho                   ( 0.8s) ->   49 postings,  0 interns, 0 matched
+[01:32:45] [INFO ] [OK]   Groww                    ( 0.0s) ->    9 postings,  0 interns, 0 matched
+[01:32:45] [INFO ] [OK]   CRED                     ( 0.6s) ->   15 postings,  0 interns, 0 matched
+[01:32:45] [INFO ] [OK]   InMobi                   ( 0.0s) ->   74 postings,  0 interns, 0 matched
+[01:32:45] [INFO ] [OK]   Swiggy                   ( 1.8s) ->  188 postings,  1 interns, 0 matched
+[01:32:45] [INFO ] [OK]   HackerRank               ( 0.0s) ->   31 postings,  2 interns, 2 matched
+[01:32:45] [INFO ] [OK]   CloudSEK                 ( 0.1s) ->   19 postings,  1 interns, 1 matched
+[01:32:45] [INFO ] [OK]   Micoworks                ( 0.0s) ->    3 postings,  0 interns, 0 matched
+[01:32:46] [INFO ] [OK]   Zeta                     ( 0.8s) ->   30 postings,  0 interns, 0 matched
+[01:32:46] [INFO ] [OK]   Zomato                   ( 0.6s) ->    3 postings,  1 interns, 0 matched
+[01:32:46] [INFO ] [OK]   Discover Dollar          ( 0.8s) ->   11 postings,  5 interns, 4 matched
+[01:32:46] [INFO ] [OK]   Teachmint                ( 1.1s) ->   32 postings,  5 interns, 0 matched
+[01:32:47] [ERROR] [FAIL] Autodesk                 ( 6.5s) -> ERROR: request failed after 3 attempts: POST https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs (521 Server Error: <none> for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs)
+[01:32:49] [INFO ] [OK]   JPMorgan Chase           (18.1s) -> 1000 postings, 30 interns, 5 matched
+[01:32:51] [INFO ] [OK]   Barclays                 (16.7s) ->  300 postings, 19 interns, 4 matched
+[01:32:52] [ERROR] [FAIL] Target                   ( 5.9s) -> ERROR: request failed after 3 attempts: POST https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs (521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs)
+[01:33:05] [INFO ] [OK]   Accenture                (33.8s) ->  300 postings, 96 interns, 9 matched
+[01:33:08] [INFO ] [OK]   Bloomberg                (28.4s) ->  191 postings,  6 interns, 0 matched

@@ -2,7 +2,7 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-13 07:31:27 IST** · 📌 **54** open verified internships
+> 🕐 Last updated: **2026-11-14 07:03:08 IST** · 📌 **54** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
@@ -107,7 +107,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Software Validation Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722003454?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-11-06 | 2026-11-07 |
 | [FY27 Intern - RF/Analog Verification Engineering Internship - Canada (4 or 16 months)](https://careers.qualcomm.com/careers/job/446722001120?domain=qualcomm.com) ✨ | Software | Markham, ON | 2026-11-06 | 2026-11-07 |
 | [FY27 Intern - Digital Design Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722005254?domain=qualcomm.com) ✨ | Software | Toronto | 2026-11-06 | 2026-11-07 |
-| [FY27 Intern - Telemetry Firmware, Driver and Tools Developer Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721989047?domain=qualcomm.com) ✨ | Backend/Infra | Markham, ON | 2026-11-05 | 2026-11-06 |
+| [FY27 Intern - Telemetry Firmware, Driver and Tools Developer Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721989047?domain=qualcomm.com) | Backend/Infra | Markham, ON | 2026-11-05 | 2026-11-06 |
 | [FY27 Intern - Machine Learning Engineering Internship - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721969461?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-11-04 | 2026-11-05 |
 | [FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721972361?domain=qualcomm.com) | Hardware/Silicon | Markham, ON | 2026-11-04 | 2026-11-05 |
 | [FY27 Intern - AI Software Systems Co-op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721862430?domain=qualcomm.com) | AI/ML | Toronto | 2026-11-03 | 2026-10-30 |

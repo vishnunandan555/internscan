@@ -1,89 +1,57 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-13T02:01:27Z",
-  "new_count": 3,
+  "updated_at": "2026-11-14T01:33:08Z",
+  "new_count": 1,
   "reopened_count": 2,
-  "total_active": 137,
+  "total_active": 138,
   "new_jobs": [
     {
-      "company": "Apple",
-      "title": "Internship - Software Development Intern - Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden",
+      "url": "https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com",
       "locations": [
-        "Prague"
+        "Stockholm, Sweden"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "Amazon",
-      "title": "2027 Software Dev Engineer Intern - Finland",
-      "url": "https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland",
-      "locations": [
-        "Tampere, West and Inner Finland, FIN"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "HPE",
-      "title": "Data Services Business Support - Part Time Internship",
-      "url": "https://careers.hpe.com/us/en/job/1217184",
-      "locations": [
-        "Las Rozas, Madrid, 28232",
-        "Las Rozas, Madrid, Spain"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13"
+      "category": "AI/ML",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam",
-      "url": "https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Zurich (2027)",
+      "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
       "locations": [
-        "Amsterdam Drenthe, North Holland, Netherlands"
+        "Zurich, Switzerland"
       ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-12",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-13"
-    },
-    {
-      "company": "Intel",
-      "title": "Software Engineering Undergraduate Intern (f/m/d)",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923",
-      "locations": [
-        "Germany Munich",
-        "Germany, Munich"
-      ],
-      "city_tag": "Munich",
+      "city_tag": "Zurich",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
       "posted": "2026-11-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
+    },
+    {
+      "company": "Accenture",
+      "title": "AI/MLOps Internship Program (She/He/They)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434",
+      "locations": [
+        "Warsaw"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-13",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-14"
     }
   ]
 }

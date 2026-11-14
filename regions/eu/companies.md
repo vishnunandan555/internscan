@@ -2,28 +2,24 @@
 
 # 🇪🇺 Europe — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-11-13 07:31:27 IST**
+> 🕐 Last updated: **2026-11-14 07:03:08 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/)
 
 This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **Europe**.
 
-## 🟢 Directly Scraped Employers (49)
+## 🟢 Directly Scraped Employers (34)
 
 Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):
 
 - AMD
 - Accenture
-- Adobe
 - Amazon
 - Apple
-- Autodesk
 - Barclays
 - Bloomberg
-- Broadcom (VMware)
 - Cisco
 - Cloudflare
-- CrowdStrike
 - Databricks
 - Datadog
 - Dell Technologies
@@ -32,35 +28,24 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - GitLab
 - Google
 - HPE
-- Intel
 - JPMorgan Chase
 - Jane Street
-- Mastercard
 - Meta
-- Micron
 - Microsoft
 - MongoDB
-- Morgan Stanley
-- NVIDIA
 - Netflix
 - Nokia
 - Okta
 - Oracle
-- Palo Alto Networks
-- PayPal
 - Pure Storage
 - Qualcomm
-- Red Hat
 - Rubrik
 - Salesforce
 - ServiceNow
 - Snowflake
 - Stripe
 - Twilio
-- Visa
 - Walmart Global Tech
-- Wells Fargo
-- Workday
 
 ## 🟡 Bot-Protected Employers (Google Jobs Fallback) (4)
 
