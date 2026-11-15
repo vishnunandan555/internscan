@@ -1,253 +1,58 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-14T01:33:08Z",
-  "new_count": 14,
-  "reopened_count": 2,
-  "total_active": 675,
+  "updated_at": "2026-11-15T01:10:52Z",
+  "new_count": 2,
+  "reopened_count": 1,
+  "total_active": 665,
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "2027 Applied Science Internship - Robotics - United States",
-      "url": "https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
+      "company": "Adobe",
+      "title": "2027 Intern - Research Scientist",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345",
       "locations": [
-        "North Reading, Massachusetts, USA"
+        "London"
       ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden",
-      "url": "https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com",
-      "locations": [
-        "Stockholm, Sweden"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "HPE",
-      "title": "Sales Programmes Intern - High Performance Computing & AI",
-      "url": "https://careers.hpe.com/us/en/job/1216776",
-      "locations": [
-        "Winnersh, Berkshire, RG41 5TP",
-        "Winnersh, Berkshire, United Kingdom"
-      ],
-      "city_tag": "UK (Other)",
+      "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
       "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Electrical Engineering INTERN (PhD)",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Research Intern - MSR Software-Hardware Co-design",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Research Intern - AI Coding Agents",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "AI Identity Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161594249",
-      "locations": [
-        "Kirkland, Washington, United States"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Security Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161592679",
-      "locations": [
-        "Kirkland, Washington, United States"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Information Security Analyst Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161550869",
-      "locations": [
-        "San Diego, CALIFORNIA, United States"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Security Engineering & Automation Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161548528",
-      "locations": [
-        "Kirkland, Washington, United States"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "AI Security Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161548289",
-      "locations": [
-        "San Diego, California, United States"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Diffractive Optics (PhD)",
-      "url": "https://www.metacareers.com/jobs/1158829233342350",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Materials Architecture & Device Integration (PhD)",
-      "url": "https://www.metacareers.com/jobs/1674297360998408",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "Walmart Global Tech",
-      "title": "Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435",
-      "locations": [
-        "(USA) Together Building AR Bentonville Home Office",
-        "USA Together Building AR Bentonville Home Office"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Data",
       "posted": "2026-11-14",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
+    },
+    {
+      "company": "CrowdStrike",
+      "title": "Insider Risk Engineering Intern - Summer 2027",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718",
+      "locations": [
+        "3 Locations",
+        "USA, Arlington VA"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Snowflake",
-      "title": "Software Engineer Intern - Zurich (2027)",
-      "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
+      "company": "Micron",
+      "title": "Intern -  AI Engineer Platform",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
       "locations": [
-        "Zurich, Switzerland"
+        "Boise ID, Main Site",
+        "Boise, ID - Main Site"
       ],
-      "city_tag": "Zurich",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "company": "Accenture",
-      "title": "AI/MLOps Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434",
-      "locations": [
-        "Warsaw"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-13",
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-11-14"
+      "posted": "2026-11-14",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-11-15"
     }
   ]
 }

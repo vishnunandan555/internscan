@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-14 07:03:08 IST** · 📌 **43** open verified internships
+> 🕐 Last updated: **2026-11-15 06:40:52 IST** · 📌 **43** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -15,6 +15,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Company | Open Internships in United Kingdom |
 |---|:---:|
+| [Adobe](#adobe) | **1** |
 | [Amazon](#amazon) | **9** |
 | [Apple](#apple) | **3** |
 | [Barclays](#barclays) | **2** |
@@ -28,13 +29,20 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Qualcomm](#qualcomm) | **2** |
 | [Stripe](#stripe) | **1** |
 | [Visa](#visa) | **3** |
-| [Wells Fargo](#wells-fargo) | **1** |
 
 ---
 
 <a id="open-internships"></a>
 
 ## 💼 Open Internship Postings
+
+### Adobe
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [2027 Intern - Research Scientist](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) ✨ | AI/ML | London | 2026-11-14 | 2026-11-15 |
+
+[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
 ### Amazon
 
@@ -166,14 +174,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) ✨ | Software | Gb - Reading; Gb, Reading United Kingdom | 2026-11-13 | 2026-11-13 |
 | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) ✨ | Software | Cambridge / Oxford | 2026-11-13 | 2026-11-13 |
 | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1) ✨ | Software | London | 2026-11-13 | 2026-11-13 |
-
-[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
-
-### Wells Fargo
-
-| Role | Category | Hub / Location | Posted | First seen |
-|---|---|---|---|---|
-| [Technology Internship Program](https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607) | Software | London | 2026-11-05 | 2026-11-05 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
