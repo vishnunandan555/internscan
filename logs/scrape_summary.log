@@ -1,36 +1,23 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-15 01:09:35 UTC
+SCRAPE RUN SUMMARY — 2026-11-16 01:14:32 UTC
 ========================================================================
-Runtime:            76.6 seconds
+Runtime:            73.8 seconds
 Companies Scraped:  65 total
-  - Succeeded:      65
-  - Failed:         0
-Active India Roles: 667
+  - Succeeded:      62
+  - Failed:         3
+Active India Roles: 642
 Changes Detected:
-  - New Additions:  +2
-  - Closed Roles:   -13
-  - Reopened Roles: ~1
+  - New Additions:  +0
+  - Closed Roles:   -1
+  - Reopened Roles: ~0
 ------------------------------------------------------------------------
 
-[NEW INTERNSHIPS ADDED]
-  + Adobe — 2027 Intern - Research Scientist (London) [AI/ML]
-    Apply: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345
-  + CrowdStrike — Insider Risk Engineering Intern - Summer 2027 (US (Other)) [Software]
-    Apply: https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718
-
 [INTERNSHIPS CLOSED]
-  - Accenture — AI/MLOps Internship Program (She/He/They) (Europe (Other))
-  - CrowdStrike — Professional Services Pathfinder Intern - Red Team - Summer 2027 (US (Other))
-  - Dell Technologies — Dell Technologies Services General Business Undergraduate Intern (US (Other))
-  - Dell Technologies — Corporate Strategy Undergraduate Intern (US (Other))
-  - Intel — Platform Hardware and Systems Engineering - Intern, Bachelor’s (US (Other))
-  - Intel — Platform Hardware and Systems Engineering - Intern, Graduate (US (Other))
-  - Intel — Silicon Hardware Engineering - Intern, Bachelor’s (US (Other))
-  - Intel — Silicon Hardware Engineering - Intern, Graduate (US (Other))
-  - Intel — Software Engineering - Intern, Bachelor’s (US (Other))
-  - Intel — Software Engineering - Intern, Graduate (US (Other))
-  - Red Hat — AI Ecosystem Intern (Boston)
-  - Red Hat — AI Ecosystem Intern (Boston)
-  - Wells Fargo — Technology Internship Program (London)
+  - Microsoft — Software Engineer Internship Opportunities (Dublin)
+
+[FAILED SCRAPERS]
+  × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/
+  × Salesforce: request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/
+  × Walmart Global Tech: request failed after 3 attempts: POST https://walmart.wd504.myworkdayjobs.com/wd
 
 ========================================================================

@@ -1,8 +1,11 @@
 {
-  "failed": {},
+  "failed": {
+    "Accenture": "request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs (HTTP 429)",
+    "Salesforce": "request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429)",
+    "Walmart Global Tech": "request failed after 3 attempts: POST https://walmart.wd504.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs (HTTP 429)"
+  },
   "succeeded": [
     "AMD",
-    "Accenture",
     "Adobe",
     "Amazon",
     "Apple",
@@ -52,7 +55,6 @@
     "Razorpay",
     "Red Hat",
     "Rubrik",
-    "Salesforce",
     "ServiceNow",
     "Snowflake",
     "Stripe",
@@ -61,7 +63,6 @@
     "Teachmint",
     "Twilio",
     "Visa",
-    "Walmart Global Tech",
     "Wells Fargo",
     "Workday",
     "Zeta",

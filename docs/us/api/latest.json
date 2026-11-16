@@ -1,44 +1,10 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-15T01:10:52Z",
-  "new_count": 1,
-  "reopened_count": 1,
+  "updated_at": "2026-11-16T01:15:46Z",
+  "new_count": 0,
+  "reopened_count": 0,
   "total_active": 405,
-  "new_jobs": [
-    {
-      "company": "CrowdStrike",
-      "title": "Insider Risk Engineering Intern - Summer 2027",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718",
-      "locations": [
-        "3 Locations",
-        "USA, Arlington VA"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-14",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15"
-    }
-  ],
-  "reopened_jobs": [
-    {
-      "company": "Micron",
-      "title": "Intern -  AI Engineer Platform",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
-      "locations": [
-        "Boise ID, Main Site",
-        "Boise, ID - Main Site"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-14",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-11-15"
-    }
-  ]
+  "new_jobs": [],
+  "reopened_jobs": []
 }
