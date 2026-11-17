@@ -1,23 +1,63 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-16 01:14:32 UTC
+SCRAPE RUN SUMMARY — 2026-11-17 04:03:44 UTC
 ========================================================================
-Runtime:            73.8 seconds
+Runtime:            60.7 seconds
 Companies Scraped:  65 total
-  - Succeeded:      62
-  - Failed:         3
-Active India Roles: 642
+  - Succeeded:      45
+  - Failed:         20
+Active India Roles: 516
 Changes Detected:
-  - New Additions:  +0
-  - Closed Roles:   -1
+  - New Additions:  +7
+  - Closed Roles:   -8
   - Reopened Roles: ~0
 ------------------------------------------------------------------------
 
+[NEW INTERNSHIPS ADDED]
+  + Apple — Defensive AI Security Intern (Europe (Other)) [AI/ML]
+    Apply: https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern
+  + Qualcomm — FY27 Intern -  GPU Compiler - 3 months, Cambridge (Cambridge / Oxford) [Backend/Infra]
+    Apply: https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com
+  + Dell Technologies — User Research Graduate Intern (Austin) [Software]
+    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/302688
+  + Microsoft — Solution Engineering Internship Opportunities (Toronto) [Software]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557045545
+  + Microsoft — Data Engineering Internship Opportunities (Dublin) [Data]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557002254
+  + Meta — Research Scientist Intern, Perception, Displays and Graphics (PhD) (SF Bay Area) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1500136678656794
+  + Meta — Research Scientist Intern, Intelligent Camera Systems (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/971210335715482
+
 [INTERNSHIPS CLOSED]
-  - Microsoft — Software Engineer Internship Opportunities (Dublin)
+  - Amazon — Network Development Engineer Intern, Core Networking (UK (Other))
+  - Datadog — Software Engineering Intern (Summer) (New York)
+  - Google — Forward Deployed Engineering Intern, BS/MS, 2027 (London)
+  - Google — Data Scientist Product MS Intern, 2027 (Zurich)
+  - Meta — ASIC Engineering Intern, Formal Verification (SF Bay Area)
+  - Meta — Business Analytics Intern, RL Devices Operations (SF Bay Area)
+  - Qualcomm — FY27 Intern- Integration of a RISC-V CPU into a Cache-Coherent Emulation Platform - 6 months, Sophia (Europe (Other))
+  - Qualcomm — FY27 Intern - Digital Design Engineering Internship - Canada (16 months) (Toronto)
 
 [FAILED SCRAPERS]
   × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/
+  × Adobe: request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/c
+  × Autodesk: request failed after 3 attempts: POST https://autodesk.wd1.myworkdayjobs.com/wda
+  × Barclays: request failed after 3 attempts: POST https://barclays.wd3.myworkdayjobs.com/wda
+  × Broadcom (VMware): request failed after 3 attempts: POST https://broadcom.wd1.myworkdayjobs.com/wda
+  × CrowdStrike: request failed after 3 attempts: POST https://crowdstrike.wd5.myworkdayjobs.com/
+  × Intel: request failed after 3 attempts: POST https://intel.wd1.myworkdayjobs.com/wday/c
+  × Mastercard: request failed after 3 attempts: POST https://mastercard.wd1.myworkdayjobs.com/w
+  × Micron: request failed after 3 attempts: POST https://micron.wd1.myworkdayjobs.com/wday/
+  × Morgan Stanley: request failed after 3 attempts: POST https://ms.wd5.myworkdayjobs.com/wday/cxs/
+  × NVIDIA: request failed after 3 attempts: POST https://nvidia.wd5.myworkdayjobs.com/wday/
+  × Palo Alto Networks: request failed after 3 attempts: POST https://paloaltonetworks.wd5.myworkdayjobs
+  × PayPal: request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/
+  × Red Hat: request failed after 3 attempts: POST https://redhat.wd5.myworkdayjobs.com/wday/
   × Salesforce: request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/
+  × Target: request failed after 3 attempts: POST https://target.wd5.myworkdayjobs.com/wday/
+  × Visa: request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cx
   × Walmart Global Tech: request failed after 3 attempts: POST https://walmart.wd504.myworkdayjobs.com/wd
+  × Wells Fargo: request failed after 3 attempts: POST https://wf.wd1.myworkdayjobs.com/wday/cxs/
+  × Workday: request failed after 3 attempts: POST https://workday.wd5.myworkdayjobs.com/wday
 
 ========================================================================

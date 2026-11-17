@@ -1,10 +1,41 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-16T01:15:46Z",
-  "new_count": 0,
+  "updated_at": "2026-11-17T04:04:45Z",
+  "new_count": 2,
   "reopened_count": 0,
   "total_active": 136,
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Apple",
+      "title": "Defensive AI Security Intern",
+      "url": "https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern",
+      "locations": [
+        "Paris"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Data Engineering Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002254",
+      "locations": [
+        "Ireland, Dublin, Dublin"
+      ],
+      "city_tag": "Dublin",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    }
+  ],
   "reopened_jobs": []
 }

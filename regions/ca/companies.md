@@ -2,27 +2,22 @@
 
 # 🇨🇦 Canada — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-11-16 06:45:46 IST**
+> 🕐 Last updated: **2026-11-17 09:34:45 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/)
 
 This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **Canada**.
 
-## 🟢 Directly Scraped Employers (46)
+## 🟢 Directly Scraped Employers (30)
 
 Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):
 
 - AMD
-- Adobe
 - Amazon
 - Apple
-- Autodesk
-- Barclays
 - Bloomberg
-- Broadcom (VMware)
 - Cisco
 - Cloudflare
-- CrowdStrike
 - Databricks
 - Datadog
 - Dell Technologies
@@ -31,33 +26,22 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - GitLab
 - Google
 - HPE
-- Intel
 - JPMorgan Chase
 - Jane Street
-- Mastercard
 - Meta
-- Micron
 - Microsoft
 - MongoDB
-- Morgan Stanley
-- NVIDIA
 - Netflix
 - Nokia
 - Okta
 - Oracle
-- Palo Alto Networks
-- PayPal
 - Pure Storage
 - Qualcomm
-- Red Hat
 - Rubrik
 - ServiceNow
 - Snowflake
 - Stripe
 - Twilio
-- Visa
-- Wells Fargo
-- Workday
 
 ## 🟡 Bot-Protected Employers (Google Jobs Fallback) (4)
 

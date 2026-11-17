@@ -1,10 +1,26 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-16T01:15:46Z",
-  "new_count": 0,
+  "updated_at": "2026-11-17T04:04:45Z",
+  "new_count": 1,
   "reopened_count": 0,
-  "total_active": 43,
-  "new_jobs": [],
+  "total_active": 42,
+  "new_jobs": [
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern -  GPU Compiler - 3 months, Cambridge",
+      "url": "https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com",
+      "locations": [
+        "Cambridge, United Kingdom"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    }
+  ],
   "reopened_jobs": []
 }
