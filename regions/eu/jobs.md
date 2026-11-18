@@ -2,14 +2,14 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-17 09:34:45 IST** · 📌 **136** open verified internships
+> 🕐 Last updated: **2026-11-18 08:30:48 IST** · 📌 **134** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Europe**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (136)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (134)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -27,10 +27,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Intel](#intel) | **17** |
 | [Meta](#meta) | **13** |
 | [Micron](#micron) | **1** |
-| [Microsoft](#microsoft) | **6** |
+| [Microsoft](#microsoft) | **5** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **14** |
-| [Nokia](#nokia) | **1** |
 | [Qualcomm](#qualcomm) | **14** |
 | [Snowflake](#snowflake) | **5** |
 | [Stripe](#stripe) | **2** |
@@ -61,7 +60,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Intern- Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468) ✨ | Security | Bucharest | 2026-11-10 | 2026-11-10 |
+| [2027 Intern- Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468) | Security | Bucharest | 2026-11-10 | 2026-11-10 |
 | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018) | Software | Bucharest | 2026-10-31 | 2026-10-20 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
@@ -100,7 +99,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Defensive AI Security Intern](https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern) ✨ | AI/ML | Paris | 2026-11-16 | 2026-11-17 |
+| [QA Automation Test Engineering Intern - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland) ✨ | QA | Dublin | 2026-11-17 | 2026-11-18 |
+| [Defensive AI Security Intern - Paris, France](https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern-paris-france) ✨ | AI/ML | Paris | 2026-11-16 | 2026-11-17 |
 | [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) ✨ | Software | Prague | 2026-11-12 | 2026-11-13 |
 | [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) | AI/ML | Paris | 2026-11-11 | 2026-10-17 |
 | [Cellular Baseband Security Research Intern](https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern) | Security | Paris | 2026-11-05 | 2026-11-06 |
@@ -108,7 +108,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [AI Research Intern - Foundation Models & Multimodal Intelligence](https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence) | AI/ML | Zurich | 2026-11-02 | 2026-11-03 |
 | [Research Scientist Intern – Human-Centric Generative AI](https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai) | AI/ML | Munich | 2026-10-20 | 2026-10-21 |
 | [Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE](https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte) | Software | Munich | 2026-10-19 | 2026-10-20 |
-| [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | Zurich | 2026-10-13 | 2026-10-15 |
 | [Circuit Design Intern (m/f/d)](https://jobs.apple.com/en-us/details/200682404/circuit-design-intern-m-f-d) | Hardware/Silicon | Munich | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
@@ -125,9 +124,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern (2027 Start) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002) | Software | Berlin | 2026-11-16 | 2026-10-15 |
-| [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Software | Amsterdam | 2026-11-16 | 2026-10-15 |
-| [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) | Software | Aarhus, Denmark | 2026-11-16 | 2026-10-15 |
+| [Software Engineering Intern (2027 Start) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002) | Software | Berlin | 2026-11-17 | 2026-10-15 |
+| [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Software | Amsterdam | 2026-11-17 | 2026-10-15 |
+| [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) | Software | Aarhus, Denmark | 2026-11-17 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
@@ -221,10 +220,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Data Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557002254) ✨ | Data | Dublin | 2026-11-16 | 2026-11-17 |
-| [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557053762) ✨ | Hardware/Silicon | Finland, Satakunta | 2026-11-09 | 2026-11-10 |
-| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) ✨ | Backend/Infra | Schiphol, Noord-Holland | 2026-11-09 | 2026-11-10 |
-| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) ✨ | Backend/Infra | Multiple Locations | 2026-11-09 | 2026-11-10 |
+| [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557053762) | Hardware/Silicon | Finland, Satakunta | 2026-11-09 | 2026-11-10 |
+| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Backend/Infra | Schiphol, Noord-Holland | 2026-11-09 | 2026-11-10 |
+| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) | Backend/Infra | Multiple Locations | 2026-11-09 | 2026-11-10 |
 | [Copilot & AI Solution Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556998782) | AI/ML | Brussels, Brussels Region | 2026-09-15 | 2026-10-16 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | Brussels, Brussels Region | 2026-09-14 | 2026-10-15 |
 
@@ -260,28 +258,20 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
-### Nokia
-
-| Role | Category | Hub / Location | Posted | First seen |
-|---|---|---|---|---|
-| [Materials Management & Analytics - Working Student (Bydgoszcz)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40344) | Data | Poland | 2026-09-29 | 2026-10-15 |
-
-[⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
-
 ### Qualcomm
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France](https://careers.qualcomm.com/careers/job/446721911135?domain=qualcomm.com) | Software | Issy Les Moulineaux, France; Lannion, Cotes-D'Armor | 2026-11-17 | 2026-11-03 |
 | [FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden](https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com) ✨ | AI/ML | Stockholm, Sweden | 2026-11-13 | 2026-11-14 |
 | [FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com) | AI/ML | Amsterdam | 2026-11-12 | 2026-11-04 |
-| [FY27 Intern - Hardware Design for Post-Quantum Cryptography - 6 months, Sophia](https://careers.qualcomm.com/careers/job/446722029766?domain=qualcomm.com) ✨ | Hardware/Silicon | Sophia Antipolis, France | 2026-11-09 | 2026-11-10 |
+| [FY27 Intern - Hardware Design for Post-Quantum Cryptography - 6 months, Sophia](https://careers.qualcomm.com/careers/job/446722029766?domain=qualcomm.com) | Hardware/Silicon | Sophia Antipolis, France | 2026-11-09 | 2026-11-10 |
 | [FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-09 | 2026-10-15 |
 | [FY27 Intern- AI-Driven Power Modeling for Evaluating Power Consumption in NoC IP Architectures -  6 months, Guyancourt](https://careers.qualcomm.com/careers/job/446721854346?domain=qualcomm.com) | AI/ML | Guyancourt, Yvelines | 2026-11-05 | 2026-10-30 |
 | [FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg](https://careers.qualcomm.com/careers/job/446721901932?domain=qualcomm.com) | AI/ML | Strasbourg, France | 2026-11-05 | 2026-11-03 |
 | [FY27 Intern - HW/FW Architecture for Post-Quantum Cryptography - 6 months, Sophia](https://careers.qualcomm.com/careers/job/446721986592?domain=qualcomm.com) | Hardware/Silicon | Sophia Antipolis, France | 2026-11-05 | 2026-11-06 |
 | [FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446721979476?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-05 | 2026-11-06 |
 | [FY27 Intern - CHERI-Based Prototype for Root of Trust Security -  6 months, Sophia](https://careers.qualcomm.com/careers/job/446721986397?domain=qualcomm.com) | Security | Sophia Antipolis, France | 2026-11-05 | 2026-11-06 |
-| [FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France](https://careers.qualcomm.com/careers/job/446721911135?domain=qualcomm.com) | Software | Issy Les Moulineaux, France; Lannion, Cotes-D'Armor | 2026-11-02 | 2026-11-03 |
 | [EDT - FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446721045034?domain=qualcomm.com) | Software | Cork, Ireland | 2026-09-23 | 2026-10-15 |
 | [FY27 IT Cloud Engineering Intern - Cork 8 months](https://careers.qualcomm.com/careers/job/446720699932?domain=qualcomm.com) | Backend/Infra | Cork, Ireland | 2026-08-24 | 2026-10-15 |
 | [FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446719176184?domain=qualcomm.com) | Software | Cork, Ireland | 2026-06-23 | 2026-10-15 |

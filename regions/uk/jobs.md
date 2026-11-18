@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-17 09:34:45 IST** · 📌 **42** open verified internships
+> 🕐 Last updated: **2026-11-18 08:30:48 IST** · 📌 **42** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -16,10 +16,10 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Company | Open Internships in United Kingdom |
 |---|:---:|
 | [Adobe](#adobe) | **1** |
-| [Amazon](#amazon) | **8** |
+| [Amazon](#amazon) | **9** |
 | [Apple](#apple) | **3** |
 | [Barclays](#barclays) | **2** |
-| [Cisco](#cisco) | **2** |
+| [Cisco](#cisco) | **1** |
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **3** |
 | [HPE](#hpe) | **2** |
@@ -48,6 +48,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Ring - ASIC DV Engineer Intern](https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) ✨ | Hardware/Silicon | Cambridge / Oxford | 2026-11-17 | 2026-11-18 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) ✨ | Data | London | 2026-11-11 | 2026-11-12 |
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) | Software | London | 2026-10-30 | 2026-10-31 |
 | [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) | Software | London | 2026-10-26 | 2026-10-27 |
@@ -82,7 +83,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Network Engineer Intern, Australia](https://careers.cisco.com/global/en/job/2024351) | Backend/Infra | North Sydney, New South Wales | 2026-09-29 | 2026-10-15 |
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) | Software | Harpenden, Hertfordshire | 2026-08-21 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -91,7 +91,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London | 2026-11-16 | 2026-10-15 |
+| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London | 2026-11-17 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

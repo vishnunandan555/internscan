@@ -1,42 +1,52 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-17 04:03:44 UTC
+SCRAPE RUN SUMMARY — 2026-11-18 02:59:44 UTC
 ========================================================================
-Runtime:            60.7 seconds
+Runtime:            64.0 seconds
 Companies Scraped:  65 total
-  - Succeeded:      45
-  - Failed:         20
-Active India Roles: 516
+  - Succeeded:      46
+  - Failed:         19
+Active India Roles: 513
 Changes Detected:
-  - New Additions:  +7
-  - Closed Roles:   -8
+  - New Additions:  +8
+  - Closed Roles:   -16
   - Reopened Roles: ~0
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Apple — Defensive AI Security Intern (Europe (Other)) [AI/ML]
-    Apply: https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern
-  + Qualcomm — FY27 Intern -  GPU Compiler - 3 months, Cambridge (Cambridge / Oxford) [Backend/Infra]
-    Apply: https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com
-  + Dell Technologies — User Research Graduate Intern (Austin) [Software]
-    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/302688
-  + Microsoft — Solution Engineering Internship Opportunities (Toronto) [Software]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557045545
-  + Microsoft — Data Engineering Internship Opportunities (Dublin) [Data]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557002254
-  + Meta — Research Scientist Intern, Perception, Displays and Graphics (PhD) (SF Bay Area) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1500136678656794
-  + Meta — Research Scientist Intern, Intelligent Camera Systems (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/971210335715482
+  + Apple — QA Automation Test Engineering Intern - Dublin, Ireland (Dublin) [QA]
+    Apply: https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland
+  + Qualcomm — FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months) (Canada (Other)) [AI/ML]
+    Apply: https://careers.qualcomm.com/careers/job/446722176432?domain=qualcomm.com
+  + Amazon — Ring - ASIC DV Engineer Intern (Cambridge / Oxford) [Hardware/Silicon]
+    Apply: https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern
+  + Cisco — Hardware Engineer I (Intern) - United States (SF Bay Area) [Hardware/Silicon]
+    Apply: https://careers.cisco.com/global/en/job/2024535
+  + HPE — HPE Labs - AI Enablement Intern (US (Other)) [AI/ML]
+    Apply: https://careers.hpe.com/us/en/job/1217939
+  + Microsoft — Research Intern - Firmware Security (Seattle) [Backend/Infra]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557075140
+  + Microsoft — Security Research: PhD Internship Opportunities (Seattle) [Security]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557074642
+  + Oracle — OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027 (US (Other)) [Software]
+    Apply: https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350821
 
 [INTERNSHIPS CLOSED]
-  - Amazon — Network Development Engineer Intern, Core Networking (UK (Other))
-  - Datadog — Software Engineering Intern (Summer) (New York)
-  - Google — Forward Deployed Engineering Intern, BS/MS, 2027 (London)
-  - Google — Data Scientist Product MS Intern, 2027 (Zurich)
-  - Meta — ASIC Engineering Intern, Formal Verification (SF Bay Area)
-  - Meta — Business Analytics Intern, RL Devices Operations (SF Bay Area)
-  - Qualcomm — FY27 Intern- Integration of a RISC-V CPU into a Cache-Coherent Emulation Platform - 6 months, Sophia (Europe (Other))
-  - Qualcomm — FY27 Intern - Digital Design Engineering Internship - Canada (16 months) (Toronto)
+  - Amazon — Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA ) (Seattle)
+  - Amazon — Database Engineer Intern - Summer 2027 (Seattle)
+  - Amazon — 2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics (SF Bay Area)
+  - Apple — Internship - Machine Learning (Foundation Models) (Zurich)
+  - Cisco — Network Engineer Intern, Australia (UK (Other))
+  - HPE — Strategic Sourcing AI & Automation Intern (US (Other))
+  - HPE — Electrical Hardware Engineer Intern (SF Bay Area)
+  - Meta — Research Scientist Intern, Interactive Physics Simulation for Robotics (PhD) (Seattle)
+  - Meta — Research Scientist Intern, Multimodal Behavioral AI (PhD) (Seattle)
+  - Microsoft — Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond (Seattle)
+  - Microsoft — Data Engineering Internship Opportunities (Dublin)
+  - Microsoft — Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge (Boston)
+  - Nokia — Materials Management & Analytics - Working Student (Bydgoszcz) (Europe (Other))
+  - Oracle — ONA AI Agent Intern (Logistics Focus) - OVIP (Austin)
+  - Salesforce — Summer 2027 Intern - Applied AI Strategy & Research (SF Bay Area)
+  - ServiceNow — Security Engineering & Automation Intern (Seattle)
 
 [FAILED SCRAPERS]
   × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/
@@ -53,7 +63,6 @@ Changes Detected:
   × Palo Alto Networks: request failed after 3 attempts: POST https://paloaltonetworks.wd5.myworkdayjobs
   × PayPal: request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/
   × Red Hat: request failed after 3 attempts: POST https://redhat.wd5.myworkdayjobs.com/wday/
-  × Salesforce: request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/
   × Target: request failed after 3 attempts: POST https://target.wd5.myworkdayjobs.com/wday/
   × Visa: request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cx
   × Walmart Global Tech: request failed after 3 attempts: POST https://walmart.wd504.myworkdayjobs.com/wd

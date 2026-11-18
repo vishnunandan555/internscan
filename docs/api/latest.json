@@ -1,114 +1,132 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-17T04:04:45Z",
-  "new_count": 7,
+  "updated_at": "2026-11-18T03:00:48Z",
+  "new_count": 8,
   "reopened_count": 0,
-  "total_active": 663,
+  "total_active": 655,
   "new_jobs": [
     {
       "company": "Apple",
-      "title": "Defensive AI Security Intern",
-      "url": "https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern",
+      "title": "QA Automation Test Engineering Intern - Dublin, Ireland",
+      "url": "https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland",
       "locations": [
-        "Paris"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern -  GPU Compiler - 3 months, Cambridge",
-      "url": "https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com",
-      "locations": [
-        "Cambridge, United Kingdom"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "User Research Graduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/302688",
-      "locations": [
-        "Austin, TX, United States"
-      ],
-      "city_tag": "Austin",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Solution Engineering Internship Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557045545",
-      "locations": [
-        "Canada, Ontario, Toronto"
-      ],
-      "city_tag": "Toronto",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Data Engineering Internship Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002254",
-      "locations": [
-        "Ireland, Dublin, Dublin"
+        "Dublin"
       ],
       "city_tag": "Dublin",
       "country": "eu",
       "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
+      "category": "QA",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Perception, Displays and Graphics (PhD)",
-      "url": "https://www.metacareers.com/jobs/1500136678656794",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446722176432?domain=qualcomm.com",
       "locations": [
-        "Sunnyvale, CA"
+        "Markham, Ontario, Canada"
+      ],
+      "city_tag": "Canada (Other)",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18"
+    },
+    {
+      "company": "Amazon",
+      "title": "Ring - ASIC DV Engineer Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern",
+      "locations": [
+        "Cambridge, England, GBR"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18"
+    },
+    {
+      "company": "Cisco",
+      "title": "Hardware Engineer I (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024535",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Jose, California, United States of America"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
+      "category": "Hardware/Silicon",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Intelligent Camera Systems (PhD)",
-      "url": "https://www.metacareers.com/jobs/971210335715482",
+      "company": "HPE",
+      "title": "HPE Labs - AI Enablement Intern",
+      "url": "https://careers.hpe.com/us/en/job/1217939",
       "locations": [
-        "Redmond, WA"
+        "Milpitas, California, 95035",
+        "Milpitas, California, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Firmware Security",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+      "locations": [
+        "United States, Washington, Redmond"
       ],
       "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
+      "category": "Backend/Infra",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Security Research: PhD Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557074642",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Security",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18"
+    },
+    {
+      "company": "Oracle",
+      "title": "OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027",
+      "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350821",
+      "locations": [
+        "Nashville, TN, United States"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18"
     }
   ],
   "reopened_jobs": []
