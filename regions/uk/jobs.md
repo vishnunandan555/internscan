@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-18 08:30:48 IST** · 📌 **42** open verified internships
+> 🕐 Last updated: **2026-11-19 08:13:06 IST** · 📌 **45** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (42)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (45)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -22,11 +22,11 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Cisco](#cisco) | **1** |
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **3** |
-| [HPE](#hpe) | **2** |
+| [HPE](#hpe) | **3** |
 | [JPMorgan Chase](#jpmorgan-chase) | **2** |
 | [Meta](#meta) | **9** |
 | [Microsoft](#microsoft) | **2** |
-| [Qualcomm](#qualcomm) | **3** |
+| [Qualcomm](#qualcomm) | **5** |
 | [Stripe](#stripe) | **1** |
 | [Visa](#visa) | **3** |
 
@@ -65,7 +65,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) ✨ | AI/ML | London | 2026-11-12 | 2026-11-13 |
-| [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) ✨ | Backend/Infra | London | 2026-11-10 | 2026-11-11 |
+| [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) | Backend/Infra | London | 2026-11-10 | 2026-11-11 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -91,7 +91,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London | 2026-11-17 | 2026-10-15 |
+| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London | 2026-11-18 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -109,6 +109,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Business Cloud Intern](https://careers.hpe.com/us/en/job/1216748) ✨ | Backend/Infra | Winnersh, Berkshire | 2026-11-18 | 2026-11-19 |
 | [Sales Programmes Intern - High Performance Computing & AI](https://careers.hpe.com/us/en/job/1216776) ✨ | AI/ML | Winnersh, Berkshire | 2026-11-13 | 2026-11-14 |
 | [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) | Backend/Infra | Winnersh | 2026-10-28 | 2026-10-16 |
 
@@ -152,9 +153,11 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197636?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |
+| [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com) | Software | Cambridge / Oxford | 2026-11-18 | 2026-10-29 |
+| [FY27 Intern - Engineering Internship - 3 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern -  GPU Compiler - 3 months, Cambridge](https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com) ✨ | Backend/Infra | Cambridge / Oxford | 2026-11-16 | 2026-11-17 |
 | [FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com) ✨ | QA | Cambridge / Oxford | 2026-11-11 | 2026-11-12 |
-| [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com) | Software | Cambridge / Oxford | 2026-10-28 | 2026-10-29 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

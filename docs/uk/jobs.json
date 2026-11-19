@@ -1,23 +1,78 @@
 {
-  "updated_at": "2026-11-18T03:00:48Z",
+  "updated_at": "2026-11-19T02:43:06Z",
   "jobs": {
+    "qualcomm:446722197636": {
+      "uid": "qualcomm:446722197636",
+      "company": "Qualcomm",
+      "external_id": "446722197636",
+      "title": "FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough",
+      "url": "https://careers.qualcomm.com/careers/job/446722197636?domain=qualcomm.com",
+      "locations": [
+        "Farnborough, United Kingdom"
+      ],
+      "category": "Software",
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "active": true
+    },
+    "qualcomm:446722197770": {
+      "uid": "qualcomm:446722197770",
+      "company": "Qualcomm",
+      "external_id": "446722197770",
+      "title": "FY27 Intern - Engineering Internship - 3 months, Farnborough",
+      "url": "https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com",
+      "locations": [
+        "Farnborough, United Kingdom"
+      ],
+      "category": "Software",
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "active": true
+    },
+    "hpe:1216748": {
+      "uid": "hpe:1216748",
+      "company": "HPE",
+      "external_id": "1216748",
+      "title": "Business Cloud Intern",
+      "url": "https://careers.hpe.com/us/en/job/1216748",
+      "locations": [
+        "Winnersh, Berkshire, RG41 5TP",
+        "Winnersh, Berkshire, United Kingdom"
+      ],
+      "category": "Backend/Infra",
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "active": true
+    },
     "amazon:10606931": {
       "uid": "amazon:10606931",
+      "active": true,
+      "category": "Hardware/Silicon",
+      "city_tag": "Cambridge / Oxford",
       "company": "Amazon",
+      "country": "uk",
       "external_id": "10606931",
-      "title": "Ring - ASIC DV Engineer Intern",
-      "url": "https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Cambridge, England, GBR"
       ],
-      "category": "Hardware/Silicon",
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
       "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "active": true
+      "region": "EMEA",
+      "title": "Ring - ASIC DV Engineer Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern"
     },
     "qualcomm:446722152489": {
       "uid": "qualcomm:446722152489",
@@ -28,7 +83,7 @@
       "country": "uk",
       "external_id": "446722152489",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Cambridge, United Kingdom"
       ],
@@ -46,7 +101,7 @@
       "country": "uk",
       "external_id": "R173345",
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "London"
       ],
@@ -64,7 +119,7 @@
       "country": "uk",
       "external_id": "1216776",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Winnersh, Berkshire, RG41 5TP",
         "Winnersh, Berkshire, United Kingdom"
@@ -140,7 +195,7 @@
       "country": "uk",
       "external_id": "1382697917119311",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Cambridge, UK"
       ],
@@ -158,7 +213,7 @@
       "country": "uk",
       "external_id": "200694490",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London"
       ],
@@ -176,7 +231,7 @@
       "country": "uk",
       "external_id": "446722069792",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Cambridge, United Kingdom"
       ],
@@ -194,7 +249,7 @@
       "country": "uk",
       "external_id": "1970393557070382",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -212,7 +267,7 @@
       "country": "uk",
       "external_id": "10602219",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, England, GBR"
       ],
@@ -230,7 +285,7 @@
       "country": "uk",
       "external_id": "200694316",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London"
       ],
@@ -248,7 +303,7 @@
       "country": "uk",
       "external_id": "210806793",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "LONDON, United Kingdom"
       ],
@@ -266,7 +321,7 @@
       "country": "uk",
       "external_id": "1139996808441103",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK",
         "Zurich, Switzerland"
@@ -303,7 +358,7 @@
       "country": "uk",
       "external_id": "1970393557050102",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -339,7 +394,7 @@
       "country": "uk",
       "external_id": "10593322",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, England, GBR"
       ],
@@ -357,7 +412,7 @@
       "country": "uk",
       "external_id": "1847186939636437",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK"
       ],
@@ -375,7 +430,7 @@
       "country": "uk",
       "external_id": "2082008865811696",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK",
         "Zurich, Switzerland"
@@ -394,11 +449,11 @@
       "country": "uk",
       "external_id": "446721822125",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Cambridge, United Kingdom"
       ],
-      "posted": "2026-10-28",
+      "posted": "2026-11-18",
       "region": "EMEA",
       "title": "FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge",
       "url": "https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com"
@@ -412,7 +467,7 @@
       "country": "uk",
       "external_id": "1811645993254851",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK"
       ],
@@ -430,7 +485,7 @@
       "country": "uk",
       "external_id": "1418948513778654",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK"
       ],
@@ -448,7 +503,7 @@
       "country": "uk",
       "external_id": "10588762",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, England, GBR"
       ],
@@ -466,7 +521,7 @@
       "country": "uk",
       "external_id": "10588998",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, England, GBR"
       ],
@@ -484,7 +539,7 @@
       "country": "uk",
       "external_id": "2281070982817094",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK"
       ],
@@ -502,7 +557,7 @@
       "country": "uk",
       "external_id": "2288012098648243",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Cambridge, UK"
       ],
@@ -520,7 +575,7 @@
       "country": "uk",
       "external_id": "994737396214791",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK"
       ],
@@ -538,7 +593,7 @@
       "country": "uk",
       "external_id": "210800615",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "LONDON, United Kingdom"
       ],
@@ -556,7 +611,7 @@
       "country": "uk",
       "external_id": "1216282",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Winnersh, N/A",
         "Winnersh, United Kingdom"
@@ -575,7 +630,7 @@
       "country": "uk",
       "external_id": "8130867",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London"
       ],
@@ -593,7 +648,7 @@
       "country": "uk",
       "external_id": "73321728058499782",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK"
       ],
@@ -611,7 +666,7 @@
       "country": "uk",
       "external_id": "80037545080955590",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, UK"
       ],
@@ -629,7 +684,7 @@
       "country": "uk",
       "external_id": "86733690079453894",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Accra, Ghana",
         "Amsterdam, Netherlands",
@@ -655,11 +710,11 @@
       "country": "uk",
       "external_id": "8847738002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, United Kingdom"
       ],
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "region": "EMEA",
       "title": "Software Engineering Intern (2027 Start) - London",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
@@ -673,7 +728,7 @@
       "country": "uk",
       "external_id": "2023625",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Harpenden, Hertfordshire, United Kingdom"
       ],
@@ -691,7 +746,7 @@
       "country": "uk",
       "external_id": "200682357",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London"
       ],
@@ -709,7 +764,7 @@
       "country": "uk",
       "external_id": "10554586",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, England, GBR"
       ],
@@ -727,7 +782,7 @@
       "country": "uk",
       "external_id": "10567687",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, England, GBR"
       ],
@@ -745,7 +800,7 @@
       "country": "uk",
       "external_id": "10567694",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, England, GBR"
       ],
@@ -763,7 +818,7 @@
       "country": "uk",
       "external_id": "10577611",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "London, England, GBR"
       ],

@@ -1,25 +1,56 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-18T03:00:48Z",
-  "new_count": 1,
+  "updated_at": "2026-11-19T02:43:06Z",
+  "new_count": 3,
   "reopened_count": 0,
-  "total_active": 42,
+  "total_active": 45,
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "Ring - ASIC DV Engineer Intern",
-      "url": "https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough",
+      "url": "https://careers.qualcomm.com/careers/job/446722197636?domain=qualcomm.com",
       "locations": [
-        "Cambridge, England, GBR"
+        "Farnborough, United Kingdom"
       ],
-      "city_tag": "Cambridge / Oxford",
+      "city_tag": "UK (Other)",
       "country": "uk",
       "region": "EMEA",
-      "category": "Hardware/Silicon",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18"
+      "category": "Software",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Engineering Internship - 3 months, Farnborough",
+      "url": "https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com",
+      "locations": [
+        "Farnborough, United Kingdom"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
+    },
+    {
+      "company": "HPE",
+      "title": "Business Cloud Intern",
+      "url": "https://careers.hpe.com/us/en/job/1216748",
+      "locations": [
+        "Winnersh, Berkshire, RG41 5TP",
+        "Winnersh, Berkshire, United Kingdom"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
     }
   ],
   "reopened_jobs": []

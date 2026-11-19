@@ -1,25 +1,87 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-18T03:00:48Z",
-  "new_count": 1,
+  "updated_at": "2026-11-19T02:43:06Z",
+  "new_count": 5,
   "reopened_count": 0,
-  "total_active": 134,
+  "total_active": 135,
   "new_jobs": [
     {
       "company": "Apple",
-      "title": "QA Automation Test Engineering Intern - Dublin, Ireland",
-      "url": "https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland",
+      "title": "Software Engineering Intern, Apple Services - Dublin, Ireland",
+      "url": "https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland",
       "locations": [
         "Dublin"
       ],
       "city_tag": "Dublin",
       "country": "eu",
       "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
+    },
+    {
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Product Validation Engineer - 6 months, Colombes",
+      "url": "https://careers.qualcomm.com/careers/job/446722172701?domain=qualcomm.com",
+      "locations": [
+        "Colombes, France"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
       "category": "QA",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18"
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
+    },
+    {
+      "company": "Amazon",
+      "title": "Professional Services Cloud Consultant Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern",
+      "locations": [
+        "Amsterdam, North Holland, NLD"
+      ],
+      "city_tag": "Amsterdam",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
+    },
+    {
+      "company": "HPE",
+      "title": "Internship – Networking Systems Engineer",
+      "url": "https://careers.hpe.com/us/en/job/1214496",
+      "locations": [
+        "Milan, Milano, 20124",
+        "Milan, Milano, Italy"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
+    },
+    {
+      "company": "HPE",
+      "title": "Internship – Networking Systems Engineer",
+      "url": "https://careers.hpe.com/us/en/job/1214495",
+      "locations": [
+        "Rome, Roma, 00144",
+        "Rome, Roma, Italy"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
     }
   ],
   "reopened_jobs": []
