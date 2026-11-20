@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-19 08:13:06 IST** · 📌 **45** open verified internships
+> 🕐 Last updated: **2026-11-20 07:58:46 IST** · 📌 **46** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (45)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (46)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -25,7 +25,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [HPE](#hpe) | **3** |
 | [JPMorgan Chase](#jpmorgan-chase) | **2** |
 | [Meta](#meta) | **9** |
-| [Microsoft](#microsoft) | **2** |
+| [Microsoft](#microsoft) | **3** |
 | [Qualcomm](#qualcomm) | **5** |
 | [Stripe](#stripe) | **1** |
 | [Visa](#visa) | **3** |
@@ -49,7 +49,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Ring - ASIC DV Engineer Intern](https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) ✨ | Hardware/Silicon | Cambridge / Oxford | 2026-11-17 | 2026-11-18 |
-| [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) ✨ | Data | London | 2026-11-11 | 2026-11-12 |
+| [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) | Data | London | 2026-11-11 | 2026-11-12 |
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) | Software | London | 2026-10-30 | 2026-10-31 |
 | [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) | Software | London | 2026-10-26 | 2026-10-27 |
 | [2027 Software Dev Engineer Intern (Embedded Systems) - UK](https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) | Software | London | 2026-10-26 | 2026-10-27 |
@@ -91,7 +91,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London | 2026-11-18 | 2026-10-15 |
+| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London | 2026-11-19 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -144,7 +144,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) ✨ | AI/ML | Cambridge / Oxford | 2026-11-11 | 2026-11-12 |
+| [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557075448) ✨ | AI/ML | Cambridge / Oxford | 2026-11-19 | 2026-11-20 |
+| [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) | AI/ML | Cambridge / Oxford | 2026-11-11 | 2026-11-12 |
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Security | Cambridge / Oxford | 2026-10-30 | 2026-10-31 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
@@ -157,7 +158,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com) | Software | Cambridge / Oxford | 2026-11-18 | 2026-10-29 |
 | [FY27 Intern - Engineering Internship - 3 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern -  GPU Compiler - 3 months, Cambridge](https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com) ✨ | Backend/Infra | Cambridge / Oxford | 2026-11-16 | 2026-11-17 |
-| [FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com) ✨ | QA | Cambridge / Oxford | 2026-11-11 | 2026-11-12 |
+| [FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com) | QA | Cambridge / Oxford | 2026-11-11 | 2026-11-12 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -165,7 +166,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) | Software | London | 2026-10-29 | 2026-10-15 |
+| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) | Software | London | 2026-11-19 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

@@ -1,60 +1,60 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-19 02:41:59 UTC
+SCRAPE RUN SUMMARY — 2026-11-20 02:27:48 UTC
 ========================================================================
-Runtime:            66.6 seconds
+Runtime:            58.0 seconds
 Companies Scraped:  65 total
-  - Succeeded:      48
-  - Failed:         17
-Active India Roles: 529
+  - Succeeded:      46
+  - Failed:         19
+Active India Roles: 535
 Changes Detected:
-  - New Additions:  +15
-  - Closed Roles:   -5
-  - Reopened Roles: ~2
+  - New Additions:  +13
+  - Closed Roles:   -7
+  - Reopened Roles: ~4
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Apple — Software Engineering Intern, Apple Services - Dublin, Ireland (Dublin) [Software]
-    Apply: https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland
-  + Qualcomm — FY27 Intern - Product Validation Engineer - 6 months, Colombes (Europe (Other)) [QA]
-    Apply: https://careers.qualcomm.com/careers/job/446722172701?domain=qualcomm.com
-  + Qualcomm — FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough (UK (Other)) [Software]
-    Apply: https://careers.qualcomm.com/careers/job/446722197636?domain=qualcomm.com
-  + Qualcomm — FY27 Intern - Engineering Internship - 3 months, Farnborough (UK (Other)) [Software]
-    Apply: https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com
-  + Qualcomm — FY27 Intern - GPU Compiler Development Internship - Canada (4 months) (Canada (Other)) [Backend/Infra]
-    Apply: https://careers.qualcomm.com/careers/job/446722198182?domain=qualcomm.com
-  + Amazon — Professional Services Cloud Consultant Intern (Amsterdam) [Backend/Infra]
-    Apply: https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern
-  + HPE — Business Cloud Intern (UK (Other)) [Backend/Infra]
-    Apply: https://careers.hpe.com/us/en/job/1216748
-  + HPE — Internship – Networking Systems Engineer (Europe (Other)) [Backend/Infra]
-    Apply: https://careers.hpe.com/us/en/job/1214496
-  + HPE — Internship – Networking Systems Engineer (Europe (Other)) [Backend/Infra]
-    Apply: https://careers.hpe.com/us/en/job/1214495
-  + Microsoft — Research Intern - Self-Improving & Secure AI Agents - Microsoft Research (Seattle) [AI/ML]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557075136
-  + Microsoft — Research Intern - AI Software Systems (Seattle) [AI/ML]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557075527
-  + Microsoft — Research Intern - Computer Vision and Deep Learning (Seattle) [AI/ML]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557075490
-  + Microsoft — Research Intern - Data Center and AI Networking (SF Bay Area) [Data]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557075457
-  + Meta — Research Scientist Intern, Physics-Grounded Multimodal Robot Learning (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/994911809842621
-  + Meta — Research Scientist Intern, Computational Mechanics (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1283598853967973
+  + Salesforce — Data Science & Analytics Intern, Alliances & Channels - February 2027 (Europe (Other)) [Data]
+    Apply: https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Data-Science---Analytics-Intern--Alliances---Channels---February-2027_JR368786-1
+  + HPE — AI Engineering Technical Intern (SF Bay Area) [AI/ML]
+    Apply: https://careers.hpe.com/us/en/job/1218702
+  + HPE — Product Line Manager Intern – Photonics & Optical Networking (US (Other)) [Backend/Infra]
+    Apply: https://careers.hpe.com/us/en/job/1214207
+  + Microsoft — Research Intern - AI Safety, Alignment, and Post-Training (SF Bay Area) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557076142
+  + Microsoft — Research Intern - Deep Learning Group (Seattle) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557076095
+  + Microsoft — Research Intern - AI /Machine Learning Numerics & Efficiency (SF Bay Area) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557076159
+  + Microsoft — Research Intern - AI Serving Systems and Hardware - Microsoft Research (Vancouver) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557076203
+  + Microsoft — Software Engineering INTERN (Europe (Other)) [Software]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557076037
+  + Microsoft — Research Intern - Machine Learning for Biology and Healthcare (Cambridge / Oxford) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557075448
+  + Microsoft — Data Science - PhD Internship Opportunities (Zurich) [Data]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557072640
+  + Meta — Research Scientist Intern, AI Agents for Autonomous Laboratories (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/29481973694788756
+  + Meta — Research Scientist Intern, Machine Learning for Robotics (PhD) (US (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1766347491109788
+  + MongoDB — 2027 - AI and People Transformation Intern, NYC (New York) [AI/ML]
+    Apply: https://www.mongodb.com/careers/job/?gh_jid=8346138
 
 [INTERNSHIPS CLOSED]
-  - Amazon — 2027 Software Dev Engineer Intern - Finland (Europe (Other))
-  - Apple — AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR (Europe (Other))
-  - HPE — Cloud Developer Intern (SF Bay Area)
-  - Meta — Research Scientist Intern, AI Core Machine Learning (MSc) (Europe (Other))
-  - Qualcomm — FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France (Europe (Other))
+  - Amazon — Professional Services Cloud Consultant Intern (Amsterdam)
+  - Dell Technologies — User Research Graduate Intern (Austin)
+  - Jane Street — Hardware Engineer (FPGA/ASIC) (Summer Internship) (New York)
+  - Meta — Research Scientist Intern, Robot Foundation Models (PhD) (Seattle)
+  - Nokia — Defense Software Test & AI Co-Op (US (Other))
+  - Oracle — CEGIU Demo Data Strategy Intern - OVIP (SF Bay Area)
+  - Qualcomm — Security (Product, Systems, Cyber) Engineering Internship - Summer 2027 (US (Other))
 
 [FAILED SCRAPERS]
   × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/
+  × Adobe: request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/c
   × Autodesk: request failed after 3 attempts: POST https://autodesk.wd1.myworkdayjobs.com/wda
   × Barclays: request failed after 3 attempts: POST https://barclays.wd3.myworkdayjobs.com/wda
+  × Broadcom (VMware): request failed after 3 attempts: POST https://broadcom.wd1.myworkdayjobs.com/wda
   × CrowdStrike: request failed after 3 attempts: POST https://crowdstrike.wd5.myworkdayjobs.com/
   × Intel: request failed after 3 attempts: POST https://intel.wd1.myworkdayjobs.com/wday/c
   × Mastercard: request failed after 3 attempts: POST https://mastercard.wd1.myworkdayjobs.com/w
@@ -63,7 +63,7 @@ Changes Detected:
   × NVIDIA: request failed after 3 attempts: POST https://nvidia.wd5.myworkdayjobs.com/wday/
   × Palo Alto Networks: request failed after 3 attempts: POST https://paloaltonetworks.wd5.myworkdayjobs
   × PayPal: request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/
-  × Salesforce: request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/
+  × Red Hat: request failed after 3 attempts: POST https://redhat.wd5.myworkdayjobs.com/wday/
   × Target: request failed after 3 attempts: POST https://target.wd5.myworkdayjobs.com/wday/
   × Visa: request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cx
   × Walmart Global Tech: request failed after 3 attempts: POST https://walmart.wd504.myworkdayjobs.com/wd

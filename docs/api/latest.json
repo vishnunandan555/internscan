@@ -1,197 +1,62 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-19T02:43:06Z",
-  "new_count": 15,
-  "reopened_count": 2,
-  "total_active": 667,
+  "updated_at": "2026-11-20T02:28:46Z",
+  "new_count": 13,
+  "reopened_count": 4,
+  "total_active": 677,
   "new_jobs": [
     {
-      "company": "Apple",
-      "title": "Software Engineering Intern, Apple Services - Dublin, Ireland",
-      "url": "https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland",
+      "company": "Salesforce",
+      "title": "Data Science & Analytics Intern, Alliances & Channels - February 2027",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Data-Science---Analytics-Intern--Alliances---Channels---February-2027_JR368786-1",
       "locations": [
-        "Dublin"
-      ],
-      "city_tag": "Dublin",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Product Validation Engineer - 6 months, Colombes",
-      "url": "https://careers.qualcomm.com/careers/job/446722172701?domain=qualcomm.com",
-      "locations": [
-        "Colombes, France"
+        "France - Paris",
+        "France, Paris"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "QA",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough",
-      "url": "https://careers.qualcomm.com/careers/job/446722197636?domain=qualcomm.com",
-      "locations": [
-        "Farnborough, United Kingdom"
-      ],
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Engineering Internship - 3 months, Farnborough",
-      "url": "https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com",
-      "locations": [
-        "Farnborough, United Kingdom"
-      ],
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - GPU Compiler Development Internship - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446722198182?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "Amazon",
-      "title": "Professional Services Cloud Consultant Intern",
-      "url": "https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern",
-      "locations": [
-        "Amsterdam, North Holland, NLD"
-      ],
-      "city_tag": "Amsterdam",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
+      "category": "Data",
+      "posted": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     },
     {
       "company": "HPE",
-      "title": "Business Cloud Intern",
-      "url": "https://careers.hpe.com/us/en/job/1216748",
+      "title": "AI Engineering Technical Intern",
+      "url": "https://careers.hpe.com/us/en/job/1218702",
       "locations": [
-        "Winnersh, Berkshire, RG41 5TP",
-        "Winnersh, Berkshire, United Kingdom"
+        "Sunnyvale, California, N/A",
+        "Sunnyvale, California, United States of America"
       ],
-      "city_tag": "UK (Other)",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     },
     {
       "company": "HPE",
-      "title": "Internship – Networking Systems Engineer",
-      "url": "https://careers.hpe.com/us/en/job/1214496",
+      "title": "Product Line Manager Intern – Photonics & Optical Networking",
+      "url": "https://careers.hpe.com/us/en/job/1214207",
       "locations": [
-        "Milan, Milano, 20124",
-        "Milan, Milano, Italy"
+        "Westford, Massachusetts, 01886",
+        "Westford, Massachusetts, United States of America"
       ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
       "category": "Backend/Infra",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "HPE",
-      "title": "Internship – Networking Systems Engineer",
-      "url": "https://careers.hpe.com/us/en/job/1214495",
-      "locations": [
-        "Rome, Roma, 00144",
-        "Rome, Roma, Italy"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     },
     {
       "company": "Microsoft",
-      "title": "Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075136",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Research Intern - AI Software Systems",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Research Intern - Computer Vision and Deep Learning",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Research Intern - Data Center and AI Networking",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075457",
+      "title": "Research Intern - AI Safety, Alignment, and Post-Training",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076142",
       "locations": [
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
@@ -199,15 +64,106 @@
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Deep Learning Group",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
+      "locations": [
+        "United States, California, Mountain View",
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
+      "locations": [
+        "Canada, British Columbia, Vancouver"
+      ],
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076037",
+      "locations": [
+        "Germany, Baden-Württemberg, Stuttgart"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning for Biology and Healthcare",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
+      "locations": [
+        "United Kingdom, Cambridgeshire, Cambridge"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Data Science - PhD Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557072640",
+      "locations": [
+        "Switzerland, Zürich, Zürich"
+      ],
+      "city_tag": "Zurich",
+      "country": "eu",
+      "region": "EMEA",
       "category": "Data",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, Physics-Grounded Multimodal Robot Learning",
-      "url": "https://www.metacareers.com/jobs/994911809842621",
+      "title": "Research Scientist Intern, AI Agents for Autonomous Laboratories (PhD)",
+      "url": "https://www.metacareers.com/jobs/29481973694788756",
       "locations": [
         "Redmond, WA"
       ],
@@ -215,57 +171,101 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, Computational Mechanics (PhD)",
-      "url": "https://www.metacareers.com/jobs/1283598853967973",
+      "title": "Research Scientist Intern, Machine Learning for Robotics (PhD)",
+      "url": "https://www.metacareers.com/jobs/1766347491109788",
       "locations": [
-        "Pasadena, CA",
-        "Redmond, WA"
+        "Burlingame, CA"
       ],
-      "city_tag": "Seattle",
+      "city_tag": "US (Other)",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
       "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "MongoDB",
+      "title": "2027 - AI and People Transformation Intern, NYC",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
+      "locations": [
+        "New York City"
+      ],
+      "city_tag": "New York",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     }
   ],
   "reopened_jobs": [
     {
       "company": "Qualcomm",
-      "title": "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
-      "url": "https://careers.qualcomm.com/careers/job/446720740636?domain=qualcomm.com",
+      "title": "FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork",
+      "url": "https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com",
       "locations": [
-        "San Diego, California, United States of America"
+        "Cork, Ireland"
       ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-09-18",
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-19",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
-      "company": "Dell Technologies",
-      "title": "Corporate Strategy Undergraduate Intern",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300226",
+      "company": "Microsoft",
+      "title": "Data Science - Forward Deployed Engineer: PhD Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
       "locations": [
-        "TX, United States"
+        "United States, Washington, Redmond"
       ],
-      "city_tag": "US (Other)",
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Data",
+      "posted": "2026-11-19",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Thermal Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/1114875338141580",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-11-18",
+      "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Multimodal Behavioral AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1428978125312655",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-11-20"
     }
   ]
 }

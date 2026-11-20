@@ -2,7 +2,7 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-19 08:13:06 IST** · 📌 **25** open verified internships
+> 🕐 Last updated: **2026-11-20 07:58:46 IST** · 📌 **25** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (70)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
@@ -139,7 +139,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Software | Bengaluru | 2026-10-29 | 2026-09-17 |
+| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Software | Bengaluru | 2026-11-19 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 

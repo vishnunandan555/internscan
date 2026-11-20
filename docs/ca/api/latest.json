@@ -1,25 +1,25 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-19T02:43:06Z",
+  "updated_at": "2026-11-20T02:28:46Z",
   "new_count": 1,
   "reopened_count": 0,
-  "total_active": 56,
+  "total_active": 57,
   "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - GPU Compiler Development Internship - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446722198182?domain=qualcomm.com",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
       "locations": [
-        "Markham, Ontario, Canada"
+        "Canada, British Columbia, Vancouver"
       ],
-      "city_tag": "Canada (Other)",
+      "city_tag": "Vancouver",
       "country": "ca",
       "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19"
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     }
   ],
   "reopened_jobs": []

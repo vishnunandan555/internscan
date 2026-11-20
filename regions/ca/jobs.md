@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-19 08:13:06 IST** · 📌 **56** open verified internships
+> 🕐 Last updated: **2026-11-20 07:58:46 IST** · 📌 **57** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (56)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (57)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -19,7 +19,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Google](#google) | **7** |
 | [Intel](#intel) | **2** |
 | [Meta](#meta) | **1** |
-| [Microsoft](#microsoft) | **2** |
+| [Microsoft](#microsoft) | **3** |
 | [NVIDIA](#nvidia) | **2** |
 | [Nokia](#nokia) | **1** |
 | [Qualcomm](#qualcomm) | **31** |
@@ -78,6 +78,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Intern - AI Serving Systems and Hardware - Microsoft Research](https://apply.careers.microsoft.com/careers/job/1970393557076203) ✨ | AI/ML | Vancouver | 2026-11-19 | 2026-11-20 |
 | [Solution Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557045545) ✨ | Software | Toronto | 2026-11-16 | 2026-11-17 |
 | [Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning](https://apply.careers.microsoft.com/careers/job/1970393557040927) | AI/ML | Montreal | 2026-10-14 | 2026-10-15 |
 
@@ -142,11 +143,11 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805) | Software | Toronto | 2026-11-11 | 2026-10-15 |
-| [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664) | AI/ML | Toronto | 2026-10-30 | 2026-10-31 |
-| [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122) | AI/ML | Toronto | 2026-10-30 | 2026-10-31 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Data | Toronto | 2026-10-29 | 2026-10-15 |
-| [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) | Data | Toronto | 2026-10-29 | 2026-10-15 |
+| [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805) | Software | Toronto | 2026-11-19 | 2026-10-15 |
+| [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664) | AI/ML | Toronto | 2026-11-19 | 2026-10-31 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Data | Toronto | 2026-11-19 | 2026-10-15 |
+| [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122) | AI/ML | Toronto | 2026-11-19 | 2026-10-31 |
+| [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) | Data | Toronto | 2026-11-19 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
 

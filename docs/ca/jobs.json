@@ -1,23 +1,41 @@
 {
-  "updated_at": "2026-11-19T02:43:06Z",
+  "updated_at": "2026-11-20T02:28:46Z",
   "jobs": {
+    "microsoft:1970393557076203": {
+      "uid": "microsoft:1970393557076203",
+      "company": "Microsoft",
+      "external_id": "1970393557076203",
+      "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
+      "locations": [
+        "Canada, British Columbia, Vancouver"
+      ],
+      "category": "AI/ML",
+      "city_tag": "Vancouver",
+      "country": "ca",
+      "region": "AMER",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "active": true
+    },
     "qualcomm:446722198182": {
       "uid": "qualcomm:446722198182",
+      "active": true,
+      "category": "Backend/Infra",
+      "city_tag": "Canada (Other)",
       "company": "Qualcomm",
+      "country": "ca",
       "external_id": "446722198182",
-      "title": "FY27 Intern - GPU Compiler Development Internship - Canada (4 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446722198182?domain=qualcomm.com",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
-      "category": "Backend/Infra",
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
       "posted": "2026-11-18",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
-      "active": true
+      "region": "AMER",
+      "title": "FY27 Intern - GPU Compiler Development Internship - Canada (4 months)",
+      "url": "https://careers.qualcomm.com/careers/job/446722198182?domain=qualcomm.com"
     },
     "qualcomm:446722176432": {
       "uid": "qualcomm:446722176432",
@@ -28,7 +46,7 @@
       "country": "ca",
       "external_id": "446722176432",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -46,7 +64,7 @@
       "country": "ca",
       "external_id": "1970393557045545",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Canada, Ontario, Toronto"
       ],
@@ -64,7 +82,7 @@
       "country": "ca",
       "external_id": "446722038614",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -82,7 +100,7 @@
       "country": "ca",
       "external_id": "446722001120",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -100,7 +118,7 @@
       "country": "ca",
       "external_id": "446722003454",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -118,7 +136,7 @@
       "country": "ca",
       "external_id": "446722005254",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -136,7 +154,7 @@
       "country": "ca",
       "external_id": "446721989047",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -154,7 +172,7 @@
       "country": "ca",
       "external_id": "446721969461",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -172,7 +190,7 @@
       "country": "ca",
       "external_id": "446721972361",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -190,7 +208,7 @@
       "country": "ca",
       "external_id": "446721913769",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -208,7 +226,7 @@
       "country": "ca",
       "external_id": "446721913898",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -226,7 +244,7 @@
       "country": "ca",
       "external_id": "446721914045",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -244,7 +262,7 @@
       "country": "ca",
       "external_id": "1406585275871250",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Montreal, Canada"
       ],
@@ -262,11 +280,11 @@
       "country": "ca",
       "external_id": "8328664",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-30",
+      "posted": "2026-11-19",
       "region": "AMER",
       "title": "PhD Machine Learning Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8328664"
@@ -280,11 +298,11 @@
       "country": "ca",
       "external_id": "8333122",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-30",
+      "posted": "2026-11-19",
       "region": "AMER",
       "title": "Master's Machine Learning Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8333122"
@@ -298,7 +316,7 @@
       "country": "ca",
       "external_id": "446721829462",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -316,7 +334,7 @@
       "country": "ca",
       "external_id": "446721874877",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Ottawa, Ontario, Canada"
       ],
@@ -334,7 +352,7 @@
       "country": "ca",
       "external_id": "446721858024",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -352,7 +370,7 @@
       "country": "ca",
       "external_id": "446721862429",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -370,7 +388,7 @@
       "country": "ca",
       "external_id": "446721862430",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -388,7 +406,7 @@
       "country": "ca",
       "external_id": "446721828828",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -406,7 +424,7 @@
       "country": "ca",
       "external_id": "446721829439",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -424,7 +442,7 @@
       "country": "ca",
       "external_id": "446721678733",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Vancouver, British Columbia, Canada"
       ],
@@ -442,7 +460,7 @@
       "country": "ca",
       "external_id": "446721686396",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -479,7 +497,7 @@
       "country": "ca",
       "external_id": "446721661677",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -497,7 +515,7 @@
       "country": "ca",
       "external_id": "446721661830",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -515,7 +533,7 @@
       "country": "ca",
       "external_id": "446721636316",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -533,7 +551,7 @@
       "country": "ca",
       "external_id": "446721636765",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -570,7 +588,7 @@
       "country": "ca",
       "external_id": "446721615591",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -588,7 +606,7 @@
       "country": "ca",
       "external_id": "41311",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Canada"
       ],
@@ -625,11 +643,11 @@
       "country": "ca",
       "external_id": "8130805",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-11-11",
+      "posted": "2026-11-19",
       "region": "AMER",
       "title": "Software Engineer, Intern (Summer)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
@@ -643,11 +661,11 @@
       "country": "ca",
       "external_id": "8194285",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-11-19",
       "region": "AMER",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194285"
@@ -661,11 +679,11 @@
       "country": "ca",
       "external_id": "8194287",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-11-19",
       "region": "AMER",
       "title": "Data Analyst, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194287"
@@ -679,7 +697,7 @@
       "country": "ca",
       "external_id": "446721064018",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -697,7 +715,7 @@
       "country": "ca",
       "external_id": "446721064141",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -715,7 +733,7 @@
       "country": "ca",
       "external_id": "446721141411",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, Canada"
       ],
@@ -733,7 +751,7 @@
       "country": "ca",
       "external_id": "446721143440",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -751,7 +769,7 @@
       "country": "ca",
       "external_id": "446721229661",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Markham, Ontario, Canada"
       ],
@@ -788,7 +806,7 @@
       "country": "ca",
       "external_id": "1970393557040927",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Canada, Québec, Montreal"
       ],
@@ -806,7 +824,7 @@
       "country": "ca",
       "external_id": "104405499448828614",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Montreal, QC, Canada"
       ],
@@ -824,7 +842,7 @@
       "country": "ca",
       "external_id": "112518690523488966",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -843,7 +861,7 @@
       "country": "ca",
       "external_id": "113855697199735494",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Montreal, QC, Canada",
         "Toronto, ON, Canada",
@@ -863,7 +881,7 @@
       "country": "ca",
       "external_id": "114416552819729094",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -882,7 +900,7 @@
       "country": "ca",
       "external_id": "128430823337534150",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Montreal, QC, Canada",
         "Toronto, ON, Canada",
@@ -902,7 +920,7 @@
       "country": "ca",
       "external_id": "141525012002546374",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Montreal, QC, Canada"
       ],
@@ -920,7 +938,7 @@
       "country": "ca",
       "external_id": "75043041429070534",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
@@ -939,7 +957,7 @@
       "country": "ca",
       "external_id": "10535280",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -957,7 +975,7 @@
       "country": "ca",
       "external_id": "10538066",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
@@ -975,7 +993,7 @@
       "country": "ca",
       "external_id": "10553947",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Vancouver, British Columbia, CAN"
       ],
@@ -993,7 +1011,7 @@
       "country": "ca",
       "external_id": "10564588",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Vancouver, British Columbia, CAN"
       ],
@@ -1011,7 +1029,7 @@
       "country": "ca",
       "external_id": "3136815",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "locations": [
         "Toronto, Ontario, CAN"
       ],
