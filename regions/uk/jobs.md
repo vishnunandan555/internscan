@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-20 07:58:46 IST** · 📌 **46** open verified internships
+> 🕐 Last updated: **2026-11-21 08:10:05 IST** · 📌 **47** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (46)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (47)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -24,7 +24,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Google](#google) | **3** |
 | [HPE](#hpe) | **3** |
 | [JPMorgan Chase](#jpmorgan-chase) | **2** |
-| [Meta](#meta) | **9** |
+| [Meta](#meta) | **10** |
 | [Microsoft](#microsoft) | **3** |
 | [Qualcomm](#qualcomm) | **5** |
 | [Stripe](#stripe) | **1** |
@@ -64,7 +64,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) ✨ | AI/ML | London | 2026-11-12 | 2026-11-13 |
+| [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) | AI/ML | London | 2026-11-12 | 2026-11-13 |
 | [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) | Backend/Infra | London | 2026-11-10 | 2026-11-11 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
@@ -128,8 +128,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/1382697917119311) ✨ | AI/ML | Cambridge / Oxford | 2026-11-12 | 2026-11-13 |
+| [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/1382697917119311) | AI/ML | Cambridge / Oxford | 2026-11-12 | 2026-11-13 |
 | [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1139996808441103) | AI/ML | London | 2026-11-04 | 2026-11-05 |
+| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/1122232790428355) ✨ | AI/ML | London | 2026-10-30 | 2026-11-21 |
 | [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/2082008865811696) | AI/ML | London | 2026-10-29 | 2026-10-30 |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1847186939636437) | AI/ML | London | 2026-10-29 | 2026-10-30 |
 | [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1811645993254851) | AI/ML | London | 2026-10-27 | 2026-10-28 |
@@ -154,8 +155,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern - Software - Systems Engineering Team (Data Center Group)- 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446722247294?domain=qualcomm.com) ✨ | Software | Cambridge / Oxford | 2026-11-20 | 2026-11-21 |
 | [FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197636?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |
-| [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125?domain=qualcomm.com) | Software | Cambridge / Oxford | 2026-11-18 | 2026-10-29 |
 | [FY27 Intern - Engineering Internship - 3 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern -  GPU Compiler - 3 months, Cambridge](https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com) ✨ | Backend/Infra | Cambridge / Oxford | 2026-11-16 | 2026-11-17 |
 | [FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com) | QA | Cambridge / Oxford | 2026-11-11 | 2026-11-12 |
@@ -174,9 +175,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) ✨ | Software | Gb - Reading; Gb, Reading United Kingdom | 2026-11-13 | 2026-11-13 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) ✨ | Software | Cambridge / Oxford | 2026-11-13 | 2026-11-13 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1) ✨ | Software | London | 2026-11-13 | 2026-11-13 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) | Software | Gb - Reading; Gb, Reading United Kingdom | 2026-11-13 | 2026-11-13 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) | Software | Cambridge / Oxford | 2026-11-13 | 2026-11-13 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1) | Software | London | 2026-11-13 | 2026-11-13 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
