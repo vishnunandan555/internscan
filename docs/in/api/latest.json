@@ -1,26 +1,10 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-11-21T02:40:05Z",
+  "updated_at": "2026-11-22T01:29:10Z",
   "new_count": 0,
-  "reopened_count": 1,
+  "reopened_count": 0,
   "total_active": 26,
   "new_jobs": [],
-  "reopened_jobs": [
-    {
-      "company": "Rubrik",
-      "title": "Software Engineer - Winter Intern",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
-      "locations": [
-        "Bangalore"
-      ],
-      "city_tag": "Bengaluru",
-      "country": "in",
-      "region": "APAC",
-      "category": "Software",
-      "posted": "2026-11-19",
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-11-21"
-    }
-  ]
+  "reopened_jobs": []
 }

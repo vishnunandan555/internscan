@@ -2,7 +2,7 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-21 08:10:05 IST** · 📌 **142** open verified internships
+> 🕐 Last updated: **2026-11-22 06:59:10 IST** · 📌 **142** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
@@ -271,7 +271,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania](https://careers.qualcomm.com/careers/job/446722247054?domain=qualcomm.com) ✨ | Software | Timisoara, Romania | 2026-11-20 | 2026-11-21 |
 | [FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-19 | 2026-10-15 |
 | [FY27 Intern - Product Validation Engineer - 6 months, Colombes](https://careers.qualcomm.com/careers/job/446722172701?domain=qualcomm.com) ✨ | QA | Colombes, France | 2026-11-18 | 2026-11-19 |
-| [FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden](https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com) ✨ | AI/ML | Stockholm, Sweden | 2026-11-13 | 2026-11-14 |
+| [FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden](https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com) | AI/ML | Stockholm, Sweden | 2026-11-13 | 2026-11-14 |
 | [FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com) | AI/ML | Amsterdam | 2026-11-12 | 2026-11-04 |
 | [FY27 Intern - Hardware Design for Post-Quantum Cryptography - 6 months, Sophia](https://careers.qualcomm.com/careers/job/446722029766?domain=qualcomm.com) | Hardware/Silicon | Sophia Antipolis, France | 2026-11-09 | 2026-11-10 |
 | [FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-09 | 2026-10-15 |

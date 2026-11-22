@@ -1,27 +1,10 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-21T02:40:05Z",
+  "updated_at": "2026-11-22T01:29:10Z",
   "new_count": 0,
-  "reopened_count": 1,
+  "reopened_count": 0,
   "total_active": 55,
   "new_jobs": [],
-  "reopened_jobs": [
-    {
-      "company": "HPE",
-      "title": "Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Hiver  2027)",
-      "url": "https://careers.hpe.com/us/en/job/1214294",
-      "locations": [
-        "St. Laurent, Quebec, Canada",
-        "St. Laurent, Quebec, H4S 0A4"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-19",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-11-21"
-    }
-  ]
+  "reopened_jobs": []
 }

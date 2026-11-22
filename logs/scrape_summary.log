@@ -1,64 +1,20 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-21 02:39:05 UTC
+SCRAPE RUN SUMMARY — 2026-11-22 01:28:13 UTC
 ========================================================================
-Runtime:            60.0 seconds
+Runtime:            57.4 seconds
 Companies Scraped:  65 total
   - Succeeded:      45
   - Failed:         20
-Active India Roles: 541
+Active India Roles: 539
 Changes Detected:
-  - New Additions:  +17
-  - Closed Roles:   -10
-  - Reopened Roles: ~4
+  - New Additions:  +0
+  - Closed Roles:   -2
+  - Reopened Roles: ~0
 ------------------------------------------------------------------------
 
-[NEW INTERNSHIPS ADDED]
-  + Apple — Graphics Tooling and Rendering Engineering Intern (Europe (Other)) [Software]
-    Apply: https://jobs.apple.com/en-us/details/200694482/graphics-tooling-and-rendering-engineering-intern
-  + Cisco — AI Researcher II (Intern) - United States (SF Bay Area) [AI/ML]
-    Apply: https://careers.cisco.com/global/en/job/2032589
-  + Cisco — Data Science Analyst II (Intern) – Untied States (SF Bay Area) [Data]
-    Apply: https://careers.cisco.com/global/en/job/2032691
-  + Cisco — AI Cybersecurity Engineer I (Intern) – United States (US (Other)) [AI/ML]
-    Apply: https://careers.cisco.com/global/en/job/2030295
-  + Qualcomm — FY27 Intern - IT Artificial Intelligence & Automation - Up to 8 Months, Cork (Europe (Other)) [AI/ML]
-    Apply: https://careers.qualcomm.com/careers/job/446722246579?domain=qualcomm.com
-  + Qualcomm — FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania (Europe (Other)) [Software]
-    Apply: https://careers.qualcomm.com/careers/job/446722247054?domain=qualcomm.com
-  + Qualcomm — FY27 Intern - Software - Systems Engineering Team (Data Center Group)- 6 months, Cambridge (Cambridge / Oxford) [Software]
-    Apply: https://careers.qualcomm.com/careers/job/446722247294?domain=qualcomm.com
-  + HPE — Cybersecurity Sales & Business - Part time Intern (Europe (Other)) [Security]
-    Apply: https://careers.hpe.com/us/en/job/1213973
-  + HPE — HPE Labs – Business Analyst Intern – AI and Data Science (US (Other)) [AI/ML]
-    Apply: https://careers.hpe.com/us/en/job/1217924
-  + Microsoft — Research Intern - AI System Architecture Modeling and Performance (US (Other)) [AI/ML]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557077583
-  + Microsoft — Research Intern - AI /Machine Learning Numerics & Efficiency (SF Bay Area) [AI/ML]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393557076215
-  + ServiceNow — Security Software Engineer Intern (Seattle) [Security]
-    Apply: https://jobs.smartrecruiters.com/servicenow/744000162827365
-  + Snowflake — Software Engineer Intern (Database Engineering) - Summer 2027 (SF Bay Area) [Software]
-    Apply: https://careers.snowflake.com/us/en/job/70074572-5399-4d6f-be64-6a32de622fb6
-  + Snowflake — Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 (SF Bay Area) [Software]
-    Apply: https://careers.snowflake.com/us/en/job/b1a79d5e-b28d-4fa5-9cee-38be61261073
-  + Snowflake — Software Engineer Intern (AI / ML) - Summer 2027 (SF Bay Area) [Software]
-    Apply: https://careers.snowflake.com/us/en/job/b279efdc-7caf-4ce2-b1ff-d842ee5cc37e
-  + Meta — Research Scientist Intern, Security & Integrity (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/4110138665949300
-  + Meta — Research Scientist Intern, Photorealistic Telepresence (PhD) (London) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1122232790428355
-
 [INTERNSHIPS CLOSED]
-  - JPMorgan Chase — 2027 Data & AI Program - Summer Internship - Analyst - United States (SF Bay Area)
-  - JPMorgan Chase — 2027 Focused Analytics Solutions Team (FAST) Intern Associate Program – Analytics Solutions (New York)
-  - Meta — Research Scientist Intern, Humanoid Control & Dexterous Manipulation (PhD) (Seattle)
-  - Meta — Software Engineer Intern, Machine Learning (PhD) (SF Bay Area)
-  - Meta — Research Scientist Intern, Scam and Trust (PhD) (SF Bay Area)
-  - Oracle — OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027 (US (Other))
-  - Qualcomm — FY27 Intern - Machine Learning AISW Internship - Canada (4 Months) (Canada (Other))
-  - Qualcomm — FY27 Intern - Display Systems Engineering Internship - Canada (16 months) (Canada (Other))
-  - Qualcomm — FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge (Cambridge / Oxford)
-  - Qualcomm — FY27 Intern - Machine Learning Engineering Internship - Canada (4 months) (Canada (Other))
+  - Cisco — Hardware Engineer I (Intern) - United States (SF Bay Area)
+  - Microsoft — Data Science: PhD Internship Opportunities - Redmond (Seattle)
 
 [FAILED SCRAPERS]
   × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/

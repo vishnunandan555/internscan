@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-21 08:10:05 IST** · 📌 **47** open verified internships
+> 🕐 Last updated: **2026-11-22 06:59:10 IST** · 📌 **47** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -110,7 +110,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Business Cloud Intern](https://careers.hpe.com/us/en/job/1216748) ✨ | Backend/Infra | Winnersh, Berkshire | 2026-11-18 | 2026-11-19 |
-| [Sales Programmes Intern - High Performance Computing & AI](https://careers.hpe.com/us/en/job/1216776) ✨ | AI/ML | Winnersh, Berkshire | 2026-11-13 | 2026-11-14 |
+| [Sales Programmes Intern - High Performance Computing & AI](https://careers.hpe.com/us/en/job/1216776) | AI/ML | Winnersh, Berkshire | 2026-11-13 | 2026-11-14 |
 | [Networking Intern - Placement Year](https://careers.hpe.com/us/en/job/1216282) | Backend/Infra | Winnersh | 2026-10-28 | 2026-10-16 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)

@@ -1,41 +1,10 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-21T02:40:05Z",
-  "new_count": 2,
+  "updated_at": "2026-11-22T01:29:10Z",
+  "new_count": 0,
   "reopened_count": 0,
   "total_active": 47,
-  "new_jobs": [
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Software - Systems Engineering Team (Data Center Group)- 6 months, Cambridge",
-      "url": "https://careers.qualcomm.com/careers/job/446722247294?domain=qualcomm.com",
-      "locations": [
-        "Cambridge, United Kingdom"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-20",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
-      "url": "https://www.metacareers.com/jobs/1122232790428355",
-      "locations": [
-        "London, UK"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-10-30",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21"
-    }
-  ],
+  "new_jobs": [],
   "reopened_jobs": []
 }
