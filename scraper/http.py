@@ -57,9 +57,10 @@ def get_thread_timeout() -> int:
     return getattr(_thread_local, "timeout", None) or DEFAULT_TIMEOUT
 
 
-def _backoff(attempt: int) -> float:
+def _backoff(attempt: int, is_rate_limit: bool = False) -> float:
     """Calculate exponential backoff delay with ±20% jitter."""
-    delay = min(BASE_BACKOFF * (2 ** attempt), MAX_BACKOFF)
+    base = 4.0 if is_rate_limit else BASE_BACKOFF
+    delay = min(base * (2 ** attempt), MAX_BACKOFF)
     return delay * random.uniform(0.8, 1.2)
 
 
@@ -101,13 +102,27 @@ def _request(
                 timeout=eff_timeout,
             )
             if resp.status_code in RETRIABLE_CODES:
+                if resp.status_code == 429:
+                    retry_after = resp.headers.get("Retry-After")
+                    if retry_after:
+                        try:
+                            wait_sec = float(retry_after)
+                            if 0 < wait_sec <= 20:
+                                time.sleep(wait_sec)
+                        except (ValueError, TypeError):
+                            pass
                 raise requests.HTTPError(f"HTTP {resp.status_code}", response=resp)
             resp.raise_for_status()
             return resp
         except (requests.RequestException, ValueError) as err:
             last_err = err
             if attempt < RETRIES - 1:
-                time.sleep(_backoff(attempt))
+                is_rate_limit = (
+                    isinstance(err, requests.HTTPError)
+                    and getattr(err, "response", None) is not None
+                    and err.response.status_code == 429
+                )
+                time.sleep(_backoff(attempt, is_rate_limit=is_rate_limit))
 
     raise RuntimeError(
         f"request failed after {RETRIES} attempts: {method} {url} ({last_err})"

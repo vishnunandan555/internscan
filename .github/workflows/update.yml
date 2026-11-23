@@ -99,7 +99,7 @@ jobs:
 
   report-issues:
     needs: scrape
-    if: needs.scrape.outputs.failed != '0' && needs.scrape.outputs.failed != '' && github.event.inputs.dry_run != 'true'
+    if: always() && needs.scrape.result == 'success' && github.event.inputs.dry_run != 'true'
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -107,30 +107,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Report scraper failures as GitHub Issues
+      - name: Synchronize scraper health with GitHub Issues
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          if [ ! -f "data/health.json" ]; then
-            exit 0
-          fi
-          python3 -c "
-          import json
-          with open('data/health.json', encoding='utf-8') as f:
-              d = json.load(f)
-          failed = d.get('failed', {})
-          title = 'scraper failure: ' + ', '.join(sorted(failed.keys()))
-          with open('/tmp/issue_title.txt', 'w', encoding='utf-8') as f:
-              f.write(title)
-          body = '\n'.join('- **%s**: %s' % kv for kv in sorted(failed.items()))
-          body += '\n\nA company careers API changed or is temporarily down. Existing listings for it are preserved until it scrapes successfully again.\n'
-          with open('/tmp/issue_body.txt', 'w', encoding='utf-8') as f:
-              f.write(body)
-          "
-          TITLE=$(cat /tmp/issue_title.txt)
-          gh label create scraper-health --color D93F0B --description "a careers-API scraper is failing" 2>/dev/null || true
-          # avoid duplicate issues for the same breakage
-          if ! gh issue list --state open --search "$TITLE in:title" --json title -q '.[].title' | grep -qF "$TITLE"; then
-            gh issue create --title "$TITLE" --body-file /tmp/issue_body.txt --label scraper-health || true
-          fi
+        run: python3 scripts/sync_health_issues.py
 

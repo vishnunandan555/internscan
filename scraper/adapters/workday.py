@@ -40,12 +40,17 @@ DEFAULT_MAX_PAGES = 15
 EMPTY_RETRIES = 4
 
 
-def _page(api, facets, search_text, offset):
+def _page(api, facets, search_text, offset, host=None, site=None):
     body = {"appliedFacets": facets, "limit": PAGE, "offset": offset,
             "searchText": search_text}
+    headers = {"Content-Type": "application/json"}
+    if host:
+        headers["Origin"] = f"https://{host}"
+        if site:
+            headers["Referer"] = f"https://{host}/en-US/{site}/"
     for attempt in range(EMPTY_RETRIES):
         data = request_json("POST", api, json_body=body,
-                            headers={"Content-Type": "application/json"})
+                            headers=headers)
         if data.get("jobPostings") or data.get("total", 0) > 0:
             return data
         delay = min(8 * (attempt + 1), 20) * random.uniform(0.8, 1.2)
@@ -54,6 +59,8 @@ def _page(api, facets, search_text, offset):
 
 
 def fetch(cfg):
+    # Jitter to avoid thunderous herd problem across concurrent threads hitting Workday
+    time.sleep(random.uniform(0.1, 0.5))
     host = cfg["host"]  # e.g. "nvidia.wd5.myworkdayjobs.com"
     tenant = cfg.get("tenant") or host.split(".")[0]
     site = cfg["site"]
@@ -64,7 +71,7 @@ def fetch(cfg):
 
     jobs, offset, total = [], 0, None
     for page_no in range(max_pages):
-        data = _page(api, facets, search_text, offset)
+        data = _page(api, facets, search_text, offset, host=host, site=site)
         postings = data.get("jobPostings", [])
         if total is None:
             # Workday only reports the real total on the first page; later
