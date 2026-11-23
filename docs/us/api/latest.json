@@ -1,10 +1,26 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-22T01:29:10Z",
-  "new_count": 0,
+  "updated_at": "2026-11-23T01:53:55Z",
+  "new_count": 1,
   "reopened_count": 0,
   "total_active": 415,
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "AMD",
+      "title": "Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/89557",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "city_tag": "Austin",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-22",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23"
+    }
+  ],
   "reopened_jobs": []
 }

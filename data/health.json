@@ -2,7 +2,6 @@
   "failed": {
     "Accenture": "request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs (HTTP 429)",
     "Adobe": "request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTP 429)",
-    "Autodesk": "request failed after 3 attempts: POST https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs (HTTP 429)",
     "Barclays": "request failed after 3 attempts: POST https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs (HTTP 429)",
     "Broadcom (VMware)": "request failed after 3 attempts: POST https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs (HTTP 429)",
     "CrowdStrike": "request failed after 3 attempts: POST https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs (HTTP 429)",
@@ -25,6 +24,7 @@
     "AMD",
     "Amazon",
     "Apple",
+    "Autodesk",
     "Bloomberg",
     "CRED",
     "Cisco",

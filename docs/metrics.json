@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-22T01:29:10Z",
+  "updated_at": "2026-11-23T01:53:55Z",
   "total_active_global": 686,
   "countries": {
     "in": {
@@ -38,7 +38,7 @@
       "name": "Canada",
       "flag": "🇨🇦",
       "currency": "CAD",
-      "active_count": 55,
+      "active_count": 54,
       "tracked_companies": 53,
       "hubs": [
         "Toronto",
@@ -64,7 +64,7 @@
       "name": "Europe",
       "flag": "🇪🇺",
       "currency": "EUR",
-      "active_count": 142,
+      "active_count": 143,
       "tracked_companies": 53,
       "hubs": [
         "Berlin",

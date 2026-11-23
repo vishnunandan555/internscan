@@ -2,7 +2,7 @@
 
 # 🇺🇸 United States — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-22 06:59:10 IST** · 📌 **415** open verified internships
+> 🕐 Last updated: **2026-11-23 07:23:55 IST** · 📌 **415** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/us/) · [⚡ **REST API**](https://internscan.vercel.app/us/api/active.json)
@@ -15,11 +15,12 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Company | Open Internships in United States |
 |---|:---:|
+| [AMD](#amd) | **1** |
 | [Adobe](#adobe) | **5** |
 | [Amazon](#amazon) | **40** |
 | [Apple](#apple) | **19** |
 | [Barclays](#barclays) | **2** |
-| [Cisco](#cisco) | **9** |
+| [Cisco](#cisco) | **8** |
 | [CrowdStrike](#crowdstrike) | **1** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **1** |
@@ -48,6 +49,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 <a id="open-internships"></a>
 
 ## 💼 Open Internship Postings
+
+### AMD
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op](https://careers.amd.com/careers-home/jobs/89557) ✨ | AI/ML | Austin | 2026-11-22 | 2026-11-23 |
+
+[⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
 ### Adobe
 
@@ -150,7 +159,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Software Engineer Data & AI PhD (Intern) - United States](https://careers.cisco.com/global/en/job/2025611) | Software | SF Bay Area | 2026-11-20 | 2026-10-16 |
 | [Data Science Analyst II (Intern) – Untied States](https://careers.cisco.com/global/en/job/2032691) ✨ | Data | SF Bay Area | 2026-11-20 | 2026-11-21 |
 | [AI Cybersecurity Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2030295) ✨ | AI/ML | Research Triangle Park, NC | 2026-11-20 | 2026-11-21 |
-| [AI Researcher II (Intern) - United States](https://careers.cisco.com/global/en/job/2032589) ✨ | AI/ML | SF Bay Area | 2026-11-19 | 2026-11-21 |
 | [Software Engineer Embedded Systems I (Intern) - United States](https://careers.cisco.com/global/en/job/2024641) | Software | SF Bay Area | 2026-11-10 | 2026-11-11 |
 | [Hardware Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2024756) | Hardware/Silicon | SF Bay Area | 2026-11-10 | 2026-10-15 |
 | [Hardware Engineer II Intern - United States](https://careers.cisco.com/global/en/job/2024757) | Hardware/Silicon | SF Bay Area | 2026-11-02 | 2026-10-15 |
@@ -163,7 +171,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Insider Risk Engineering Intern - Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718) ✨ | Software | Arlington, VA | 2026-11-14 | 2026-11-15 |
+| [Insider Risk Engineering Intern - Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718) | Software | Arlington, VA | 2026-11-14 | 2026-11-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 

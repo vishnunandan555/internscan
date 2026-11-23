@@ -1,25 +1,28 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-22 01:28:13 UTC
+SCRAPE RUN SUMMARY — 2026-11-23 01:52:56 UTC
 ========================================================================
-Runtime:            57.4 seconds
+Runtime:            59.8 seconds
 Companies Scraped:  65 total
-  - Succeeded:      45
-  - Failed:         20
+  - Succeeded:      46
+  - Failed:         19
 Active India Roles: 539
 Changes Detected:
-  - New Additions:  +0
+  - New Additions:  +1
   - Closed Roles:   -2
-  - Reopened Roles: ~0
+  - Reopened Roles: ~1
 ------------------------------------------------------------------------
 
+[NEW INTERNSHIPS ADDED]
+  + AMD — Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op (Austin) [AI/ML]
+    Apply: https://careers.amd.com/careers-home/jobs/89557
+
 [INTERNSHIPS CLOSED]
-  - Cisco — Hardware Engineer I (Intern) - United States (SF Bay Area)
-  - Microsoft — Data Science: PhD Internship Opportunities - Redmond (Seattle)
+  - Cisco — AI Researcher II (Intern) - United States (SF Bay Area)
+  - Qualcomm — FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months) (Canada (Other))
 
 [FAILED SCRAPERS]
   × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/
   × Adobe: request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/c
-  × Autodesk: request failed after 3 attempts: POST https://autodesk.wd1.myworkdayjobs.com/wda
   × Barclays: request failed after 3 attempts: POST https://barclays.wd3.myworkdayjobs.com/wda
   × Broadcom (VMware): request failed after 3 attempts: POST https://broadcom.wd1.myworkdayjobs.com/wda
   × CrowdStrike: request failed after 3 attempts: POST https://crowdstrike.wd5.myworkdayjobs.com/

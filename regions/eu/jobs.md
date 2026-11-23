@@ -2,14 +2,14 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-22 06:59:10 IST** · 📌 **142** open verified internships
+> 🕐 Last updated: **2026-11-23 07:23:55 IST** · 📌 **143** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Europe**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (142)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (143)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -27,7 +27,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Intel](#intel) | **17** |
 | [Meta](#meta) | **12** |
 | [Micron](#micron) | **1** |
-| [Microsoft](#microsoft) | **7** |
+| [Microsoft](#microsoft) | **8** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **14** |
 | [Qualcomm](#qualcomm) | **17** |
@@ -223,6 +223,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557044053) | Software | Finland, Satakunta | 2026-11-22 | 2026-11-11 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557076037) ✨ | Software | Stuttgart, Baden-Württemberg | 2026-11-19 | 2026-11-20 |
 | [Data Science - PhD Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557072640) ✨ | Data | Zurich | 2026-11-19 | 2026-11-20 |
 | [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557053762) | Hardware/Silicon | Finland, Satakunta | 2026-11-09 | 2026-11-10 |
