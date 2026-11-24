@@ -22,7 +22,7 @@
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-Join_Us-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Contributing"></a>
 </p>
 
-> 🕐 Last synchronized: **2026-11-23 07:23:55 IST** · 📌 **686** active verified tech internships worldwide across **5** supported regions.
+> 🕐 Last synchronized: **2026-11-24 10:55:20 IST** · 📌 **686** active verified tech internships worldwide across **5** supported regions.
 
 ---
 
@@ -33,10 +33,10 @@ InternScan partitions verified listings into dedicated regional portals. Each re
 | Region | Flag | Active Roles | Markdown Job Directory | Tracked Employers | Live Web Portal |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **India** | 🇮🇳 | **26** | [🇮🇳 **View India Jobs**](regions/in/jobs.md) | [Tracked Companies](regions/in/companies.md) | [Open India Dashboard](https://internscan.vercel.app/in/) |
-| **United States** | 🇺🇸 | **415** | [🇺🇸 **View US Jobs**](regions/us/jobs.md) | [Tracked Companies](regions/us/companies.md) | [Open US Dashboard](https://internscan.vercel.app/us/) |
+| **United States** | 🇺🇸 | **413** | [🇺🇸 **View US Jobs**](regions/us/jobs.md) | [Tracked Companies](regions/us/companies.md) | [Open US Dashboard](https://internscan.vercel.app/us/) |
 | **Canada** | 🇨🇦 | **54** | [🇨🇦 **View Canada Jobs**](regions/ca/jobs.md) | [Tracked Companies](regions/ca/companies.md) | [Open Canada Dashboard](https://internscan.vercel.app/ca/) |
 | **United Kingdom** | 🇬🇧 | **47** | [🇬🇧 **View UK Jobs**](regions/uk/jobs.md) | [Tracked Companies](regions/uk/companies.md) | [Open UK Dashboard](https://internscan.vercel.app/uk/) |
-| **Europe** | 🇪🇺 | **143** | [🇪🇺 **View Europe Jobs**](regions/eu/jobs.md) | [Tracked Companies](regions/eu/companies.md) | [Open Europe Dashboard](https://internscan.vercel.app/eu/) |
+| **Europe** | 🇪🇺 | **145** | [🇪🇺 **View Europe Jobs**](regions/eu/jobs.md) | [Tracked Companies](regions/eu/companies.md) | [Open Europe Dashboard](https://internscan.vercel.app/eu/) |
 
 ---
 

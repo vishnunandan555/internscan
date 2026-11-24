@@ -1,26 +1,90 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-23T01:53:55Z",
-  "new_count": 1,
-  "reopened_count": 0,
-  "total_active": 415,
+  "updated_at": "2026-11-24T05:25:20Z",
+  "new_count": 4,
+  "reopened_count": 1,
+  "total_active": 413,
   "new_jobs": [
     {
-      "company": "AMD",
-      "title": "Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op",
-      "url": "https://careers.amd.com/careers-home/jobs/89557",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+      "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
       "locations": [
-        "Austin, Texas"
+        "Sunnyvale, California, USA"
       ],
-      "city_tag": "Austin",
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "company": "Meta",
+      "title": "Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD)",
+      "url": "https://www.metacareers.com/jobs/2357948038329505",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "city_tag": "Seattle",
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-22",
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23"
+      "posted": "2026-11-23",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "company": "Walmart Global Tech",
+      "title": "Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery",
+      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761",
+      "locations": [
+        "(USA) Together Building AR Bentonville Home Office",
+        "USA Together Building AR Bentonville Home Office"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "company": "Walmart Global Tech",
+      "title": "Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery",
+      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705744",
+      "locations": [
+        "(USA) Together Building AR Bentonville Home Office",
+        "USA Together Building AR Bentonville Home Office"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
     }
   ],
-  "reopened_jobs": []
+  "reopened_jobs": [
+    {
+      "company": "Meta",
+      "title": "Software Engineer Intern, Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/2180490782513668",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-09-10",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-11-24"
+    }
+  ]
 }

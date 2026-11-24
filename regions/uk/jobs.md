@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-23 07:23:55 IST** · 📌 **47** open verified internships
+> 🕐 Last updated: **2026-11-24 10:55:20 IST** · 📌 **47** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -23,10 +23,10 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Databricks](#databricks) | **1** |
 | [Google](#google) | **3** |
 | [HPE](#hpe) | **3** |
-| [JPMorgan Chase](#jpmorgan-chase) | **2** |
+| [JPMorgan Chase](#jpmorgan-chase) | **3** |
 | [Meta](#meta) | **10** |
 | [Microsoft](#microsoft) | **3** |
-| [Qualcomm](#qualcomm) | **5** |
+| [Qualcomm](#qualcomm) | **4** |
 | [Stripe](#stripe) | **1** |
 | [Visa](#visa) | **3** |
 
@@ -119,6 +119,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784) ✨ | AI/ML | London | 2026-11-23 | 2026-11-24 |
 | [2027 Machine Learning Center of Excellence (NLP) - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793) | AI/ML | London | 2026-11-05 | 2026-11-06 |
 | [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) | AI/ML | London | 2026-10-15 | 2026-10-16 |
 
@@ -158,7 +159,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Software - Systems Engineering Team (Data Center Group)- 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446722247294?domain=qualcomm.com) ✨ | Software | Cambridge / Oxford | 2026-11-20 | 2026-11-21 |
 | [FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197636?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern - Engineering Internship - 3 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |
-| [FY27 Intern -  GPU Compiler - 3 months, Cambridge](https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com) ✨ | Backend/Infra | Cambridge / Oxford | 2026-11-16 | 2026-11-17 |
 | [FY27 Intern - RF Systems & Cell Validation Engineering - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446722069792?domain=qualcomm.com) | QA | Cambridge / Oxford | 2026-11-11 | 2026-11-12 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)

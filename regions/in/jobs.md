@@ -2,7 +2,7 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-23 07:23:55 IST** · 📌 **26** open verified internships
+> 🕐 Last updated: **2026-11-24 10:55:20 IST** · 📌 **26** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (70)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
@@ -15,6 +15,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Company | Open Internships in India |
 |---|:---:|
+| [Amazon](#amazon) | **1** |
 | [CloudSEK](#cloudsek) | **1** |
 | [Discover Dollar](#discover-dollar) | **4** |
 | [Google](#google) | **3** |
@@ -25,7 +26,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [NVIDIA](#nvidia) | **1** |
 | [PayPal](#paypal) | **1** |
 | [Qualcomm](#qualcomm) | **1** |
-| [Rubrik](#rubrik) | **2** |
+| [Rubrik](#rubrik) | **1** |
 | [Stripe](#stripe) | **1** |
 | [Walmart Global Tech](#walmart-global-tech) | **1** |
 
@@ -34,6 +35,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 <a id="open-internships"></a>
 
 ## 💼 Open Internship Postings
+
+### Amazon
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Data Scientist I 6M Intern](https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern) ✨ | Data | Chennai | 2026-11-24 | 2026-11-24 |
+
+[⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
 ### CloudSEK
 
@@ -98,7 +107,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917519) | AI/ML | Multiple Locations | 2026-10-26 | 2026-10-27 |
+| [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917519) | AI/ML | Multiple Locations | 2026-11-23 | 2026-10-27 |
 | [Security Research INTERN](https://apply.careers.microsoft.com/careers/job/1970393557043380) | Security | Multiple Locations | 2026-10-23 | 2026-10-23 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
@@ -131,7 +140,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | Software | Bengaluru | 2026-11-19 | 2026-09-17 |
 | [Software Engineer (CPD) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | Software | Bengaluru | 2026-11-03 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
@@ -148,7 +156,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-10-16 | 2026-09-17 |
+| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-10-25 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 

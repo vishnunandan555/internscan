@@ -2,14 +2,14 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-23 07:23:55 IST** · 📌 **143** open verified internships
+> 🕐 Last updated: **2026-11-24 10:55:20 IST** · 📌 **145** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Europe**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (143)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (145)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -18,19 +18,20 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Accenture](#accenture) | **8** |
 | [Adobe](#adobe) | **2** |
 | [Amazon](#amazon) | **22** |
-| [Apple](#apple) | **11** |
+| [Apple](#apple) | **9** |
 | [Cisco](#cisco) | **1** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **3** |
 | [Google](#google) | **5** |
 | [HPE](#hpe) | **8** |
 | [Intel](#intel) | **17** |
-| [Meta](#meta) | **12** |
+| [Meta](#meta) | **13** |
 | [Micron](#micron) | **1** |
 | [Microsoft](#microsoft) | **8** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **14** |
-| [Qualcomm](#qualcomm) | **17** |
+| [Oracle](#oracle) | **1** |
+| [Qualcomm](#qualcomm) | **19** |
 | [Salesforce](#salesforce) | **1** |
 | [Snowflake](#snowflake) | **5** |
 | [Stripe](#stripe) | **2** |
@@ -101,8 +102,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Graphics Tooling and Rendering Engineering Intern](https://jobs.apple.com/en-us/details/200694482/graphics-tooling-and-rendering-engineering-intern) ✨ | Software | Paris | 2026-11-20 | 2026-11-21 |
 | [Software Engineering Intern, Apple Services - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland) ✨ | Software | Dublin | 2026-11-18 | 2026-11-19 |
-| [QA Automation Test Engineering Intern - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland) ✨ | QA | Dublin | 2026-11-17 | 2026-11-18 |
-| [Defensive AI Security Intern - Paris, France](https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern-paris-france) ✨ | AI/ML | Paris | 2026-11-16 | 2026-11-17 |
 | [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) | Software | Prague | 2026-11-12 | 2026-11-13 |
 | [Cellular Baseband Security Research Intern](https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern) | Security | Paris | 2026-11-05 | 2026-11-06 |
 | [Internship -  Machine Learning Research (recurrent models \| generative models \|  interpretability)](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) | AI/ML | Barcelona | 2026-11-02 | 2026-11-03 |
@@ -196,6 +195,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, uLED Display Characterization (PhD)](https://www.metacareers.com/jobs/1296888565955935) ✨ | AI/ML | Cork, Ireland | 2026-11-23 | 2026-11-24 |
 | [Research Scientist Intern, Generative AI & 3D Generation (PhD)](https://www.metacareers.com/jobs/1414858330673000) | AI/ML | Zurich | 2026-11-11 | 2026-11-12 |
 | [Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)](https://www.metacareers.com/jobs/1165781989214784) | AI/ML | Zurich | 2026-11-04 | 2026-11-05 |
 | [Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)](https://www.metacareers.com/jobs/1886852912490515) | AI/ML | Zurich | 2026-10-29 | 2026-11-03 |
@@ -238,8 +238,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Software | Dublin | 2026-11-16 | 2026-10-23 |
-| [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Software | Dublin | 2026-11-16 | 2026-10-15 |
+| [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Software | Dublin | 2026-11-23 | 2026-10-23 |
+| [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Software | Dublin | 2026-11-23 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
@@ -264,16 +264,26 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
+### Oracle
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Intern as Software Engineer - part time](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/351109) ✨ | Software | Brno, Czech Republic | 2026-11-23 | 2026-11-24 |
+
+[⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
+
 ### Qualcomm
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Summer Intern - Build Tools and Data Solutions for Smarter Vehicles - Linkoping, Sweden](https://careers.qualcomm.com/careers/job/446722309859?domain=qualcomm.com) ✨ | Data | Linkoping, Sweden | 2026-11-23 | 2026-11-24 |
+| [FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com) | AI/ML | Amsterdam | 2026-11-23 | 2026-11-04 |
+| [FY27 - Software Test Modernization Summer Intern - June-Aug 2027, Linköping, Sweden](https://careers.qualcomm.com/careers/job/446722311211?domain=qualcomm.com) ✨ | QA | Linkoping, Sweden | 2026-11-23 | 2026-11-24 |
 | [FY27 Intern - IT Artificial Intelligence & Automation - Up to 8 Months, Cork](https://careers.qualcomm.com/careers/job/446722246579?domain=qualcomm.com) ✨ | AI/ML | Cork, Ireland | 2026-11-20 | 2026-11-21 |
 | [FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania](https://careers.qualcomm.com/careers/job/446722247054?domain=qualcomm.com) ✨ | Software | Timisoara, Romania | 2026-11-20 | 2026-11-21 |
 | [FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-19 | 2026-10-15 |
 | [FY27 Intern - Product Validation Engineer - 6 months, Colombes](https://careers.qualcomm.com/careers/job/446722172701?domain=qualcomm.com) ✨ | QA | Colombes, France | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden](https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com) | AI/ML | Stockholm, Sweden | 2026-11-13 | 2026-11-14 |
-| [FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com) | AI/ML | Amsterdam | 2026-11-12 | 2026-11-04 |
 | [FY27 Intern - Hardware Design for Post-Quantum Cryptography - 6 months, Sophia](https://careers.qualcomm.com/careers/job/446722029766?domain=qualcomm.com) | Hardware/Silicon | Sophia Antipolis, France | 2026-11-09 | 2026-11-10 |
 | [FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-09 | 2026-10-15 |
 | [FY27 Intern- AI-Driven Power Modeling for Evaluating Power Consumption in NoC IP Architectures -  6 months, Guyancourt](https://careers.qualcomm.com/careers/job/446721854346?domain=qualcomm.com) | AI/ML | Guyancourt, Yvelines | 2026-11-05 | 2026-10-30 |
@@ -312,7 +322,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | Software | Dublin | 2026-11-19 | 2026-10-15 |
+| [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | Software | Dublin | 2026-11-23 | 2026-10-15 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Software | Bucharest | 2026-11-19 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)

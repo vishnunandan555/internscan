@@ -1,28 +1,57 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-23 01:52:56 UTC
+SCRAPE RUN SUMMARY — 2026-11-24 05:24:04 UTC
 ========================================================================
-Runtime:            59.8 seconds
+Runtime:            76.3 seconds
 Companies Scraped:  65 total
-  - Succeeded:      46
-  - Failed:         19
-Active India Roles: 539
+  - Succeeded:      47
+  - Failed:         18
+Active India Roles: 555
 Changes Detected:
-  - New Additions:  +1
-  - Closed Roles:   -2
-  - Reopened Roles: ~1
+  - New Additions:  +10
+  - Closed Roles:   -12
+  - Reopened Roles: ~2
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + AMD — Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op (Austin) [AI/ML]
-    Apply: https://careers.amd.com/careers-home/jobs/89557
+  + Qualcomm — FY27 Summer Intern - Build Tools and Data Solutions for Smarter Vehicles - Linkoping, Sweden (Europe (Other)) [Data]
+    Apply: https://careers.qualcomm.com/careers/job/446722309859?domain=qualcomm.com
+  + Qualcomm — FY27 - Software Test Modernization Summer Intern - June-Aug 2027, Linköping, Sweden (Europe (Other)) [QA]
+    Apply: https://careers.qualcomm.com/careers/job/446722311211?domain=qualcomm.com
+  + Amazon — Data Scientist I 6M Intern (Chennai) [Data]
+    Apply: https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern
+  + Amazon — Software Development Engineer Intern - Artificial General Intelligence (Summer 2027) (SF Bay Area) [Software]
+    Apply: https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
+  + Oracle — Intern as Software Engineer - part time (Europe (Other)) [Software]
+    Apply: https://careers.oracle.com/jobs/#en/sites/jobsearch/job/351109
+  + Meta — Research Scientist Intern, uLED Display Characterization (PhD) (Europe (Other)) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1296888565955935
+  + Meta — Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/2357948038329505
+  + Walmart Global Tech — Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery (US (Other)) [Backend/Infra]
+    Apply: https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761
+  + Walmart Global Tech — Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery (US (Other)) [Backend/Infra]
+    Apply: https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705744
+  + JPMorgan Chase — 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Internship (London) [AI/ML]
+    Apply: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784
 
 [INTERNSHIPS CLOSED]
-  - Cisco — AI Researcher II (Intern) - United States (SF Bay Area)
-  - Qualcomm — FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months) (Canada (Other))
+  - Apple — Defensive AI Security Intern - Paris, France (Europe (Other))
+  - Apple — QA Automation Test Engineering Intern - Dublin, Ireland (Dublin)
+  - Google — Forward Deployed Engineering Intern, BS/MS, Summer 2027 (SF Bay Area)
+  - Meta — Thermal Engineering Intern (SF Bay Area)
+  - Qualcomm — FY27 Intern - Design Verification Engineering Internship - Canada (16 months) (Toronto)
+  - Qualcomm — FY27 Intern -  GPU Compiler - 3 months, Cambridge (Cambridge / Oxford)
+  - Rubrik — Software Engineer - Winter Intern (Bengaluru)
+  - Snowflake — Software Engineer Intern (Database Engineering) - Summer 2027 (SF Bay Area)
+  - Snowflake — Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 (SF Bay Area)
+  - Snowflake — Software Engineer Intern (AI / ML) - Summer 2027 (SF Bay Area)
+  - Walmart Global Tech — Summer 2027 Intern:: Software Engineer II (US (Other))
+  - Walmart Global Tech — (USA) Summer 2027 Corporate Intern:  Data & Tech Transformation intern (US (Other))
 
 [FAILED SCRAPERS]
   × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/
   × Adobe: request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/c
+  × Autodesk: request failed after 3 attempts: POST https://autodesk.wd1.myworkdayjobs.com/wda
   × Barclays: request failed after 3 attempts: POST https://barclays.wd3.myworkdayjobs.com/wda
   × Broadcom (VMware): request failed after 3 attempts: POST https://broadcom.wd1.myworkdayjobs.com/wda
   × CrowdStrike: request failed after 3 attempts: POST https://crowdstrike.wd5.myworkdayjobs.com/
@@ -34,10 +63,8 @@ Changes Detected:
   × Palo Alto Networks: request failed after 3 attempts: POST https://paloaltonetworks.wd5.myworkdayjobs
   × PayPal: request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/
   × Red Hat: request failed after 3 attempts: POST https://redhat.wd5.myworkdayjobs.com/wday/
-  × Salesforce: request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/
   × Target: request failed after 3 attempts: POST https://target.wd5.myworkdayjobs.com/wday/
   × Visa: request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cx
-  × Walmart Global Tech: request failed after 3 attempts: POST https://walmart.wd504.myworkdayjobs.com/wd
   × Wells Fargo: request failed after 3 attempts: POST https://wf.wd1.myworkdayjobs.com/wday/cxs/
   × Workday: request failed after 3 attempts: POST https://workday.wd5.myworkdayjobs.com/wday
 

@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-23T01:53:55Z",
+  "updated_at": "2026-11-24T05:25:20Z",
   "jobs": {
+    "jpmorgan-chase:210806784": {
+      "uid": "jpmorgan-chase:210806784",
+      "company": "JPMorgan Chase",
+      "external_id": "210806784",
+      "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Internship",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
+      "locations": [
+        "LONDON, United Kingdom"
+      ],
+      "category": "AI/ML",
+      "city_tag": "London",
+      "country": "uk",
+      "region": "EMEA",
+      "posted": "2026-11-23",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "active": true
+    },
     "qualcomm:446722247294": {
       "uid": "qualcomm:446722247294",
       "active": true,
@@ -10,7 +28,7 @@
       "country": "uk",
       "external_id": "446722247294",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Cambridge, United Kingdom"
       ],
@@ -28,7 +46,7 @@
       "country": "uk",
       "external_id": "1122232790428355",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK"
       ],
@@ -46,7 +64,7 @@
       "country": "uk",
       "external_id": "1970393557075448",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -64,7 +82,7 @@
       "country": "uk",
       "external_id": "446722197636",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Farnborough, United Kingdom"
       ],
@@ -82,7 +100,7 @@
       "country": "uk",
       "external_id": "446722197770",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Farnborough, United Kingdom"
       ],
@@ -100,7 +118,7 @@
       "country": "uk",
       "external_id": "1216748",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Winnersh, Berkshire, RG41 5TP",
         "Winnersh, Berkshire, United Kingdom"
@@ -119,7 +137,7 @@
       "country": "uk",
       "external_id": "10606931",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Cambridge, England, GBR"
       ],
@@ -127,24 +145,6 @@
       "region": "EMEA",
       "title": "Ring - ASIC DV Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern"
-    },
-    "qualcomm:446722152489": {
-      "uid": "qualcomm:446722152489",
-      "active": true,
-      "category": "Backend/Infra",
-      "city_tag": "Cambridge / Oxford",
-      "company": "Qualcomm",
-      "country": "uk",
-      "external_id": "446722152489",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-23",
-      "locations": [
-        "Cambridge, United Kingdom"
-      ],
-      "posted": "2026-11-16",
-      "region": "EMEA",
-      "title": "FY27 Intern -  GPU Compiler - 3 months, Cambridge",
-      "url": "https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com"
     },
     "adobe:R173345": {
       "uid": "adobe:R173345",
@@ -173,7 +173,7 @@
       "country": "uk",
       "external_id": "1216776",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Winnersh, Berkshire, RG41 5TP",
         "Winnersh, Berkshire, United Kingdom"
@@ -249,7 +249,7 @@
       "country": "uk",
       "external_id": "1382697917119311",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Cambridge, UK"
       ],
@@ -267,7 +267,7 @@
       "country": "uk",
       "external_id": "200694490",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London"
       ],
@@ -285,7 +285,7 @@
       "country": "uk",
       "external_id": "446722069792",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Cambridge, United Kingdom"
       ],
@@ -303,7 +303,7 @@
       "country": "uk",
       "external_id": "1970393557070382",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -321,7 +321,7 @@
       "country": "uk",
       "external_id": "10602219",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, England, GBR"
       ],
@@ -339,7 +339,7 @@
       "country": "uk",
       "external_id": "200694316",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London"
       ],
@@ -357,7 +357,7 @@
       "country": "uk",
       "external_id": "210806793",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "LONDON, United Kingdom"
       ],
@@ -375,7 +375,7 @@
       "country": "uk",
       "external_id": "1139996808441103",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK",
         "Zurich, Switzerland"
@@ -412,7 +412,7 @@
       "country": "uk",
       "external_id": "1970393557050102",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -448,7 +448,7 @@
       "country": "uk",
       "external_id": "10593322",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, England, GBR"
       ],
@@ -466,7 +466,7 @@
       "country": "uk",
       "external_id": "1847186939636437",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK"
       ],
@@ -484,7 +484,7 @@
       "country": "uk",
       "external_id": "2082008865811696",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK",
         "Zurich, Switzerland"
@@ -503,7 +503,7 @@
       "country": "uk",
       "external_id": "1811645993254851",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK"
       ],
@@ -521,7 +521,7 @@
       "country": "uk",
       "external_id": "1418948513778654",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK"
       ],
@@ -539,7 +539,7 @@
       "country": "uk",
       "external_id": "10588762",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, England, GBR"
       ],
@@ -557,7 +557,7 @@
       "country": "uk",
       "external_id": "10588998",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, England, GBR"
       ],
@@ -575,7 +575,7 @@
       "country": "uk",
       "external_id": "2281070982817094",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK"
       ],
@@ -593,7 +593,7 @@
       "country": "uk",
       "external_id": "2288012098648243",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Cambridge, UK"
       ],
@@ -611,7 +611,7 @@
       "country": "uk",
       "external_id": "994737396214791",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK"
       ],
@@ -629,7 +629,7 @@
       "country": "uk",
       "external_id": "210800615",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "LONDON, United Kingdom"
       ],
@@ -647,7 +647,7 @@
       "country": "uk",
       "external_id": "1216282",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Winnersh, N/A",
         "Winnersh, United Kingdom"
@@ -666,7 +666,7 @@
       "country": "uk",
       "external_id": "8130867",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London"
       ],
@@ -684,7 +684,7 @@
       "country": "uk",
       "external_id": "73321728058499782",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK"
       ],
@@ -702,7 +702,7 @@
       "country": "uk",
       "external_id": "80037545080955590",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, UK"
       ],
@@ -720,7 +720,7 @@
       "country": "uk",
       "external_id": "86733690079453894",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Accra, Ghana",
         "Amsterdam, Netherlands",
@@ -746,7 +746,7 @@
       "country": "uk",
       "external_id": "8847738002",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, United Kingdom"
       ],
@@ -764,7 +764,7 @@
       "country": "uk",
       "external_id": "2023625",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Harpenden, Hertfordshire, United Kingdom"
       ],
@@ -782,7 +782,7 @@
       "country": "uk",
       "external_id": "200682357",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London"
       ],
@@ -800,7 +800,7 @@
       "country": "uk",
       "external_id": "10554586",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, England, GBR"
       ],
@@ -818,7 +818,7 @@
       "country": "uk",
       "external_id": "10567687",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, England, GBR"
       ],
@@ -836,7 +836,7 @@
       "country": "uk",
       "external_id": "10567694",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, England, GBR"
       ],
@@ -854,7 +854,7 @@
       "country": "uk",
       "external_id": "10577611",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "London, England, GBR"
       ],
