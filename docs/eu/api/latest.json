@@ -1,70 +1,40 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-24T05:25:20Z",
-  "new_count": 4,
+  "updated_at": "2026-11-25T04:25:50Z",
+  "new_count": 2,
   "reopened_count": 0,
-  "total_active": 145,
+  "total_active": 139,
   "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Summer Intern - Build Tools and Data Solutions for Smarter Vehicles - Linkoping, Sweden",
-      "url": "https://careers.qualcomm.com/careers/job/446722309859?domain=qualcomm.com",
+      "company": "Apple",
+      "title": "Creative Apps, Colour and Imaging Science Engineering Intern - Copenhagen, Denmark",
+      "url": "https://jobs.apple.com/en-us/details/200693402/creative-apps-colour-and-imaging-science-engineering-intern-copenhagen-denmark",
       "locations": [
-        "Linkoping, Sweden"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 - Software Test Modernization Summer Intern - June-Aug 2027, Linköping, Sweden",
-      "url": "https://careers.qualcomm.com/careers/job/446722311211?domain=qualcomm.com",
-      "locations": [
-        "Linkoping, Sweden"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "QA",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "Oracle",
-      "title": "Intern as Software Engineer - part time",
-      "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/351109",
-      "locations": [
-        "BRNO, Czech Republic"
+        "Copenhagen"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
     },
     {
-      "company": "Meta",
-      "title": "Research Scientist Intern, uLED Display Characterization (PhD)",
-      "url": "https://www.metacareers.com/jobs/1296888565955935",
+      "company": "Cisco",
+      "title": "Technical Intern I",
+      "url": "https://careers.cisco.com/global/en/job/2028373",
       "locations": [
-        "Cork, Ireland"
+        "Prague, Praha, Czechia"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
+      "category": "Software",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
     }
   ],
   "reopened_jobs": []

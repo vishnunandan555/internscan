@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-24T05:25:20Z",
+  "updated_at": "2026-11-25T04:25:50Z",
   "total_active_global": 686,
   "countries": {
     "in": {
@@ -23,7 +23,7 @@
       "name": "United States",
       "flag": "🇺🇸",
       "currency": "USD",
-      "active_count": 413,
+      "active_count": 419,
       "tracked_companies": 58,
       "hubs": [
         "SF Bay Area",
@@ -38,7 +38,7 @@
       "name": "Canada",
       "flag": "🇨🇦",
       "currency": "CAD",
-      "active_count": 54,
+      "active_count": 53,
       "tracked_companies": 53,
       "hubs": [
         "Toronto",
@@ -52,7 +52,7 @@
       "name": "United Kingdom",
       "flag": "🇬🇧",
       "currency": "GBP",
-      "active_count": 47,
+      "active_count": 48,
       "tracked_companies": 53,
       "hubs": [
         "London",
@@ -64,7 +64,7 @@
       "name": "Europe",
       "flag": "🇪🇺",
       "currency": "EUR",
-      "active_count": 145,
+      "active_count": 139,
       "tracked_companies": 53,
       "hubs": [
         "Berlin",

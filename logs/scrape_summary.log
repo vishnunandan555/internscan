@@ -1,52 +1,55 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-11-24 05:24:04 UTC
+SCRAPE RUN SUMMARY — 2026-11-25 04:24:32 UTC
 ========================================================================
-Runtime:            76.3 seconds
+Runtime:            77.9 seconds
 Companies Scraped:  65 total
-  - Succeeded:      47
-  - Failed:         18
-Active India Roles: 555
+  - Succeeded:      46
+  - Failed:         19
+Active India Roles: 550
 Changes Detected:
-  - New Additions:  +10
-  - Closed Roles:   -12
+  - New Additions:  +11
+  - Closed Roles:   -13
   - Reopened Roles: ~2
 ------------------------------------------------------------------------
 
 [NEW INTERNSHIPS ADDED]
-  + Qualcomm — FY27 Summer Intern - Build Tools and Data Solutions for Smarter Vehicles - Linkoping, Sweden (Europe (Other)) [Data]
-    Apply: https://careers.qualcomm.com/careers/job/446722309859?domain=qualcomm.com
-  + Qualcomm — FY27 - Software Test Modernization Summer Intern - June-Aug 2027, Linköping, Sweden (Europe (Other)) [QA]
-    Apply: https://careers.qualcomm.com/careers/job/446722311211?domain=qualcomm.com
-  + Amazon — Data Scientist I 6M Intern (Chennai) [Data]
-    Apply: https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern
-  + Amazon — Software Development Engineer Intern - Artificial General Intelligence (Summer 2027) (SF Bay Area) [Software]
-    Apply: https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027
-  + Oracle — Intern as Software Engineer - part time (Europe (Other)) [Software]
-    Apply: https://careers.oracle.com/jobs/#en/sites/jobsearch/job/351109
-  + Meta — Research Scientist Intern, uLED Display Characterization (PhD) (Europe (Other)) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/1296888565955935
-  + Meta — Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD) (Seattle) [AI/ML]
-    Apply: https://www.metacareers.com/jobs/2357948038329505
-  + Walmart Global Tech — Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery (US (Other)) [Backend/Infra]
-    Apply: https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761
-  + Walmart Global Tech — Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery (US (Other)) [Backend/Infra]
-    Apply: https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705744
-  + JPMorgan Chase — 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Internship (London) [AI/ML]
-    Apply: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784
+  + Apple — Creative Apps, Colour and Imaging Science Engineering Intern - Copenhagen, Denmark (Europe (Other)) [Software]
+    Apply: https://jobs.apple.com/en-us/details/200693402/creative-apps-colour-and-imaging-science-engineering-intern-copenhagen-denmark
+  + Amazon — Front-End Engineer Internship – 2027 (US) (Seattle) [Frontend]
+    Apply: https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us
+  + Cisco — Technical Intern I (Europe (Other)) [Software]
+    Apply: https://careers.cisco.com/global/en/job/2028373
+  + AMD — Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op (Austin) [AI/ML]
+    Apply: https://careers.amd.com/careers-home/jobs/89564
+  + HPE — Networking & Cybersecurity Intern (US (Other)) [Backend/Infra]
+    Apply: https://careers.hpe.com/us/en/job/1214057
+  + HPE — Networking & Cybersecurity Intern (SF Bay Area) [Backend/Infra]
+    Apply: https://careers.hpe.com/us/en/job/1214058
+  + HPE — Cloud Security Engagement Intern (US (Other)) [Backend/Infra]
+    Apply: https://careers.hpe.com/us/en/job/1216079
+  + HPE — Networking Strategy and Execution Intern MBA (SF Bay Area) [Backend/Infra]
+    Apply: https://careers.hpe.com/us/en/job/1214161
+  + Microsoft — Research Intern - AI Systems Architecture and Efficient LLM Inference (Seattle) [AI/ML]
+    Apply: https://apply.careers.microsoft.com/careers/job/1970393557079428
+  + Meta — Battery Engineering Intern, Battery Systems Engineering (SF Bay Area) [Software]
+    Apply: https://www.metacareers.com/jobs/1165674205921515
+  + Meta — Research Scientist Intern, Machine Learning for Robust 3D Perception (PhD) (Seattle) [AI/ML]
+    Apply: https://www.metacareers.com/jobs/1482835147112669
 
 [INTERNSHIPS CLOSED]
-  - Apple — Defensive AI Security Intern - Paris, France (Europe (Other))
-  - Apple — QA Automation Test Engineering Intern - Dublin, Ireland (Dublin)
-  - Google — Forward Deployed Engineering Intern, BS/MS, Summer 2027 (SF Bay Area)
-  - Meta — Thermal Engineering Intern (SF Bay Area)
-  - Qualcomm — FY27 Intern - Design Verification Engineering Internship - Canada (16 months) (Toronto)
-  - Qualcomm — FY27 Intern -  GPU Compiler - 3 months, Cambridge (Cambridge / Oxford)
-  - Rubrik — Software Engineer - Winter Intern (Bengaluru)
-  - Snowflake — Software Engineer Intern (Database Engineering) - Summer 2027 (SF Bay Area)
-  - Snowflake — Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 (SF Bay Area)
-  - Snowflake — Software Engineer Intern (AI / ML) - Summer 2027 (SF Bay Area)
-  - Walmart Global Tech — Summer 2027 Intern:: Software Engineer II (US (Other))
-  - Walmart Global Tech — (USA) Summer 2027 Corporate Intern:  Data & Tech Transformation intern (US (Other))
+  - Amazon — Operations Engineering Intern -  start date Q1 2027 (Europe (Other))
+  - Amazon — Operations Engineering Intern -  start date Q3 2027 (Europe (Other))
+  - Amazon — Operations Engineering Intern -  start date Q2 2027 (Europe (Other))
+  - Amazon — Hardware Development Engineer Intern , Winter 2027 (Seattle)
+  - Apple — Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE (Munich)
+  - Apple — Software Engineering Intern, Apple Services - Dublin, Ireland (Dublin)
+  - Cisco — Data Science Analyst II (Intern) – Untied States (SF Bay Area)
+  - Meta — Product Design Engineering Intern (SF Bay Area)
+  - Meta — Wireless Engineering Intern (SF Bay Area)
+  - Qualcomm — FY27 Intern - Display IP Engineering Internship - Canada (16 months) (Canada (Other))
+  - Qualcomm — FY27 Intern- AI-Driven Power Modeling for Evaluating Power Consumption in NoC IP Architectures -  6 months, Guyancourt (Europe (Other))
+  - Qualcomm — FY27 Intern - IT Artificial Intelligence & Automation - Up to 8 Months, Cork (Europe (Other))
+  - Qualcomm — FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania (Europe (Other))
 
 [FAILED SCRAPERS]
   × Accenture: request failed after 3 attempts: POST https://accenture.wd103.myworkdayjobs.com/
@@ -63,6 +66,7 @@ Changes Detected:
   × Palo Alto Networks: request failed after 3 attempts: POST https://paloaltonetworks.wd5.myworkdayjobs
   × PayPal: request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/
   × Red Hat: request failed after 3 attempts: POST https://redhat.wd5.myworkdayjobs.com/wday/
+  × Salesforce: request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/
   × Target: request failed after 3 attempts: POST https://target.wd5.myworkdayjobs.com/wday/
   × Visa: request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cx
   × Wells Fargo: request failed after 3 attempts: POST https://wf.wd1.myworkdayjobs.com/wday/cxs/

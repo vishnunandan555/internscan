@@ -1,26 +1,26 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-24T05:25:20Z",
-  "new_count": 1,
-  "reopened_count": 0,
-  "total_active": 47,
-  "new_jobs": [
+  "updated_at": "2026-11-25T04:25:50Z",
+  "new_count": 0,
+  "reopened_count": 1,
+  "total_active": 48,
+  "new_jobs": [],
+  "reopened_jobs": [
     {
-      "company": "JPMorgan Chase",
-      "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Internship",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
+      "company": "Qualcomm",
+      "title": "FY27 Intern -  GPU Compiler - 3 months, Cambridge",
+      "url": "https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com",
       "locations": [
-        "LONDON, United Kingdom"
+        "Cambridge, United Kingdom"
       ],
-      "city_tag": "London",
+      "city_tag": "Cambridge / Oxford",
       "country": "uk",
       "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
+      "category": "Backend/Infra",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-25"
     }
-  ],
-  "reopened_jobs": []
+  ]
 }

@@ -1,104 +1,168 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-24T05:25:20Z",
-  "new_count": 10,
+  "updated_at": "2026-11-25T04:25:50Z",
+  "new_count": 11,
   "reopened_count": 2,
   "total_active": 686,
   "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Summer Intern - Build Tools and Data Solutions for Smarter Vehicles - Linkoping, Sweden",
-      "url": "https://careers.qualcomm.com/careers/job/446722309859?domain=qualcomm.com",
+      "company": "Apple",
+      "title": "Creative Apps, Colour and Imaging Science Engineering Intern - Copenhagen, Denmark",
+      "url": "https://jobs.apple.com/en-us/details/200693402/creative-apps-colour-and-imaging-science-engineering-intern-copenhagen-denmark",
       "locations": [
-        "Linkoping, Sweden"
+        "Copenhagen"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "Qualcomm",
-      "title": "FY27 - Software Test Modernization Summer Intern - June-Aug 2027, Linköping, Sweden",
-      "url": "https://careers.qualcomm.com/careers/job/446722311211?domain=qualcomm.com",
-      "locations": [
-        "Linkoping, Sweden"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "QA",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "Amazon",
-      "title": "Data Scientist I 6M Intern",
-      "url": "https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern",
-      "locations": [
-        "Chennai, Tamil Nadu, IND"
-      ],
-      "city_tag": "Chennai",
-      "country": "in",
-      "region": "APAC",
-      "category": "Data",
+      "category": "Software",
       "posted": "2026-11-24",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
     },
     {
       "company": "Amazon",
-      "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
-      "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+      "title": "Front-End Engineer Internship – 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
       "locations": [
-        "Sunnyvale, California, USA"
+        "Seattle, Washington, USA"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Frontend",
+      "posted": "2026-11-20",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "company": "Cisco",
+      "title": "Technical Intern I",
+      "url": "https://careers.cisco.com/global/en/job/2028373",
+      "locations": [
+        "Prague, Praha, Czechia"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "company": "AMD",
+      "title": "Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op",
+      "url": "https://careers.amd.com/careers-home/jobs/89564",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "city_tag": "Austin",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "company": "HPE",
+      "title": "Networking & Cybersecurity Intern",
+      "url": "https://careers.hpe.com/us/en/job/1214057",
+      "locations": [
+        "Westford, Massachusetts, 01886",
+        "Westford, Massachusetts, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-11-22",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "company": "HPE",
+      "title": "Networking & Cybersecurity Intern",
+      "url": "https://careers.hpe.com/us/en/job/1214058",
+      "locations": [
+        "San Jose, California, 95002",
+        "San Jose, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-11-22",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "company": "HPE",
+      "title": "Cloud Security Engagement Intern",
+      "url": "https://careers.hpe.com/us/en/job/1216079",
+      "locations": [
+        "Spring, Texas, 77389-1767",
+        "Spring, Texas, United States of America"
+      ],
+      "city_tag": "US (Other)",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "company": "HPE",
+      "title": "Networking Strategy and Execution Intern MBA",
+      "url": "https://careers.hpe.com/us/en/job/1214161",
+      "locations": [
+        "Sunnyvale, California, 94089",
+        "Sunnyvale, California, United States of America"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "Backend/Infra",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - AI Systems Architecture and Efficient LLM Inference",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "company": "Meta",
+      "title": "Battery Engineering Intern, Battery Systems Engineering",
+      "url": "https://www.metacareers.com/jobs/1165674205921515",
+      "locations": [
+        "Sunnyvale, CA"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
       "category": "Software",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "Oracle",
-      "title": "Intern as Software Engineer - part time",
-      "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/351109",
-      "locations": [
-        "BRNO, Czech Republic"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
     },
     {
       "company": "Meta",
-      "title": "Research Scientist Intern, uLED Display Characterization (PhD)",
-      "url": "https://www.metacareers.com/jobs/1296888565955935",
-      "locations": [
-        "Cork, Ireland"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD)",
-      "url": "https://www.metacareers.com/jobs/2357948038329505",
+      "title": "Research Scientist Intern, Machine Learning for Robust 3D Perception (PhD)",
+      "url": "https://www.metacareers.com/jobs/1482835147112669",
       "locations": [
         "Redmond, WA"
       ],
@@ -106,89 +170,42 @@
       "country": "us",
       "region": "AMER",
       "category": "AI/ML",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "Walmart Global Tech",
-      "title": "Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761",
-      "locations": [
-        "(USA) Together Building AR Bentonville Home Office",
-        "USA Together Building AR Bentonville Home Office"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "Walmart Global Tech",
-      "title": "Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery",
-      "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705744",
-      "locations": [
-        "(USA) Together Building AR Bentonville Home Office",
-        "USA Together Building AR Bentonville Home Office"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Backend/Infra",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
-    },
-    {
-      "company": "JPMorgan Chase",
-      "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Internship",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
-      "locations": [
-        "LONDON, United Kingdom"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "AI/ML",
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24"
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
     }
   ],
   "reopened_jobs": [
     {
       "company": "Qualcomm",
-      "title": "FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446722176432?domain=qualcomm.com",
+      "title": "FY27 Intern -  GPU Compiler - 3 months, Cambridge",
+      "url": "https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com",
       "locations": [
-        "Markham, Ontario, Canada"
+        "Cambridge, United Kingdom"
       ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24"
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-25"
     },
     {
-      "company": "Meta",
-      "title": "Software Engineer Intern, Machine Learning (PhD)",
-      "url": "https://www.metacareers.com/jobs/2180490782513668",
+      "company": "HPE",
+      "title": "Firmware Engineering Security Intern",
+      "url": "https://careers.hpe.com/us/en/job/1214254",
       "locations": [
-        "Menlo Park, CA",
-        "New York, NY"
+        "Sunnyvale, California, 94089",
+        "Sunnyvale, California, United States of America"
       ],
       "city_tag": "SF Bay Area",
       "country": "us",
       "region": "AMER",
-      "category": "Software",
-      "posted": "2026-09-10",
+      "category": "Backend/Infra",
+      "posted": "2026-11-24",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-24"
+      "last_seen": "2026-11-25"
     }
   ]
 }

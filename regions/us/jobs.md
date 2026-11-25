@@ -2,37 +2,37 @@
 
 # 🇺🇸 United States — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-24 10:55:20 IST** · 📌 **413** open verified internships
+> 🕐 Last updated: **2026-11-25 09:55:50 IST** · 📌 **419** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/us/) · [⚡ **REST API**](https://internscan.vercel.app/us/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United States**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (413)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (419)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United States |
 |---|:---:|
-| [AMD](#amd) | **1** |
+| [AMD](#amd) | **2** |
 | [Adobe](#adobe) | **5** |
 | [Amazon](#amazon) | **41** |
 | [Apple](#apple) | **19** |
 | [Barclays](#barclays) | **2** |
-| [Cisco](#cisco) | **8** |
+| [Cisco](#cisco) | **7** |
 | [CrowdStrike](#crowdstrike) | **1** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **1** |
 | [Dell Technologies](#dell-technologies) | **3** |
 | [Google](#google) | **10** |
-| [HPE](#hpe) | **52** |
+| [HPE](#hpe) | **57** |
 | [Intel](#intel) | **16** |
 | [JPMorgan Chase](#jpmorgan-chase) | **1** |
 | [Jane Street](#jane-street) | **7** |
 | [Meta](#meta) | **117** |
 | [Micron](#micron) | **2** |
-| [Microsoft](#microsoft) | **36** |
+| [Microsoft](#microsoft) | **37** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **45** |
 | [Netflix](#netflix) | **1** |
@@ -53,6 +53,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op](https://careers.amd.com/careers-home/jobs/89564) ✨ | AI/ML | Austin | 2026-11-24 | 2026-11-25 |
 | [Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op](https://careers.amd.com/careers-home/jobs/89557) ✨ | AI/ML | Austin | 2026-11-22 | 2026-11-23 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
@@ -73,6 +74,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Front-End Engineer Internship – 2027 (US)](https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) ✨ | Frontend | Seattle | 2026-11-20 | 2026-11-25 |
 | [Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)](https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) ✨ | Software | SF Bay Area | 2026-11-17 | 2026-11-24 |
 | [2027 Applied Science Internship - Robotics - United States](https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states) | AI/ML | North Reading, MA | 2026-11-13 | 2026-11-14 |
 | [Associate Engagement Manager Intern- National Security, AWS Professional Services](https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services) | Security | Arlington, VA | 2026-11-02 | 2026-11-03 |
@@ -81,7 +83,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Software | Seattle | 2026-10-23 | 2026-10-23 |
 | [System Development Engineer Intern/Co-op, ROBOTICS -  2027](https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027) | AI/ML | North Reading, MA | 2026-10-22 | 2026-10-23 |
 | [Associate Delivery Consultant Intern, National Security, AWS Professional Services](https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services) | Security | Arlington, VA | 2026-10-21 | 2026-10-23 |
-| [Hardware Development Engineer Intern , Winter 2027](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Hardware/Silicon | Seattle | 2026-10-20 | 2026-10-21 |
 | [Hardware Development Engineer Intern,  Summer 2027](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | Hardware/Silicon | SF Bay Area | 2026-10-13 | 2026-10-15 |
 | [ASIC Engineer Intern, Summer 2027](https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Hardware/Silicon | SF Bay Area | 2026-10-13 | 2026-10-15 |
 | [Embedded Firmware Co-op, Amazon Robotics - Spring 2027](https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027) | Backend/Infra | North Reading, MA | 2026-10-08 | 2026-10-15 |
@@ -157,7 +158,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer Data & AI PhD (Intern) - United States](https://careers.cisco.com/global/en/job/2025611) | Software | SF Bay Area | 2026-11-20 | 2026-10-16 |
-| [Data Science Analyst II (Intern) – Untied States](https://careers.cisco.com/global/en/job/2032691) ✨ | Data | SF Bay Area | 2026-11-20 | 2026-11-21 |
 | [AI Cybersecurity Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2030295) ✨ | AI/ML | Research Triangle Park, NC | 2026-11-20 | 2026-11-21 |
 | [Software Engineer Embedded Systems I (Intern) - United States](https://careers.cisco.com/global/en/job/2024641) | Software | SF Bay Area | 2026-11-10 | 2026-11-11 |
 | [Hardware Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2024756) | Hardware/Silicon | SF Bay Area | 2026-11-10 | 2026-10-15 |
@@ -224,6 +224,11 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Networking Strategy and Execution Intern MBA](https://careers.hpe.com/us/en/job/1214161) ✨ | Backend/Infra | SF Bay Area | 2026-11-24 | 2026-11-25 |
+| [Firmware Engineering Security Intern](https://careers.hpe.com/us/en/job/1214254) | Backend/Infra | SF Bay Area | 2026-11-24 | 2026-10-15 |
+| [Cloud Security Engagement Intern](https://careers.hpe.com/us/en/job/1216079) ✨ | Backend/Infra | Spring, TX | 2026-11-24 | 2026-11-25 |
+| [Networking & Cybersecurity Intern](https://careers.hpe.com/us/en/job/1214057) ✨ | Backend/Infra | Westford, MA | 2026-11-22 | 2026-11-25 |
+| [Networking & Cybersecurity Intern](https://careers.hpe.com/us/en/job/1214058) ✨ | Backend/Infra | SF Bay Area | 2026-11-22 | 2026-11-25 |
 | [Product Line Manager Intern – Photonics & Optical Networking](https://careers.hpe.com/us/en/job/1214207) ✨ | Backend/Infra | Westford, MA | 2026-11-19 | 2026-11-20 |
 | [HPE Labs – Business Analyst Intern – AI and Data Science](https://careers.hpe.com/us/en/job/1217924) ✨ | AI/ML | Ft. Collins, CO; Milpitas, CA | 2026-11-19 | 2026-11-21 |
 | [AI Engineering Technical Intern](https://careers.hpe.com/us/en/job/1218702) ✨ | AI/ML | SF Bay Area | 2026-11-19 | 2026-11-20 |
@@ -328,14 +333,16 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Machine Learning for Robust 3D Perception (PhD)](https://www.metacareers.com/jobs/1482835147112669) ✨ | AI/ML | Seattle | 2026-11-24 | 2026-11-25 |
+| [Battery Engineering Intern, Battery Systems Engineering](https://www.metacareers.com/jobs/1165674205921515) ✨ | Software | SF Bay Area | 2026-11-24 | 2026-11-25 |
 | [Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD)](https://www.metacareers.com/jobs/2357948038329505) ✨ | AI/ML | Seattle | 2026-11-23 | 2026-11-24 |
 | [Research Scientist Intern, Security & Integrity (PhD)](https://www.metacareers.com/jobs/4110138665949300) ✨ | AI/ML | Seattle | 2026-11-20 | 2026-11-21 |
 | [Research Scientist Intern, AI Agents for Autonomous Laboratories (PhD)](https://www.metacareers.com/jobs/29481973694788756) ✨ | AI/ML | Seattle | 2026-11-19 | 2026-11-20 |
 | [Research Scientist Intern, Physics-Grounded Multimodal Robot Learning (PhD)](https://www.metacareers.com/jobs/994911809842621) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
 | [Research Scientist Intern, Machine Learning for Robotics (PhD)](https://www.metacareers.com/jobs/1766347491109788) ✨ | AI/ML | Burlingame, CA | 2026-11-18 | 2026-11-20 |
 | [Research Scientist Intern, Computational Mechanics (PhD)](https://www.metacareers.com/jobs/1283598853967973) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
-| [Research Scientist Intern, Perception, Displays and Graphics (PhD)](https://www.metacareers.com/jobs/1500136678656794) ✨ | AI/ML | SF Bay Area | 2026-11-16 | 2026-11-17 |
-| [Research Scientist Intern, Intelligent Camera Systems (PhD)](https://www.metacareers.com/jobs/971210335715482) ✨ | AI/ML | Seattle | 2026-11-16 | 2026-11-17 |
+| [Research Scientist Intern, Perception, Displays and Graphics (PhD)](https://www.metacareers.com/jobs/1500136678656794) | AI/ML | SF Bay Area | 2026-11-16 | 2026-11-17 |
+| [Research Scientist Intern, Intelligent Camera Systems (PhD)](https://www.metacareers.com/jobs/971210335715482) | AI/ML | Seattle | 2026-11-16 | 2026-11-17 |
 | [Research Scientist Intern, Materials Architecture & Device Integration (PhD)](https://www.metacareers.com/jobs/1674297360998408) | AI/ML | Seattle | 2026-11-13 | 2026-11-14 |
 | [Research Scientist Intern, Diffractive Optics (PhD)](https://www.metacareers.com/jobs/1158829233342350) | AI/ML | Seattle | 2026-11-13 | 2026-11-14 |
 | [UX Research Scientist Intern, Contextual AI (PhD)](https://www.metacareers.com/jobs/1447131743482590) | AI/ML | Seattle | 2026-11-11 | 2026-11-13 |
@@ -373,7 +380,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, AI Infra (PhD)](https://www.metacareers.com/jobs/4603165899971826) | AI/ML | SF Bay Area | 2026-10-29 | 2026-10-30 |
 | [Research Scientist Intern, MSL - Agentic Post-Training (PhD)](https://www.metacareers.com/jobs/1155292783739299) | AI/ML | SF Bay Area | 2026-10-28 | 2026-10-31 |
 | [Research Scientist Intern, ML Innovation for Products (PhD)](https://www.metacareers.com/jobs/1060093353751700) | AI/ML | SF Bay Area | 2026-10-28 | 2026-10-30 |
-| [Wireless Engineering Intern](https://www.metacareers.com/jobs/1881250979530334) | Software | SF Bay Area | 2026-10-27 | 2026-10-28 |
 | [Research Scientist Intern, Youth Safety (PhD)](https://www.metacareers.com/jobs/984204394727196) | AI/ML | Seattle | 2026-10-27 | 2026-10-28 |
 | [Research Scientist Intern, Video Intelligence for GenAI/Computer Vision (Phd)](https://www.metacareers.com/jobs/1789380188995838) | AI/ML | SF Bay Area | 2026-10-27 | 2026-10-28 |
 | [Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)](https://www.metacareers.com/jobs/1751935042548465) | AI/ML | SF Bay Area | 2026-10-27 | 2026-10-28 |
@@ -427,7 +433,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, AI & System Co-Design (PhD)](https://www.metacareers.com/jobs/1062032900196411) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
 | [Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)](https://www.metacareers.com/jobs/1866761794487684) | AI/ML | SF Bay Area | 2026-10-13 | 2026-10-15 |
 | [Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)](https://www.metacareers.com/jobs/1839680137188723) | AI/ML | Seattle | 2026-10-13 | 2026-10-15 |
-| [Product Design Engineering Intern](https://www.metacareers.com/jobs/1123001263407222) | Software | SF Bay Area | 2026-10-13 | 2026-10-15 |
 | [Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)](https://www.metacareers.com/jobs/2586686598441521) | AI/ML | Seattle | 2026-10-12 | 2026-10-15 |
 | [Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)](https://www.metacareers.com/jobs/1139865145249047) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
 | [Research Scientist Intern, Language and Agents (PhD)](https://www.metacareers.com/jobs/2168438160696161) | AI/ML | SF Bay Area | 2026-10-12 | 2026-10-15 |
@@ -461,6 +466,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Intern - AI Systems Architecture and Efficient LLM Inference](https://apply.careers.microsoft.com/careers/job/1970393557079428) ✨ | AI/ML | Seattle | 2026-11-24 | 2026-11-25 |
 | [Research Intern - AI System Architecture Modeling and Performance](https://apply.careers.microsoft.com/careers/job/1970393557077583) ✨ | AI/ML | Hillsboro, OR | 2026-11-20 | 2026-11-21 |
 | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076215) ✨ | AI/ML | SF Bay Area | 2026-11-20 | 2026-11-21 |
 | [Research Intern - Deep Learning Group](https://apply.careers.microsoft.com/careers/job/1970393557076095) ✨ | AI/ML | Seattle | 2026-11-19 | 2026-11-20 |
@@ -638,16 +644,16 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761) ✨ | Backend/Infra | Bentonville, AR | 2026-11-18 | 2026-11-24 |
 | [Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705744) ✨ | Backend/Infra | Bentonville, AR | 2026-11-18 | 2026-11-24 |
+| [Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761) ✨ | Backend/Infra | Bentonville, AR | 2026-11-18 | 2026-11-24 |
 | [Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435) | Data | Bentonville, AR | 2026-11-14 | 2026-11-14 |
 | [Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193) | Data | Bentonville, AR | 2026-11-11 | 2026-11-11 |
 | [(USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data Science Intern](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828) | Data | Bentonville, AR | 2026-11-06 | 2026-11-06 |
 | [R-2690844 (USA) Corporate Intern:  Market Strategy Data Science Intern](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/R-2690844--USA--Corporate-Intern---Market-Strategy-Data-Science-Intern_R-2690844) | Data | Bentonville, AR | 2026-10-30 | 2026-10-30 |
-| [Summer 2027 Intern:: Data Science III](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Data | Bentonville, AR | 2026-10-25 | 2026-10-15 |
-| [Summer 2027 Intern: Intern: Sr Data Science](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Data | Bentonville, AR | 2026-10-25 | 2026-10-15 |
-| [Summer 2027 Intern: Cybersecurity Undergrad](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025) | Security | Bentonville, AR | 2026-10-25 | 2026-10-15 |
-| [Summer 2027 Intern: Cybersecurity Masters](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Masters_R-2630026) | Security | Bentonville, AR | 2026-10-25 | 2026-10-15 |
+| [Summer 2027 Intern:: Data Science III](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Data | Bentonville, AR | 2026-10-26 | 2026-10-15 |
+| [Summer 2027 Intern: Intern: Sr Data Science](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Data | Bentonville, AR | 2026-10-26 | 2026-10-15 |
+| [Summer 2027 Intern: Cybersecurity Undergrad](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025) | Security | Bentonville, AR | 2026-10-26 | 2026-10-15 |
+| [Summer 2027 Intern: Cybersecurity Masters](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Masters_R-2630026) | Security | Bentonville, AR | 2026-10-26 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 

@@ -2,14 +2,14 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-24 10:55:20 IST** · 📌 **54** open verified internships
+> 🕐 Last updated: **2026-11-25 09:55:50 IST** · 📌 **53** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Canada**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (54)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (53)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -23,7 +23,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Microsoft](#microsoft) | **3** |
 | [NVIDIA](#nvidia) | **2** |
 | [Nokia](#nokia) | **1** |
-| [Qualcomm](#qualcomm) | **27** |
+| [Qualcomm](#qualcomm) | **26** |
 | [Stripe](#stripe) | **5** |
 
 ---
@@ -88,7 +88,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Research Intern - AI Serving Systems and Hardware - Microsoft Research](https://apply.careers.microsoft.com/careers/job/1970393557076203) ✨ | AI/ML | Vancouver | 2026-11-19 | 2026-11-20 |
-| [Solution Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557045545) ✨ | Software | Toronto | 2026-11-16 | 2026-11-17 |
+| [Solution Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557045545) | Software | Toronto | 2026-11-16 | 2026-11-17 |
 | [Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning](https://apply.careers.microsoft.com/careers/job/1970393557040927) | AI/ML | Montreal | 2026-10-14 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
@@ -140,7 +140,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064018?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721143440?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-09-17 | 2026-10-15 |
 | [FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721141411?domain=qualcomm.com) | Backend/Infra | Toronto | 2026-09-17 | 2026-10-15 |
-| [FY27 Intern - Display IP Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064141?domain=qualcomm.com) | Software | Markham, ON | 2026-09-17 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Canada Companies](companies.md)
 

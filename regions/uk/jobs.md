@@ -2,14 +2,14 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-24 10:55:20 IST** · 📌 **47** open verified internships
+> 🕐 Last updated: **2026-11-25 09:55:50 IST** · 📌 **48** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (47)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (48)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -26,7 +26,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [JPMorgan Chase](#jpmorgan-chase) | **3** |
 | [Meta](#meta) | **10** |
 | [Microsoft](#microsoft) | **3** |
-| [Qualcomm](#qualcomm) | **4** |
+| [Qualcomm](#qualcomm) | **5** |
 | [Stripe](#stripe) | **1** |
 | [Visa](#visa) | **3** |
 
@@ -156,6 +156,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern -  GPU Compiler - 3 months, Cambridge](https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com) | Backend/Infra | Cambridge / Oxford | 2026-11-24 | 2026-11-17 |
 | [FY27 Intern - Software - Systems Engineering Team (Data Center Group)- 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446722247294?domain=qualcomm.com) ✨ | Software | Cambridge / Oxford | 2026-11-20 | 2026-11-21 |
 | [FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197636?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern - Engineering Internship - 3 months, Farnborough](https://careers.qualcomm.com/careers/job/446722197770?domain=qualcomm.com) ✨ | Software | Farnborough | 2026-11-18 | 2026-11-19 |

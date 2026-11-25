@@ -1,26 +1,10 @@
 {
   "version": "2.0.0",
   "country": "ca",
-  "updated_at": "2026-11-24T05:25:20Z",
+  "updated_at": "2026-11-25T04:25:50Z",
   "new_count": 0,
-  "reopened_count": 1,
-  "total_active": 54,
+  "reopened_count": 0,
+  "total_active": 53,
   "new_jobs": [],
-  "reopened_jobs": [
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months)",
-      "url": "https://careers.qualcomm.com/careers/job/446722176432?domain=qualcomm.com",
-      "locations": [
-        "Markham, Ontario, Canada"
-      ],
-      "city_tag": "Canada (Other)",
-      "country": "ca",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24"
-    }
-  ]
+  "reopened_jobs": []
 }
