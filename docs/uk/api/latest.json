@@ -1,26 +1,26 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-25T04:25:50Z",
-  "new_count": 0,
-  "reopened_count": 1,
+  "updated_at": "2026-11-26T03:42:05Z",
+  "new_count": 1,
+  "reopened_count": 0,
   "total_active": 48,
-  "new_jobs": [],
-  "reopened_jobs": [
+  "new_jobs": [
     {
-      "company": "Qualcomm",
-      "title": "FY27 Intern -  GPU Compiler - 3 months, Cambridge",
-      "url": "https://careers.qualcomm.com/careers/job/446722152489?domain=qualcomm.com",
+      "company": "Amazon",
+      "title": "Operations Engineering Intern -  12 months, start date Q2 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10541452/operations-engineering-intern-12-months-start-date-q2-2027",
       "locations": [
-        "Cambridge, United Kingdom"
+        "London, England, GBR"
       ],
-      "city_tag": "Cambridge / Oxford",
+      "city_tag": "London",
       "country": "uk",
       "region": "EMEA",
-      "category": "Backend/Infra",
-      "posted": "2026-11-24",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-25"
+      "category": "Software",
+      "posted": "2026-09-15",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26"
     }
-  ]
+  ],
+  "reopened_jobs": []
 }

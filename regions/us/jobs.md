@@ -2,29 +2,28 @@
 
 # 🇺🇸 United States — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-25 09:55:50 IST** · 📌 **419** open verified internships
+> 🕐 Last updated: **2026-11-26 09:12:05 IST** · 📌 **420** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/us/) · [⚡ **REST API**](https://internscan.vercel.app/us/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United States**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (419)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (420)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United States |
 |---|:---:|
-| [AMD](#amd) | **2** |
 | [Adobe](#adobe) | **5** |
 | [Amazon](#amazon) | **41** |
 | [Apple](#apple) | **19** |
 | [Barclays](#barclays) | **2** |
-| [Cisco](#cisco) | **7** |
-| [CrowdStrike](#crowdstrike) | **1** |
+| [Cisco](#cisco) | **8** |
+| [CrowdStrike](#crowdstrike) | **3** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **1** |
-| [Dell Technologies](#dell-technologies) | **3** |
+| [Dell Technologies](#dell-technologies) | **2** |
 | [Google](#google) | **10** |
 | [HPE](#hpe) | **57** |
 | [Intel](#intel) | **16** |
@@ -32,7 +31,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Jane Street](#jane-street) | **7** |
 | [Meta](#meta) | **117** |
 | [Micron](#micron) | **2** |
-| [Microsoft](#microsoft) | **37** |
+| [Microsoft](#microsoft) | **38** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **45** |
 | [Netflix](#netflix) | **1** |
@@ -48,15 +47,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 <a id="open-internships"></a>
 
 ## 💼 Open Internship Postings
-
-### AMD
-
-| Role | Category | Hub / Location | Posted | First seen |
-|---|---|---|---|---|
-| [Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op](https://careers.amd.com/careers-home/jobs/89564) ✨ | AI/ML | Austin | 2026-11-24 | 2026-11-25 |
-| [Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op](https://careers.amd.com/careers-home/jobs/89557) ✨ | AI/ML | Austin | 2026-11-22 | 2026-11-23 |
-
-[⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 
 ### Adobe
 
@@ -157,6 +147,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Security Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2025885) ✨ | Security | Research Triangle Park, NC | 2026-11-25 | 2026-11-26 |
 | [Software Engineer Data & AI PhD (Intern) - United States](https://careers.cisco.com/global/en/job/2025611) | Software | SF Bay Area | 2026-11-20 | 2026-10-16 |
 | [AI Cybersecurity Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2030295) ✨ | AI/ML | Research Triangle Park, NC | 2026-11-20 | 2026-11-21 |
 | [Software Engineer Embedded Systems I (Intern) - United States](https://careers.cisco.com/global/en/job/2024641) | Software | SF Bay Area | 2026-11-10 | 2026-11-11 |
@@ -171,6 +162,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Product Engineering Intern - Falcon Guardian](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622) ✨ | Software | SF Bay Area | 2026-11-25 | 2026-11-26 |
+| [Product Engineering Intern - Threat Detection](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621) ✨ | Software | SF Bay Area | 2026-11-24 | 2026-11-26 |
 | [Insider Risk Engineering Intern - Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718) | Software | Arlington, VA | 2026-11-14 | 2026-11-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
@@ -197,7 +190,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Corporate Strategy Undergraduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300226) | Software | TX, US | 2026-11-18 | 2026-10-15 |
 | [Services Data Science Graduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301413) | Data | TX, US | 2026-10-25 | 2026-10-25 |
 | [Services Analytics Graduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301412) | Data | TX, US | 2026-10-25 | 2026-10-25 |
 
@@ -232,7 +224,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Product Line Manager Intern – Photonics & Optical Networking](https://careers.hpe.com/us/en/job/1214207) ✨ | Backend/Infra | Westford, MA | 2026-11-19 | 2026-11-20 |
 | [HPE Labs – Business Analyst Intern – AI and Data Science](https://careers.hpe.com/us/en/job/1217924) ✨ | AI/ML | Ft. Collins, CO; Milpitas, CA | 2026-11-19 | 2026-11-21 |
 | [AI Engineering Technical Intern](https://careers.hpe.com/us/en/job/1218702) ✨ | AI/ML | SF Bay Area | 2026-11-19 | 2026-11-20 |
-| [HPE Labs - AI Enablement Intern](https://careers.hpe.com/us/en/job/1217939) ✨ | AI/ML | Milpitas, CA | 2026-11-17 | 2026-11-18 |
+| [HPE Labs - AI Enablement Intern](https://careers.hpe.com/us/en/job/1217939) | AI/ML | Milpitas, CA | 2026-11-17 | 2026-11-18 |
 | [Wireless Hardware Engineering Intern](https://careers.hpe.com/us/en/job/1218701) | Hardware/Silicon | SF Bay Area | 2026-11-09 | 2026-11-11 |
 | [Electrical Engineering Intern](https://careers.hpe.com/us/en/job/1213393) | Software | Spring, TX | 2026-11-05 | 2026-11-06 |
 | [Hardware Engineering Intern](https://careers.hpe.com/us/en/job/1214170) | Hardware/Silicon | Westford, MA | 2026-11-03 | 2026-11-04 |
@@ -466,6 +458,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557097217) ✨ | AI/ML | Seattle | 2026-11-25 | 2026-11-26 |
 | [Research Intern - AI Systems Architecture and Efficient LLM Inference](https://apply.careers.microsoft.com/careers/job/1970393557079428) ✨ | AI/ML | Seattle | 2026-11-24 | 2026-11-25 |
 | [Research Intern - AI System Architecture Modeling and Performance](https://apply.careers.microsoft.com/careers/job/1970393557077583) ✨ | AI/ML | Hillsboro, OR | 2026-11-20 | 2026-11-21 |
 | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076215) ✨ | AI/ML | SF Bay Area | 2026-11-20 | 2026-11-21 |
@@ -477,8 +470,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Intern - Data Center and AI Networking](https://apply.careers.microsoft.com/careers/job/1970393557075457) ✨ | Data | SF Bay Area | 2026-11-18 | 2026-11-19 |
 | [Research Intern - Computer Vision and Deep Learning](https://apply.careers.microsoft.com/careers/job/1970393557075490) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
 | [Research Intern - AI Software Systems](https://apply.careers.microsoft.com/careers/job/1970393557075527) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
-| [Security Research: PhD Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557074642) ✨ | Security | Seattle | 2026-11-17 | 2026-11-18 |
-| [Research Intern - Firmware Security](https://apply.careers.microsoft.com/careers/job/1970393557075140) ✨ | Backend/Infra | Seattle | 2026-11-17 | 2026-11-18 |
+| [Security Research: PhD Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557074642) | Security | Seattle | 2026-11-17 | 2026-11-18 |
+| [Research Intern - Firmware Security](https://apply.careers.microsoft.com/careers/job/1970393557075140) | Backend/Infra | Seattle | 2026-11-17 | 2026-11-18 |
 | [Electrical Engineering INTERN (PhD)](https://apply.careers.microsoft.com/careers/job/1970393556986148) | Software | Seattle | 2026-11-17 | 2026-11-14 |
 | [Research Intern - MSR Software-Hardware Co-design](https://apply.careers.microsoft.com/careers/job/1970393557073455) | Software | Seattle | 2026-11-13 | 2026-11-14 |
 | [Research Intern - AI Coding Agents](https://apply.careers.microsoft.com/careers/job/1970393557073416) | AI/ML | Seattle | 2026-11-13 | 2026-11-14 |
@@ -510,8 +503,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Software | SF Bay Area | 2026-11-23 | 2026-10-23 |
-| [2027 - AI and People Transformation Intern, NYC](https://www.mongodb.com/careers/job/?gh_jid=8346138) ✨ | AI/ML | New York | 2026-11-23 | 2026-11-20 |
+| [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Software | SF Bay Area | 2026-11-25 | 2026-10-23 |
+| [2027 - AI and People Transformation Intern, NYC](https://www.mongodb.com/careers/job/?gh_jid=8346138) ✨ | AI/ML | New York | 2026-11-25 | 2026-11-20 |
 
 [⬆️ Back to Top](#top) · [📋 View United States Companies](companies.md)
 

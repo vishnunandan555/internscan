@@ -2,14 +2,14 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-25 09:55:50 IST** · 📌 **139** open verified internships
+> 🕐 Last updated: **2026-11-26 09:12:05 IST** · 📌 **141** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Europe**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (139)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (141)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -18,7 +18,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Accenture](#accenture) | **8** |
 | [Adobe](#adobe) | **2** |
 | [Amazon](#amazon) | **19** |
-| [Apple](#apple) | **8** |
+| [Apple](#apple) | **10** |
 | [Cisco](#cisco) | **2** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **3** |
@@ -97,6 +97,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern, Apple Services - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland) ✨ | Software | Dublin | 2026-11-25 | 2026-11-19 |
+| [Internship - Agentic Data Generation for High-Fidelity Personal Data, Global Siri](https://jobs.apple.com/en-us/details/200696800/internship-agentic-data-generation-for-high-fidelity-personal-data-global-siri) ✨ | Data | Barcelona | 2026-11-25 | 2026-11-26 |
 | [Creative Apps, Colour and Imaging Science Engineering Intern - Copenhagen, Denmark](https://jobs.apple.com/en-us/details/200693402/creative-apps-colour-and-imaging-science-engineering-intern-copenhagen-denmark) ✨ | Software | Copenhagen | 2026-11-24 | 2026-11-25 |
 | [Graphics Tooling and Rendering Engineering Intern](https://jobs.apple.com/en-us/details/200694482/graphics-tooling-and-rendering-engineering-intern) ✨ | Software | Paris | 2026-11-20 | 2026-11-21 |
 | [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) | Software | Prague | 2026-11-12 | 2026-11-13 |
@@ -235,8 +237,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Software | Dublin | 2026-11-23 | 2026-10-23 |
-| [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Software | Dublin | 2026-11-23 | 2026-10-15 |
+| [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Software | Dublin | 2026-11-25 | 2026-10-23 |
+| [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Software | Dublin | 2026-11-25 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 

@@ -2,14 +2,14 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-25 09:55:50 IST** · 📌 **26** open verified internships
+> 🕐 Last updated: **2026-11-26 09:12:05 IST** · 📌 **25** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (70)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **India**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (26)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (25)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -27,7 +27,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [PayPal](#paypal) | **1** |
 | [Qualcomm](#qualcomm) | **1** |
 | [Rubrik](#rubrik) | **1** |
-| [Stripe](#stripe) | **1** |
 | [Walmart Global Tech](#walmart-global-tech) | **1** |
 
 ---
@@ -141,14 +140,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer (CPD) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | Software | Bengaluru | 2026-11-03 | 2026-09-17 |
-
-[⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
-
-### Stripe
-
-| Role | Category | Hub / Location | Posted | First seen |
-|---|---|---|---|---|
-| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Software | Bengaluru | 2026-11-19 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 

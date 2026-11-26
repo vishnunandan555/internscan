@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-25 09:55:50 IST** · 📌 **48** open verified internships
+> 🕐 Last updated: **2026-11-26 09:12:05 IST** · 📌 **48** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
@@ -16,8 +16,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Company | Open Internships in United Kingdom |
 |---|:---:|
 | [Adobe](#adobe) | **1** |
-| [Amazon](#amazon) | **9** |
-| [Apple](#apple) | **3** |
+| [Amazon](#amazon) | **10** |
+| [Apple](#apple) | **2** |
 | [Barclays](#barclays) | **2** |
 | [Cisco](#cisco) | **1** |
 | [Databricks](#databricks) | **1** |
@@ -48,15 +48,16 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Ring - ASIC DV Engineer Intern](https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) ✨ | Hardware/Silicon | Cambridge / Oxford | 2026-11-17 | 2026-11-18 |
+| [Ring - ASIC DV Engineer Intern](https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) | Hardware/Silicon | Cambridge / Oxford | 2026-11-17 | 2026-11-18 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) | Data | London | 2026-11-11 | 2026-11-12 |
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) | Software | London | 2026-10-30 | 2026-10-31 |
 | [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) | Software | London | 2026-10-26 | 2026-10-27 |
 | [2027 Software Dev Engineer Intern (Embedded Systems) - UK](https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) | Software | London | 2026-10-26 | 2026-10-27 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) | Security | London | 2026-10-13 | 2026-10-15 |
-| [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) | Data | London | 2026-10-02 | 2026-10-15 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | London | 2026-10-02 | 2026-10-15 |
+| [12 Month - Business Intelligence Intern](https://www.amazon.jobs/en/jobs/10567687/12-month-business-intelligence-intern) | Data | London | 2026-10-02 | 2026-10-15 |
 | [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) | Software | London | 2026-09-21 | 2026-10-15 |
+| [Operations Engineering Intern -  12 months, start date Q2 2027](https://www.amazon.jobs/en/jobs/10541452/operations-engineering-intern-12-months-start-date-q2-2027) ✨ | Software | London | 2026-09-15 | 2026-11-26 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
@@ -66,7 +67,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) | AI/ML | London | 2026-11-12 | 2026-11-13 |
 | [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) | Backend/Infra | London | 2026-11-10 | 2026-11-11 |
-| [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 

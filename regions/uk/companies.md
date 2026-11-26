@@ -2,7 +2,7 @@
 
 # 🇬🇧 United Kingdom — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-11-25 09:55:50 IST**
+> 🕐 Last updated: **2026-11-26 09:12:05 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/)
 
@@ -18,6 +18,7 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - Bloomberg
 - Cisco
 - Cloudflare
+- CrowdStrike
 - Databricks
 - Datadog
 - Dell Technologies
@@ -28,7 +29,6 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - HPE
 - JPMorgan Chase
 - Jane Street
-- Meta
 - Microsoft
 - MongoDB
 - Netflix
@@ -42,7 +42,7 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - Snowflake
 - Stripe
 - Twilio
-- Walmart Global Tech
+- Wells Fargo
 
 ## 🟡 Bot-Protected Employers (Google Jobs Fallback) (4)
 

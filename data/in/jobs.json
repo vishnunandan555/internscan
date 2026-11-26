@@ -8,7 +8,7 @@
       "country": "in",
       "external_id": "10443572",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Chennai, Tamil Nadu, IND"
       ],
@@ -25,7 +25,7 @@
       "country": "in",
       "external_id": "6115382004",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bengaluru, Karnataka, India"
       ],
@@ -60,7 +60,7 @@
       "country": "in",
       "external_id": "125740",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bangalore, India",
         "Mangaluru, India"
@@ -114,7 +114,7 @@
       "country": "in",
       "external_id": "155175",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bangalore, India"
       ],
@@ -131,7 +131,7 @@
       "country": "in",
       "external_id": "164757",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bangalore, India"
       ],
@@ -148,7 +148,7 @@
       "country": "in",
       "external_id": "91847",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bangalore"
       ],
@@ -165,7 +165,7 @@
       "country": "in",
       "external_id": "109375266236572358",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bengaluru, Karnataka, India",
         "Hyderabad, Telangana, India"
@@ -183,7 +183,7 @@
       "country": "in",
       "external_id": "109976286780105414",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bengaluru, Karnataka, India",
         "Hyderabad, Telangana, India",
@@ -202,7 +202,7 @@
       "country": "in",
       "external_id": "125423735539671750",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "India"
       ],
@@ -237,7 +237,7 @@
       "country": "in",
       "external_id": "8229735",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Onsite in Bangalore"
       ],
@@ -254,7 +254,7 @@
       "country": "in",
       "external_id": "8281055",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Onsite in Bangalore"
       ],
@@ -271,7 +271,7 @@
       "country": "in",
       "external_id": "1191423",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bengaluru, Karn\u0101taka, 560048",
         "Bengaluru, Karn\u0101taka, India"
@@ -289,7 +289,7 @@
       "country": "in",
       "external_id": "1211843",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bengaluru, Karn\u0101taka, 560048",
         "Bengaluru, Karn\u0101taka, India"
@@ -428,7 +428,7 @@
       "country": "in",
       "external_id": "1970393556917519",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -535,7 +535,7 @@
       "country": "in",
       "external_id": "1970393557043380",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -625,7 +625,7 @@
       "country": "in",
       "external_id": "446719784824",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bangalore, India",
         "Hyderabad, Telang\u0101na, India"
@@ -698,7 +698,7 @@
       "country": "in",
       "external_id": "8166537",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Bangalore"
       ],
@@ -727,9 +727,10 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
     },
     "stripe:8031833": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "city_tag": "Bengaluru",
+      "closed": "2026-11-26",
       "company": "Stripe",
       "country": "in",
       "external_id": "8031833",
@@ -816,5 +817,5 @@
       "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386"
     }
   },
-  "updated_at": "2026-11-25T04:25:50Z"
+  "updated_at": "2026-11-26T03:42:05Z"
 }

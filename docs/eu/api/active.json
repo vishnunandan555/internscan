@@ -1,9 +1,24 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-25T04:25:50Z",
-  "total_active": 139,
+  "updated_at": "2026-11-26T03:42:05Z",
+  "total_active": 141,
   "jobs": [
+    {
+      "company": "Apple",
+      "title": "Internship - Agentic Data Generation for High-Fidelity Personal Data, Global Siri",
+      "url": "https://jobs.apple.com/en-us/details/200696800/internship-agentic-data-generation-for-high-fidelity-personal-data-global-siri",
+      "locations": [
+        "Barcelona"
+      ],
+      "city_tag": "Europe (Other)",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Data",
+      "posted": "2026-11-25",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26"
+    },
     {
       "company": "Cisco",
       "title": "Technical Intern I",
@@ -17,7 +32,7 @@
       "category": "Software",
       "posted": "2026-11-24",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Apple",
@@ -32,7 +47,7 @@
       "category": "Software",
       "posted": "2026-11-24",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -47,7 +62,7 @@
       "category": "Data",
       "posted": "2026-11-23",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -62,7 +77,7 @@
       "category": "QA",
       "posted": "2026-11-23",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Oracle",
@@ -77,7 +92,7 @@
       "category": "Software",
       "posted": "2026-11-23",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Meta",
@@ -108,7 +123,7 @@
       "category": "Security",
       "posted": "2026-11-20",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Apple",
@@ -123,7 +138,7 @@
       "category": "Software",
       "posted": "2026-11-20",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Salesforce",
@@ -154,7 +169,7 @@
       "category": "Data",
       "posted": "2026-11-19",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Microsoft",
@@ -169,7 +184,7 @@
       "category": "Software",
       "posted": "2026-11-19",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -184,7 +199,7 @@
       "category": "QA",
       "posted": "2026-11-18",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "HPE",
@@ -200,7 +215,7 @@
       "category": "Backend/Infra",
       "posted": "2026-11-18",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "HPE",
@@ -216,7 +231,22 @@
       "category": "Backend/Infra",
       "posted": "2026-11-18",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineering Intern, Apple Services - Dublin, Ireland",
+      "url": "https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland",
+      "locations": [
+        "Dublin"
+      ],
+      "city_tag": "Dublin",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-25",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -231,7 +261,7 @@
       "category": "AI/ML",
       "posted": "2026-11-13",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "HPE",
@@ -247,7 +277,7 @@
       "category": "Data",
       "posted": "2026-11-12",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Apple",
@@ -262,7 +292,7 @@
       "category": "Software",
       "posted": "2026-11-12",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Snowflake",
@@ -277,7 +307,7 @@
       "category": "Software",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Snowflake",
@@ -292,7 +322,7 @@
       "category": "Software",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "NVIDIA",
@@ -354,7 +384,7 @@
       "category": "Software",
       "posted": "2026-11-22",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Micron",
@@ -385,7 +415,7 @@
       "category": "AI/ML",
       "posted": "2026-11-10",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -400,7 +430,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-11-09",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Microsoft",
@@ -415,7 +445,7 @@
       "category": "Backend/Infra",
       "posted": "2026-11-09",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Microsoft",
@@ -430,7 +460,7 @@
       "category": "Backend/Infra",
       "posted": "2026-11-09",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Microsoft",
@@ -445,7 +475,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-11-09",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Adobe",
@@ -492,7 +522,7 @@
       "category": "AI/ML",
       "posted": "2026-11-09",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -507,7 +537,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -522,7 +552,7 @@
       "category": "Security",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -537,7 +567,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "NVIDIA",
@@ -584,7 +614,7 @@
       "category": "Security",
       "posted": "2026-11-05",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Meta",
@@ -614,7 +644,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -629,7 +659,7 @@
       "category": "AI/ML",
       "posted": "2026-11-23",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "NVIDIA",
@@ -661,7 +691,7 @@
       "category": "Backend/Infra",
       "posted": "2026-11-03",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -676,7 +706,7 @@
       "category": "AI/ML",
       "posted": "2026-11-03",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Accenture",
@@ -706,7 +736,7 @@
       "category": "AI/ML",
       "posted": "2026-11-05",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Meta",
@@ -752,7 +782,7 @@
       "category": "AI/ML",
       "posted": "2026-11-02",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Apple",
@@ -767,7 +797,7 @@
       "category": "AI/ML",
       "posted": "2026-11-02",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Accenture",
@@ -812,7 +842,7 @@
       "category": "Software",
       "posted": "2026-10-30",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Meta",
@@ -843,7 +873,7 @@
       "category": "AI/ML",
       "posted": "2026-10-29",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Visa",
@@ -874,7 +904,7 @@
       "category": "Software",
       "posted": "2026-10-12",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Accenture",
@@ -920,7 +950,7 @@
       "category": "AI/ML",
       "posted": "2026-10-09",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Accenture",
@@ -1008,9 +1038,9 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-23",
+      "posted": "2026-11-25",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Meta",
@@ -1118,7 +1148,7 @@
       "category": "AI/ML",
       "posted": "2026-10-21",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "NVIDIA",
@@ -1196,7 +1226,7 @@
       "category": "AI/ML",
       "posted": "2026-10-20",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Intel",
@@ -1227,7 +1257,7 @@
       "category": "Data",
       "posted": "2026-10-19",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Adobe",
@@ -1289,7 +1319,7 @@
       "category": "AI/ML",
       "posted": "2026-09-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Meta",
@@ -1319,7 +1349,7 @@
       "category": "Data",
       "posted": "2026-10-15",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Stripe",
@@ -1334,7 +1364,7 @@
       "category": "Software",
       "posted": "2026-11-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Stripe",
@@ -1349,7 +1379,7 @@
       "category": "Software",
       "posted": "2026-11-19",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Snowflake",
@@ -1364,7 +1394,7 @@
       "category": "Software",
       "posted": "2026-09-29",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Snowflake",
@@ -1379,7 +1409,7 @@
       "category": "Software",
       "posted": "2026-11-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -1394,7 +1424,7 @@
       "category": "Software",
       "posted": "2026-11-09",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -1409,7 +1439,7 @@
       "category": "Software",
       "posted": "2026-11-19",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -1424,7 +1454,7 @@
       "category": "Software",
       "posted": "2026-06-11",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -1439,7 +1469,7 @@
       "category": "Software",
       "posted": "2026-06-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -1454,7 +1484,7 @@
       "category": "Backend/Infra",
       "posted": "2026-08-24",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Qualcomm",
@@ -1469,7 +1499,7 @@
       "category": "Software",
       "posted": "2026-09-23",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "NVIDIA",
@@ -1578,9 +1608,9 @@
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-23",
+      "posted": "2026-11-25",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Microsoft",
@@ -1595,7 +1625,7 @@
       "category": "Backend/Infra",
       "posted": "2026-09-14",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Intel",
@@ -1739,7 +1769,7 @@
       "category": "Data",
       "posted": "2026-09-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Google",
@@ -1755,7 +1785,7 @@
       "category": "Software",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Google",
@@ -1772,7 +1802,7 @@
       "category": "AI/ML",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Google",
@@ -1787,7 +1817,7 @@
       "category": "Data",
       "posted": "2026-09-03",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Google",
@@ -1802,7 +1832,7 @@
       "category": "Data",
       "posted": "2026-08-17",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Google",
@@ -1817,7 +1847,7 @@
       "category": "Software",
       "posted": "2026-08-18",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Datadog",
@@ -1832,7 +1862,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Datadog",
@@ -1847,7 +1877,7 @@
       "category": "Software",
       "posted": "2026-11-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Datadog",
@@ -1862,7 +1892,7 @@
       "category": "AI/ML",
       "posted": "2026-11-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Databricks",
@@ -1877,7 +1907,7 @@
       "category": "Software",
       "posted": "2026-11-19",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Databricks",
@@ -1892,7 +1922,7 @@
       "category": "Software",
       "posted": "2026-11-19",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Databricks",
@@ -1907,7 +1937,7 @@
       "category": "Software",
       "posted": "2026-11-19",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Cisco",
@@ -1922,7 +1952,7 @@
       "category": "Software",
       "posted": "2026-09-04",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Apple",
@@ -1937,7 +1967,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-08",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -1952,7 +1982,7 @@
       "category": "Software",
       "posted": "2026-05-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -1967,7 +1997,7 @@
       "category": "Software",
       "posted": "2026-09-15",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -1982,7 +2012,7 @@
       "category": "Software",
       "posted": "2026-09-21",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -1997,7 +2027,7 @@
       "category": "Software",
       "posted": "2026-09-22",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -2012,7 +2042,7 @@
       "category": "Data",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -2027,7 +2057,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -2042,7 +2072,7 @@
       "category": "AI/ML",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -2057,7 +2087,7 @@
       "category": "Security",
       "posted": "2026-10-02",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -2072,7 +2102,7 @@
       "category": "Software",
       "posted": "2026-10-05",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -2087,7 +2117,7 @@
       "category": "Backend/Infra",
       "posted": "2026-10-06",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Amazon",
@@ -2102,7 +2132,7 @@
       "category": "Security",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "company": "Accenture",
