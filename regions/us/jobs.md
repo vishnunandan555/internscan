@@ -2,14 +2,14 @@
 
 # 🇺🇸 United States — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-26 09:12:05 IST** · 📌 **420** open verified internships
+> 🕐 Last updated: **2026-11-27 09:13:33 IST** · 📌 **413** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (58)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/us/) · [⚡ **REST API**](https://internscan.vercel.app/us/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United States**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (420)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (413)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -19,7 +19,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Amazon](#amazon) | **41** |
 | [Apple](#apple) | **19** |
 | [Barclays](#barclays) | **2** |
-| [Cisco](#cisco) | **8** |
+| [Cisco](#cisco) | **7** |
 | [CrowdStrike](#crowdstrike) | **3** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **1** |
@@ -29,9 +29,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Intel](#intel) | **16** |
 | [JPMorgan Chase](#jpmorgan-chase) | **1** |
 | [Jane Street](#jane-street) | **7** |
-| [Meta](#meta) | **117** |
+| [Meta](#meta) | **115** |
 | [Micron](#micron) | **2** |
-| [Microsoft](#microsoft) | **38** |
+| [Microsoft](#microsoft) | **34** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **45** |
 | [Netflix](#netflix) | **1** |
@@ -149,7 +149,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|---|---|---|---|
 | [Security Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2025885) ✨ | Security | Research Triangle Park, NC | 2026-11-25 | 2026-11-26 |
 | [Software Engineer Data & AI PhD (Intern) - United States](https://careers.cisco.com/global/en/job/2025611) | Software | SF Bay Area | 2026-11-20 | 2026-10-16 |
-| [AI Cybersecurity Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2030295) ✨ | AI/ML | Research Triangle Park, NC | 2026-11-20 | 2026-11-21 |
 | [Software Engineer Embedded Systems I (Intern) - United States](https://careers.cisco.com/global/en/job/2024641) | Software | SF Bay Area | 2026-11-10 | 2026-11-11 |
 | [Hardware Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2024756) | Hardware/Silicon | SF Bay Area | 2026-11-10 | 2026-10-15 |
 | [Hardware Engineer II Intern - United States](https://careers.cisco.com/global/en/job/2024757) | Hardware/Silicon | SF Bay Area | 2026-11-02 | 2026-10-15 |
@@ -330,9 +329,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD)](https://www.metacareers.com/jobs/2357948038329505) ✨ | AI/ML | Seattle | 2026-11-23 | 2026-11-24 |
 | [Research Scientist Intern, Security & Integrity (PhD)](https://www.metacareers.com/jobs/4110138665949300) ✨ | AI/ML | Seattle | 2026-11-20 | 2026-11-21 |
 | [Research Scientist Intern, AI Agents for Autonomous Laboratories (PhD)](https://www.metacareers.com/jobs/29481973694788756) ✨ | AI/ML | Seattle | 2026-11-19 | 2026-11-20 |
-| [Research Scientist Intern, Physics-Grounded Multimodal Robot Learning (PhD)](https://www.metacareers.com/jobs/994911809842621) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
+| [Research Scientist Intern, Physics-Grounded Multimodal Robot Learning (PhD)](https://www.metacareers.com/jobs/994911809842621) | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
 | [Research Scientist Intern, Machine Learning for Robotics (PhD)](https://www.metacareers.com/jobs/1766347491109788) ✨ | AI/ML | Burlingame, CA | 2026-11-18 | 2026-11-20 |
-| [Research Scientist Intern, Computational Mechanics (PhD)](https://www.metacareers.com/jobs/1283598853967973) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
+| [Research Scientist Intern, Computational Mechanics (PhD)](https://www.metacareers.com/jobs/1283598853967973) | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
 | [Research Scientist Intern, Perception, Displays and Graphics (PhD)](https://www.metacareers.com/jobs/1500136678656794) | AI/ML | SF Bay Area | 2026-11-16 | 2026-11-17 |
 | [Research Scientist Intern, Intelligent Camera Systems (PhD)](https://www.metacareers.com/jobs/971210335715482) | AI/ML | Seattle | 2026-11-16 | 2026-11-17 |
 | [Research Scientist Intern, Materials Architecture & Device Integration (PhD)](https://www.metacareers.com/jobs/1674297360998408) | AI/ML | Seattle | 2026-11-13 | 2026-11-14 |
@@ -369,7 +368,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, Computer Vision - Video Intelligence (PhD)](https://www.metacareers.com/jobs/1126899676481179) | AI/ML | SF Bay Area | 2026-10-30 | 2026-10-31 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/1358944629494375) | AI/ML | Seattle | 2026-10-29 | 2026-10-31 |
 | [Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)](https://www.metacareers.com/jobs/1105933535765181) | AI/ML | Seattle | 2026-10-29 | 2026-10-30 |
-| [Research Scientist Intern, AI Infra (PhD)](https://www.metacareers.com/jobs/4603165899971826) | AI/ML | SF Bay Area | 2026-10-29 | 2026-10-30 |
 | [Research Scientist Intern, MSL - Agentic Post-Training (PhD)](https://www.metacareers.com/jobs/1155292783739299) | AI/ML | SF Bay Area | 2026-10-28 | 2026-10-31 |
 | [Research Scientist Intern, ML Innovation for Products (PhD)](https://www.metacareers.com/jobs/1060093353751700) | AI/ML | SF Bay Area | 2026-10-28 | 2026-10-30 |
 | [Research Scientist Intern, Youth Safety (PhD)](https://www.metacareers.com/jobs/984204394727196) | AI/ML | Seattle | 2026-10-27 | 2026-10-28 |
@@ -437,7 +435,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2211974449401350) | AI/ML | Seattle | 2026-10-05 | 2026-10-15 |
 | [Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)](https://www.metacareers.com/jobs/1940312740718917) | AI/ML | SF Bay Area | 2026-10-01 | 2026-10-15 |
 | [Software Engineer Intern, Systems and Infrastructure (PhD)](https://www.metacareers.com/jobs/945520495299801) | Software | SF Bay Area | 2026-09-25 | 2026-10-15 |
-| [Software Engineer Intern, Machine Learning (PhD)](https://www.metacareers.com/jobs/2180490782513668) | Software | SF Bay Area | 2026-09-10 | 2026-10-15 |
 | [Software Engineering Intern](https://www.metacareers.com/jobs/1952991802037374) | Software | SF Bay Area | 2026-09-08 | 2026-10-15 |
 | [Data Engineer Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1373603594867455) | Data | SF Bay Area | 2026-07-31 | 2026-10-15 |
 | [Data Scientist Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1633096478817942) | Data | SF Bay Area | 2026-07-28 | 2026-10-15 |
@@ -459,17 +456,15 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557097217) ✨ | AI/ML | Seattle | 2026-11-25 | 2026-11-26 |
-| [Research Intern - AI Systems Architecture and Efficient LLM Inference](https://apply.careers.microsoft.com/careers/job/1970393557079428) ✨ | AI/ML | Seattle | 2026-11-24 | 2026-11-25 |
 | [Research Intern - AI System Architecture Modeling and Performance](https://apply.careers.microsoft.com/careers/job/1970393557077583) ✨ | AI/ML | Hillsboro, OR | 2026-11-20 | 2026-11-21 |
 | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076215) ✨ | AI/ML | SF Bay Area | 2026-11-20 | 2026-11-21 |
 | [Research Intern - Deep Learning Group](https://apply.careers.microsoft.com/careers/job/1970393557076095) ✨ | AI/ML | Seattle | 2026-11-19 | 2026-11-20 |
-| [Research Intern - AI Safety, Alignment, and Post-Training](https://apply.careers.microsoft.com/careers/job/1970393557076142) ✨ | AI/ML | SF Bay Area | 2026-11-19 | 2026-11-20 |
 | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076159) ✨ | AI/ML | SF Bay Area | 2026-11-19 | 2026-11-20 |
 | [Data Science - Forward Deployed Engineer: PhD Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557040991) | Data | Seattle | 2026-11-19 | 2026-10-21 |
-| [Research Intern - Self-Improving & Secure AI Agents - Microsoft Research](https://apply.careers.microsoft.com/careers/job/1970393557075136) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
-| [Research Intern - Data Center and AI Networking](https://apply.careers.microsoft.com/careers/job/1970393557075457) ✨ | Data | SF Bay Area | 2026-11-18 | 2026-11-19 |
-| [Research Intern - Computer Vision and Deep Learning](https://apply.careers.microsoft.com/careers/job/1970393557075490) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
-| [Research Intern - AI Software Systems](https://apply.careers.microsoft.com/careers/job/1970393557075527) ✨ | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
+| [Research Intern - Self-Improving & Secure AI Agents - Microsoft Research](https://apply.careers.microsoft.com/careers/job/1970393557075136) | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
+| [Research Intern - Data Center and AI Networking](https://apply.careers.microsoft.com/careers/job/1970393557075457) | Data | SF Bay Area | 2026-11-18 | 2026-11-19 |
+| [Research Intern - Computer Vision and Deep Learning](https://apply.careers.microsoft.com/careers/job/1970393557075490) | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
+| [Research Intern - AI Software Systems](https://apply.careers.microsoft.com/careers/job/1970393557075527) | AI/ML | Seattle | 2026-11-18 | 2026-11-19 |
 | [Security Research: PhD Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557074642) | Security | Seattle | 2026-11-17 | 2026-11-18 |
 | [Research Intern - Firmware Security](https://apply.careers.microsoft.com/careers/job/1970393557075140) | Backend/Infra | Seattle | 2026-11-17 | 2026-11-18 |
 | [Electrical Engineering INTERN (PhD)](https://apply.careers.microsoft.com/careers/job/1970393556986148) | Software | Seattle | 2026-11-17 | 2026-11-14 |
@@ -477,9 +472,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Research Intern - AI Coding Agents](https://apply.careers.microsoft.com/careers/job/1970393557073416) | AI/ML | Seattle | 2026-11-13 | 2026-11-14 |
 | [Applied Science: Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986141) | AI/ML | Seattle | 2026-11-12 | 2026-10-15 |
 | [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) | AI/ML | SF Bay Area | 2026-11-11 | 2026-10-15 |
-| [Research Intern - Next-Generation AI Agents](https://apply.careers.microsoft.com/careers/job/1970393557070079) | AI/ML | Seattle | 2026-11-09 | 2026-11-10 |
 | [Research Intern - AI & Human Systems](https://apply.careers.microsoft.com/careers/job/1970393557056017) | AI/ML | New York | 2026-11-06 | 2026-11-07 |
-| [Research Intern - Research in Software Engineering, ML Systems, Agents](https://apply.careers.microsoft.com/careers/job/1970393557054069) | Software | Seattle | 2026-11-05 | 2026-11-05 |
 | [Software Engineer, Teamwork Experiences Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557037859) | Software | Seattle | 2026-11-03 | 2026-11-04 |
 | [Applied Scientist: Internship Opportunities, Turing](https://apply.careers.microsoft.com/careers/job/1970393557050150) | AI/ML | Seattle | 2026-10-29 | 2026-10-30 |
 | [Applied Science: PhD Internship Opportunities, Turing](https://apply.careers.microsoft.com/careers/job/1970393557050154) | AI/ML | Seattle | 2026-10-29 | 2026-10-30 |

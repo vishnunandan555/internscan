@@ -1,73 +1,10 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-26T03:42:05Z",
-  "new_count": 4,
+  "updated_at": "2026-11-27T03:43:33Z",
+  "new_count": 0,
   "reopened_count": 0,
-  "total_active": 420,
-  "new_jobs": [
-    {
-      "company": "Cisco",
-      "title": "Security Engineer I (Intern) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2025885",
-      "locations": [
-        "Research Triangle Park, North Carolina, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Research Intern - Machine Learning for Biology and Healthcare",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557097217",
-      "locations": [
-        "United States, Washington, Redmond"
-      ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Product Engineering Intern - Falcon Guardian",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622",
-      "locations": [
-        "2 Locations",
-        "USA, Sunnyvale CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Product Engineering Intern - Threat Detection",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621",
-      "locations": [
-        "2 Locations",
-        "USA, Sunnyvale CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-24",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
-    }
-  ],
+  "total_active": 413,
+  "new_jobs": [],
   "reopened_jobs": []
 }

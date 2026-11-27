@@ -1,10 +1,26 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-11-26T03:42:05Z",
-  "new_count": 0,
+  "updated_at": "2026-11-27T03:43:33Z",
+  "new_count": 1,
   "reopened_count": 0,
-  "total_active": 25,
-  "new_jobs": [],
+  "total_active": 26,
+  "new_jobs": [
+    {
+      "company": "Rubrik",
+      "title": "Software Engineer (UI) - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+      "locations": [
+        "Bangalore"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Software",
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    }
+  ],
   "reopened_jobs": []
 }

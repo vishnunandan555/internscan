@@ -1,25 +1,41 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-26T03:42:05Z",
-  "new_count": 1,
+  "updated_at": "2026-11-27T03:43:33Z",
+  "new_count": 2,
   "reopened_count": 0,
-  "total_active": 48,
+  "total_active": 49,
   "new_jobs": [
     {
       "company": "Amazon",
-      "title": "Operations Engineering Intern -  12 months, start date Q2 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10541452/operations-engineering-intern-12-months-start-date-q2-2027",
+      "title": "System Dev Engineer Internship 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10535149/system-dev-engineer-internship-2027",
       "locations": [
-        "London, England, GBR"
+        "Cambridge, England, GBR"
       ],
-      "city_tag": "London",
+      "city_tag": "Cambridge / Oxford",
       "country": "uk",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-09-15",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    {
+      "company": "HPE",
+      "title": "Technical Project Management Intern - Unstructured Storage",
+      "url": "https://careers.hpe.com/us/en/job/1216186",
+      "locations": [
+        "Winnersh, Berkshire, RG41 5TP",
+        "Winnersh, Berkshire, United Kingdom"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
     }
   ],
   "reopened_jobs": []

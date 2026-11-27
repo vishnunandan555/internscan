@@ -2,13 +2,13 @@
 
 # 🇮🇳 India — Tracked Employers & ATS Coverage
 
-> 🕐 Last updated: **2026-11-26 09:12:05 IST**
+> 🕐 Last updated: **2026-11-27 09:13:33 IST**
 
 [💼 **View Active Openings (jobs.md)**](jobs.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/)
 
 This registry tracks employer coverage, ATS integrations, fallback adapters, and campus recruitment policies for **India**.
 
-## 🟢 Directly Scraped Employers (47)
+## 🟢 Directly Scraped Employers (45)
 
 Official careers portals synced automatically via direct API adapters (Workday, Greenhouse, Lever, SmartRecruiters, Oracle HCM, Eightfold, custom APIs):
 
@@ -20,7 +20,6 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - Cisco
 - CloudSEK
 - Cloudflare
-- CrowdStrike
 - Databricks
 - Datadog
 - Dell Technologies
@@ -37,6 +36,7 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - JPMorgan Chase
 - Jane Street
 - Meesho
+- Meta
 - Micoworks
 - Microsoft
 - MongoDB
@@ -53,10 +53,8 @@ Official careers portals synced automatically via direct API adapters (Workday, 
 - Snowflake
 - Stripe
 - Swiggy
-- Target
 - Teachmint
 - Twilio
-- Wells Fargo
 - Zeta
 - Zomato
 

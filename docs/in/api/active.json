@@ -1,9 +1,24 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-11-26T03:42:05Z",
-  "total_active": 25,
+  "updated_at": "2026-11-27T03:43:33Z",
+  "total_active": 26,
   "jobs": [
+    {
+      "company": "Rubrik",
+      "title": "Software Engineer (UI) - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+      "locations": [
+        "Bangalore"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Software",
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
     {
       "company": "Amazon",
       "title": "Data Scientist I 6M Intern",
@@ -17,7 +32,7 @@
       "category": "Data",
       "posted": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "HPE",
@@ -33,7 +48,7 @@
       "category": "AI/ML",
       "posted": "2026-11-12",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "PayPal",
@@ -64,7 +79,7 @@
       "category": "AI/ML",
       "posted": "2026-11-04",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Meta",
@@ -79,7 +94,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-27",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "HackerRank",
@@ -94,7 +109,7 @@
       "category": "AI/ML",
       "posted": "2026-11-11",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Microsoft",
@@ -109,7 +124,7 @@
       "category": "AI/ML",
       "posted": "2026-11-23",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "HackerRank",
@@ -124,7 +139,7 @@
       "category": "Software",
       "posted": "2026-10-15",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Discover Dollar",
@@ -140,7 +155,7 @@
       "category": "Data",
       "posted": "2026-09-17",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Discover Dollar",
@@ -155,7 +170,7 @@
       "category": "AI/ML",
       "posted": "2026-08-06",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Discover Dollar",
@@ -170,7 +185,7 @@
       "category": "AI/ML",
       "posted": "2026-10-08",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Discover Dollar",
@@ -185,7 +200,7 @@
       "category": "Data",
       "posted": "2026-07-21",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "CloudSEK",
@@ -200,7 +215,7 @@
       "category": "Security",
       "posted": "2026-07-14",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Microsoft",
@@ -215,7 +230,7 @@
       "category": "Security",
       "posted": "2026-10-23",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Meta",
@@ -230,7 +245,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Meta",
@@ -245,7 +260,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-13",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Meta",
@@ -260,7 +275,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-05",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Meta",
@@ -275,7 +290,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-10-05",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Walmart Global Tech",
@@ -305,7 +320,7 @@
       "category": "Software",
       "posted": "2026-11-03",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Qualcomm",
@@ -321,7 +336,7 @@
       "category": "Software",
       "posted": "2026-09-09",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "NVIDIA",
@@ -353,7 +368,7 @@
       "category": "Software",
       "posted": "2026-09-01",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Google",
@@ -369,7 +384,7 @@
       "category": "Hardware/Silicon",
       "posted": "2026-09-07",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "company": "Google",
@@ -386,7 +401,7 @@
       "category": "Software",
       "posted": "2026-09-07",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     }
   ]
 }

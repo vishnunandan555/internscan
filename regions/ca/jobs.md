@@ -2,7 +2,7 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-26 09:12:05 IST** · 📌 **52** open verified internships
+> 🕐 Last updated: **2026-11-27 09:13:33 IST** · 📌 **52** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
@@ -114,7 +114,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [FY27 Intern - GPU Compiler Development Internship - Canada (4 months)](https://careers.qualcomm.com/careers/job/446722198182?domain=qualcomm.com) ✨ | Backend/Infra | Markham, ON | 2026-11-18 | 2026-11-19 |
+| [FY27 Intern - GPU Compiler Development Internship - Canada (4 months)](https://careers.qualcomm.com/careers/job/446722198182?domain=qualcomm.com) | Backend/Infra | Markham, ON | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722176432?domain=qualcomm.com) | AI/ML | Markham, ON | 2026-11-17 | 2026-11-18 |
 | [FY27 Intern - Firmware Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722038614?domain=qualcomm.com) | Backend/Infra | Toronto | 2026-11-09 | 2026-11-10 |
 | [FY27 Intern - Software Validation Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722003454?domain=qualcomm.com) | Software | Markham, ON | 2026-11-06 | 2026-11-07 |

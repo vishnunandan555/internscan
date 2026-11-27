@@ -1,42 +1,57 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-26T03:42:05Z",
-  "new_count": 1,
+  "updated_at": "2026-11-27T03:43:33Z",
+  "new_count": 2,
   "reopened_count": 1,
-  "total_active": 141,
+  "total_active": 142,
   "new_jobs": [
     {
-      "company": "Apple",
-      "title": "Internship - Agentic Data Generation for High-Fidelity Personal Data, Global Siri",
-      "url": "https://jobs.apple.com/en-us/details/200696800/internship-agentic-data-generation-for-high-fidelity-personal-data-global-siri",
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Internship, AWS EC2",
+      "url": "https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2",
       "locations": [
-        "Barcelona"
+        "Berlin, Berlin, DEU"
+      ],
+      "city_tag": "Berlin",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    {
+      "company": "Nokia",
+      "title": "Electronics & Telecommunications Engineering Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41103",
+      "locations": [
+        "Italy"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
+      "category": "Software",
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Apple",
-      "title": "Software Engineering Intern, Apple Services - Dublin, Ireland",
-      "url": "https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania",
+      "url": "https://careers.qualcomm.com/careers/job/446722247054?domain=qualcomm.com",
       "locations": [
-        "Dublin"
+        "Timisoara, Romania"
       ],
-      "city_tag": "Dublin",
+      "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-26"
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-27"
     }
   ]
 }

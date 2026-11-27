@@ -1,118 +1,102 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-11-26T03:42:05Z",
-  "new_count": 6,
+  "updated_at": "2026-11-27T03:43:33Z",
+  "new_count": 5,
   "reopened_count": 1,
-  "total_active": 687,
+  "total_active": 683,
   "new_jobs": [
     {
-      "company": "Apple",
-      "title": "Internship - Agentic Data Generation for High-Fidelity Personal Data, Global Siri",
-      "url": "https://jobs.apple.com/en-us/details/200696800/internship-agentic-data-generation-for-high-fidelity-personal-data-global-siri",
+      "company": "Amazon",
+      "title": "2027 Software Dev Engineer Internship, AWS EC2",
+      "url": "https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2",
       "locations": [
-        "Barcelona"
+        "Berlin, Berlin, DEU"
+      ],
+      "city_tag": "Berlin",
+      "country": "eu",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    {
+      "company": "Amazon",
+      "title": "System Dev Engineer Internship 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10535149/system-dev-engineer-internship-2027",
+      "locations": [
+        "Cambridge, England, GBR"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Software",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    {
+      "company": "HPE",
+      "title": "Technical Project Management Intern - Unstructured Storage",
+      "url": "https://careers.hpe.com/us/en/job/1216186",
+      "locations": [
+        "Winnersh, Berkshire, RG41 5TP",
+        "Winnersh, Berkshire, United Kingdom"
+      ],
+      "city_tag": "UK (Other)",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    {
+      "company": "Nokia",
+      "title": "Electronics & Telecommunications Engineering Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41103",
+      "locations": [
+        "Italy"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
-      "category": "Data",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
-    },
-    {
-      "company": "Cisco",
-      "title": "Security Engineer I (Intern) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2025885",
-      "locations": [
-        "Research Triangle Park, North Carolina, United States of America"
-      ],
-      "city_tag": "US (Other)",
-      "country": "us",
-      "region": "AMER",
-      "category": "Security",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
-    },
-    {
-      "company": "Amazon",
-      "title": "Operations Engineering Intern -  12 months, start date Q2 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10541452/operations-engineering-intern-12-months-start-date-q2-2027",
-      "locations": [
-        "London, England, GBR"
-      ],
-      "city_tag": "London",
-      "country": "uk",
-      "region": "EMEA",
       "category": "Software",
-      "posted": "2026-09-15",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
     },
     {
-      "company": "Microsoft",
-      "title": "Research Intern - Machine Learning for Biology and Healthcare",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557097217",
+      "company": "Rubrik",
+      "title": "Software Engineer (UI) - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
       "locations": [
-        "United States, Washington, Redmond"
+        "Bangalore"
       ],
-      "city_tag": "Seattle",
-      "country": "us",
-      "region": "AMER",
-      "category": "AI/ML",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Product Engineering Intern - Falcon Guardian",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622",
-      "locations": [
-        "2 Locations",
-        "USA, Sunnyvale CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
       "category": "Software",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
-    },
-    {
-      "company": "CrowdStrike",
-      "title": "Product Engineering Intern - Threat Detection",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621",
-      "locations": [
-        "2 Locations",
-        "USA, Sunnyvale CA"
-      ],
-      "city_tag": "SF Bay Area",
-      "country": "us",
-      "region": "AMER",
-      "category": "Software",
-      "posted": "2026-11-24",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
     }
   ],
   "reopened_jobs": [
     {
-      "company": "Apple",
-      "title": "Software Engineering Intern, Apple Services - Dublin, Ireland",
-      "url": "https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania",
+      "url": "https://careers.qualcomm.com/careers/job/446722247054?domain=qualcomm.com",
       "locations": [
-        "Dublin"
+        "Timisoara, Romania"
       ],
-      "city_tag": "Dublin",
+      "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-25",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-26"
+      "posted": "2026-11-26",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-27"
     }
   ]
 }

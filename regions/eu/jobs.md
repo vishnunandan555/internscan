@@ -2,14 +2,14 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-26 09:12:05 IST** · 📌 **141** open verified internships
+> 🕐 Last updated: **2026-11-27 09:13:33 IST** · 📌 **142** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Europe**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (141)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (142)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -23,15 +23,16 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **3** |
 | [Google](#google) | **5** |
-| [HPE](#hpe) | **8** |
+| [HPE](#hpe) | **7** |
 | [Intel](#intel) | **17** |
 | [Meta](#meta) | **13** |
 | [Micron](#micron) | **1** |
 | [Microsoft](#microsoft) | **8** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **14** |
+| [Nokia](#nokia) | **1** |
 | [Oracle](#oracle) | **1** |
-| [Qualcomm](#qualcomm) | **16** |
+| [Qualcomm](#qualcomm) | **17** |
 | [Salesforce](#salesforce) | **1** |
 | [Snowflake](#snowflake) | **5** |
 | [Stripe](#stripe) | **2** |
@@ -71,13 +72,13 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Software Dev Engineer Internship, AWS EC2](https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2) ✨ | Software | Berlin | 2026-11-26 | 2026-11-27 |
 | [Applied Scientist Intern - VLA and DATA, RIVR](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) | AI/ML | Zurich | 2026-11-10 | 2026-11-11 |
 | [2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition) | AI/ML | Bucharest, Romania | 2026-11-04 | 2026-11-05 |
 | [SLAM / Computer Vision Intern, RIVR](https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr) | AI/ML | Zurich | 2026-11-03 | 2026-11-04 |
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027) | Software | Munich | 2026-10-30 | 2026-10-31 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | Bucharest, Romania | 2026-10-21 | 2026-10-22 |
 | [Business Intelligence Intern Spain](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) | Data | Madrid, Community Of Madrid | 2026-10-19 | 2026-10-20 |
-| [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) | Data | Clichy, Ile-De-France | 2026-10-15 | 2026-10-16 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | Security | Dublin | 2026-10-13 | 2026-10-15 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | Berlin | 2026-10-09 | 2026-10-27 |
 | [Network Development Engineer Intern](https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern) | Backend/Infra | Dublin | 2026-10-06 | 2026-10-15 |
@@ -97,7 +98,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern, Apple Services - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland) ✨ | Software | Dublin | 2026-11-25 | 2026-11-19 |
+| [Software Engineering Intern, Apple Services - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland) | Software | Dublin | 2026-11-25 | 2026-11-19 |
 | [Internship - Agentic Data Generation for High-Fidelity Personal Data, Global Siri](https://jobs.apple.com/en-us/details/200696800/internship-agentic-data-generation-for-high-fidelity-personal-data-global-siri) ✨ | Data | Barcelona | 2026-11-25 | 2026-11-26 |
 | [Creative Apps, Colour and Imaging Science Engineering Intern - Copenhagen, Denmark](https://jobs.apple.com/en-us/details/200693402/creative-apps-colour-and-imaging-science-engineering-intern-copenhagen-denmark) ✨ | Software | Copenhagen | 2026-11-24 | 2026-11-25 |
 | [Graphics Tooling and Rendering Engineering Intern](https://jobs.apple.com/en-us/details/200694482/graphics-tooling-and-rendering-engineering-intern) ✨ | Software | Paris | 2026-11-20 | 2026-11-21 |
@@ -156,13 +157,12 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Cybersecurity Sales & Business - Part time Intern](https://careers.hpe.com/us/en/job/1213973) ✨ | Security | Las Rozas, Madrid | 2026-11-20 | 2026-11-21 |
-| [Internship – Networking Systems Engineer](https://careers.hpe.com/us/en/job/1214495) ✨ | Backend/Infra | Rome, Roma | 2026-11-18 | 2026-11-19 |
-| [Internship – Networking Systems Engineer](https://careers.hpe.com/us/en/job/1214496) ✨ | Backend/Infra | Milan, Milano | 2026-11-18 | 2026-11-19 |
+| [Internship – Networking Systems Engineer](https://careers.hpe.com/us/en/job/1214495) | Backend/Infra | Rome, Roma | 2026-11-18 | 2026-11-19 |
+| [Internship – Networking Systems Engineer](https://careers.hpe.com/us/en/job/1214496) | Backend/Infra | Milan, Milano | 2026-11-18 | 2026-11-19 |
 | [Data Services Business Support - Part Time Internship](https://careers.hpe.com/us/en/job/1217184) | Data | Las Rozas, Madrid | 2026-11-12 | 2026-11-13 |
 | [AI and Data Intern](https://careers.hpe.com/us/en/job/1218829) | AI/ML | Las Rozas, Madrid | 2026-11-09 | 2026-11-07 |
 | [DevOps Intern (Undergraduate)](https://careers.hpe.com/us/en/job/1213976) | Backend/Infra | Bolzano Vicentino, Vicenza | 2026-11-03 | 2026-11-04 |
 | [AI & Automation Intern – Product Engineering / NPI](https://careers.hpe.com/us/en/job/1216274) | AI/ML | Kutna Hora, Czechia; Kutna Hora | 2026-10-29 | 2026-10-30 |
-| [Data Analytics Intern – Channel Team](https://careers.hpe.com/us/en/job/1210859) | Data | Milan, Milano | 2026-09-17 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
@@ -263,6 +263,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 
+### Nokia
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Electronics & Telecommunications Engineering Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41103) ✨ | Software | Italy | 2026-11-26 | 2026-11-27 |
+
+[⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
+
 ### Oracle
 
 | Role | Category | Hub / Location | Posted | First seen |
@@ -275,11 +283,12 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania](https://careers.qualcomm.com/careers/job/446722247054?domain=qualcomm.com) ✨ | Software | Timisoara, Romania | 2026-11-26 | 2026-11-21 |
 | [FY27 Summer Intern - Build Tools and Data Solutions for Smarter Vehicles - Linkoping, Sweden](https://careers.qualcomm.com/careers/job/446722309859?domain=qualcomm.com) ✨ | Data | Linkoping, Sweden | 2026-11-23 | 2026-11-24 |
 | [FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com) | AI/ML | Amsterdam | 2026-11-23 | 2026-11-04 |
 | [FY27 - Software Test Modernization Summer Intern - June-Aug 2027, Linköping, Sweden](https://careers.qualcomm.com/careers/job/446722311211?domain=qualcomm.com) ✨ | QA | Linkoping, Sweden | 2026-11-23 | 2026-11-24 |
 | [FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-19 | 2026-10-15 |
-| [FY27 Intern - Product Validation Engineer - 6 months, Colombes](https://careers.qualcomm.com/careers/job/446722172701?domain=qualcomm.com) ✨ | QA | Colombes, France | 2026-11-18 | 2026-11-19 |
+| [FY27 Intern - Product Validation Engineer - 6 months, Colombes](https://careers.qualcomm.com/careers/job/446722172701?domain=qualcomm.com) | QA | Colombes, France | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden](https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com) | AI/ML | Stockholm, Sweden | 2026-11-13 | 2026-11-14 |
 | [FY27 Intern - Hardware Design for Post-Quantum Cryptography - 6 months, Sophia](https://careers.qualcomm.com/careers/job/446722029766?domain=qualcomm.com) | Hardware/Silicon | Sophia Antipolis, France | 2026-11-09 | 2026-11-10 |
 | [FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-09 | 2026-10-15 |
