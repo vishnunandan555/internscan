@@ -2,7 +2,7 @@
 
 # 🇨🇦 Canada — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-27 09:13:33 IST** · 📌 **52** open verified internships
+> 🕐 Last updated: **2026-11-28 08:55:42 IST** · 📌 **52** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/ca/) · [⚡ **REST API**](https://internscan.vercel.app/ca/api/active.json)
@@ -87,7 +87,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Research Intern - AI Serving Systems and Hardware - Microsoft Research](https://apply.careers.microsoft.com/careers/job/1970393557076203) ✨ | AI/ML | Vancouver | 2026-11-19 | 2026-11-20 |
+| [Research Intern - AI Serving Systems and Hardware - Microsoft Research](https://apply.careers.microsoft.com/careers/job/1970393557076203) | AI/ML | Vancouver | 2026-11-19 | 2026-11-20 |
 | [Solution Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557045545) | Software | Toronto | 2026-11-16 | 2026-11-17 |
 | [Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning](https://apply.careers.microsoft.com/careers/job/1970393557040927) | AI/ML | Montreal | 2026-10-14 | 2026-10-15 |
 

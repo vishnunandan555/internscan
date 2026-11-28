@@ -2,19 +2,20 @@
 
 # 🇬🇧 United Kingdom — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-27 09:13:33 IST** · 📌 **49** open verified internships
+> 🕐 Last updated: **2026-11-28 08:55:42 IST** · 📌 **51** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/uk/) · [⚡ **REST API**](https://internscan.vercel.app/uk/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **United Kingdom**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (49)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (51)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in United Kingdom |
 |---|:---:|
+| [AMD](#amd) | **1** |
 | [Adobe](#adobe) | **1** |
 | [Amazon](#amazon) | **11** |
 | [Apple](#apple) | **1** |
@@ -25,7 +26,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [HPE](#hpe) | **4** |
 | [JPMorgan Chase](#jpmorgan-chase) | **3** |
 | [Meta](#meta) | **10** |
-| [Microsoft](#microsoft) | **3** |
+| [Microsoft](#microsoft) | **4** |
 | [Qualcomm](#qualcomm) | **5** |
 | [Stripe](#stripe) | **1** |
 | [Visa](#visa) | **3** |
@@ -35,6 +36,14 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 <a id="open-internships"></a>
 
 ## 💼 Open Internship Postings
+
+### AMD
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Summer 2027 Hardware Engineering Intern](https://careers.amd.com/careers-home/jobs/102333) ✨ | Hardware/Silicon | Belfast | 2026-11-26 | 2026-11-28 |
+
+[⬆️ Back to Top](#top) · [📋 View United Kingdom Companies](companies.md)
 
 ### Adobe
 
@@ -147,7 +156,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557075448) ✨ | AI/ML | Cambridge / Oxford | 2026-11-19 | 2026-11-20 |
+| [Cambridge Research Intern - Distributed AI systems for agentic workflows](https://apply.careers.microsoft.com/careers/job/1970393557106762) ✨ | Backend/Infra | Cambridge / Oxford | 2026-11-27 | 2026-11-28 |
+| [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557075448) | AI/ML | Cambridge / Oxford | 2026-11-19 | 2026-11-20 |
 | [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) | AI/ML | Cambridge / Oxford | 2026-11-11 | 2026-11-12 |
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Security | Cambridge / Oxford | 2026-10-30 | 2026-10-31 |
 

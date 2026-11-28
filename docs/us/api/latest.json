@@ -1,10 +1,72 @@
 {
   "version": "2.0.0",
   "country": "us",
-  "updated_at": "2026-11-27T03:43:33Z",
+  "updated_at": "2026-11-28T03:25:42Z",
   "new_count": 0,
-  "reopened_count": 0,
-  "total_active": 413,
+  "reopened_count": 4,
+  "total_active": 416,
   "new_jobs": [],
-  "reopened_jobs": []
+  "reopened_jobs": [
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - AI Safety, Alignment, and Post-Training",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076142",
+      "locations": [
+        "United States, California, Mountain View",
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "SF Bay Area",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - AI Systems Architecture and Efficient LLM Inference",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "Software",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Intern - Next-Generation AI Agents",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "city_tag": "Seattle",
+      "country": "us",
+      "region": "AMER",
+      "category": "AI/ML",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-28"
+    }
+  ]
 }

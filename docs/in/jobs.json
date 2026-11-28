@@ -1,23 +1,59 @@
 {
-  "updated_at": "2026-11-27T03:43:33Z",
+  "updated_at": "2026-11-28T03:25:42Z",
   "jobs": {
-    "rubrik:8413157": {
-      "uid": "rubrik:8413157",
-      "company": "Rubrik",
-      "external_id": "8413157",
-      "title": "Software Engineer (UI) - Winter Intern",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+    "cloudsek:6272366004": {
+      "uid": "cloudsek:6272366004",
+      "company": "CloudSEK",
+      "external_id": "6272366004",
+      "title": "Customer Threat Advisor - Intern (Offensive)",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6272366004",
       "locations": [
-        "Bangalore"
+        "Bengaluru, Karnataka, India"
+      ],
+      "category": "Security",
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "posted": "2026-11-27",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "active": true
+    },
+    "cloudsek:6200261004": {
+      "uid": "cloudsek:6200261004",
+      "company": "CloudSEK",
+      "external_id": "6200261004",
+      "title": "SDE Intern - Frontend",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6200261004",
+      "locations": [
+        "Bengaluru, Karnataka, India"
       ],
       "category": "Software",
       "city_tag": "Bengaluru",
       "country": "in",
       "region": "APAC",
-      "posted": "2026-11-26",
-      "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27",
+      "posted": "2026-11-27",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
       "active": true
+    },
+    "rubrik:8413157": {
+      "uid": "rubrik:8413157",
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Rubrik",
+      "country": "in",
+      "external_id": "8413157",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
+      "locations": [
+        "Bangalore"
+      ],
+      "posted": "2026-11-26",
+      "region": "APAC",
+      "title": "Software Engineer (UI) - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157"
     },
     "amazon:10443572": {
       "uid": "amazon:10443572",
@@ -28,7 +64,7 @@
       "country": "in",
       "external_id": "10443572",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Chennai, Tamil Nadu, IND"
       ],
@@ -46,7 +82,7 @@
       "country": "in",
       "external_id": "1191423",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bengaluru, Karnātaka, 560048",
         "Bengaluru, Karnātaka, India"
@@ -84,7 +120,7 @@
       "country": "in",
       "external_id": "125423735539671750",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "India"
       ],
@@ -102,7 +138,7 @@
       "country": "in",
       "external_id": "1823027662342331",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India"
       ],
@@ -120,7 +156,7 @@
       "country": "in",
       "external_id": "8281055",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Onsite in Bangalore"
       ],
@@ -138,7 +174,7 @@
       "country": "in",
       "external_id": "1970393556917519",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -156,7 +192,7 @@
       "country": "in",
       "external_id": "8229735",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Onsite in Bangalore"
       ],
@@ -174,7 +210,7 @@
       "country": "in",
       "external_id": "125740",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India",
         "Mangaluru, India"
@@ -193,7 +229,7 @@
       "country": "in",
       "external_id": "155175",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India"
       ],
@@ -211,7 +247,7 @@
       "country": "in",
       "external_id": "164757",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India"
       ],
@@ -229,7 +265,7 @@
       "country": "in",
       "external_id": "91847",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore"
       ],
@@ -247,11 +283,11 @@
       "country": "in",
       "external_id": "6115382004",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bengaluru, Karnataka, India"
       ],
-      "posted": "2026-07-14",
+      "posted": "2026-11-27",
       "region": "APAC",
       "title": "Security Consultant Intern",
       "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6115382004"
@@ -265,7 +301,7 @@
       "country": "in",
       "external_id": "1970393557043380",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -283,7 +319,7 @@
       "country": "in",
       "external_id": "1046140895105013",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India"
       ],
@@ -301,7 +337,7 @@
       "country": "in",
       "external_id": "1123459746795309",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India"
       ],
@@ -319,7 +355,7 @@
       "country": "in",
       "external_id": "1631077978652493",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India"
       ],
@@ -337,7 +373,7 @@
       "country": "in",
       "external_id": "939474918844068",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India"
       ],
@@ -355,11 +391,11 @@
       "country": "in",
       "external_id": "R-2557935",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-28",
       "locations": [
         "IN KA BANGALORE Home Office Building 10"
       ],
-      "posted": "2026-10-26",
+      "posted": "2026-10-29",
       "region": "APAC",
       "title": "(IND) Grad Intern - No Work Experience",
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935"
@@ -373,7 +409,7 @@
       "country": "in",
       "external_id": "8166537",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore"
       ],
@@ -391,7 +427,7 @@
       "country": "in",
       "external_id": "446719784824",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bangalore, India",
         "Hyderabad, Telangāna, India"
@@ -429,7 +465,7 @@
       "country": "in",
       "external_id": "1211843",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bengaluru, Karnātaka, 560048",
         "Bengaluru, Karnātaka, India"
@@ -448,7 +484,7 @@
       "country": "in",
       "external_id": "109375266236572358",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bengaluru, Karnataka, India",
         "Hyderabad, Telangana, India"
@@ -467,7 +503,7 @@
       "country": "in",
       "external_id": "109976286780105414",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Bengaluru, Karnataka, India",
         "Hyderabad, Telangana, India",

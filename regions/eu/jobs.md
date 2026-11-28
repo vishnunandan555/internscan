@@ -2,14 +2,14 @@
 
 # 🇪🇺 Europe — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-27 09:13:33 IST** · 📌 **142** open verified internships
+> 🕐 Last updated: **2026-11-28 08:55:42 IST** · 📌 **139** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (53)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/eu/) · [⚡ **REST API**](https://internscan.vercel.app/eu/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **Europe**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (142)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (139)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
@@ -17,8 +17,8 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 |---|:---:|
 | [Accenture](#accenture) | **8** |
 | [Adobe](#adobe) | **2** |
-| [Amazon](#amazon) | **19** |
-| [Apple](#apple) | **10** |
+| [Amazon](#amazon) | **18** |
+| [Apple](#apple) | **9** |
 | [Cisco](#cisco) | **2** |
 | [Databricks](#databricks) | **3** |
 | [Datadog](#datadog) | **3** |
@@ -27,7 +27,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [Intel](#intel) | **17** |
 | [Meta](#meta) | **13** |
 | [Micron](#micron) | **1** |
-| [Microsoft](#microsoft) | **8** |
+| [Microsoft](#microsoft) | **7** |
 | [MongoDB](#mongodb) | **2** |
 | [NVIDIA](#nvidia) | **14** |
 | [Nokia](#nokia) | **1** |
@@ -89,7 +89,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) | Security | Paris, Ile-De-France | 2026-10-02 | 2026-10-15 |
 | [2027 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) | Software | Madrid, Community Of Madrid | 2026-09-22 | 2026-10-15 |
 | [2027 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany) | Software | Berlin | 2026-09-21 | 2026-10-15 |
-| [Operations Engineering Intern -  start date Q3 2027](https://www.amazon.jobs/en/jobs/10541498/operations-engineering-intern-start-date-q3-2027) | Software | Berlin | 2026-09-15 | 2026-10-15 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin | 2026-05-13 | 2026-10-15 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
@@ -98,7 +97,6 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern, Apple Services - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland) | Software | Dublin | 2026-11-25 | 2026-11-19 |
 | [Internship - Agentic Data Generation for High-Fidelity Personal Data, Global Siri](https://jobs.apple.com/en-us/details/200696800/internship-agentic-data-generation-for-high-fidelity-personal-data-global-siri) ✨ | Data | Barcelona | 2026-11-25 | 2026-11-26 |
 | [Creative Apps, Colour and Imaging Science Engineering Intern - Copenhagen, Denmark](https://jobs.apple.com/en-us/details/200693402/creative-apps-colour-and-imaging-science-engineering-intern-copenhagen-denmark) ✨ | Software | Copenhagen | 2026-11-24 | 2026-11-25 |
 | [Graphics Tooling and Rendering Engineering Intern](https://jobs.apple.com/en-us/details/200694482/graphics-tooling-and-rendering-engineering-intern) ✨ | Software | Paris | 2026-11-20 | 2026-11-21 |
@@ -222,12 +220,11 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Solution Engineering INTERN - Security](https://apply.careers.microsoft.com/careers/job/1970393557106744) ✨ | Software | Wien, Austria | 2026-11-27 | 2026-11-28 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557044053) | Software | Finland, Satakunta | 2026-11-22 | 2026-11-11 |
-| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557076037) ✨ | Software | Stuttgart, Baden-Württemberg | 2026-11-19 | 2026-11-20 |
-| [Data Science - PhD Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557072640) ✨ | Data | Zurich | 2026-11-19 | 2026-11-20 |
+| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557076037) | Software | Stuttgart, Baden-Württemberg | 2026-11-19 | 2026-11-20 |
+| [Data Science - PhD Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557072640) | Data | Zurich | 2026-11-19 | 2026-11-20 |
 | [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557053762) | Hardware/Silicon | Finland, Satakunta | 2026-11-09 | 2026-11-10 |
-| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Backend/Infra | Schiphol, Noord-Holland | 2026-11-09 | 2026-11-10 |
-| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) | Backend/Infra | Multiple Locations | 2026-11-09 | 2026-11-10 |
 | [Copilot & AI Solution Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556998782) | AI/ML | Brussels, Brussels Region | 2026-09-15 | 2026-10-16 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | Brussels, Brussels Region | 2026-09-14 | 2026-10-15 |
 
@@ -283,10 +280,10 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [FY27 Summer Intern - Build Tools and Data Solutions for Smarter Vehicles - Linkoping, Sweden](https://careers.qualcomm.com/careers/job/446722309859?domain=qualcomm.com) ✨ | Data | Linkoping, Sweden | 2026-11-27 | 2026-11-24 |
+| [FY27 - Software Test Modernization Summer Intern - June-Aug 2027, Linköping, Sweden](https://careers.qualcomm.com/careers/job/446722311211?domain=qualcomm.com) ✨ | QA | Linkoping, Sweden | 2026-11-27 | 2026-11-24 |
 | [FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania](https://careers.qualcomm.com/careers/job/446722247054?domain=qualcomm.com) ✨ | Software | Timisoara, Romania | 2026-11-26 | 2026-11-21 |
-| [FY27 Summer Intern - Build Tools and Data Solutions for Smarter Vehicles - Linkoping, Sweden](https://careers.qualcomm.com/careers/job/446722309859?domain=qualcomm.com) ✨ | Data | Linkoping, Sweden | 2026-11-23 | 2026-11-24 |
 | [FY27 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446721932621?domain=qualcomm.com) | AI/ML | Amsterdam | 2026-11-23 | 2026-11-04 |
-| [FY27 - Software Test Modernization Summer Intern - June-Aug 2027, Linköping, Sweden](https://careers.qualcomm.com/careers/job/446722311211?domain=qualcomm.com) ✨ | QA | Linkoping, Sweden | 2026-11-23 | 2026-11-24 |
 | [FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com) | Software | Cork, Ireland | 2026-11-19 | 2026-10-15 |
 | [FY27 Intern - Product Validation Engineer - 6 months, Colombes](https://careers.qualcomm.com/careers/job/446722172701?domain=qualcomm.com) | QA | Colombes, France | 2026-11-18 | 2026-11-19 |
 | [FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden](https://careers.qualcomm.com/careers/job/446722110729?domain=qualcomm.com) | AI/ML | Stockholm, Sweden | 2026-11-13 | 2026-11-14 |
@@ -307,7 +304,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Data Science & Analytics Intern, Alliances & Channels - February 2027](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Data-Science---Analytics-Intern--Alliances---Channels---February-2027_JR368786-1) ✨ | Data | France - Paris; Paris, France | 2026-11-20 | 2026-11-20 |
+| [Data Science & Analytics Intern, Alliances & Channels - February 2027](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Data-Science---Analytics-Intern--Alliances---Channels---February-2027_JR368786-1) | Data | France - Paris; Paris, France | 2026-11-20 | 2026-11-20 |
 
 [⬆️ Back to Top](#top) · [📋 View Europe Companies](companies.md)
 

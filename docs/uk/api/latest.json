@@ -1,41 +1,40 @@
 {
   "version": "2.0.0",
   "country": "uk",
-  "updated_at": "2026-11-27T03:43:33Z",
+  "updated_at": "2026-11-28T03:25:42Z",
   "new_count": 2,
   "reopened_count": 0,
-  "total_active": 49,
+  "total_active": 51,
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "System Dev Engineer Internship 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10535149/system-dev-engineer-internship-2027",
+      "company": "AMD",
+      "title": "Summer 2027 Hardware Engineering Intern",
+      "url": "https://careers.amd.com/careers-home/jobs/102333",
       "locations": [
-        "Cambridge, England, GBR"
-      ],
-      "city_tag": "Cambridge / Oxford",
-      "country": "uk",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-14",
-      "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27"
-    },
-    {
-      "company": "HPE",
-      "title": "Technical Project Management Intern - Unstructured Storage",
-      "url": "https://careers.hpe.com/us/en/job/1216186",
-      "locations": [
-        "Winnersh, Berkshire, RG41 5TP",
-        "Winnersh, Berkshire, United Kingdom"
+        "Belfast, United Kingdom"
       ],
       "city_tag": "UK (Other)",
       "country": "uk",
       "region": "EMEA",
-      "category": "Backend/Infra",
+      "category": "Hardware/Silicon",
       "posted": "2026-11-26",
-      "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27"
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Cambridge Research Intern - Distributed AI systems for agentic workflows",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557106762",
+      "locations": [
+        "United Kingdom, Cambridgeshire, Cambridge"
+      ],
+      "city_tag": "Cambridge / Oxford",
+      "country": "uk",
+      "region": "EMEA",
+      "category": "Backend/Infra",
+      "posted": "2026-11-27",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
     }
   ],
   "reopened_jobs": []

@@ -1,57 +1,26 @@
 {
   "version": "2.0.0",
   "country": "eu",
-  "updated_at": "2026-11-27T03:43:33Z",
-  "new_count": 2,
-  "reopened_count": 1,
-  "total_active": 142,
+  "updated_at": "2026-11-28T03:25:42Z",
+  "new_count": 1,
+  "reopened_count": 0,
+  "total_active": 139,
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "2027 Software Dev Engineer Internship, AWS EC2",
-      "url": "https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2",
+      "company": "Microsoft",
+      "title": "Solution Engineering INTERN - Security",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557106744",
       "locations": [
-        "Berlin, Berlin, DEU"
-      ],
-      "city_tag": "Berlin",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-26",
-      "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27"
-    },
-    {
-      "company": "Nokia",
-      "title": "Electronics & Telecommunications Engineering Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41103",
-      "locations": [
-        "Italy"
+        "Austria, Wien, Vienna"
       ],
       "city_tag": "Europe (Other)",
       "country": "eu",
       "region": "EMEA",
       "category": "Software",
-      "posted": "2026-11-26",
-      "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27"
+      "posted": "2026-11-27",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
     }
   ],
-  "reopened_jobs": [
-    {
-      "company": "Qualcomm",
-      "title": "FY27 Intern - ADAS, AD Solution, Software Engineering – 12 months, Timisoara, Romania",
-      "url": "https://careers.qualcomm.com/careers/job/446722247054?domain=qualcomm.com",
-      "locations": [
-        "Timisoara, Romania"
-      ],
-      "city_tag": "Europe (Other)",
-      "country": "eu",
-      "region": "EMEA",
-      "category": "Software",
-      "posted": "2026-11-26",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-27"
-    }
-  ]
+  "reopened_jobs": []
 }

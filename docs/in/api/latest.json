@@ -1,25 +1,40 @@
 {
   "version": "2.0.0",
   "country": "in",
-  "updated_at": "2026-11-27T03:43:33Z",
-  "new_count": 1,
+  "updated_at": "2026-11-28T03:25:42Z",
+  "new_count": 2,
   "reopened_count": 0,
-  "total_active": 26,
+  "total_active": 28,
   "new_jobs": [
     {
-      "company": "Rubrik",
-      "title": "Software Engineer (UI) - Winter Intern",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+      "company": "CloudSEK",
+      "title": "Customer Threat Advisor - Intern (Offensive)",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6272366004",
       "locations": [
-        "Bangalore"
+        "Bengaluru, Karnataka, India"
+      ],
+      "city_tag": "Bengaluru",
+      "country": "in",
+      "region": "APAC",
+      "category": "Security",
+      "posted": "2026-11-27",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
+    },
+    {
+      "company": "CloudSEK",
+      "title": "SDE Intern - Frontend",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6200261004",
+      "locations": [
+        "Bengaluru, Karnataka, India"
       ],
       "city_tag": "Bengaluru",
       "country": "in",
       "region": "APAC",
       "category": "Software",
-      "posted": "2026-11-26",
-      "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27"
+      "posted": "2026-11-27",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
     }
   ],
   "reopened_jobs": []

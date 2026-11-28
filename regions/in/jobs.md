@@ -2,21 +2,21 @@
 
 # 🇮🇳 India — Active Tech & Software Internship Listings
 
-> 🕐 Last updated: **2026-11-27 09:13:33 IST** · 📌 **26** open verified internships
+> 🕐 Last updated: **2026-11-28 08:55:42 IST** · 📌 **28** open verified internships
 > · ✨ = added in the last 7 days
 
 [📋 **Tracked Employers (70)**](companies.md) · [🌐 **Global Project README**](../../README.md) · [💻 **Live Web Portal**](https://internscan.vercel.app/in/) · [⚡ **REST API**](https://internscan.vercel.app/in/api/active.json)
 
 Verified engineering, AI/ML, data, and systems internships across premier employers in **India**. All postings are scraped directly from official ATS portals every 24 hours.
 
-[⬇️ **Skip directly to Open Internship Postings (26)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (28)**](#open-internships)
 
 ## 🏢 Employers with Open Roles
 
 | Company | Open Internships in India |
 |---|:---:|
 | [Amazon](#amazon) | **1** |
-| [CloudSEK](#cloudsek) | **1** |
+| [CloudSEK](#cloudsek) | **3** |
 | [Discover Dollar](#discover-dollar) | **4** |
 | [Google](#google) | **3** |
 | [HPE](#hpe) | **2** |
@@ -47,7 +47,9 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Security Consultant Intern](https://job-boards.greenhouse.io/cloudsek/jobs/6115382004) | Security | Bengaluru | 2026-07-14 | 2026-10-27 |
+| [Security Consultant Intern](https://job-boards.greenhouse.io/cloudsek/jobs/6115382004) | Security | Bengaluru | 2026-11-27 | 2026-10-27 |
+| [SDE Intern - Frontend](https://job-boards.greenhouse.io/cloudsek/jobs/6200261004) ✨ | Software | Bengaluru | 2026-11-27 | 2026-11-28 |
+| [Customer Threat Advisor - Intern (Offensive)](https://job-boards.greenhouse.io/cloudsek/jobs/6272366004) ✨ | Security | Bengaluru | 2026-11-27 | 2026-11-28 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
@@ -148,7 +150,7 @@ Verified engineering, AI/ML, data, and systems internships across premier employ
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-10-26 | 2026-09-17 |
+| [(IND) Grad Intern - No Work Experience](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935) | Software | Bengaluru | 2026-10-29 | 2026-09-17 |
 
 [⬆️ Back to Top](#top) · [📋 View India Companies](companies.md)
 
